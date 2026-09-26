@@ -33,6 +33,10 @@ import pump_discovery as pdsc  # noqa: E402
 import scam_filter as sf  # noqa: E402
 import token_forensics as tf  # noqa: E402
 
+# Versión máxima de transacción que aceptamos del RPC (Solana ya emite v1; con 0 el RPC rechaza la petición)
+TX_VERSION = 1
+
+
 VERSION = "scan-0.1"
 DEFAULTS = {
     **pdsc.DEFAULTS,
@@ -206,7 +210,7 @@ def doctor(rpc, cfg, sol_usd):
     print(f"   la más reciente hace {lag:.0f}s " + ("✅" if lag < 300 else "⚠️ (poco activa: ¿dirección correcta?)"))
     creates = []
     for s in res:
-        tx = rpc.call("getTransaction", [s["signature"], {"encoding": "jsonParsed", "maxSupportedTransactionVersion": 0}])
+        tx = rpc.call("getTransaction", [s["signature"], {"encoding": "jsonParsed", "maxSupportedTransactionVersion": TX_VERSION}])
         c = pdsc.parse_create(s["signature"], tx, cfg)
         if c:
             creates.append(c)

@@ -21,6 +21,10 @@ import base64
 import struct
 import sys
 
+# Versión máxima de transacción que aceptamos del RPC (Solana ya emite v1; con 0 el RPC rechaza la petición)
+TX_VERSION = 1
+
+
 PUMP_PROGRAM = "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P"
 PUMP_MINT_AUTHORITY = "TSLvdd1pWpHVjahSpsvCXUbgwsL3JAcvokwaKt1eokM"
 TOKEN_PROGRAM = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
@@ -133,7 +137,7 @@ def discover(rpc, since_ts: int, until_ts: int, cfg: dict, max_new: int, cache=N
     for i, sig in enumerate(sigs, 1):
         tx = cache.get(sig) if cache else None
         if tx is None:
-            tx = rpc.call("getTransaction", [sig, {"encoding": "jsonParsed", "maxSupportedTransactionVersion": 0}])
+            tx = rpc.call("getTransaction", [sig, {"encoding": "jsonParsed", "maxSupportedTransactionVersion": TX_VERSION}])
             if cache:
                 cache.put(sig, tx)
         c = parse_create(sig, tx, cfg)

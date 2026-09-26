@@ -46,6 +46,10 @@ from datetime import datetime, timezone
 
 import pandas as pd
 
+# Versión máxima de transacción que aceptamos del RPC (Solana ya emite v1; con 0 el RPC rechaza la petición)
+TX_VERSION = 1
+
+
 WSOL = "So11111111111111111111111111111111111111112"
 TOKEN_ACCOUNT_RENT = 2_039_280          # lamports; alquiler de una cuenta SPL de 165 bytes
 LAMPORTS = 1e9
@@ -149,7 +153,7 @@ class TxCache:
 def fetch_transactions(rpc, sigs, cache: TxCache):
     todo = [s["signature"] for s in sigs if cache.get(s["signature"]) is None]
     for i, sig in enumerate(todo, 1):
-        tx = rpc.call("getTransaction", [sig, {"encoding": "jsonParsed", "maxSupportedTransactionVersion": 0,
+        tx = rpc.call("getTransaction", [sig, {"encoding": "jsonParsed", "maxSupportedTransactionVersion": TX_VERSION,
                                                "commitment": "confirmed"}])
         cache.put(sig, tx)
         if i % 25 == 0 or i == len(todo):
@@ -366,7 +370,7 @@ def wallet_age_scan(rpc, wallets: list[str], first_buy_ts: dict, creator: str, m
         if oldest and exhausted:
             age_h = (first_buy_ts[w] - oldest["blockTime"]) / 3600
             tx = rpc.call("getTransaction", [oldest["signature"], {"encoding": "jsonParsed",
-                                                                  "maxSupportedTransactionVersion": 0}])
+                                                                  "maxSupportedTransactionVersion": TX_VERSION}])
             if tx:
                 ks = _keys(tx)
                 linked = creator in ks

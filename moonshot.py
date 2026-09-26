@@ -41,6 +41,10 @@ import pump_discovery as pdsc  # noqa: E402
 import scam_filter as sf  # noqa: E402
 import token_forensics as tf  # noqa: E402
 
+# Versión máxima de transacción que aceptamos del RPC (Solana ya emite v1; con 0 el RPC rechaza la petición)
+TX_VERSION = 1
+
+
 VERSION = "moonshot-radar-0.7"
 CONFIG_FILE = HERE / "moonshot_config.json"
 WALLETS_FILE = HERE / "smart_wallets.csv"
@@ -259,7 +263,7 @@ class TxStore:
     def get(self, rpc, sig):
         tx = self.cache.get(sig)
         if tx is None:
-            tx = rpc.call("getTransaction", [sig, {"encoding": "jsonParsed", "maxSupportedTransactionVersion": 0}])
+            tx = rpc.call("getTransaction", [sig, {"encoding": "jsonParsed", "maxSupportedTransactionVersion": TX_VERSION}])
             self.cache.put(sig, tx)
         return tx
 
@@ -738,6 +742,7 @@ def add_wallets_file(rpc, R, sol_usd, path: Path):
     rows = load_wallets()
     have = {w["wallet"] for w in rows}
     store = TxStore()
+    retry = []
     log = [f"# Verificación de wallets · {datetime.now(timezone.utc):%Y-%m-%d %H:%M} UTC", "",
            "| Wallet | Nombre | PnL realizado | Cierres | Tokens | Top token | Ventana | Resultado |", "|---|---|---|---|---|---|---|---|"]
     for ln in lines:
@@ -749,7 +754,8 @@ def add_wallets_file(rpc, R, sol_usd, path: Path):
         try:
             v = verify_wallet(rpc, store, addr, R, sol_usd, log=False)
         except Exception as e:  # noqa: BLE001
-            log.append(f"| `{addr[:6]}…` | {label} | | | | | | error: {e} |"); continue
+            log.append(f"| `{addr[:6]}…` | {label} | | | | | | ⚠️ error (se reintentará en la próxima ejecución): {e} |")
+            retry.append(ln); continue
         ok = v["meets_criteria"] or force
         if ok:
             rows.append({**v, "label": label, "verified_at": datetime.now(timezone.utc).isoformat()[:19]})
@@ -759,7 +765,8 @@ def add_wallets_file(rpc, R, sol_usd, path: Path):
         log.append(f"| `{addr[:6]}…` | {label} | ${v['verified_pnl_usd']:,} | {v['closed_positions']} | {v['distinct_tokens']} | "
                    f"{top} | {v['window_days']} d | {res} |")
     save_wallets(rows)
-    path.write_text("# una wallet por línea:  dirección,nombre   (añade ,force para saltarte la verificación)\n", encoding="utf-8")
+    path.write_text("# una wallet por línea:  dirección,nombre   (añade ,force para saltarte la verificación)\n"
+                    + "".join(l + "\n" for l in retry), encoding="utf-8")
     out = HERE / "report"
     out.mkdir(exist_ok=True)
     (out / "wallet_checks.md").write_text("\n".join(log) + "\n", encoding="utf-8")
