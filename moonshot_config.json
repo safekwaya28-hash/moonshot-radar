@@ -1,0 +1,16 @@
+{
+  "rpc_url": null,
+  "sol_usd": null,
+  "rules": {
+    "peak_mc_min_usd": 500000,
+    "drawdown_min": 0.70,
+    "flat_hours": 72,
+    "flat_band": 0.25,
+    "min_trader_buy_usd": 5000,
+    "max_premium": 0.30,
+    "watch_premium": 0.60,
+    "trader_sold_exit": 0.50,
+    "lookback_hours": 48,
+    "wallet_min_pnl_usd": 1000000
+  }
+}
