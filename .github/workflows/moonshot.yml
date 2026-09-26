@@ -1,0 +1,61 @@
+name: Moonshot Radar
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch: {}
+  push:
+    paths: ["wallets_to_add.txt", "moonshot_config.json"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: moonshot-radar
+  cancel-in-progress: false
+
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    env:
+      SOLANA_RPC: ${{ secrets.SOLANA_RPC }}
+      MOONSHOT_NO_BROWSER: "1"
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Recuperar caché de transacciones
+        uses: actions/cache/restore@v4
+        with:
+          path: .moonshot
+          key: txcache-${{ github.run_id }}
+          restore-keys: txcache-
+
+      - name: Verificar wallets nuevas
+        run: python moonshot.py add-wallets-file wallets_to_add.txt
+
+      - name: Radar
+        run: python moonshot.py radar --publish report
+
+      - name: Guardar caché de transacciones
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: .moonshot
+          key: txcache-${{ github.run_id }}
+
+      - name: Publicar informe
+        run: |
+          git config user.name "moonshot-bot"
+          git config user.email "moonshot-bot@users.noreply.github.com"
+          git add report radar_log.jsonl smart_wallets.csv wallets_to_add.txt 2>/dev/null || true
+          git commit -m "radar $(date -u +%Y-%m-%dT%H:%MZ)" || echo "sin cambios"
+          git pull --rebase --autostash || true
+          git push
