@@ -1,2 +1,1 @@
 # una wallet por línea:  dirección,nombre   (añade ,force para saltarte la verificación)
-4ugDhHJ8XDXAeABmrNmGffFaLbJb9BkPyiFGVSV9ocwo
