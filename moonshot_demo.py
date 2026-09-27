@@ -9,11 +9,17 @@ No usa internet. Casos:
   SMALLPK   base plana pero el pico nunca pasó de 200k                                      -> 🔴
   MINTABLE  base perfecta pero con mint authority activa                                    -> 🔴 HARD
   NOGECKO   el trader compra un token sin historial de precio                               -> ⚫
+  RETAIN    como FLATCAT pero retención de holders 57%                                      -> 🟡 pasa 11/12
+  DEVDUMP   como FLATCAT pero el dev vendió en la base                                      -> 🔴
+  WHALE     como FLATCAT pero una wallet tiene el 9%                                        -> 🟡 pasa 11/12
   (una compra de $1k en otro token se ignora: < $5k)
 """
 from __future__ import annotations
 
+import base64
+import hashlib
 import math
+import struct
 import tempfile
 from pathlib import Path
 
@@ -27,19 +33,33 @@ H = 3600
 
 
 def addr(tag):
-    return (tag + "1" * 44)[:44]
+    """Dirección válida (32 bytes en base58) y reproducible a partir de una etiqueta."""
+    import pump_discovery as pdsc
+    return pdsc.b58encode(hashlib.sha256(tag.encode()).digest())
 
 
 W1, W2, W3 = addr("TOPTRADERone"), addr("TOPTRADERtwo"), addr("MIDTRADER")
-WALLETS = [{"wallet": W1, "label": "Solstice-like"}, {"wallet": W2, "label": "Whale B"}, {"wallet": W3, "label": "Trader C"}]
-MINTS = {k: addr("MINT" + k) for k in ["FLATCAT", "PUMPER", "SOLDOUT", "LATE", "SMALLPK", "MINTABLE", "NOGECKO", "DUST"]}
+WALLETS = [{"wallet": W1, "label": "Solstice-like", "verified_pnl_usd": "1500000", "closed_positions": "25"},
+           {"wallet": W2, "label": "Whale B", "verified_pnl_usd": "2100000", "closed_positions": "40"},
+           {"wallet": W3, "label": "Trader C", "verified_pnl_usd": "20000", "closed_positions": "1"}]
+MINTS = {k: addr("MINT" + k) for k in ["FLATCAT", "PUMPER", "SOLDOUT", "LATE", "SMALLPK", "MINTABLE", "NOGECKO", "DUST",
+                                        "RETAIN", "DEVDUMP", "WHALE"]}
+FLATLIKE = ("FLATCAT", "SOLDOUT", "MINTABLE", "RETAIN", "DEVDUMP", "WHALE")
+POOL_PROGRAM = addr("PumpSwapAMM")
+TOKEN22 = "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb"
+# chequeos manuales apuntados por el usuario (manual_checks.csv)
+MANUAL = {MINTS["FLATCAT"]: {"holders_ath": 2500, "holders_now": None, "comunidad": True},
+          MINTS["RETAIN"]: {"holders_ath": 3000, "holders_now": None, "comunidad": True},
+          MINTS["WHALE"]: {"holders_ath": 2000, "holders_now": None, "comunidad": True},
+          MINTS["DEVDUMP"]: {"holders_ath": 2000, "holders_now": None, "comunidad": True}}
+HOLDERS_NOW = {"FLATCAT": 1840, "RETAIN": 1710, "WHALE": 1900, "DEVDUMP": 1900}
 
 
 def mc_path(kind, hours, rng):
     """Serie horaria de MC (USD) de las últimas `hours` horas; índice 0 = más antiguo."""
     t = np.arange(hours)
     noise = lambda s: np.exp(rng.normal(0, s, hours))  # noqa: E731
-    if kind in ("FLATCAT", "SOLDOUT", "MINTABLE"):
+    if kind in FLATLIKE:
         peak, base = 800_000, 90_000
     elif kind == "LATE":
         peak, base = 650_000, 60_000
@@ -67,9 +87,19 @@ class FakeGecko:
     def __init__(self, series):
         self.series, self.calls = series, 0
 
-    def top_pool(self, mint):
+    def top_pool_attrs(self, mint):
         self.calls += 1
-        return ("POOL" + mint[:10]) if mint in self.series else None
+        if mint not in self.series:
+            return None
+        return {"address": pool_addr(mint), "reserve_in_usd": str(0.14 * float(self.series[mint][-1]))}
+
+    def top_pool(self, mint):
+        a = self.top_pool_attrs(mint)
+        return a["address"] if a else None
+
+    def socials(self, mint):
+        self.calls += 1
+        return {"x": "https://x.com/demo_" + mint[:5], "telegram": "https://t.me/demo_" + mint[:5]}
 
     def ohlcv_hour(self, pool, mint, limit=1000):
         self.calls += 1
@@ -81,9 +111,14 @@ class FakeGecko:
                              "v": np.full(n, 20_000.0)})
 
 
+def pool_addr(mint):
+    return addr("POOL" + mint)
+
+
 class World:
     def __init__(self):
         self.txs, self.hist, self.bal, self.accounts = {}, {}, {}, {}
+        self.largest, self.holders = {}, {}
         self.n = 0
 
     def swap(self, wallet, mint, side, sol, mc_usd, ts, tokens=None):
@@ -112,6 +147,8 @@ class World:
             "preTokenBalances": pre_t, "postTokenBalances": post_t, "logMessages": []},
             "transaction": {"message": {"accountKeys": [wallet, mint, "PumpSwapProgram"]}}}
         self.hist.setdefault(wallet, []).append((ts, sig))
+        import moonshot as ms
+        self.hist.setdefault(ms.ata_address(wallet, mint, TOKEN22), []).append((ts, sig))
         if b1 > 1e-9:
             self.bal[(wallet, mint)] = b1
         else:
@@ -146,6 +183,13 @@ class FakeRPC:
             wallet, flt = params[0], params[1]
             b = self.w.bal.get((wallet, flt["mint"]), 0.0)
             return {"value": [{"account": {"data": {"parsed": {"info": {"tokenAmount": {"uiAmount": b}}}}}}] if b else []}
+        if method == "getTokenLargestAccounts":
+            return {"value": self.w.largest.get(params[0], [])}
+        if method == "getProgramAccounts":
+            flt = params[1]["filters"]
+            mint = next(f["memcmp"]["bytes"] for f in flt if "memcmp" in f)
+            one = base64.b64encode(struct.pack("<Q", 5)).decode()
+            return [{"pubkey": f"h{i}", "account": {"data": [one, "base64"]}} for i in range(self.w.holders.get(mint, 0))]
         if method == "getSlot":
             return 1
         raise ValueError(method)
@@ -164,6 +208,22 @@ def build():
             "mintAuthority": addr("EVIL") if k == "MINTABLE" else None, "freezeAuthority": None,
             "supply": str(10 ** 9 * 10 ** DEC), "decimals": DEC,
             "extensions": [{"extension": "tokenMetadata", "state": {"name": k.title(), "symbol": k}}]}}}}
+    import moonshot as ms
+    for k, m in MINTS.items():                       # holders, top holders y bonding curve con el dev
+        w.holders[m] = HOLDERS_NOW.get(k, 1500)
+        top = [(pool_addr(m), 0.20)] + [(addr(f"H{k}{j}"), (0.09 if (k == "WHALE" and j == 0) else 0.018 - 0.001 * j))
+                                        for j in range(12)]
+        rows = []
+        for j, (own, share) in enumerate(top):
+            ta = addr(f"TA{k}{j}")
+            w.accounts[ta] = {"owner": TOKEN22, "data": {"parsed": {"info": {"owner": own, "mint": m}}}}
+            rows.append({"address": ta, "amount": str(int(share * 1e9 * 10 ** DEC)), "decimals": DEC, "uiAmount": share * 1e9})
+        w.largest[m] = rows
+        w.accounts[pool_addr(m)] = {"owner": POOL_PROGRAM, "data": ["", "base64"]}
+        dev = addr("DEV" + k)
+        curve = struct.pack("<8sQQQQQ?", b"\0" * 8, 1, 1, 0, 0, 10 ** 15, True) + ms._pk(dev) + b"\0" * 20
+        w.accounts[ms.pump_curve_address(m)] = {"owner": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+                                                "data": [base64.b64encode(curve).decode(), "base64"]}
     mc_at = lambda m, h_ago: float(series[m][-1 - h_ago]) if m in series else 50_000.0  # noqa: E731
     # historial antiguo de W1: 25 cierres rentables en 6 tokens (para add-wallet)
     for i in range(25):
@@ -187,14 +247,23 @@ def build():
     w.swap(W2, F["MINTABLE"], "buy", 12_000 / SOL_USD, mc_at(F["MINTABLE"], 6), T_NOW - 6 * H)
     w.swap(W3, F["NOGECKO"], "buy", 5_500 / SOL_USD, 30_000, T_NOW - 7 * H)
     w.swap(W2, F["DUST"], "buy", 1_000 / SOL_USD, 30_000, T_NOW - 8 * H)
+    for k, hrs in (("RETAIN", 3), ("DEVDUMP", 4), ("WHALE", 5)):
+        w.swap(W2, F[k], "buy", 7_000 / SOL_USD, mc_at(F[k], hrs), T_NOW - hrs * H)
+    dev = addr("DEVDEVDUMP")                          # el dev compra al crear y vende en plena base
+    w.swap(dev, F["DEVDUMP"], "buy", 20, 8_000, T_NOW - 30 * 24 * H)
+    w.swap(dev, F["DEVDUMP"], "sell", None, mc_at(F["DEVDUMP"], 30), T_NOW - 30 * H, tokens=0.5 * w.bal[(dev, F["DEVDUMP"])])
+    devf = addr("DEVFLATCAT")                         # el dev de FLATCAT compró y nunca vendió
+    w.swap(devf, F["FLATCAT"], "buy", 5, 8_000, T_NOW - 30 * 24 * H)
+    w.hist["6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P"] = [(T_NOW, "demo000000")]   # para el diagnóstico
+    w.txs["demo000000"]["version"] = 1
     return w, series
 
 
-def run_demo(log=False):
+def run_demo(log=False, manual=None):
     import moonshot as ms
     w, series = build()
     cfg = {"rules": dict(ms.DEFAULT_RULES)}
     tmp = Path(tempfile.mkdtemp())
     cards = ms.run_radar(FakeRPC(w), FakeGecko(series), cfg, T=T_NOW, sol_usd=SOL_USD, wallets=WALLETS,
-                         log=log, state_dir=tmp, log_file=None)
+                         log=log, state_dir=tmp, log_file=None, manual=MANUAL if manual is None else manual)
     return cards, T_NOW

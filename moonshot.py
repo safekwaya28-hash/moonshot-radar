@@ -45,7 +45,7 @@ import token_forensics as tf  # noqa: E402
 TX_VERSION = 1
 
 
-VERSION = "moonshot-radar-0.7"
+VERSION = "moonshot-scan-v1.4"
 CONFIG_FILE = HERE / "moonshot_config.json"
 WALLETS_FILE = HERE / "smart_wallets.csv"
 STATE_DIR = HERE / ".moonshot"
@@ -65,14 +65,24 @@ DEFAULT_RULES = {
     "trader_sold_exit": 0.50,        # si el trader ya vendió >= 50% de lo que compró -> 🔴
     "lookback_hours": 48,            # compras de las últimas 48 h
     "min_hist_peak_vol_usd": 0,      # opcional: volumen 24 h máximo histórico mínimo (0 = desactivado)
+    # ---- SCAN v1: criterios 6-11
+    "mc_max_usd": 150_000,           # 6  MC actual <= $150k
+    "retention_min": 0.60,           # 7  holders hoy / holders en el ATH >= 60%
+    "retention_excellent": 0.80,     #    >= 80% excelente
+    "liq_min_frac": 0.10,            # 8  liquidez >= 10% del MC
+    "top10_max": 0.25,               # 10 top 10 <= 25% del supply (sin pools/curvas/lockers)
+    "wallet_max": 0.05,              #    ninguna wallet > 5%
+    "dev_pages": 2,                  # 11 páginas de historial de la cuenta de token del dev
+    "max_fails_wait": 2,             # con 1-2 fallos que pueden cambiar -> ESPERAR; más -> DESCARTAR
     # ---- verificación de wallets (add-wallet)
     "wallet_min_pnl_usd": 1_000_000,
     "wallet_min_closed": 20,
     "wallet_min_tokens": 5,
     "wallet_max_top_share": 0.50,
     "wallet_pages": 3,               # páginas de 1000 tx a revisar al verificar una wallet
+    "wallet_verify_per_run": 2,      # wallets nuevas verificadas por ejecución (el resto espera a la siguiente)
     # ---- coste
-    "wallet_scan_pages": 3,          # páginas de firmas por wallet en cada radar
+    "wallet_scan_pages": 1,          # páginas de 1000 firmas por wallet en cada radar (con caché, basta)
     "gecko_min_interval": 2.2,       # API pública: ~30 llamadas/min
 }
 
@@ -122,7 +132,7 @@ def load_wallets(path=None) -> list[dict]:
 def save_wallets(rows: list[dict], path=None):
     path = path or WALLETS_FILE
     cols = ["wallet", "label", "verified_pnl_usd", "closed_positions", "distinct_tokens", "top_token_share",
-            "window_days", "meets_criteria", "verified_at"]
+            "window_days", "meets_criteria", "forced", "verified_at"]
     with open(path, "w", newline="", encoding="utf-8") as fh:
         w = csv.DictWriter(fh, fieldnames=cols)
         w.writeheader()
@@ -160,13 +170,29 @@ class Gecko:
             return r.json()
         raise RuntimeError(f"GeckoTerminal no responde ({path})")
 
-    def top_pool(self, mint):
+    def top_pool_attrs(self, mint):
         j = self.get(f"/networks/solana/tokens/{mint}/pools", {"page": 1})
         pools = (j or {}).get("data") or []
         if not pools:
             return None
         pools.sort(key=lambda p: float(p["attributes"].get("reserve_in_usd") or 0), reverse=True)
-        return pools[0]["attributes"]["address"]
+        return pools[0]["attributes"]
+
+    def top_pool(self, mint):
+        a = self.top_pool_attrs(mint)
+        return a["address"] if a else None
+
+    def socials(self, mint):
+        """Enlaces a X / Telegram / web del token (para el check de comunidad)."""
+        a = ((self.get(f"/networks/solana/tokens/{mint}/info") or {}).get("data") or {}).get("attributes") or {}
+        out = {}
+        if a.get("twitter_handle"):
+            out["x"] = f"https://x.com/{a['twitter_handle']}"
+        if a.get("telegram_handle"):
+            out["telegram"] = f"https://t.me/{a['telegram_handle']}"
+        if a.get("websites"):
+            out["web"] = a["websites"][0]
+        return out
 
     def ohlcv_hour(self, pool, mint, limit=1000):
         j = self.get(f"/networks/solana/pools/{pool}/ohlcv/hour",
@@ -204,8 +230,13 @@ def recent_signatures(rpc, address, since_ts, max_pages):
     return out
 
 
-def parse_wallet_trade(tx, wallet, sig):
-    """Swap del propio wallet: exactamente un mint (no-SOL) cambia -> compra o venta de ese mint."""
+STABLES = {"EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v": "USDC", "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB": "USDT",
+           "2b1kV6DkPAnxd5ixfnxCpjxmKwqjjaYmCZfHsFu24GXo": "PYUSD", "USD1ttGY1N17NEEHLmELoaybftRBUSErhqYiQzvEmuB": "USD1"}
+
+
+def parse_wallet_trade(tx, wallet, sig, sol_usd=None):
+    """Swap del propio wallet contra SOL o contra un stablecoin (USDC/USDT/...): compra o venta de un mint.
+    Vale aunque firme otro (agregadores tipo DFlow/Jupiter que pagan la comisión por ti)."""
     if not tx or (tx.get("meta") or {}).get("err") is not None:
         return None
     meta = tx["meta"]
@@ -232,6 +263,17 @@ def parse_wallet_trade(tx, wallet, sig):
         elif a is not None and b is None:
             rent -= tf.TOKEN_ACCOUNT_RENT
     deltas = {m: d for m, d in deltas.items() if abs(d) > 0}
+    stable = {m: d for m, d in deltas.items() if m in STABLES}
+    others = {m: d for m, d in deltas.items() if m not in STABLES}
+    if len(stable) == 1 and len(others) == 1:            # swap contra USDC/USDT: precio directo en USD
+        (qm, qd), = stable.items()
+        (mint, d), = others.items()
+        if (d > 0) == (qd > 0):
+            return None                                   # entran/salen los dos: no es un swap
+        usd_amt = abs(qd)
+        return {"sig": sig, "ts": tx.get("blockTime"), "wallet": wallet, "mint": mint,
+                "side": "buy" if d > 0 else "sell", "tokens": abs(d), "usd": usd_amt, "quote": STABLES[qm],
+                "sol": usd_amt / sol_usd if sol_usd else None}
     if len(deltas) != 1:
         return None
     (mint, d), = deltas.items()
@@ -268,10 +310,22 @@ class TxStore:
         return tx
 
 
-def wallet_trades(rpc, store, wallet, since_ts, pages):
+def token_moves(tx, wallet):
+    """Mints (sin SOL/wSOL) cuyo saldo del wallet cambia en la tx: {mint: delta}."""
+    if not tx or not tx.get("meta") or tx["meta"].get("err") is not None:
+        return {}
+    out = {}
+    for key, sign in (("preTokenBalances", -1), ("postTokenBalances", 1)):
+        for b in tx["meta"].get(key) or []:
+            if b.get("owner") == wallet and b.get("mint") != WSOL:
+                out[b["mint"]] = out.get(b["mint"], 0.0) + sign * tf._amt(b)
+    return {m: d for m, d in out.items() if abs(d) > 1e-12}
+
+
+def wallet_trades(rpc, store, wallet, since_ts, pages, sol_usd=None):
     out = []
     for s in recent_signatures(rpc, wallet, since_ts, pages):
-        t = parse_wallet_trade(store.get(rpc, s["signature"]), wallet, s["signature"])
+        t = parse_wallet_trade(store.get(rpc, s["signature"]), wallet, s["signature"], sol_usd)
         if t:
             out.append(t)
     return sorted(out, key=lambda t: t["ts"])
@@ -318,108 +372,395 @@ def base_since(c: pd.DataFrame, t_end: int, band: float, ref_hours=24):
     return since
 
 
-def evaluate(mint, buys, candles, supply, mi, holdings, T, R):
-    """buys: compras relevantes de smart wallets en este mint. Devuelve la tarjeta con etiqueta."""
+# ======================================================================================
+# Direcciones derivadas (PDA) — sin dependencias: bonding curve de Pump y cuenta de token del dev
+# ======================================================================================
+_P = 2 ** 255 - 19
+_D = (-121665 * pow(121666, _P - 2, _P)) % _P
+ATA_PROGRAM = "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL"
+SYSTEM_PROGRAM = "11111111111111111111111111111111"
+INCINERATOR = "1nc1nerator11111111111111111111111111111111"
+
+
+def _on_curve(b: bytes) -> bool:
+    y = int.from_bytes(b, "little") & ((1 << 255) - 1)
+    if y >= _P:
+        return False
+    u, v = (y * y - 1) % _P, (_D * y * y + 1) % _P
+    x2 = u * pow(v, _P - 2, _P) % _P
+    return x2 == 0 or pow(x2, (_P - 1) // 2, _P) == 1
+
+
+def _pk(s: str) -> bytes:
+    b = pdsc.b58decode(s)
+    if len(b) > 32:
+        raise ValueError(f"dirección inválida: {s}")
+    return b.rjust(32, b"\0")
+
+
+def find_pda(seeds: list, program: str) -> str:
+    import hashlib
+    for bump in range(255, -1, -1):
+        h = hashlib.sha256(b"".join(seeds) + bytes([bump]) + _pk(program) + b"ProgramDerivedAddress").digest()
+        if not _on_curve(h):
+            return pdsc.b58encode(h)
+    raise ValueError("sin PDA")
+
+
+def ata_address(owner: str, mint: str, token_program: str) -> str:
+    return find_pda([_pk(owner), _pk(token_program), _pk(mint)], ATA_PROGRAM)
+
+
+def pump_curve_address(mint: str) -> str:
+    return find_pda([b"bonding-curve", _pk(mint)], pdsc.PUMP_PROGRAM)
+
+
+# ======================================================================================
+# Datos on-chain de los criterios 7, 10 y 11
+# ======================================================================================
+def _rows(res):
+    return res.get("value", []) if isinstance(res, dict) else (res or [])
+
+
+def holders_now(rpc, mint, token_program):
+    """Nº de cuentas de token con saldo > 0 (holders actuales)."""
+    flt = [{"memcmp": {"offset": 0, "bytes": mint}}]
+    if token_program == pdsc.TOKEN_PROGRAM:
+        flt.insert(0, {"dataSize": 165})
+    res = rpc.call("getProgramAccounts", [token_program, {"encoding": "base64", "filters": flt,
+                                                          "dataSlice": {"offset": 64, "length": 8}}])
+    import base64
+    n = 0
+    for a in _rows(res):
+        try:
+            raw = base64.b64decode(a["account"]["data"][0])
+            if int.from_bytes(raw[:8], "little") > 0:
+                n += 1
+        except (KeyError, IndexError, TypeError, ValueError):
+            continue
+    return n
+
+
+def distribution(rpc, mint, supply, exclude=()):
+    """Top 10 y mayor wallet sobre el supply, excluyendo pools/curvas/lockers (dueño = cuenta de un programa)."""
+    top = _rows(rpc.call("getTokenLargestAccounts", [mint]))
+    if not top or not supply:
+        return None
+    taccs = [t["address"] for t in top]
+    tinfo = pdsc.get_multiple(rpc, taccs, "jsonParsed")
+    owner_of = {}
+    for a in taccs:
+        try:
+            owner_of[a] = tinfo[a]["data"]["parsed"]["info"]["owner"]
+        except (KeyError, TypeError):
+            owner_of[a] = None
+    owners = sorted({o for o in owner_of.values() if o})
+    oinfo = pdsc.get_multiple(rpc, owners, "base64") if owners else {}
+    excl = set(exclude) | {INCINERATOR}
+    held, skipped = {}, 0
+    for t in top:
+        o = owner_of.get(t["address"])
+        prog = (oinfo.get(o) or {}).get("owner") if o else None
+        if o is None or o in excl or (prog and prog != SYSTEM_PROGRAM):
+            skipped += 1
+            continue
+        amt = float(t.get("uiAmount") or 0) if t.get("uiAmount") is not None else \
+            int(t.get("amount") or 0) / 10 ** int(t.get("decimals") or 0)
+        held[o] = held.get(o, 0.0) + amt
+    shares = sorted((v / supply for v in held.values()), reverse=True)
+    return {"top10": sum(shares[:10]), "max_wallet": shares[0] if shares else 0.0, "excluded_accounts": skipped}
+
+
+def pump_creator(rpc, mint):
+    """Creador guardado en la bonding curve de Pump.fun (offset 49). None si no es de Pump o curva antigua."""
+    import base64
+    try:
+        curve = pump_curve_address(mint)
+    except ValueError:
+        return None, None
+    acct = pdsc.get_multiple(rpc, [curve], "base64").get(curve)
+    try:
+        data = base64.b64decode(acct["data"][0])
+    except (KeyError, IndexError, TypeError, ValueError):
+        return None, curve
+    if len(data) < 81 or data[49:81] == b"\0" * 32:
+        return None, curve
+    return pdsc.b58encode(data[49:81]), curve
+
+
+def dev_activity(rpc, store, creator, mint, token_program, pages):
+    """Historial de la cuenta de token del dev en este mint: ¿vendió o sacó tokens?"""
+    ata = ata_address(creator, mint, token_program)
+    sigs = recent_signatures(rpc, ata, 0, pages)
+    complete = len(sigs) < pages * 1000
+    bought = sold = moved = 0.0
+    for s in sigs:
+        tx = store.get(rpc, s["signature"])
+        t = parse_wallet_trade(tx, creator, s["signature"])
+        if t and t["mint"] == mint:
+            if t["side"] == "buy":
+                bought += t["tokens"]
+            else:
+                sold += t["tokens"]
+            continue
+        if not tx or not tx.get("meta"):
+            continue
+        pre = sum(tf._amt(b) for b in tx["meta"].get("preTokenBalances") or [] if b.get("owner") == creator and b.get("mint") == mint)
+        post = sum(tf._amt(b) for b in tx["meta"].get("postTokenBalances") or [] if b.get("owner") == creator and b.get("mint") == mint)
+        if post < pre:
+            moved += pre - post
+    return {"creator": creator, "bought": bought, "sold": sold, "moved_out": moved, "complete": complete, "n_tx": len(sigs)}
+
+
+# ======================================================================================
+# Chequeos manuales (manual_checks.csv): holders en el ATH y comunidad
+# ======================================================================================
+MANUAL_FILE_NAME = "manual_checks.csv"
+
+
+def load_manual(path=None) -> dict:
+    path = Path(path or HERE / MANUAL_FILE_NAME)
+    if not path.exists():
+        return {}
+    out = {}
+    with open(path, newline="", encoding="utf-8") as fh:
+        for r in csv.DictReader(fh):
+            m = (r.get("mint") or "").strip()
+            if not m or m.startswith("#"):
+                continue
+            def num(k):
+                try:
+                    return int(float(str(r.get(k) or "").replace(".", "").replace(",", "").strip()))
+                except ValueError:
+                    return None
+            com = str(r.get("comunidad") or "").strip().lower()
+            out[m] = {"holders_ath": num("holders_ath"), "holders_now": num("holders_now"),
+                      "comunidad": True if com in ("si", "sí", "yes", "1", "ok", "✅") else False if com in ("no", "0", "❌") else None}
+    return out
+
+
+# ======================================================================================
+# SCAN — Smart Money + Flat Base v1 (12 criterios)
+# ======================================================================================
+CRITERIA = ["Top trader", "Compra trader", "Pico MC", "Drawdown", "Base plana", "MC actual", "Retención holders",
+            "Liquidez", "Comunidad", "Distribución", "Dev", "Distancia a entrada"]
+STRUCTURAL = {1, 3, 11}             # si fallan, la moneda no vale: DESCARTAR (el resto puede cambiar: ESPERAR)
+
+
+def _f(x):
+    try:
+        return float(x)
+    except (TypeError, ValueError):
+        return None
+
+
+def evaluate(mint, buys, candles, supply, mi, holdings, T, R, wallet_meta=None, extra=None, manual=None):
+    """Tarjeta con los 12 criterios, 'pasa X/12', lo que falta y DECISIÓN (COMPRAR / ESPERAR / DESCARTAR)."""
+    wallet_meta, extra, manual = wallet_meta or {}, extra or {}, manual or {}
     card = {"mint": mint, "smart_wallets": sorted({b["label"] or b["wallet"][:6] for b in buys}),
-            "n_smart": len({b["wallet"] for b in buys}), "reasons": []}
+            "n_smart": len({b["wallet"] for b in buys}), "reasons": [], "criteria": [], "pending": [], "fails": []}
     hard = sf.hard_checks(mi)
     if hard:
-        card.update(label="NO", reasons=["HARD: " + h for h in hard])
+        card.update(label="NO", decision="DESCARTAR", reasons=["HARD: " + h for h in hard])
         return card
     if candles is None or candles.empty or not supply:
-        card.update(label="NODATA", reasons=["sin historial de precio (GeckoTerminal) o sin supply"])
+        card.update(label="NODATA", decision="SIN DATOS", reasons=["sin historial de precio (GeckoTerminal) o sin supply"])
         return card
     c = candles.copy()
-    c["mc"] = c.c * supply
-    first = min(buys, key=lambda b: b["ts"])
+
+    # --- trader de referencia: la primera compra de un trader que cumple el criterio 1 (si no hay, la primera)
+    def qualifies(w):
+        m = wallet_meta.get(w) or {}
+        if str(m.get("forced", "")).lower() in ("true", "1", "si", "sí"):
+            return True                                  # la verificaste tú a mano (",force")
+        pnl, closes = _f(m.get("verified_pnl_usd")), _f(m.get("closed_positions"))
+        return pnl is not None and closes is not None and pnl >= R["wallet_min_pnl_usd"] and closes >= R["wallet_min_closed"]
+    ordered = sorted(buys, key=lambda b: b["ts"])
+    first = next((b for b in ordered if qualifies(b["wallet"])), ordered[0])
+    tw = first["wallet"]
     tb = first["ts"]
     pre = c[c.ts <= tb]
     if pre.empty:
-        card.update(label="NODATA", reasons=["no hay historial anterior a la compra del trader"])
+        card.update(label="NODATA", decision="SIN DATOS", reasons=["no hay historial anterior a la compra del trader"])
         return card
-    peak_pre = float(pre.h.max() * supply)
-    mc_buy = float(pre.c.iloc[-1] * supply)
+    mine = [b for b in buys if b["wallet"] == tw]
+    tok = sum(b["tokens"] for b in mine)
+    entry_px = sum(b["usd"] for b in mine) / tok if tok else float(pre.c.iloc[-1])
+    mc_buy = entry_px * supply
     mc_now = float(c.c.iloc[-1] * supply)
-    peak_all = float(c.h.max() * supply)
-    dd_buy = 1 - mc_buy / peak_pre if peak_pre else None
-    dd_now = 1 - mc_now / peak_all if peak_all else None
-    fb = flat_state(c, tb, R["flat_hours"], R["flat_band"], R["min_flat_candles"])
-    fn = flat_state(c, int(c.ts.iloc[-1]), R["flat_hours"], R["flat_band"], R["min_flat_candles"])
-    vol24 = c.v.rolling(24, min_periods=1).sum()
-    hist_peak_vol = float(vol24[c.ts <= tb].max()) if (c.ts <= tb).any() else 0.0
-    since = base_since(c, tb, R["flat_band"])
+    i_ath = int(c.h.values.argmax())
+    ath_mc, ath_ts = float(c.h.iloc[i_ath] * supply), int(c.ts.iloc[i_ath])
+    dd_now = 1 - mc_now / ath_mc if ath_mc else None
+    t_last = int(c.ts.iloc[-1])
+    fn = flat_state(c, t_last, R["flat_hours"], R["flat_band"], R["min_flat_candles"])
+    since = base_since(c, t_last, R["flat_band"])
+    base_h = (T - since) / 3600 if since else None
     premium = mc_now / mc_buy - 1 if mc_buy else None
-    bought = sum(b["tokens"] for b in buys if b["wallet"] == first["wallet"])
-    hold = holdings.get(first["wallet"])
-    held_frac = min(1.0, hold / bought) if (hold is not None and bought > 0) else None
+    hold = holdings.get(tw)
+    held_frac = min(1.0, hold / tok) if (hold is not None and tok > 0) else None
+    meta = wallet_meta.get(tw) or {}
+    floor_mc = fn["floor"] * supply if fn.get("flat") else None
     card.update({
-        "symbol": None, "mc_now": mc_now, "mc_at_trader_buy": mc_buy, "peak_mc": peak_pre, "peak_mc_all": peak_all,
-        "drawdown_at_buy": dd_buy, "drawdown_now": dd_now, "premium": premium,
-        "flat_at_buy": fb, "flat_now": fn, "base_since_ts": since,
-        "base_hours": (tb - since) / 3600 if (since and fb.get("flat")) else None,
-        "hist_peak_vol_24h": hist_peak_vol, "vol_24h_now": float(vol24.iloc[-1]),
-        "trader": first["label"] or first["wallet"], "trader_wallet": first["wallet"],
-        "trader_buy_ts": tb, "trader_buy_usd": sum(b["usd"] for b in buys if b["wallet"] == first["wallet"]),
-        "trader_held_frac": held_frac, "floor_mc": (fb.get("floor") or 0) * supply if fb.get("flat") else None,
+        "symbol": None, "mc_now": mc_now, "mc_at_trader_buy": mc_buy, "peak_mc": ath_mc, "ath_ts": ath_ts,
+        "drawdown_now": dd_now, "premium": premium, "base_hours": base_h, "flat_now": fn,
+        "trader": first["label"] or tw, "trader_wallet": tw, "trader_pnl_usd": _f(meta.get("verified_pnl_usd")),
+        "trader_closes": _f(meta.get("closed_positions")), "trader_buy_ts": tb,
+        "trader_buy_usd": sum(b["usd"] for b in mine), "trader_held_frac": held_frac, "floor_mc": floor_mc,
+        "target_3x_mc": 3 * mc_now,
     })
-    # ---------- reglas
-    red, yellow = [], []
-    if peak_pre < R["peak_mc_min_usd"]:
-        red.append(f"pico previo ${peak_pre/1e3:,.0f}k < ${R['peak_mc_min_usd']/1e3:,.0f}k")
-    if dd_buy is not None and dd_buy < R["drawdown_min"]:
-        (yellow if dd_buy >= R["drawdown_min"] - 0.10 else red).append(f"caída desde el pico {dd_buy:.0%} < {R['drawdown_min']:.0%}")
-    if fb["flat"] is None:
-        yellow.append(f"pocas velas para juzgar la base ({fb['n']} < {R['min_flat_candles']})")
-    elif not fb["flat"]:
-        red.append(f"no estaba plano en las {R['flat_hours']} h previas a la compra")
-    if R["min_hist_peak_vol_usd"] and hist_peak_vol < R["min_hist_peak_vol_usd"]:
-        red.append(f"volumen 24 h máximo histórico ${hist_peak_vol/1e3:,.0f}k < ${R['min_hist_peak_vol_usd']/1e3:,.0f}k")
-    if held_frac is not None and held_frac <= 1 - R["trader_sold_exit"]:
-        red.append(f"el trader ya vendió {1-held_frac:.0%} de lo que compró")
-    elif held_frac is None:
-        yellow.append("no pude comprobar si el trader sigue dentro")
-    if premium is not None:
-        if premium > R["watch_premium"]:
-            red.append(f"precio {premium:+.0%} sobre el del trader: llegas tarde")
-        elif premium > R["max_premium"]:
-            yellow.append(f"precio {premium:+.0%} sobre el del trader (máx. {R['max_premium']:+.0%})")
-    if fn["flat"] is False and (premium or 0) <= R["max_premium"]:
-        yellow.append("la base se está rompiendo (ya no está plano)")
-    if red:
-        card.update(label="NO", reasons=red + yellow)
-    elif yellow:
-        card.update(label="WATCH", reasons=yellow)
+    crit = []
+
+    def add(i, status, value, why=""):
+        crit.append({"n": i, "name": CRITERIA[i - 1], "status": status, "value": value, "why": why or value})
+
+    # 1 top trader
+    pnl, closes = card["trader_pnl_usd"], card["trader_closes"]
+    if qualifies(tw) and str(meta.get("forced", "")).lower() in ("true", "1", "si", "sí"):
+        add(1, "ok", "verificada a mano" + (f" · en la ventana: {usd(pnl)}, {closes:.0f} cierres" if pnl is not None else ""))
+    elif pnl is None:
+        add(1, "fail", "sin verificar", "trader sin verificar (añádelo por wallets_to_add.txt)")
+    elif qualifies(tw):
+        add(1, "ok", f"{usd(pnl)} · {closes:.0f} cierres")
     else:
-        card.update(label="ENTRY", reasons=["cumple todas tus reglas"])
+        add(1, "fail", f"{usd(pnl)} · {closes:.0f} cierres",
+            f"trader {usd(pnl)} / {closes:.0f} cierres (mín. {usd(R['wallet_min_pnl_usd'])} y {R['wallet_min_closed']})")
+    # 2 compra
+    bu = card["trader_buy_usd"]
+    add(2, "ok" if bu >= R["min_trader_buy_usd"] else "fail", usd(bu))
+    # 3 pico
+    add(3, "ok" if ath_mc >= R["peak_mc_min_usd"] else "fail", usd(ath_mc),
+        f"ATH {usd(ath_mc)} < {usd(R['peak_mc_min_usd'])}")
+    # 4 drawdown
+    add(4, "ok" if dd_now is not None and dd_now >= R["drawdown_min"] else "fail", f"{dd_now:.0%}",
+        f"caída {dd_now:.0%} < {R['drawdown_min']:.0%}")
+    # 5 base
+    if fn["flat"] is None:
+        add(5, "fail", "pocas velas", f"pocas velas para juzgar la base ({fn['n']} en {R['flat_hours']} h)")
+    elif not fn["flat"]:
+        add(5, "fail", "no plano", f"no está plano en las últimas {R['flat_hours']} h")
+    elif base_h is None or base_h < R["flat_hours"]:
+        add(5, "fail", dur(base_h), f"base {dur(base_h)} < {R['flat_hours']} h")
+    else:
+        add(5, "ok", dur(base_h))
+    # 6 MC actual
+    add(6, "ok" if mc_now <= R["mc_max_usd"] else "fail", usd(mc_now), f"MC {usd(mc_now)} > {usd(R['mc_max_usd'])}")
+    # 7 retención = holders ahora / holders en el ATH
+    man = manual.get(mint) or {}
+    h_now = man.get("holders_now") or extra.get("holders_now")
+    h_ath = man.get("holders_ath")
+    ath_s = f"{datetime.fromtimestamp(ath_ts, timezone.utc):%d/%m %H:%M} UTC"
+    card.update(holders_now=h_now, holders_ath=h_ath)
+    if h_now and h_ath:
+        ret = h_now / h_ath
+        card["retention"] = ret
+        tag = " (excelente)" if ret >= R["retention_excellent"] else ""
+        add(7, "ok" if ret >= R["retention_min"] else "fail", f"{ret:.0%}{tag} ({h_now:,} / {h_ath:,} en ATH)",
+            f"retención {ret:.0%}")
+    elif h_now:
+        add(7, "manual", f"{h_now:,} holders hoy; ATH {ath_s}",
+            f"retención: holders en el ATH ({ath_s}) deben ser ≤ {int(h_now / R['retention_min']):,}")
+    else:
+        add(7, "manual", f"ATH {ath_s}", f"retención: mira holders hoy y el {ath_s} en GMGN (≥60%)")
+    # 8 liquidez
+    liq = extra.get("liquidity_usd")
+    if liq is None:
+        add(8, "manual", "—", "liquidez: no la pude leer")
+    else:
+        lf = liq / mc_now if mc_now else 0
+        card["liquidity_frac"] = lf
+        add(8, "ok" if lf >= R["liq_min_frac"] else "fail", f"{lf:.0%} MC ({usd(liq)})", f"liquidez {lf:.0%} del MC")
+    # 9 comunidad (actividad en X/Telegram 7 días: se confirma a mano)
+    soc = extra.get("socials") or {}
+    card["socials"] = soc
+    links = " · ".join(v for v in soc.values() if v) or "sin redes enlazadas"
+    if man.get("comunidad") is True:
+        add(9, "ok", links)
+    elif man.get("comunidad") is False:
+        add(9, "fail", links, "comunidad inactiva")
+    else:
+        add(9, "manual", links, "comunidad: ¿X/Telegram activos en 7 días?")
+    # 10 distribución
+    ds = extra.get("distribution")
+    if ds is None:
+        add(10, "manual", "—", "distribución: no la pude leer")
+    else:
+        card.update(top10=ds["top10"], max_wallet=ds["max_wallet"])
+        okd = ds["top10"] <= R["top10_max"] and ds["max_wallet"] <= R["wallet_max"]
+        add(10, "ok" if okd else "fail", f"{ds['top10']:.0%} · wallet máx {ds['max_wallet']:.1%}",
+            f"Top10 {ds['top10']:.0%} / wallet máx {ds['max_wallet']:.1%}")
+    # 11 dev
+    dv = extra.get("dev")
+    if not dv:
+        add(11, "manual", "dev no identificado", "dev: no identificado (¿no es de Pump.fun?), míralo en GMGN")
+    else:
+        card["dev"] = dv["creator"]
+        if dv["sold"] > 0:
+            add(11, "fail", f"vendió {dv['sold']/supply:.1%} del supply", "el dev vendió")
+        elif dv["moved_out"] > 0:
+            add(11, "fail", f"sacó {dv['moved_out']/supply:.1%} del supply a otra wallet", "el dev movió tokens fuera")
+        elif not dv["complete"]:
+            add(11, "manual", "historial largo", "dev: historial demasiado largo, míralo en GMGN")
+        else:
+            add(11, "ok", "No" + (" (nunca compró)" if dv["bought"] == 0 else ""))
+    # 12 distancia
+    if premium is None:
+        add(12, "manual", "—", "distancia: sin precio del trader")
+    else:
+        add(12, "ok" if premium <= R["max_premium"] else "fail", pct(premium),
+            f"distancia {pct(premium)} (máx. {pct(R['max_premium'])})")
+
+    card["criteria"] = crit
+    fails = [x for x in crit if x["status"] == "fail"]
+    pending = [x for x in crit if x["status"] == "manual"]
+    passed = sum(x["status"] == "ok" for x in crit)
+    card.update(passed=passed, fails=[x["why"] for x in fails], pending=[x["why"] for x in pending])
+    kill = [x["why"] for x in fails if x["n"] in STRUCTURAL]
+    if premium is not None and premium > R["watch_premium"]:
+        kill.append(f"llegas tarde ({pct(premium)} sobre el trader)")
+    if held_frac is not None and held_frac <= 1 - R["trader_sold_exit"]:
+        kill.append(f"el trader ya vendió {1-held_frac:.0%}")
+    if kill or len(fails) > R["max_fails_wait"]:
+        dec = "DESCARTAR"
+    elif fails:
+        dec = "ESPERAR"
+    else:
+        dec = "COMPRAR"
+    summary = "; ".join([f"pasa {passed}/12"] + card["fails"] + [k for k in kill if k not in card["fails"]])
+    if pending:
+        summary += " · confirma: " + "; ".join(x["why"] for x in pending)
+    if held_frac is None:
+        summary += " · no pude comprobar si el trader sigue dentro"
+    card.update(decision=dec, label={"COMPRAR": "ENTRY", "ESPERAR": "WATCH", "DESCARTAR": "NO"}[dec],
+                reasons=[summary])
     return card
 
 
-# ======================================================================================
-# Radar
-# ======================================================================================
-LABELS = {"ENTRY": "🟢 ZONA DE ENTRADA", "WATCH": "🟡 VIGILAR", "NO": "🔴 NO", "NODATA": "⚫ SIN DATOS"}
+LABELS = {"ENTRY": "🟢 ENTRY", "WATCH": "🟡 ESPERAR", "NO": "🔴 DESCARTAR", "NODATA": "⚫ SIN DATOS"}
 ORDER = {"ENTRY": 0, "WATCH": 1, "NO": 2, "NODATA": 3}
 
 
 def run_radar(rpc, gecko, cfg, T=None, sol_usd=None, wallets=None, log=True, state_dir=None,
-              log_file="default"):
-    R = cfg["rules"]
+              log_file="default", manual=None):
+    R = {**DEFAULT_RULES, **cfg["rules"]}
     T = int(T or time.time())
     wallets = wallets if wallets is not None else load_wallets()
     if not wallets:
         return []
+    manual = load_manual() if manual is None else manual
+    wmeta = {w["wallet"]: w for w in wallets}
     store = TxStore(state_dir)
     since = T - R["lookback_hours"] * 3600
 
     def say(m):
         if log:
-            print(m, file=sys.stderr, flush=True)
+            print(scrub(m, cfg), file=sys.stderr, flush=True)
     say(f"[1/4] compras de {len(wallets)} smart wallets en las últimas {R['lookback_hours']} h")
     buys = []
     for w in wallets:
-        for t in wallet_trades(rpc, store, w["wallet"], since, R["wallet_scan_pages"]):
+        for t in wallet_trades(rpc, store, w["wallet"], since, R["wallet_scan_pages"], sol_usd):
             if t["side"] == "buy" and t["ts"] <= T:
-                t["usd"] = t["sol"] * sol_usd
+                if t.get("usd") is None:
+                    t["usd"] = t["sol"] * sol_usd
                 t["label"] = w.get("label") or ""
                 if t["usd"] >= R["min_trader_buy_usd"]:
                     buys.append(t)
@@ -431,7 +772,7 @@ def run_radar(rpc, gecko, cfg, T=None, sol_usd=None, wallets=None, log=True, sta
     minfo = pdsc.get_multiple(rpc, mints, "jsonParsed") if mints else {}
     cards = []
     for i, m in enumerate(mints, 1):
-        say(f"[3/4] {i}/{len(mints)} {m[:8]}… historial de precio")
+        say(f"[3/4] {i}/{len(mints)} {m[:8]}… precio + 12 criterios")
         acct = minfo.get(m)
         mi = pdsc.mint_info(acct, pdsc.DEFAULTS)
         supply = None
@@ -440,12 +781,17 @@ def run_radar(rpc, gecko, cfg, T=None, sol_usd=None, wallets=None, log=True, sta
             supply = int(info["supply"]) / 10 ** int(info["decimals"])
         except (KeyError, TypeError, ValueError):
             pass
-        candles = None
+        candles, pool, extra = None, None, {}
         try:
-            pool = gecko.top_pool(m)
+            pa = gecko.top_pool_attrs(m) if hasattr(gecko, "top_pool_attrs") else None
+            pool = pa["address"] if pa else gecko.top_pool(m)
+            if pa and pa.get("reserve_in_usd") is not None:
+                extra["liquidity_usd"] = float(pa["reserve_in_usd"])
             if pool:
                 candles = gecko.ohlcv_hour(pool, m)
-        except RuntimeError as e:
+            if hasattr(gecko, "socials"):
+                extra["socials"] = gecko.socials(m)
+        except (RuntimeError, KeyError, TypeError, ValueError) as e:
             say(f"    {e}")
         holdings = {}
         for w in {b["wallet"] for b in by_mint[m]}:
@@ -453,12 +799,31 @@ def run_radar(rpc, gecko, cfg, T=None, sol_usd=None, wallets=None, log=True, sta
                 holdings[w] = token_balance(rpc, w, m)
             except RuntimeError:
                 holdings[w] = None
-        card = evaluate(m, by_mint[m], candles, supply, mi, holdings, T, R)
+        prog = (acct or {}).get("owner") or pdsc.TOKEN_PROGRAM
+        if candles is not None and not candles.empty and supply and not sf.hard_checks(mi):
+            curve = None
+            try:
+                creator, curve = pump_creator(rpc, m)
+                if creator:
+                    extra["dev"] = dev_activity(rpc, store, creator, m, prog, R["dev_pages"])
+            except (RuntimeError, ValueError) as e:
+                say(f"    dev: {e}")
+            try:
+                extra["distribution"] = distribution(rpc, m, supply, exclude={x for x in (pool, curve) if x})
+            except (RuntimeError, ValueError) as e:
+                say(f"    distribución: {e}")
+            if not (manual.get(m) or {}).get("holders_now"):
+                try:
+                    extra["holders_now"] = holders_now(rpc, m, prog)
+                except (RuntimeError, ValueError) as e:
+                    say(f"    holders: {e}")
+        card = evaluate(m, by_mint[m], candles, supply, mi, holdings, T, R, wallet_meta=wmeta, extra=extra, manual=manual)
         card["name"], card["symbol"] = token_meta(acct)
         cards.append(card)
     say("[4/4] informe")
     store.prune(since - 24 * 3600)
-    cards.sort(key=lambda c: (ORDER[c["label"]], -c["n_smart"], c.get("premium") if c.get("premium") is not None else 9))
+    cards.sort(key=lambda c: (ORDER[c["label"]], -(c.get("passed") or 0), -c["n_smart"],
+                              c.get("premium") if c.get("premium") is not None else 9))
     if log_file == "default":
         log_file = HERE / "radar_log.jsonl"
     if log_file:
@@ -505,23 +870,83 @@ def ago(ts, T):
     return f"hace {h*60:.0f} min" if h < 1 else f"hace {h:.1f} h" if h < 48 else f"hace {h/24:.1f} d"
 
 
+MARK = {"ok": "✅", "fail": "❌", "manual": "✋"}
+
+
+def card_fields(c, T):
+    """Campos de la tarjeta en el orden que pediste. Devuelve [(clave, valor)]."""
+    crit = {x["n"]: x for x in c.get("criteria") or []}
+
+    def v(n, text=None):
+        x = crit.get(n)
+        return f"{MARK[x['status']]} {text if text is not None else x['value']}" if x else (text or "—")
+    tw = c.get("trader_wallet") or ""
+    held = "" if c.get("trader_held_frac") is None else f" · sigue dentro {c['trader_held_frac']:.0%}"
+    return [
+        ("CA", c["mint"]),
+        ("Smart trader", f"{c.get('trader')} ({tw[:4]}…{tw[-4:]})" + (f" +{c['n_smart']-1} smart" if c.get("n_smart", 1) > 1 else "")),
+        ("PnL trader", v(1)),
+        ("Compra trader", v(2, f"{usd(c.get('trader_buy_usd'))} {ago(c.get('trader_buy_ts'), T)} a MC {usd(c.get('mc_at_trader_buy'))}{held}")),
+        ("MC actual", v(6)),
+        ("ATH MC", v(3)),
+        ("Drawdown", v(4)),
+        ("Base", v(5)),
+        ("Holder retention", v(7)),
+        ("Liquidez", v(8)),
+        ("Comunidad", v(9)),
+        ("Top10", v(10)),
+        ("Dev sold", v(11)),
+        ("Distancia a entrada trader", v(12)),
+    ]
+
+
+def plan_line(c):
+    if c["label"] not in ("ENTRY", "WATCH"):
+        return None
+    return (f"Gestión: stop si cierre diario < suelo {usd(c.get('floor_mc'))} · vende 1/3 a 3× (MC {usd(c.get('target_3x_mc'))}) · "
+            f"resto mientras retención ≥60% y el trader siga dentro")
+
+
 def text_report(cards, T):
-    L = [f"MOONSHOT RADAR · {datetime.fromtimestamp(T, timezone.utc):%Y-%m-%d %H:%M} UTC",
+    L = [f"SCAN · Smart Money + Flat Base v1 · {datetime.fromtimestamp(T, timezone.utc):%Y-%m-%d %H:%M} UTC",
          "  ".join(f"{LABELS[k]} {sum(1 for c in cards if c['label']==k)}" for k in ORDER), ""]
     for c in cards:
         name = c.get("symbol") or c["mint"][:6]
         L.append(f"{LABELS[c['label']]}  ${name}  {c['mint']}")
-        if c.get("mc_now") is not None:
-            L.append(f"   MC {usd(c['mc_now'])} · pico {usd(c.get('peak_mc'))} · caída {c['drawdown_now']:.0%} · "
-                     f"en base {dur(c['base_hours'])}" if c.get("base_hours") else
-                     f"   MC {usd(c['mc_now'])} · pico {usd(c.get('peak_mc'))} · caída {c['drawdown_now']:.0%}")
-            held = "—" if c["trader_held_frac"] is None else f"{c['trader_held_frac']:.0%}"
-            L.append(f"   {c['trader']} compró {usd(c['trader_buy_usd'])} a MC {usd(c['mc_at_trader_buy'])} "
-                     f"{ago(c['trader_buy_ts'], T)} · tú: {pct(c['premium'])} · sigue dentro: {held}"
-                     + (f" · {c['n_smart']} smart wallets" if c["n_smart"] > 1 else ""))
-        L.append("   " + "; ".join(c["reasons"]))
+        if c.get("criteria"):
+            for k, val in card_fields(c, T)[1:]:
+                L.append(f"   {k}: {val}")
+        L.append(f"   DECISIÓN: {c.get('decision')} — " + "; ".join(c["reasons"]))
+        if plan_line(c):
+            L.append("   " + plan_line(c))
         L.append("")
     return "\n".join(L)
+
+
+def md_report(cards, T, path, n_wallets):
+    L = ["# SCAN — Smart Money + Flat Base v1",
+         f"**{datetime.fromtimestamp(T, timezone.utc):%Y-%m-%d %H:%M} UTC** · {n_wallets} smart wallets vigiladas", "",
+         " · ".join(f"{LABELS[k]} **{sum(1 for c in cards if c['label']==k)}**" for k in ORDER), ""]
+    if n_wallets == 0:
+        L += ["> Tu lista de smart wallets está vacía. Añade direcciones en `wallets_to_add.txt` (una por línea: `dirección,nombre`)."]
+    elif not cards:
+        L += ["Ninguna compra relevante de tus smart wallets en la ventana."]
+    for c in cards:
+        sym = c.get("symbol") or c["mint"][:6]
+        m = c["mint"]
+        L.append(f"## {LABELS[c['label']]} — ${sym}")
+        if c.get("criteria"):
+            for k, val in card_fields(c, T):
+                L.append(f"- **{k}:** " + (f"`{val}`" if k == "CA" else val))
+        else:
+            L.append(f"- **CA:** `{m}`")
+        L.append(f"\n**DECISIÓN: {c.get('decision')}** — " + "; ".join(c["reasons"]))
+        if plan_line(c):
+            L.append(f"\n_{plan_line(c)}_")
+        L.append(f"\n[GMGN](https://gmgn.ai/sol/token/{m}) · [DexScreener](https://dexscreener.com/solana/{m}) · "
+                 f"[pump.fun](https://pump.fun/coin/{m}) · [Solscan](https://solscan.io/token/{m}#holders)\n")
+    L += ["---", "✅ cumple · ❌ no cumple · ✋ compruébalo tú (apunta holders en el ATH y comunidad en `manual_checks.csv` y el radar lo completa solo)"]
+    Path(path).write_text("\n".join(L) + "\n", encoding="utf-8")
 
 
 def html_report(cards, T, path):
@@ -534,42 +959,30 @@ def html_report(cards, T, path):
 .card{background:var(--card);border:1px solid var(--line);border-left:5px solid var(--k);border-radius:12px;padding:14px 16px;margin:0 0 12px}
 .ENTRY{border-left-color:var(--g)}.WATCH{border-left-color:var(--y)}.NO{border-left-color:var(--r)}
 .hd{display:flex;justify-content:space-between;gap:8px;flex-wrap:wrap;align-items:baseline}.tag{font-weight:700;font-size:13px}
-.sym{font-size:18px;font-weight:700}.ca{color:var(--mut);font-size:12px;word-break:break-all;margin:2px 0 10px}
-.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:8px 16px;margin:6px 0 10px}
-.k{color:var(--mut);font-size:12px}.v{font-weight:600}.why{font-size:13px;color:var(--mut)}.links a{color:inherit;font-size:13px;margin-right:12px}
-details{margin-top:18px;color:var(--mut);font-size:13px}.warn{font-size:12px;color:var(--mut);margin-top:24px;border-top:1px solid var(--line);padding-top:12px}
+.sym{font-size:18px;font-weight:700}table{width:100%;border-collapse:collapse;margin:8px 0;font-size:14px}
+td{padding:3px 0;vertical-align:top;border-bottom:1px solid var(--line)}td.k{color:var(--mut);width:42%;padding-right:10px}
+td.v{word-break:break-word}.dec{font-weight:700;margin-top:8px}.why{font-size:13px;color:var(--mut)}.links a{color:inherit;font-size:13px;margin-right:12px}
 """
-    def cell(k, v):
-        return f'<div><div class="k">{html.escape(k)}</div><div class="v">{html.escape(v)}</div></div>'
     body = []
     for c in cards:
         sym = c.get("symbol") or c["mint"][:6]
         m = c["mint"]
-        cells = ""
-        if c.get("mc_now") is not None:
-            held = "—" if c["trader_held_frac"] is None else f"{c['trader_held_frac']:.0%}"
-            cells = "".join([
-                cell("MC ahora", usd(c["mc_now"])), cell("Pico previo", usd(c["peak_mc"])),
-                cell("Caída desde pico", f"{c['drawdown_now']:.0%}" if c.get("drawdown_now") is not None else "—"),
-                cell("En base", dur(c.get("base_hours"))),
-                cell("Trader", str(c["trader"])[:22]), cell("Compró", f"{usd(c['trader_buy_usd'])} · {ago(c['trader_buy_ts'], T)}"),
-                cell("MC al comprar él", usd(c["mc_at_trader_buy"])), cell("Tu precio vs el suyo", pct(c["premium"])),
-                cell("Sigue dentro", held), cell("Smart wallets", str(c["n_smart"])),
-            ] + ([cell("Suelo (stop)", usd(c.get("floor_mc"))), cell("Objetivo 2×", usd(2 * c["mc_now"]))]
-                 if c["label"] in ("ENTRY", "WATCH") else []))
-        links = (f'<div class="links"><a href="https://pump.fun/coin/{m}" target="_blank">pump.fun</a>'
+        rows = card_fields(c, T) if c.get("criteria") else [("CA", m)]
+        tbl = "".join(f'<tr><td class="k">{html.escape(k)}</td><td class="v">{html.escape(str(v))}</td></tr>' for k, v in rows)
+        pl = f'<div class="why">{html.escape(plan_line(c))}</div>' if plan_line(c) else ""
+        links = (f'<div class="links"><a href="https://gmgn.ai/sol/token/{m}" target="_blank">GMGN</a>'
                  f'<a href="https://dexscreener.com/solana/{m}" target="_blank">DexScreener</a>'
-                 f'<a href="https://gmgn.ai/sol/token/{m}" target="_blank">GMGN</a>'
+                 f'<a href="https://pump.fun/coin/{m}" target="_blank">pump.fun</a>'
                  f'<a href="https://solscan.io/token/{m}" target="_blank">Solscan</a></div>')
         body.append(f'<div class="card {c["label"]}"><div class="hd"><span class="sym">${html.escape(str(sym))}</span>'
-                    f'<span class="tag">{LABELS[c["label"]]}</span></div><div class="ca">{m}</div>'
-                    f'<div class="grid">{cells}</div><div class="why">{html.escape("; ".join(c["reasons"]))}</div>{links}</div>')
+                    f'<span class="tag">{LABELS[c["label"]]}</span></div><table>{tbl}</table>'
+                    f'<div class="dec">DECISIÓN: {html.escape(str(c.get("decision")))}</div>'
+                    f'<div class="why">{html.escape("; ".join(c["reasons"]))}</div>{pl}{links}</div>')
     counts = "".join(f'<span class="pill">{LABELS[k]} · {sum(1 for c in cards if c["label"]==k)}</span>' for k in ORDER)
     doc = f"""<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Moonshot Radar</title><style>{css}</style></head><body><div class="wrap">
-<h1>Moonshot Radar</h1><div class="sub">{datetime.fromtimestamp(T, timezone.utc):%d %b %Y · %H:%M} UTC · top traders comprando bases planas</div>
+<title>Moonshot Scan</title><style>{css}</style></head><body><div class="wrap">
+<h1>SCAN — Smart Money + Flat Base v1</h1><div class="sub">{datetime.fromtimestamp(T, timezone.utc):%d %b %Y · %H:%M} UTC</div>
 <div class="sum">{counts}</div>{''.join(body) or '<p>Ninguna compra de tus smart wallets en la ventana.</p>'}
-<div class="warn">Reglas PROVISIONALES (moonshot_config.json) hasta validarlas con smart_money_study.py. Esto ordena qué mirar; no es una recomendación de compra. Mira siempre el gráfico y la liquidez antes de operar.</div>
 </div></body></html>"""
     Path(path).write_text(doc, encoding="utf-8")
     return path
@@ -578,32 +991,8 @@ details{margin-top:18px;color:var(--mut);font-size:13px}.warn{font-size:12px;col
 def json_report(cards, T, path, n_wallets):
     doc = {"version": VERSION, "generated_utc": datetime.fromtimestamp(T, timezone.utc).isoformat(), "T": T,
            "n_wallets": n_wallets, "counts": {k: sum(1 for c in cards if c["label"] == k) for k in ORDER},
-           "cards": [{k: v for k, v in c.items() if k not in ("flat_at_buy", "flat_now")} for c in cards]}
+           "cards": [{k: v for k, v in c.items() if k != "flat_now"} for c in cards]}
     Path(path).write_text(json.dumps(doc, indent=1, default=str, ensure_ascii=False), encoding="utf-8")
-
-
-def md_report(cards, T, path, n_wallets):
-    L = [f"# Moonshot Radar", f"**{datetime.fromtimestamp(T, timezone.utc):%Y-%m-%d %H:%M} UTC** · {n_wallets} smart wallets vigiladas",
-         "", " · ".join(f"{LABELS[k]} **{sum(1 for c in cards if c['label']==k)}**" for k in ORDER), ""]
-    if n_wallets == 0:
-        L += ["> Tu lista de smart wallets está vacía. Añade direcciones en `wallets_to_add.txt` (una por línea: `dirección,nombre`)."]
-    elif not cards:
-        L += ["Ninguna compra relevante de tus smart wallets en la ventana."]
-    for c in cards:
-        sym = c.get("symbol") or c["mint"][:6]
-        L.append(f"## {LABELS[c['label']]} · ${sym}")
-        L.append(f"`{c['mint']}` · [pump.fun](https://pump.fun/coin/{c['mint']}) · [DexScreener](https://dexscreener.com/solana/{c['mint']}) · [GMGN](https://gmgn.ai/sol/token/{c['mint']})")
-        if c.get("mc_now") is not None:
-            held = "—" if c["trader_held_frac"] is None else f"{c['trader_held_frac']:.0%}"
-            L += ["", "| MC ahora | Pico | Caída | En base |", "|---|---|---|---|",
-                  f"| {usd(c['mc_now'])} | {usd(c['peak_mc'])} | {c['drawdown_now']:.0%} | {dur(c.get('base_hours'))} |", "",
-                  "| Trader | Compró | MC al comprar él | Tu precio vs el suyo | Sigue dentro | Smart wallets |", "|---|---|---|---|---|---|",
-                  f"| {c['trader']} | {usd(c['trader_buy_usd'])} {ago(c['trader_buy_ts'], T)} | {usd(c['mc_at_trader_buy'])} | {pct(c['premium'])} | {held} | {c['n_smart']} |"]
-            if c["label"] in ("ENTRY", "WATCH"):
-                L.append(f"\nSuelo (stop): **{usd(c.get('floor_mc'))}** · Objetivo 2×: **{usd(2*c['mc_now'])}**")
-        L += ["", f"_{'; '.join(c['reasons'])}_", ""]
-    L += ["---", "_Reglas provisionales (moonshot_config.json). Ordena qué mirar; no es una recomendación de compra._"]
-    Path(path).write_text("\n".join(L) + "\n", encoding="utf-8")
 
 
 def publish(cards, T, outdir, n_wallets):
@@ -621,11 +1010,17 @@ def publish(cards, T, outdir, n_wallets):
 def verify_wallet(rpc, store, wallet, R, sol_usd, log=True):
     """PnL REALIZADO aproximado en la ventana revisada (coste medio por token, en SOL -> USD al precio actual)."""
     sigs = recent_signatures(rpc, wallet, 0, R["wallet_pages"])
-    trades = []
+    trades, unrec = [], {}
     for i, s in enumerate(sigs, 1):
-        t = parse_wallet_trade(store.get(rpc, s["signature"]), wallet, s["signature"])
-        if t:
+        tx = store.get(rpc, s["signature"])
+        t = parse_wallet_trade(tx, wallet, s["signature"], sol_usd)
+        if t and t.get("sol") is not None:
             trades.append(t)
+        elif not t:
+            mv = token_moves(tx, wallet)
+            if len(mv) == 2 and min(mv.values()) < 0 < max(mv.values()):   # swap token↔token que no sé valorar
+                for m in mv:
+                    unrec[m] = unrec.get(m, 0) + 1
         if log and i % 100 == 0:
             print(f"    {i}/{len(sigs)} transacciones", file=sys.stderr, end="\r")
     trades.sort(key=lambda t: t["ts"])
@@ -646,7 +1041,9 @@ def verify_wallet(rpc, store, wallet, R, sol_usd, log=True):
     span = (trades[-1]["ts"] - trades[0]["ts"]) / 86400 if len(trades) > 1 else 0
     out = {"wallet": wallet, "verified_pnl_usd": round(pnl_usd), "closed_positions": sum(closed.values()),
            "distinct_tokens": len(realized), "top_token_share": None if top_share is None else round(top_share, 3),
-           "window_days": round(span, 1), "n_trades": len(trades), "n_tx_reviewed": len(sigs)}
+           "window_days": round(span, 1), "n_trades": len(trades), "n_tx_reviewed": len(sigs),
+           "swaps_unrecognized": sum(unrec.values()) // 2,
+           "unrecognized_quotes": ",".join(m[:6] for m, _ in sorted(unrec.items(), key=lambda x: -x[1])[:3])}
     out["meets_criteria"] = bool(pnl_usd >= R["wallet_min_pnl_usd"] and out["closed_positions"] >= R["wallet_min_closed"]
                                  and out["distinct_tokens"] >= R["wallet_min_tokens"]
                                  and top_share is not None and top_share <= R["wallet_max_top_share"])
@@ -690,6 +1087,8 @@ def main(argv=None):
         pool = g.top_pool(tf.WSOL)
         print("GeckoTerminal:", "OK" if pool else "FALLA", "· SOL/USD", sol_usd)
         print("Smart wallets en tu lista:", len(load_wallets())); return
+    if cmd == "status":
+        return write_status(cfg, rpc, sol_usd, Path(argv[1] if len(argv) > 1 else HERE / "report"))
     if cmd == "wallets":
         for w in load_wallets():
             print(f"{w['wallet']}  {w.get('label','')}  PnL ${float(w.get('verified_pnl_usd') or 0):,.0f}  "
@@ -705,7 +1104,8 @@ def main(argv=None):
         rows = [w for w in load_wallets() if w["wallet"] != addr]
         ok = v["meets_criteria"] or "--force" in argv
         if ok:
-            rows.append({**v, "label": label, "verified_at": datetime.now(timezone.utc).isoformat()[:19]})
+            rows.append({**v, "label": label, "forced": not v["meets_criteria"],
+                         "verified_at": datetime.now(timezone.utc).isoformat()[:19]})
             save_wallets(rows)
             print(f"\n✅ Añadida{' (forzada: NO cumple tus criterios)' if not v['meets_criteria'] else ''}. Tienes {len(rows)} smart wallets.")
         else:
@@ -744,34 +1144,107 @@ def add_wallets_file(rpc, R, sol_usd, path: Path):
     store = TxStore()
     retry = []
     log = [f"# Verificación de wallets · {datetime.now(timezone.utc):%Y-%m-%d %H:%M} UTC", "",
-           "| Wallet | Nombre | PnL realizado | Cierres | Tokens | Top token | Ventana | Resultado |", "|---|---|---|---|---|---|---|---|"]
+           "| Wallet | Nombre | PnL realizado | Cierres | Tokens | Top token | Ventana | Swaps leídos | Resultado |", "|---|---|---|---|---|---|---|---|---|"]
+    budget = int(R.get("wallet_verify_per_run", 2))
     for ln in lines:
         parts = [p.strip() for p in ln.split(",")]
         addr, label = parts[0], (parts[1] if len(parts) > 1 else "")
         force = len(parts) > 2 and parts[2].lower() == "force"
         if addr in have:
-            log.append(f"| `{addr[:6]}…` | {label} | | | | | | ya estaba |"); continue
+            log.append(f"| `{addr[:6]}…` | {label} | | | | | | | ya estaba |"); continue
+        if budget <= 0:
+            retry.append(ln); continue                    # se verifica en la siguiente ejecución
+        budget -= 1
         try:
             v = verify_wallet(rpc, store, addr, R, sol_usd, log=False)
         except Exception as e:  # noqa: BLE001
-            log.append(f"| `{addr[:6]}…` | {label} | | | | | | ⚠️ error (se reintentará en la próxima ejecución): {e} |")
+            log.append(f"| `{addr[:6]}…` | {label} | | | | | | | ⚠️ error (se reintentará en la próxima ejecución): {scrub(e)} |")
             retry.append(ln); continue
         ok = v["meets_criteria"] or force
         if ok:
-            rows.append({**v, "label": label, "verified_at": datetime.now(timezone.utc).isoformat()[:19]})
+            rows.append({**v, "label": label, "forced": bool(force and not v["meets_criteria"]),
+                         "verified_at": datetime.now(timezone.utc).isoformat()[:19]})
             have.add(addr)
         res = "✅ añadida" + (" (forzada)" if force and not v["meets_criteria"] else "") if ok else "❌ no cumple"
         top = "—" if v["top_token_share"] is None else f"{v['top_token_share']:.0%}"
+        nu = v.get("swaps_unrecognized", 0)
+        cov = f"{v['n_trades'] / (v['n_trades'] + nu):.0%}" if v["n_trades"] + nu else "—"
+        if nu:
+            cov += f" (no leídos: {nu}, contra {v.get('unrecognized_quotes')})"
         log.append(f"| `{addr[:6]}…` | {label} | ${v['verified_pnl_usd']:,} | {v['closed_positions']} | {v['distinct_tokens']} | "
-                   f"{top} | {v['window_days']} d | {res} |")
+                   f"{top} | {v['window_days']} d | {cov} | {res} |")
     save_wallets(rows)
     path.write_text("# una wallet por línea:  dirección,nombre   (añade ,force para saltarte la verificación)\n"
                     + "".join(l + "\n" for l in retry), encoding="utf-8")
     out = HERE / "report"
     out.mkdir(exist_ok=True)
-    (out / "wallet_checks.md").write_text("\n".join(log) + "\n", encoding="utf-8")
+    prev = out / "wallet_checks.md"                     # acumula: no borra las verificaciones anteriores
+    old = [l for l in prev.read_text(encoding="utf-8").splitlines() if l.startswith("| `")] if prev.exists() else []
+    new = [l for l in log[4:]]
+    log = log[:4] + new + [l for l in old if l not in new]
+    log[0] = f"# Verificación de wallets · última: {datetime.now(timezone.utc):%Y-%m-%d %H:%M} UTC"
+    prev.write_text("\n".join(log) + "\n", encoding="utf-8")
     print("\n".join(log))
 
 
+# ======================================================================================
+# Diagnóstico publicado (report/STATUS.md): se puede leer desde el chat sin ver GitHub
+# ======================================================================================
+def scrub(text, cfg=None):
+    """Quita la URL/API key del RPC de cualquier mensaje antes de publicarlo."""
+    import re
+    text = str(text)
+    url = (cfg or {}).get("rpc_url") or os.environ.get("SOLANA_RPC") or ""
+    if url:
+        text = text.replace(url, "<RPC>")
+    return re.sub(r"(api[-_]?key=)[^&\s'\"]+", r"\1***", text, flags=re.I)
+
+
+def write_status(cfg, rpc, sol_usd, outdir):
+    out = Path(outdir)
+    out.mkdir(parents=True, exist_ok=True)
+    T = datetime.now(timezone.utc)
+    L = [f"# STATUS · {T:%Y-%m-%d %H:%M} UTC", "", f"- Versión: `{VERSION}` (TX_VERSION={TX_VERSION})",
+         f"- Secreto SOLANA_RPC: {'✅ presente' if cfg.get('rpc_url') else '❌ FALTA'}"]
+    try:
+        L.append(f"- RPC getSlot: ✅ {rpc.call('getSlot', [])}")
+    except Exception as e:  # noqa: BLE001
+        L.append(f"- RPC getSlot: ❌ {scrub(e, cfg)}")
+    try:
+        sig = rpc.call("getSignaturesForAddress", [pdsc.PUMP_PROGRAM, {"limit": 1}])[0]["signature"]
+        tx = rpc.call("getTransaction", [sig, {"encoding": "jsonParsed", "maxSupportedTransactionVersion": TX_VERSION}])
+        L.append(f"- RPC getTransaction (versión {tx.get('version')}): ✅")
+    except Exception as e:  # noqa: BLE001
+        L.append(f"- RPC getTransaction: ❌ {scrub(e, cfg)}")
+    try:
+        L.append(f"- GeckoTerminal: {'✅' if Gecko(cfg['rules']['gecko_min_interval']).top_pool(tf.WSOL) else '❌ sin datos'}")
+    except Exception as e:  # noqa: BLE001
+        L.append(f"- GeckoTerminal: ❌ {scrub(e, cfg)}")
+    L.append(f"- SOL/USD: {sol_usd}")
+    ws = load_wallets()
+    L += ["", f"## Smart wallets vigiladas: {len(ws)}"]
+    for w in ws:
+        L.append(f"- `{w['wallet'][:6]}…` {w.get('label','')} · PnL ventana ${float(w.get('verified_pnl_usd') or 0):,.0f} · "
+                 f"cierres {w.get('closed_positions')} · {'forzada (verificada a mano)' if str(w.get('forced')).lower()=='true' else 'cumple' if str(w.get('meets_criteria')).lower()=='true' else 'no cumple'}")
+    pend = HERE / "wallets_to_add.txt"
+    pl = [l for l in (pend.read_text(encoding="utf-8").splitlines() if pend.exists() else []) if l.strip() and not l.startswith("#")]
+    L.append(f"- Pendientes en wallets_to_add.txt: {len(pl)}")
+    err = out / "last_error.txt"
+    L += ["", "## Último error", "```", err.read_text(encoding="utf-8")[-3000:] if err.exists() else "ninguno", "```"]
+    (out / "STATUS.md").write_text("\n".join(L) + "\n", encoding="utf-8")
+    print("\n".join(L))
+
+
 if __name__ == "__main__":
-    main()
+    import traceback
+    errf = HERE / "report" / "last_error.txt"
+    try:
+        main()
+        if len(sys.argv) > 1 and sys.argv[1] == "radar" and errf.exists():
+            errf.unlink()
+    except BaseException as ex:  # noqa: BLE001
+        if not isinstance(ex, SystemExit) or ex.code not in (0, None):
+            errf.parent.mkdir(exist_ok=True)
+            errf.write_text(f"{datetime.now(timezone.utc):%Y-%m-%d %H:%M} UTC · {' '.join(sys.argv[1:])}\n"
+                            + scrub(traceback.format_exc()), encoding="utf-8")
+        raise
