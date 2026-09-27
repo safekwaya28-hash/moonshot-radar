@@ -1,7 +1,9 @@
-# Verificación de wallets · última: 2026-09-27 12:55 UTC
+# Verificación de wallets · última: 2026-09-27 13:13 UTC
 
 | Wallet | Nombre | PnL realizado | Cierres | Tokens | Top token | Ventana | Swaps leídos | Resultado |
 |---|---|---|---|---|---|---|---|---|
+| `4vw54B…` | decu | $0 | 0 | 0 | — | 0 d | — | ❌ no cumple |
+| `5B79fM…` | bandit | $0 | 0 | 0 | — | 0.0 d | 100% | ❌ no cumple |
 | `GJA1HE…` | Latuche | $11,648 | 98 | 62 | 28% | 1.0 d | 100% | ❌ no cumple |
 | `BtMBMP…` | Letterbomb | $13,679 | 332 | 234 | 25% | 8.0 d | 100% (no leídos: 6, contra Xsc9qv,EWY4ow,EeZP3q) | ❌ no cumple |
 | `6S8Gez…` | Nyhrox | $0 | 0 | 0 | — | 0 d | — | ❌ no cumple |
