@@ -1,7 +1,9 @@
-# Verificación de wallets · última: 2026-09-27 13:13 UTC
+# Verificación de wallets · última: 2026-09-27 13:55 UTC
 
 | Wallet | Nombre | PnL realizado | Cierres | Tokens | Top token | Ventana | Swaps leídos | Resultado |
 |---|---|---|---|---|---|---|---|---|
+| `GvTXqu…` | brunowsky | $15,415 | 447 | 216 | 30% | 14.6 d | 100% (no leídos: 1, contra Es9vMF,EPjFWd) | ❌ no cumple |
+| `EqiFgy…` | ban | $3,308 | 326 | 175 | 20% | 0.9 d | 100% | ❌ no cumple |
 | `4vw54B…` | decu | $0 | 0 | 0 | — | 0 d | — | ❌ no cumple |
 | `5B79fM…` | bandit | $0 | 0 | 0 | — | 0.0 d | 100% | ❌ no cumple |
 | `GJA1HE…` | Latuche | $11,648 | 98 | 62 | 28% | 1.0 d | 100% | ❌ no cumple |
