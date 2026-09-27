@@ -1,7 +1,9 @@
-# Verificación de wallets · última: 2026-09-27 16:42 UTC
+# Verificación de wallets · última: 2026-09-27 17:29 UTC
 
 | Wallet | Nombre | PnL realizado | Cierres | Tokens | Top token | Ventana | Swaps leídos | Resultado |
 |---|---|---|---|---|---|---|---|---|
+| `6KR7So…` | KOREAN | $7,688 | 657 | 528 | 5% | 3.8 d | 100% (no leídos: 11, contra pumpCm,3NZ9JM,XsoCS1) | ❌ no cumple |
+| `B9K2wT…` | Xanse | $-1,384 | 432 | 236 | 34% | 6.8 d | 100% | ❌ no cumple |
 | `H31vEB…` | Megga | $0 | 0 | 0 | — | 0 d | — | ❌ no cumple |
 | `CgaA9a…` | Art | $0 | 0 | 0 | — | 0 d | — | ❌ no cumple |
 | `B32Qbb…` | Kadenox | $0 | 0 | 0 | — | 0 d | — | ❌ no cumple |
