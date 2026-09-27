@@ -1,1 +1,2 @@
-wallet,label,verified_pnl_usd,closed_positions,distinct_tokens,top_token_share,window_days,meets_criteria,verified_at
+wallet,label,verified_pnl_usd,closed_positions,distinct_tokens,top_token_share,window_days,meets_criteria,forced,verified_at
+4ugDhHJ8XDXAeABmrNmGffFaLbJb9BkPyiFGVSV9ocwo,Solstice,-2924,12,6,1.0,11.4,False,True,2026-09-27T10:35:07

@@ -1,8 +1,8 @@
-# Moonshot Radar
-**2026-09-27 10:11 UTC** · 0 smart wallets vigiladas
+# SCAN — Smart Money + Flat Base v1
+**2026-09-27 10:37 UTC** · 1 smart wallets vigiladas
 
-🟢 ZONA DE ENTRADA **0** · 🟡 VIGILAR **0** · 🔴 NO **0** · ⚫ SIN DATOS **0**
+🟢 ENTRY **0** · 🟡 ESPERAR **0** · 🔴 DESCARTAR **0** · ⚫ SIN DATOS **0**
 
-> Tu lista de smart wallets está vacía. Añade direcciones en `wallets_to_add.txt` (una por línea: `dirección,nombre`).
+Ninguna compra relevante de tus smart wallets en la ventana.
 ---
-_Reglas provisionales (moonshot_config.json). Ordena qué mirar; no es una recomendación de compra._
+✅ cumple · ❌ no cumple · ✋ compruébalo tú (apunta holders en el ATH y comunidad en `manual_checks.csv` y el radar lo completa solo)

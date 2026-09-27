@@ -1,7 +1,4 @@
-# una wallet por línea:  dirección,nombre   (añade ,force si ya la verificaste tú a mano)
-# El radar verifica 2 por ejecución (cada 30 min): las que cumplan tus reglas (>= $1M y >= 20 cierres) se quedan.
-4ugDhHJ8XDXAeABmrNmGffFaLbJb9BkPyiFGVSV9ocwo,Solstice,force
-3h65MmPZksoKKyEpEjnWU2Yk2iYT5oZDNitGy5cTaxoE,Jidn
+# una wallet por línea:  dirección,nombre   (añade ,force para saltarte la verificación)
 8AtQ4ka3dgtrH1z4Uq3Tm4YdMN3cK5RRj1eKuGNnvenm,peacefuldestroy
 CUHBzSPSaNS3tArEtM3maSV6pNdJhHJFYZpurPPK9P7H,samsrep
 EeXvxkcGqMDZeTaVeawzxm9mbzZwqDUMmfG3bF7uzumH,milito
