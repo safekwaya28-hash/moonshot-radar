@@ -1,7 +1,9 @@
-# Verificación de wallets · última: 2026-09-27 15:49 UTC
+# Verificación de wallets · última: 2026-09-27 16:18 UTC
 
 | Wallet | Nombre | PnL realizado | Cierres | Tokens | Top token | Ventana | Swaps leídos | Resultado |
 |---|---|---|---|---|---|---|---|---|
+| `B32Qbb…` | Kadenox | $0 | 0 | 0 | — | 0 d | — | ❌ no cumple |
+| `FqamE7…` | EustazZ | $23,613 | 633 | 333 | 8% | 4.7 d | 100% | ❌ no cumple |
 | `CAPn1y…` | cap | $-3,240 | 109 | 66 | 32% | 2.8 d | 100% | ❌ no cumple |
 | `EDXHdS…` | Clown | $-255 | 358 | 240 | 35% | 2.7 d | 100% | ❌ no cumple |
 | `J9TYAs…` | Johnson | $10,682 | 181 | 71 | 24% | 5.5 d | 100% (no leídos: 1, contra GRNDYD,7rcAZp) | ❌ no cumple |
