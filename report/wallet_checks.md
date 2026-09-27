@@ -1,7 +1,9 @@
-# Verificación de wallets · última: 2026-09-27 12:23 UTC
+# Verificación de wallets · última: 2026-09-27 12:55 UTC
 
 | Wallet | Nombre | PnL realizado | Cierres | Tokens | Top token | Ventana | Swaps leídos | Resultado |
 |---|---|---|---|---|---|---|---|---|
+| `GJA1HE…` | Latuche | $11,648 | 98 | 62 | 28% | 1.0 d | 100% | ❌ no cumple |
+| `BtMBMP…` | Letterbomb | $13,679 | 332 | 234 | 25% | 8.0 d | 100% (no leídos: 6, contra Xsc9qv,EWY4ow,EeZP3q) | ❌ no cumple |
 | `6S8Gez…` | Nyhrox | $0 | 0 | 0 | — | 0 d | — | ❌ no cumple |
 | `B799XD…` | Dusty | $29,791 | 553 | 174 | 34% | 17.4 d | 99% (no leídos: 7, contra CcEeac,XsoCS1,3NZ9JM) | ❌ no cumple |
 | `4xY9T1…` | zeropnl | $49,062 | 482 | 173 | 15% | 5.1 d | 95% (no leídos: 59, contra pumpCm,4sWNB8,Xs3oZw) | ❌ no cumple |
