@@ -1,7 +1,9 @@
-# Verificación de wallets · última: 2026-09-27 15:24 UTC
+# Verificación de wallets · última: 2026-09-27 15:49 UTC
 
 | Wallet | Nombre | PnL realizado | Cierres | Tokens | Top token | Ventana | Swaps leídos | Resultado |
 |---|---|---|---|---|---|---|---|---|
+| `CAPn1y…` | cap | $-3,240 | 109 | 66 | 32% | 2.8 d | 100% | ❌ no cumple |
+| `EDXHdS…` | Clown | $-255 | 358 | 240 | 35% | 2.7 d | 100% | ❌ no cumple |
 | `J9TYAs…` | Johnson | $10,682 | 181 | 71 | 24% | 5.5 d | 100% (no leídos: 1, contra GRNDYD,7rcAZp) | ❌ no cumple |
 | `AVjEtg…` | Putrick | $8,028 | 555 | 361 | 14% | 5.5 d | 100% | ❌ no cumple |
 | `Av3xWH…` | Heyitsyolo | $1,351 | 45 | 37 | 81% | 0.1 d | 100% | ❌ no cumple |
