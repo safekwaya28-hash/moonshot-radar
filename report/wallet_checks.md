@@ -1,7 +1,9 @@
-# Verificación de wallets · última: 2026-09-27 11:54 UTC
+# Verificación de wallets · última: 2026-09-27 12:23 UTC
 
 | Wallet | Nombre | PnL realizado | Cierres | Tokens | Top token | Ventana | Swaps leídos | Resultado |
 |---|---|---|---|---|---|---|---|---|
+| `6S8Gez…` | Nyhrox | $0 | 0 | 0 | — | 0 d | — | ❌ no cumple |
+| `B799XD…` | Dusty | $29,791 | 553 | 174 | 34% | 17.4 d | 99% (no leídos: 7, contra CcEeac,XsoCS1,3NZ9JM) | ❌ no cumple |
 | `4xY9T1…` | zeropnl | $49,062 | 482 | 173 | 15% | 5.1 d | 95% (no leídos: 59, contra pumpCm,4sWNB8,Xs3oZw) | ❌ no cumple |
 | `Be24Gb…` | Chairman | $23,404 | 46 | 29 | 62% | 3.2 d | 100% | ❌ no cumple |
 | `EeXvxk…` | milito | $23,175 | 610 | 323 | 25% | 1.2 d | 100% | ❌ no cumple |
