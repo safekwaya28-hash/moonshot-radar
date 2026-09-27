@@ -1,11 +1,11 @@
-# STATUS · 2026-09-27 19:10 UTC
+# STATUS · 2026-09-27 19:39 UTC
 
 - Versión: `moonshot-scan-v1.4` (TX_VERSION=1)
 - Secreto SOLANA_RPC: ✅ presente
-- RPC getSlot: ✅ 451086772
-- RPC getTransaction (versión 1): ✅
+- RPC getSlot: ✅ 451093256
+- RPC getTransaction (versión 0): ✅
 - GeckoTerminal: ✅
-- SOL/USD: 122.95
+- SOL/USD: 122.94
 
 ## Smart wallets vigiladas: 1
 - `4ugDhH…` Solstice · PnL ventana $-2,924 · cierres 12 · forzada (verificada a mano)
