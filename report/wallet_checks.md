@@ -1,7 +1,9 @@
-# Verificación de wallets · última: 2026-09-27 16:18 UTC
+# Verificación de wallets · última: 2026-09-27 16:42 UTC
 
 | Wallet | Nombre | PnL realizado | Cierres | Tokens | Top token | Ventana | Swaps leídos | Resultado |
 |---|---|---|---|---|---|---|---|---|
+| `H31vEB…` | Megga | $0 | 0 | 0 | — | 0 d | — | ❌ no cumple |
+| `CgaA9a…` | Art | $0 | 0 | 0 | — | 0 d | — | ❌ no cumple |
 | `B32Qbb…` | Kadenox | $0 | 0 | 0 | — | 0 d | — | ❌ no cumple |
 | `FqamE7…` | EustazZ | $23,613 | 633 | 333 | 8% | 4.7 d | 100% | ❌ no cumple |
 | `CAPn1y…` | cap | $-3,240 | 109 | 66 | 32% | 2.8 d | 100% | ❌ no cumple |
