@@ -1,5 +1,3 @@
 # una wallet por línea:  dirección,nombre   (añade ,force para saltarte la verificación)
-4Be9CvxqHW6BYiRAxW9Q3xu1ycTMWaL5z8NX4HR3ha7t,axiom-50x
-H72yLkhTnoBfhBTXXaj1RBXuirm8s8G5fcVh2XpQLggM,gmgn-early
 8zFZHuSRuDpuAR7J6FzwyF3vKNx4CVW3DFHJerQhc7Zd,dune-smart
 AVAZvHLR2PcWpDf8BXY4rVxNHYRBytycHkcB5z5QNXYm,kolscan-pump

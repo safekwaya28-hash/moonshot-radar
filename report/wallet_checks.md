@@ -1,7 +1,9 @@
-# Verificación de wallets · última: 2026-09-27 17:53 UTC
+# Verificación de wallets · última: 2026-09-27 18:28 UTC
 
 | Wallet | Nombre | PnL realizado | Cierres | Tokens | Top token | Ventana | Swaps leídos | Resultado |
 |---|---|---|---|---|---|---|---|---|
+| `4Be9Cv…` | axiom-50x | $-1,502 | 2 | 2 | 100% | 2.1 d | 100% | ❌ no cumple |
+| `H72yLk…` | gmgn-early | $-182,471 | 105 | 34 | 45% | 371.5 d | 99% (no leídos: 2, contra j1MueU,JCeoBX,9UYAYv) | ❌ no cumple |
 | `4cXnf2…` | WaiterG | $-50,048 | 652 | 388 | 12% | 13.4 d | 100% (no leídos: 1, contra Xs3oZw,GMH1Ev) | ❌ no cumple |
 | `C4Svaa…` | edward | $-2,683 | 133 | 63 | 73% | 4.1 d | 100% | ❌ no cumple |
 | `6KR7So…` | KOREAN | $7,688 | 657 | 528 | 5% | 3.8 d | 100% (no leídos: 11, contra pumpCm,3NZ9JM,XsoCS1) | ❌ no cumple |
