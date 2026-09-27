@@ -1,6 +1,4 @@
 # una wallet por línea:  dirección,nombre   (añade ,force para saltarte la verificación)
-Av3xWHJ5EsoLZag6pr7LKbrGgLRTaykXomDD5kBhL9YQ,Heyitsyolo
-3BLjRcxWGtR7WRshJ3hL25U3RjWr5Ud98wMcczQqk4Ei,Sebastian
 J9TYAsWWidbrcZybmLSfrLzryANf4CgJBLdvwdGuC8MB,Johnson
 AVjEtg2ECYKXYeqdRQXvaaAZBjfTjYuSMTR4WLhKoeQN,Putrick
 CAPn1yH4oSywsxGU456jfgTrSSUidf9jgeAnHceNUJdw,cap

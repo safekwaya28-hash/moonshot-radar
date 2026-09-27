@@ -1,7 +1,9 @@
-# Verificación de wallets · última: 2026-09-27 14:11 UTC
+# Verificación de wallets · última: 2026-09-27 14:41 UTC
 
 | Wallet | Nombre | PnL realizado | Cierres | Tokens | Top token | Ventana | Swaps leídos | Resultado |
 |---|---|---|---|---|---|---|---|---|
+| `Av3xWH…` | Heyitsyolo | $1,351 | 45 | 37 | 81% | 0.1 d | 100% | ❌ no cumple |
+| `3BLjRc…` | Sebastian | $0 | 0 | 0 | — | 0 d | — | ❌ no cumple |
 | `4BdKax…` | Jijo | $0 | 0 | 0 | — | 0 d | — | ❌ no cumple |
 | `Bi4rd5…` | theo | $0 | 0 | 0 | — | 0 d | — | ❌ no cumple |
 | `GvTXqu…` | brunowsky | $15,415 | 447 | 216 | 30% | 14.6 d | 100% (no leídos: 1, contra Es9vMF,EPjFWd) | ❌ no cumple |
