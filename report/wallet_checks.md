@@ -1,7 +1,9 @@
-# Verificación de wallets · última: 2026-09-27 14:41 UTC
+# Verificación de wallets · última: 2026-09-27 15:24 UTC
 
 | Wallet | Nombre | PnL realizado | Cierres | Tokens | Top token | Ventana | Swaps leídos | Resultado |
 |---|---|---|---|---|---|---|---|---|
+| `J9TYAs…` | Johnson | $10,682 | 181 | 71 | 24% | 5.5 d | 100% (no leídos: 1, contra GRNDYD,7rcAZp) | ❌ no cumple |
+| `AVjEtg…` | Putrick | $8,028 | 555 | 361 | 14% | 5.5 d | 100% | ❌ no cumple |
 | `Av3xWH…` | Heyitsyolo | $1,351 | 45 | 37 | 81% | 0.1 d | 100% | ❌ no cumple |
 | `3BLjRc…` | Sebastian | $0 | 0 | 0 | — | 0 d | — | ❌ no cumple |
 | `4BdKax…` | Jijo | $0 | 0 | 0 | — | 0 d | — | ❌ no cumple |
