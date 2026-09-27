@@ -1,7 +1,9 @@
-# Verificación de wallets · última: 2026-09-27 10:52 UTC
+# Verificación de wallets · última: 2026-09-27 11:20 UTC
 
 | Wallet | Nombre | PnL realizado | Cierres | Tokens | Top token | Ventana | Swaps leídos | Resultado |
 |---|---|---|---|---|---|---|---|---|
+| `EeXvxk…` | milito | $23,175 | 610 | 323 | 25% | 1.2 d | 100% | ❌ no cumple |
+| `ardinR…` | trunoest | $0 | 0 | 0 | — | 0 d | — | ❌ no cumple |
 | `8AtQ4k…` | peacefuldestroy | $22,666 | 125 | 55 | 80% | 4.3 d | 100% | ❌ no cumple |
 | `CUHBzS…` | samsrep | $50,928 | 437 | 130 | 53% | 6.2 d | 100% | ❌ no cumple |
 | `4ugDhH…` | Solstice | $-2,924 | 12 | 6 | 100% | 11.4 d | 100% | ✅ añadida (forzada) |
