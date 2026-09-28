@@ -1,5 +1,5 @@
 # SCAN — Smart Money + Flat Base v1
-**2026-09-28 20:10 UTC** · 1 smart wallets vigiladas
+**2026-09-28 20:43 UTC** · 1 smart wallets vigiladas
 
 🟢 ENTRY **0** · 🟡 ESPERAR **0** · 🔴 DESCARTAR **0** · ⚫ SIN DATOS **0**
 
