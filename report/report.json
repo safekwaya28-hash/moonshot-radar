@@ -1,13 +1,31 @@
 {
  "version": "moonshot-scan-v1.4",
- "generated_utc": "2026-09-29T06:15:57+00:00",
- "T": 1790662557,
+ "generated_utc": "2026-09-30T01:43:09+00:00",
+ "T": 1790732589,
  "n_wallets": 1,
  "counts": {
   "ENTRY": 0,
   "WATCH": 0,
-  "NO": 0,
+  "NO": 1,
   "NODATA": 0
  },
- "cards": []
+ "cards": [
+  {
+   "mint": "DEW9dSN6QpWyNthphCpMmAbZP1Q4cEKR9xQXAri98WDP",
+   "smart_wallets": [
+    "Solstice"
+   ],
+   "n_smart": 1,
+   "reasons": [
+    "HARD: extensiones Token-2022: transferFeeConfig"
+   ],
+   "criteria": [],
+   "pending": [],
+   "fails": [],
+   "label": "NO",
+   "decision": "DESCARTAR",
+   "name": "Super Inu",
+   "symbol": "SI"
+  }
+ ]
 }
