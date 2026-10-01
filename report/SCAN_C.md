@@ -1,13 +1,19 @@
 # SCAN C — Meta / Flywheel
-**2026-10-01 20:57 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-01 20:59 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > Llevo 3 h acumulando pools: las comparaciones 24h vs 24h anteriores son fiables a partir de 48 h.
 
-## Metas por token de pago (0 activándose)
+## Metas por token de pago (1 activándose)
 
-### ⚪ en observación — NVDAx
+### 🟡 META ACTIVÁNDOSE — NVDAx
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
-- **Pools nuevos:** 1h 0 (antes 2) · 6h 7 (antes 0, nuevo) · 24h 7 (antes 0, nuevo)
+- **Pools nuevos:** 1h 5 (antes 2) · 6h 12 (antes 0, nuevo) · 24h 12 (antes 0, nuevo)
+- **Amplitud (24h):** 12 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 37% del volumen
+- **Token de pago:** MC $43.62M · volumen 24h $12.21M · liquidez $3.40M
+- **Líder (más volumen):** MARIO `BJpDpd8XvHjxmCDDWjTAvJPXG7FhDTxfmashtguipump` · MC $4.0k · vol 24h $2.4k · 24h -7.69%
+- **Líder (mayor subida 24h):** MARIO `BJpDpd8XvHjxmCDDWjTAvJPXG7FhDTxfmashtguipump` · MC $4.0k · vol 24h $2.4k · 24h -7.69%
+- **Catalizador:** META ACCELERATION (pools 24h nuevo)
+- **Riesgos:** liquidez 0% del MC
 
 ### ⚪ en observación — SPYx
 - **Quote:** `XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W`
@@ -53,15 +59,9 @@
 - **A holders (recompras/quemas/repartos) 7d:** —
 - **Token:** sin token listado en CoinGecko
 
-### 🟡 FLYWHEEL ACELERANDO — Pacifica Perps (Derivatives)
-- **Ingresos 7d:** $76.3k · 7d anteriores — · cambio nuevo
-- **Ingresos 24h:** $44.9k · 24h anteriores — · nuevo (¿sigue acelerando hoy?)
-- **A holders (recompras/quemas/repartos) 7d:** —
-- **Token:** sin token listado en CoinGecko
-
 ### 🟡 FLYWHEEL ACELERANDO — PagCrypto (Payments)
 - **Ingresos 7d:** $55.8k · 7d anteriores $19.3k · cambio 2.9×
-- **Ingresos 24h:** $219 · 24h anteriores $767 · -71% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $556 · 24h anteriores $767 · -28% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** —
 - **Token:** sin token listado en CoinGecko
 
