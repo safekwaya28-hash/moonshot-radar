@@ -1,8 +1,8 @@
-# STATUS · 2026-10-01 00:49 UTC
+# STATUS · 2026-10-01 01:13 UTC
 
 - Versión: `moonshot-scan-v1.4` (TX_VERSION=1)
 - Secreto SOLANA_RPC: ✅ presente
-- RPC getSlot: ✅ 452130618
+- RPC getSlot: ✅ 452135901
 - RPC getTransaction (versión legacy): ✅
 - GeckoTerminal: ✅
 - SOL/USD: 118.0
