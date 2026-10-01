@@ -1,8 +1,8 @@
 # SCAN C — Meta / Flywheel
-**2026-10-01 19:59 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-01 20:35 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
-> Llevo 2 h acumulando pools: las comparaciones 24h vs 24h anteriores son fiables a partir de 48 h.
+> Llevo 3 h acumulando pools: las comparaciones 24h vs 24h anteriores son fiables a partir de 48 h.
 
 ## Metas por token de pago (0 activándose)
 
@@ -54,9 +54,15 @@
 - **A holders (recompras/quemas/repartos) 7d:** —
 - **Token:** sin token listado en CoinGecko
 
+### 🟡 FLYWHEEL ACELERANDO — Pacifica Perps (Derivatives)
+- **Ingresos 7d:** $76.3k · 7d anteriores — · cambio nuevo
+- **Ingresos 24h:** $44.9k · 24h anteriores — · nuevo (¿sigue acelerando hoy?)
+- **A holders (recompras/quemas/repartos) 7d:** —
+- **Token:** sin token listado en CoinGecko
+
 ### 🟡 FLYWHEEL ACELERANDO — PagCrypto (Payments)
 - **Ingresos 7d:** $55.8k · 7d anteriores $19.3k · cambio 2.9×
-- **Ingresos 24h:** $556 · 24h anteriores $767 · -28% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $219 · 24h anteriores $767 · -71% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** —
 - **Token:** sin token listado en CoinGecko
 
