@@ -1,13 +1,14 @@
 # ESTUDIO · ¿qué entrada y qué forma de vender dan más 10x–50x cobrados?
-**2026-10-01 18:01 UTC** · fuente: todas las graduadas de pump.fun (PumpSwap)
+**2026-10-01 18:23 UTC** · fuente: todas las graduadas de pump.fun (PumpSwap)
 
-- Monedas revisadas: **119 / 206,007** (0%) · con pico ≥ $500k: **23**
-- Entradas simuladas: **2 monedas** · **100% con < 180 días de datos después** (⚠️ con tanta censura el estudio todavía no puede afirmar nada sobre 50x)
+- Monedas revisadas: **204 / 206,007** (0%) · con pico ≥ $500k: **41**
+- Entradas simuladas: **5 monedas** · **100% con < 180 días de datos después** (⚠️ con tanta censura el estudio todavía no puede afirmar nada sobre 50x)
 
 ## Ranking (EV = lo que multiplicas de media por operación, cobrado con esa regla de venta)
 
 | # | Entrada | Venta | Ops | EV | IC 95% EV | EV sin top 3 | Mediana | p90 | Cobró ≥10x | Cobró ≥50x | ROI 10×50€ | Caída máx. |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | dd70_mc150k_72h_base ⭐ | tuya | 1 | 0.87x | — | — | 0.87x | 0.87x | 0% | 0% | -1% | -1% |
 
 ⭐ = tus reglas actuales. ⚠️ = el EV pasa de ganar a perder quitando las 3 mejores: es suerte, no estrategia.
 EV > 1x = gana de media. Solo filas con ≥ 5 operaciones (con menos de ~30 los números bailan mucho).
