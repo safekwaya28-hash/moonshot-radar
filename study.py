@@ -329,7 +329,7 @@ def run(rpc, gecko, minutes=22, log=print, T_end=None):
     done = {r["pool"] for r in load_csv(DONE_FILE, None)}
     todo = [p for p in pools if p["pool"] not in done]
     deadline = time.time() + minutes * 60
-    n = 0
+    n = errors = 0
     for p in todo:
         if time.time() > deadline:
             break
@@ -349,6 +349,14 @@ def run(rpc, gecko, minutes=22, log=print, T_end=None):
         except RuntimeError as e:
             log(f"  {p['mint'][:8]}… {e}")
             break                                   # GeckoTerminal saturado: seguimos en la próxima
+        except Exception as e:  # noqa: BLE001     un fallo en UNA moneda no tumba el estudio
+            errors += 1
+            log(f"  {p['mint'][:8]}… error {e.__class__.__name__}: {str(e)[:120]}")
+            append_csv(DONE_FILE, [{"pool": p["pool"], "mint": p["mint"], "peak": 0, "hours": -1, "events": 0, "at": T_end}],
+                       ["pool", "mint", "peak", "hours", "events", "at"])
+            if errors >= 25:
+                log("  demasiados errores seguidos: paro hasta la próxima ejecución")
+                break
     log(f"estudio: {n} monedas nuevas esta vez · {len(done) + n}/{len(pools)} en total")
     report(T_end)
 
@@ -546,8 +554,17 @@ def main(argv=None):
     argv = list(sys.argv[1:] if argv is None else argv)
     minutes = float(argv[argv.index("--minutes") + 1]) if "--minutes" in argv else 22
     cfg = ms.load_config(interactive=False)
-    rpc = tf.RPC(cfg["rpc_url"], min_interval=0.1, timeout=120)
-    run(rpc, ms.Gecko(2.2), minutes=minutes, log=lambda m: print(ms.scrub(m, cfg), flush=True))
+    rpc = tf.RPC(cfg["rpc_url"], min_interval=0.1, max_retries=2, timeout=120)   # pocas repeticiones: si falla, plan B
+    err_f = HERE / "report" / "STUDY_ERROR.txt"
+    try:
+        run(rpc, ms.Gecko(2.2), minutes=minutes, log=lambda m: print(ms.scrub(m, cfg), flush=True))
+        if err_f.exists():
+            err_f.unlink()
+    except Exception:  # noqa: BLE001  deja el error escrito (sin la clave del RPC) para leerlo desde el chat
+        import traceback
+        err_f.parent.mkdir(exist_ok=True)
+        err_f.write_text(f"{datetime.now(timezone.utc):%Y-%m-%d %H:%M} UTC\n" + ms.scrub(traceback.format_exc(), cfg), encoding="utf-8")
+        raise
 
 
 if __name__ == "__main__":
