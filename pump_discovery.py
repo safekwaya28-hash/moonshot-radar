@@ -36,6 +36,9 @@ DEFAULTS = {
     "token_decimals": 6,
     "initial_real_token_reserves": 793_100_000,   # tokens vendibles en la curva al crear
     "benign_extensions": ["metadataPointer", "tokenMetadata", "mintCloseAuthority"],
+    # autoridades de impuesto de launchpads conocidos (impuesto controlado por la plataforma, no por el dev).
+    # Vacío al empezar: se añaden direcciones verificadas a mano (el informe muestra la autoridad de cada moneda).
+    "known_tax_authorities": [],
 }
 B58 = "123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz"
 
@@ -189,8 +192,36 @@ def mint_info(acct: dict | None, cfg: dict) -> dict:
         info = acct["data"]["parsed"]["info"]
     except (KeyError, TypeError):
         return {"ok": False}
-    exts = [e.get("extension") for e in info.get("extensions", []) or []]
+    raw = info.get("extensions", []) or []
+    exts = [e.get("extension") for e in raw]
+    tax = tax_info(raw, cfg)
+    benign = set(cfg["benign_extensions"])
+    if tax and not tax["changeable"]:
+        benign.add("transferFeeConfig")          # impuesto FIJO (nadie puede cambiarlo): se acepta, se informa
+        benign.add("transferFeeAmount")
     return {"ok": True, "program": acct.get("owner"),
             "mint_authority": info.get("mintAuthority"), "freeze_authority": info.get("freezeAuthority"),
-            "extensions": exts,
-            "dangerous_extensions": [e for e in exts if e not in cfg["benign_extensions"]]}
+            "extensions": exts, "tax": tax,
+            "dangerous_extensions": [e for e in exts if e not in benign]}
+
+
+def tax_info(raw_exts: list, cfg: dict) -> dict | None:
+    """Impuesto por transferencia (Token-2022 transferFeeConfig): % actual, % programado y quién puede cambiarlo."""
+    for e in raw_exts:
+        if e.get("extension") != "transferFeeConfig":
+            continue
+        st = e.get("state") or {}
+        def bps(k):
+            try:
+                return int((st.get(k) or {}).get("transferFeeBasisPoints") or 0)
+            except (TypeError, ValueError):
+                return 0
+        older, newer = bps("olderTransferFee"), bps("newerTransferFee")
+        auth = st.get("transferFeeConfigAuthority")
+        known = auth in set(cfg.get("known_tax_authorities", []))
+        return {"pct": max(older, newer) / 100, "pct_now": older / 100, "pct_next": newer / 100,
+                "config_authority": auth, "withdraw_authority": st.get("withdrawWithheldAuthority"),
+                "known_authority": known,
+                "changeable": bool(auth) and not known,
+                "dynamic": newer != older}
+    return None

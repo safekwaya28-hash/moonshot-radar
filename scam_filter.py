@@ -42,8 +42,14 @@ def hard_checks(mi: dict) -> list[str]:
         r.append("mint authority activa")
     if mi.get("freeze_authority"):
         r.append("freeze authority activa")
-    if mi.get("dangerous_extensions"):
-        r.append("extensiones Token-2022: " + ",".join(mi["dangerous_extensions"]))
+    tax = mi.get("tax")
+    if tax and tax["changeable"]:
+        r.append(f"impuesto {tax['pct']:g}% que alguien puede cambiar")
+    elif tax and tax["dynamic"]:
+        r.append(f"impuesto programado para cambiar ({tax['pct_now']:g}% → {tax['pct_next']:g}%)")
+    other = [e for e in mi.get("dangerous_extensions") or [] if not (tax and e in ("transferFeeConfig", "transferFeeAmount"))]
+    if other:
+        r.append("extensiones Token-2022: " + ",".join(other))
     return r
 
 

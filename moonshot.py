@@ -45,7 +45,7 @@ import token_forensics as tf  # noqa: E402
 TX_VERSION = 1
 
 
-VERSION = "moonshot-scan-v1.4"
+VERSION = "moonshot-scan-v1.5"
 CONFIG_FILE = HERE / "moonshot_config.json"
 WALLETS_FILE = HERE / "smart_wallets.csv"
 STATE_DIR = HERE / ".moonshot"
@@ -80,7 +80,9 @@ DEFAULT_RULES = {
     "wallet_min_tokens": 5,
     "wallet_max_top_share": 0.50,
     "wallet_pages": 3,               # páginas de 1000 tx a revisar al verificar una wallet
-    "wallet_verify_per_run": 2,      # wallets nuevas verificadas por ejecución (el resto espera a la siguiente)
+    "wallet_verify_per_run": 12,     # máximo de wallets nuevas verificadas por ejecución...
+    "verify_minutes": 18,            # ...y como mucho estos minutos (el resto espera a la siguiente)
+    "radar_minutes": 15,             # tiempo máximo descargando transacciones nuevas en cada radar
     # ---- coste
     "wallet_scan_pages": 1,          # páginas de 1000 firmas por wallet en cada radar (con caché, basta)
     "gecko_min_interval": 2.2,       # API pública: ~30 llamadas/min
@@ -322,13 +324,21 @@ def token_moves(tx, wallet):
     return {m: d for m, d in out.items() if abs(d) > 1e-12}
 
 
-def wallet_trades(rpc, store, wallet, since_ts, pages, sol_usd=None):
-    out = []
+def wallet_trades(rpc, store, wallet, since_ts, pages, sol_usd=None, deadline=None):
+    """Compras/ventas del wallet desde since_ts. Con deadline: pasado ese instante solo usa lo ya descargado
+    (lo pendiente se descarga en la siguiente ejecución; la caché conserva el progreso). Devuelve (trades, completo)."""
+    out, complete = [], True
     for s in recent_signatures(rpc, wallet, since_ts, pages):
-        t = parse_wallet_trade(store.get(rpc, s["signature"]), wallet, s["signature"], sol_usd)
+        tx = store.cache.get(s["signature"])
+        if tx is None:
+            if deadline and time.time() > deadline:
+                complete = False
+                continue
+            tx = store.get(rpc, s["signature"])
+        t = parse_wallet_trade(tx, wallet, s["signature"], sol_usd)
         if t:
             out.append(t)
-    return sorted(out, key=lambda t: t["ts"])
+    return sorted(out, key=lambda t: t["ts"]), complete
 
 
 def token_balance(rpc, wallet, mint):
@@ -468,7 +478,9 @@ def distribution(rpc, mint, supply, exclude=()):
             int(t.get("amount") or 0) / 10 ** int(t.get("decimals") or 0)
         held[o] = held.get(o, 0.0) + amt
     shares = sorted((v / supply for v in held.values()), reverse=True)
-    return {"top10": sum(shares[:10]), "max_wallet": shares[0] if shares else 0.0, "excluded_accounts": skipped}
+    holders = sorted(((o, v / supply) for o, v in held.items()), key=lambda x: -x[1])
+    return {"top10": sum(shares[:10]), "max_wallet": shares[0] if shares else 0.0, "excluded_accounts": skipped,
+            "holders": holders[:20]}
 
 
 def pump_creator(rpc, mint):
@@ -756,8 +768,16 @@ def run_radar(rpc, gecko, cfg, T=None, sol_usd=None, wallets=None, log=True, sta
             print(scrub(m, cfg), file=sys.stderr, flush=True)
     say(f"[1/4] compras de {len(wallets)} smart wallets en las últimas {R['lookback_hours']} h")
     buys = []
-    for w in wallets:
-        for t in wallet_trades(rpc, store, w["wallet"], since, R["wallet_scan_pages"], sol_usd):
+    import random
+    order = list(wallets)
+    random.Random(T // 1800).shuffle(order)          # orden distinto en cada ejecución: nadie se queda siempre al final
+    deadline = time.time() + 60 * float(R.get("radar_minutes", 15))
+    partial = []
+    for w in order:
+        trades, complete = wallet_trades(rpc, store, w["wallet"], since, R["wallet_scan_pages"], sol_usd, deadline)
+        if not complete:
+            partial.append(w.get("label") or w["wallet"][:6])
+        for t in trades:
             if t["side"] == "buy" and t["ts"] <= T:
                 if t.get("usd") is None:
                     t["usd"] = t["sol"] * sol_usd
@@ -767,7 +787,10 @@ def run_radar(rpc, gecko, cfg, T=None, sol_usd=None, wallets=None, log=True, sta
     by_mint = {}
     for b in buys:
         by_mint.setdefault(b["mint"], []).append(b)
-    say(f"[2/4] {len(buys)} compras relevantes en {len(by_mint)} tokens")
+    say(f"[2/4] {len(buys)} compras relevantes en {len(by_mint)} tokens"
+        + (f" · a medias (se completan en la próxima): {', '.join(partial)}" if partial else ""))
+    if log_file:
+        _write_scan_progress(len(wallets), partial)
     mints = list(by_mint)
     minfo = pdsc.get_multiple(rpc, mints, "jsonParsed") if mints else {}
     cards = []
@@ -831,6 +854,16 @@ def run_radar(rpc, gecko, cfg, T=None, sol_usd=None, wallets=None, log=True, sta
             for c in cards:
                 fh.write(json.dumps({"T": T, "version": VERSION, "rules": R, **c}, default=str) + "\n")
     return cards
+
+
+def _write_scan_progress(n, partial):
+    try:
+        d = HERE / "report"
+        d.mkdir(exist_ok=True)
+        (d / "scan_progress.txt").write_text(f"{n - len(partial)}/{n} wallets al día"
+                                             + (f"; pendientes: {', '.join(partial)}" if partial else "") + "\n", encoding="utf-8")
+    except OSError:
+        pass
 
 
 def token_meta(acct):
@@ -1145,18 +1178,19 @@ def add_wallets_file(rpc, R, sol_usd, path: Path):
     retry = []
     log = [f"# Verificación de wallets · {datetime.now(timezone.utc):%Y-%m-%d %H:%M} UTC", "",
            "| Wallet | Nombre | PnL realizado | Cierres | Tokens | Top token | Ventana | Swaps leídos | Resultado |", "|---|---|---|---|---|---|---|---|---|"]
-    budget = int(R.get("wallet_verify_per_run", 2))
+    budget = int(R.get("wallet_verify_per_run", 12))
+    t_end = time.time() + 60 * float(R.get("verify_minutes", 18))
     for ln in lines:
         parts = [p.strip() for p in ln.split(",")]
         addr, label = parts[0], (parts[1] if len(parts) > 1 else "")
         force = len(parts) > 2 and parts[2].lower() == "force"
         if addr in have:
             log.append(f"| `{addr[:6]}…` | {label} | | | | | | | ya estaba |"); continue
-        if budget <= 0:
+        if budget <= 0 or time.time() > t_end:
             retry.append(ln); continue                    # se verifica en la siguiente ejecución
         budget -= 1
         try:
-            v = verify_wallet(rpc, store, addr, R, sol_usd, log=False)
+            v = verify_wallet(rpc, store, addr, {**R, "wallet_pages": 1} if force else R, sol_usd, log=False)
         except Exception as e:  # noqa: BLE001
             log.append(f"| `{addr[:6]}…` | {label} | | | | | | | ⚠️ error (se reintentará en la próxima ejecución): {scrub(e)} |")
             retry.append(ln); continue
@@ -1229,6 +1263,8 @@ def write_status(cfg, rpc, sol_usd, outdir):
     pend = HERE / "wallets_to_add.txt"
     pl = [l for l in (pend.read_text(encoding="utf-8").splitlines() if pend.exists() else []) if l.strip() and not l.startswith("#")]
     L.append(f"- Pendientes en wallets_to_add.txt: {len(pl)}")
+    prog = out / "scan_progress.txt"
+    L.append(f"- Último radar: {prog.read_text(encoding='utf-8').strip() if prog.exists() else '—'}")
     err = out / "last_error.txt"
     L += ["", "## Último error", "```", err.read_text(encoding="utf-8")[-3000:] if err.exists() else "ninguno", "```"]
     (out / "STATUS.md").write_text("\n".join(L) + "\n", encoding="utf-8")
