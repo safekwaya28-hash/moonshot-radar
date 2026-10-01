@@ -40,9 +40,8 @@ jobs:
         run: |
           git config user.name "moonshot-bot"
           git config user.email "moonshot-bot@users.noreply.github.com"
-          for f in study report/STUDY.md; do
-            if [ -e "$f" ]; then git add -A "$f"; fi
-          done
+          mkdir -p study report
+          git add -A study report
           git commit -m "estudio $(date -u +%Y-%m-%dT%H:%MZ)" || echo "sin cambios"
           for i in 1 2 3; do
             git pull --rebase --autostash -X theirs origin main && git push && exit 0
