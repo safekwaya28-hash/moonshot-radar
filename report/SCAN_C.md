@@ -1,6 +1,7 @@
 # SCAN C — Meta / Flywheel
-**2026-10-01 23:29 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-01 23:32 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
+> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 > Llevo 6 h acumulando pools: las comparaciones 24h vs 24h anteriores son fiables a partir de 48 h.
 
 ## Metas por token de pago (1 activándose)
@@ -9,11 +10,11 @@
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
 - **Pools nuevos:** 1h 4 (antes 0) · 6h 16 (antes 0, nuevo) · 24h 16 (antes 0, nuevo)
 - **Amplitud (24h):** 15 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 77% del volumen
-- **Token de pago:** MC $43.68M · volumen 24h $12.48M · liquidez $3.45M
-- **Líder (más volumen):** NIGGA `8geyFDTLUGsWdqAvwV6zN9k26ThWZjACSnrE2NXaKx7` · MC $45.4k · vol 24h $22.0k · 24h -19.13%
+- **Token de pago:** MC $231.8k · volumen 24h $12.49M · liquidez $3.41M
+- **Líder (más volumen):** NIGGA `8geyFDTLUGsWdqAvwV6zN9k26ThWZjACSnrE2NXaKx7` · MC $44.4k · vol 24h $22.1k · 24h -20.99%
 - **Líder (mayor subida 24h):** MARIO `BJpDpd8XvHjxmCDDWjTAvJPXG7FhDTxfmashtguipump` · MC $4.0k · vol 24h $2.4k · 24h -7.69%
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
-- **Riesgos:** concentración: top10 57%, wallet máx 40.0%
+- **Riesgos:** concentración: top10 56%, wallet máx 39.9%
 
 ### ⚪ en observación — SPYx
 - **Quote:** `XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W`
