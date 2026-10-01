@@ -1,0 +1,52 @@
+name: Estudio Flat Base
+
+on:
+  schedule:
+    - cron: "15 * * * *"
+  workflow_dispatch: {}
+  push:
+    paths: ["study.py", ".github/workflows/study.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: moonshot-study
+  cancel-in-progress: false
+
+jobs:
+  study:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    env:
+      SOLANA_RPC: ${{ secrets.SOLANA_RPC }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Estudio (22 min por ejecución, acumula)
+        run: python study.py --minutes 22
+
+      - name: Publicar estudio
+        if: always()
+        run: |
+          git config user.name "moonshot-bot"
+          git config user.email "moonshot-bot@users.noreply.github.com"
+          for f in study report/STUDY.md; do
+            if [ -e "$f" ]; then git add -A "$f"; fi
+          done
+          git commit -m "estudio $(date -u +%Y-%m-%dT%H:%MZ)" || echo "sin cambios"
+          for i in 1 2 3; do
+            git pull --rebase --autostash -X theirs origin main && git push && exit 0
+            git rebase --abort 2>/dev/null || true
+            sleep 10
+          done
+          exit 1
