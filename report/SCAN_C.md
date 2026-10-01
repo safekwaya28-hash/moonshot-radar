@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-01 18:59 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-01 19:01 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > Llevo 1 h acumulando pools: las comparaciones 24h vs 24h anteriores son fiables a partir de 48 h.
 
