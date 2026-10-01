@@ -1,7 +1,7 @@
 {
- "version": "moonshot-scan-v1.4",
- "generated_utc": "2026-10-01T17:13:22+00:00",
- "T": 1790874802,
+ "version": "moonshot-scan-v1.5",
+ "generated_utc": "2026-10-01T17:36:12+00:00",
+ "T": 1790876172,
  "n_wallets": 1,
  "counts": {
   "ENTRY": 0,
@@ -17,7 +17,7 @@
    ],
    "n_smart": 1,
    "reasons": [
-    "HARD: extensiones Token-2022: transferFeeConfig"
+    "HARD: impuesto 1% que alguien puede cambiar"
    ],
    "criteria": [],
    "pending": [],

@@ -1,12 +1,12 @@
 # SCAN — Smart Money + Flat Base v1
-**2026-10-01 17:13 UTC** · 1 smart wallets vigiladas
+**2026-10-01 17:36 UTC** · 1 smart wallets vigiladas
 
 🟢 ENTRY **0** · 🟡 ESPERAR **0** · 🔴 DESCARTAR **1** · ⚫ SIN DATOS **0**
 
 ## 🔴 DESCARTAR — $SI
 - **CA:** `DEW9dSN6QpWyNthphCpMmAbZP1Q4cEKR9xQXAri98WDP`
 
-**DECISIÓN: DESCARTAR** — HARD: extensiones Token-2022: transferFeeConfig
+**DECISIÓN: DESCARTAR** — HARD: impuesto 1% que alguien puede cambiar
 
 [GMGN](https://gmgn.ai/sol/token/DEW9dSN6QpWyNthphCpMmAbZP1Q4cEKR9xQXAri98WDP) · [DexScreener](https://dexscreener.com/solana/DEW9dSN6QpWyNthphCpMmAbZP1Q4cEKR9xQXAri98WDP) · [pump.fun](https://pump.fun/coin/DEW9dSN6QpWyNthphCpMmAbZP1Q4cEKR9xQXAri98WDP) · [Solscan](https://solscan.io/token/DEW9dSN6QpWyNthphCpMmAbZP1Q4cEKR9xQXAri98WDP#holders)
 
