@@ -1,0 +1,16 @@
+# OUTCOMES — qué pasó después de cada decisión (incluidas las descartadas)
+**2026-10-01 17:42 UTC** · 1 monedas seguidas · la decisión original nunca se cambia
+
+| Escáner | Decisión | Monedas | con 24h | Mediana MC 24h / inicial | Muertas a 24h (≤ −50%) | Máx. ≥2x | ≥5x | ≥10x | 2x antes de −30% | 5x antes de −50% | 10x antes de −70% |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| A | NO | 1 | 1 | 1.00x | 0% | 0% | 0% | 0% | — | — | — |
+
+## ¿Qué filtro mata ganadoras? (descartadas por motivo)
+
+| Motivo del descarte | Monedas | con 24h | Mediana 24h | Muertas a 24h | Máx. ≥5x | ≥10x | 2x antes de −30% | 5x antes de −50% | 10x antes de −70% |
+|---|---|---|---|---|---|---|---|---|---|
+| extensión peligrosa | 1 | 1 | 1.00x | 0% | 0% | 0% | — | — | — |
+
+Lectura: un filtro es bueno si sus descartadas mueren mucho y casi nunca hacen ≥5x. Si un motivo tiene muchas ≥5x, ese filtro está matando ganadoras y hay que revisarlo. Con < 30 monedas por fila, todavía es ruido.
+Máximo = velas de 1 h desde la decisión cuando hay; si no, el máximo observado en las pasadas (puede quedarse corto).
+**"2x antes de −30%"** es la métrica operable: de las que ya se resolvieron, % que llegó al objetivo ANTES de caer al stop (si ambos ocurren en la misma vela de 1 h, cuenta como stop). Un 10x que antes cayó −80% no cuenta como operable.
