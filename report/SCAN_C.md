@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-02 13:01 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-02 13:03 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > Llevo 19 h acumulando pools: las comparaciones 24h vs 24h anteriores son fiables a partir de 48 h.
 
@@ -7,9 +7,9 @@
 
 ### 🟡 META ACTIVÁNDOSE — NVDAx
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 18 (antes 0, nuevo)
-- **Amplitud (24h):** 17 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 79% del volumen
-- **Token de pago:** MC $236.1k · volumen 24h $8.66M · liquidez $3.19M
+- **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 0, nuevo) · 24h 19 (antes 0, nuevo)
+- **Amplitud (24h):** 18 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 79% del volumen
+- **Token de pago:** MC $236.3k · volumen 24h $8.64M · liquidez $3.19M
 - **Líder (más volumen):** NIGGA `8geyFDTLUGsWdqAvwV6zN9k26ThWZjACSnrE2NXaKx7` · MC $22.9k · vol 24h $25.2k · 24h -59.2%
 - **Líder (mayor subida 24h):** RAM `7drkoyRbHEox4YASztjdt6aBYsDiwor3Xe7xmbLMpump` · MC $4.1k · vol 24h $11 · 24h -0.26%
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
@@ -31,6 +31,10 @@
 - **Quote:** `Xs8S1uUs1zvS2p7iwtsG3b6fkhpvmwz4GYU3gWAmWHZ`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 2 (antes 0, nuevo) · 24h 4 (antes 0, nuevo)
 
+### ⚪ en observación — AMZNx
+- **Quote:** `Xs3eBt7uRfJX8QUs4suhyU8p2M6DoUDrJyWBa8LLZsg`
+- **Pools nuevos:** 1h 2 (antes 0) · 6h 2 (antes 0, nuevo) · 24h 4 (antes 0, nuevo)
+
 ### ⚪ en observación — MSFTx
 - **Quote:** `XspzcW1PRtgf6Wj92HCiZdjzKCyFekVD8P5Ueh3dRMX`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 4 (antes 0, nuevo)
@@ -46,10 +50,6 @@
 ### ⚪ en observación — COINx
 - **Quote:** `Xs7ZdzSHLU9ftNJsii5fCeJhoRWSC32SQGzGQtePxNu`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 3 (antes 0, nuevo)
-
-### ⚪ en observación — AMZNx
-- **Quote:** `Xs3eBt7uRfJX8QUs4suhyU8p2M6DoUDrJyWBa8LLZsg`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 0, nuevo) · 24h 3 (antes 0, nuevo)
 
 ## Plataformas con ingresos acelerando (DefiLlama)
 
