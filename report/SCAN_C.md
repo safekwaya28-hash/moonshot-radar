@@ -1,7 +1,6 @@
 # SCAN C — Meta / Flywheel
-**2026-10-02 15:00 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-02 15:01 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
-> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 > Llevo 21 h acumulando pools: las comparaciones 24h vs 24h anteriores son fiables a partir de 48 h.
 
 ## Metas por token de pago (2 activándose)
@@ -10,7 +9,7 @@
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
 - **Pools nuevos:** 1h 1 (antes 10) · 6h 12 (antes 0, nuevo) · 24h 30 (antes 0, nuevo)
 - **Amplitud (24h):** 29 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 59% del volumen
-- **Token de pago:** MC $44.67M · volumen 24h $7.50M · liquidez $3.03M
+- **Token de pago:** MC $237.0k · volumen 24h $7.49M · liquidez $3.03M
 - **Líder (más volumen):** NIGGA `8geyFDTLUGsWdqAvwV6zN9k26ThWZjACSnrE2NXaKx7` · MC $22.9k · vol 24h $25.2k · 24h -59.2%
 - **Líder (mayor subida 24h):** RAM `7drkoyRbHEox4YASztjdt6aBYsDiwor3Xe7xmbLMpump` · MC $4.1k · vol 24h $11 · 24h -0.26%
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
@@ -31,7 +30,7 @@
 
 ### ⚪ en observación — GLDx
 - **Quote:** `Xsv9hRk1z5ystj9MhnA7Lq4vjSsLwzL2nxrwmwtD3re`
-- **Pools nuevos:** 1h 3 (antes 0) · 6h 4 (antes 0, nuevo) · 24h 6 (antes 0, nuevo)
+- **Pools nuevos:** 1h 3 (antes 1) · 6h 5 (antes 0, nuevo) · 24h 7 (antes 0, nuevo)
 
 ### ⚪ en observación — GOOGLx
 - **Quote:** `XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN`
