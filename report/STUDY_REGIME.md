@@ -1,7 +1,7 @@
 # ESTUDIO · por trimestre (¿funciona en todos o solo en uno?)
-**2026-10-02 10:30 UTC** · fuente: todas las graduadas de pump.fun (PumpSwap)
+**2026-10-02 11:30 UTC** · fuente: todas las graduadas de pump.fun (PumpSwap)
 
-- Monedas revisadas: **1,681 / 206,007** (1%) · con pico ≥ $500k: **332**
+- Monedas revisadas: **1,765 / 206,007** (1%) · con pico ≥ $500k: **348**
 
 EV por trimestre de entrada (entre paréntesis, nº de operaciones y % que cobró ≥10x):
 
@@ -9,11 +9,11 @@ EV por trimestre de entrada (entre paréntesis, nº de operaciones y % que cobr�
 |---|---|---|
 | REF_dd70_mc150k_sin_base | estructura | 0.99x (17, 0%) |
 | REF_dd85_mc150k_sin_base | estructura | 0.99x (17, 0%) |
-| TIPO_SOAP_pico200k_dd75_mc50k_72h_base | estructura | 0.98x (6, 0%) |
-| TIPO_SOAP_pico200k_dd75_mc50k_72h_base | escalonada | 0.93x (6, 0%) |
-| TIPO_SOAP_pico200k_dd75_mc50k_72h_base | solo_stop | 0.93x (6, 0%) |
-| TIPO_SOAP_pico200k_dd75_mc50k_72h_base | trailing | 0.93x (6, 0%) |
-| TIPO_SOAP_pico200k_dd75_mc50k_72h_base | tuya | 0.93x (6, 0%) |
+| TIPO_SOAP_pico200k_dd75_mc50k_72h_base | estructura | 0.99x (7, 0%) |
+| TIPO_SOAP_pico200k_dd75_mc50k_72h_base | escalonada | 0.95x (7, 0%) |
+| TIPO_SOAP_pico200k_dd75_mc50k_72h_base | solo_stop | 0.95x (7, 0%) |
+| TIPO_SOAP_pico200k_dd75_mc50k_72h_base | trailing | 0.95x (7, 0%) |
+| TIPO_SOAP_pico200k_dd75_mc50k_72h_base | tuya | 0.95x (7, 0%) |
 | REF_dd70_mc150k_sin_base | escalonada | 0.91x (17, 0%) |
 | dd70_mc150k_72h_base | tuya | 1.02x (4, 0%) |
 
