@@ -1,24 +1,29 @@
 # ESTUDIO · ¿qué entrada y qué forma de vender dan más 10x–50x cobrados?
-**2026-10-02 02:29 UTC** · fuente: todas las graduadas de pump.fun (PumpSwap)
+**2026-10-02 03:31 UTC** · fuente: todas las graduadas de pump.fun (PumpSwap)
 
-- Monedas revisadas: **981 / 206,007** (0%) · con pico ≥ $500k: **203**
-- Entradas simuladas: **14 monedas** · **100% con < 180 días de datos después** (⚠️ con tanta censura el estudio todavía no puede afirmar nada sobre 50x)
+- Monedas revisadas: **1,069 / 206,007** (1%) · con pico ≥ $500k: **224**
+- Entradas simuladas: **18 monedas** · **100% con < 180 días de datos después** (⚠️ con tanta censura el estudio todavía no puede afirmar nada sobre 50x)
 
 ## Ranking (EV = lo que multiplicas de media por operación, cobrado con esa regla de venta)
 
 | # | Entrada | Venta | Ops | EV | IC 95% EV | EV sin top 3 | Mediana | p90 | Cobró ≥10x | Cobró ≥50x | ROI 10×50€ | Caída máx. |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | REF_dd70_mc150k_sin_base | estructura | 9 | 1.10x | — | 0.96x ⚠️ | 1.20x | 1.36x | 0% | 0% | +9% | -9% |
-| 2 | REF_dd85_mc150k_sin_base | estructura | 9 | 1.10x | — | 0.96x ⚠️ | 1.20x | 1.36x | 0% | 0% | +9% | -9% |
-| 3 | REF_dd70_mc150k_sin_base | escalonada | 9 | 0.97x | — | 0.83x | 0.96x | 1.28x | 0% | 0% | -2% | -7% |
-| 4 | REF_dd70_mc150k_sin_base | solo_stop | 9 | 0.97x | — | 0.83x | 0.96x | 1.28x | 0% | 0% | -2% | -7% |
-| 5 | REF_dd70_mc150k_sin_base | trailing | 9 | 0.97x | — | 0.83x | 0.96x | 1.28x | 0% | 0% | -2% | -7% |
-| 6 | REF_dd70_mc150k_sin_base | tuya | 9 | 0.97x | — | 0.83x | 0.96x | 1.28x | 0% | 0% | -2% | -7% |
-| 7 | REF_dd85_mc150k_sin_base | escalonada | 9 | 0.97x | — | 0.83x | 0.96x | 1.28x | 0% | 0% | -2% | -7% |
-| 8 | REF_dd85_mc150k_sin_base | solo_stop | 9 | 0.97x | — | 0.83x | 0.96x | 1.28x | 0% | 0% | -2% | -7% |
-| 9 | REF_dd85_mc150k_sin_base | trailing | 9 | 0.97x | — | 0.83x | 0.96x | 1.28x | 0% | 0% | -2% | -7% |
-| 10 | REF_dd85_mc150k_sin_base | tuya | 9 | 0.97x | — | 0.83x | 0.96x | 1.28x | 0% | 0% | -2% | -7% |
-| 11 | dd70_mc150k_72h_base ⭐ | tuya | 3 | 1.13x | — | — | 0.93x | 1.46x | 0% | 0% | +4% | -2% |
+| 1 | REF_dd70_mc150k_sin_base | estructura | 10 | 1.09x | — | 0.96x ⚠️ | 1.20x | 1.33x | 0% | 0% | +9% | -9% |
+| 2 | REF_dd85_mc150k_sin_base | estructura | 10 | 1.09x | — | 0.96x ⚠️ | 1.20x | 1.33x | 0% | 0% | +9% | -9% |
+| 3 | TIPO_SOAP_pico200k_dd75_mc50k_72h_base | escalonada | 5 | 0.98x | — | 0.75x | 0.87x | 1.32x | 0% | 0% | -1% | -7% |
+| 4 | TIPO_SOAP_pico200k_dd75_mc50k_72h_base | solo_stop | 5 | 0.98x | — | 0.75x | 0.87x | 1.32x | 0% | 0% | -1% | -7% |
+| 5 | TIPO_SOAP_pico200k_dd75_mc50k_72h_base | trailing | 5 | 0.98x | — | 0.75x | 0.87x | 1.32x | 0% | 0% | -1% | -7% |
+| 6 | TIPO_SOAP_pico200k_dd75_mc50k_72h_base | tuya | 5 | 0.98x | — | 0.75x | 0.87x | 1.32x | 0% | 0% | -1% | -7% |
+| 7 | REF_dd70_mc150k_sin_base | escalonada | 10 | 0.97x | — | 0.85x | 0.96x | 1.27x | 0% | 0% | -3% | -8% |
+| 8 | REF_dd70_mc150k_sin_base | solo_stop | 10 | 0.97x | — | 0.85x | 0.96x | 1.27x | 0% | 0% | -3% | -8% |
+| 9 | REF_dd70_mc150k_sin_base | trailing | 10 | 0.97x | — | 0.85x | 0.96x | 1.27x | 0% | 0% | -3% | -8% |
+| 10 | REF_dd70_mc150k_sin_base | tuya | 10 | 0.97x | — | 0.85x | 0.96x | 1.27x | 0% | 0% | -3% | -8% |
+| 11 | REF_dd85_mc150k_sin_base | escalonada | 10 | 0.97x | — | 0.85x | 0.96x | 1.27x | 0% | 0% | -3% | -8% |
+| 12 | REF_dd85_mc150k_sin_base | solo_stop | 10 | 0.97x | — | 0.85x | 0.96x | 1.27x | 0% | 0% | -3% | -8% |
+| 13 | REF_dd85_mc150k_sin_base | trailing | 10 | 0.97x | — | 0.85x | 0.96x | 1.27x | 0% | 0% | -3% | -8% |
+| 14 | REF_dd85_mc150k_sin_base | tuya | 10 | 0.97x | — | 0.85x | 0.96x | 1.27x | 0% | 0% | -3% | -8% |
+| 15 | TIPO_SOAP_pico200k_dd75_mc50k_72h_base | estructura | 5 | 0.94x | — | 0.47x | 0.74x | 1.52x | 0% | 0% | -3% | -6% |
+| 16 | dd70_mc150k_72h_base ⭐ | tuya | 3 | 1.13x | — | — | 0.93x | 1.46x | 0% | 0% | +4% | -2% |
 
 ⭐ = tus reglas actuales. ⚠️ = el EV pasa de ganar a perder quitando las 3 mejores: es suerte, no estrategia.
 EV > 1x = gana de media. Solo filas con ≥ 5 operaciones (con menos de ~30 los números bailan mucho).
