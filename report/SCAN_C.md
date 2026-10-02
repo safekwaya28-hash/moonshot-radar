@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-02 01:58 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-02 02:01 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 > Llevo 8 h acumulando pools: las comparaciones 24h vs 24h anteriores son fiables a partir de 48 h.
@@ -10,7 +10,7 @@
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
 - **Pools nuevos:** 1h 0 (antes 1) · 6h 11 (antes 7, +57%) · 24h 18 (antes 0, nuevo)
 - **Amplitud (24h):** 17 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 79% del volumen
-- **Token de pago:** MC $232.1k · volumen 24h $9.80M · liquidez $3.47M
+- **Token de pago:** MC $232.1k · volumen 24h $9.78M · liquidez $3.46M
 - **Líder (más volumen):** NIGGA `8geyFDTLUGsWdqAvwV6zN9k26ThWZjACSnrE2NXaKx7` · MC $22.9k · vol 24h $25.2k · 24h -59.2%
 - **Líder (mayor subida 24h):** RAM `7drkoyRbHEox4YASztjdt6aBYsDiwor3Xe7xmbLMpump` · MC $4.1k · vol 24h $11 · 24h -0.26%
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
@@ -61,14 +61,14 @@
 - **Token:** sin token listado en CoinGecko
 
 ### 🟡 FLYWHEEL ACELERANDO — Bags (Launchpad)
-- **Ingresos 7d:** $79.8k · 7d anteriores $24.3k · cambio 3.3×
-- **Ingresos 24h:** $11.4k · 24h anteriores $11.4k · +0% (¿sigue acelerando hoy?)
+- **Ingresos 7d:** $89.6k · 7d anteriores $24.3k · cambio 3.7×
+- **Ingresos 24h:** $9.8k · 24h anteriores $11.4k · -14% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** —
 - **Token:** sin token listado en CoinGecko
 
 ### 🟡 FLYWHEEL ACELERANDO — Bloom Trading Bot (Gaming)
-- **Ingresos 7d:** $52.3k · 7d anteriores — · cambio nuevo
-- **Ingresos 24h:** $14.0k · 24h anteriores $14.0k · +0% (¿sigue acelerando hoy?)
+- **Ingresos 7d:** $62.0k · 7d anteriores — · cambio nuevo
+- **Ingresos 24h:** $9.7k · 24h anteriores $14.0k · -31% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** —
 - **Token:** sin token listado en CoinGecko
 
