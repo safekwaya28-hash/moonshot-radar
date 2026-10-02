@@ -1,7 +1,7 @@
 # ESTUDIO · por trimestre (¿funciona en todos o solo en uno?)
-**2026-10-02 14:33 UTC** · fuente: todas las graduadas de pump.fun (PumpSwap)
+**2026-10-02 15:33 UTC** · fuente: todas las graduadas de pump.fun (PumpSwap)
 
-- Monedas revisadas: **2,031 / 206,007** (1%) · con pico ≥ $500k: **397**
+- Monedas revisadas: **2,121 / 206,007** (1%) · con pico ≥ $500k: **411**
 
 EV por trimestre de entrada (entre paréntesis, nº de operaciones y % que cobró ≥10x):
 
@@ -11,7 +11,6 @@ EV por trimestre de entrada (entre paréntesis, nº de operaciones y % que cobr�
 | dd70_mc50k_72h_base | estructura | 1.13x (5, 0%) |
 | dd85_mc150k_72h_base | estructura | 1.13x (5, 0%) |
 | dd85_mc50k_72h_base | estructura | 1.13x (5, 0%) |
-| TIPO_SOAP_pico200k_dd75_mc50k_72h_base | estructura | 1.00x (9, 0%) |
 | dd70_mc150k_72h_base | escalonada | 1.00x (5, 0%) |
 | dd70_mc150k_72h_base | solo_stop | 1.00x (5, 0%) |
 | dd70_mc150k_72h_base | trailing | 1.00x (5, 0%) |
