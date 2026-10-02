@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-02 15:59 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-02 16:00 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 > Llevo 22 h acumulando pools: las comparaciones 24h vs 24h anteriores son fiables a partir de 48 h.
@@ -20,7 +20,7 @@
 - **Quote:** `Pren1FvFX6J3E4kXhJuCiAD5aDmGEb7qJRncwA8Lkhw`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 12 (antes 0, nuevo) · 24h 15 (antes 0, nuevo)
 - **Amplitud (24h):** 15 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Token de pago:** MC $9.02M · volumen 24h $972.2k · liquidez $443.7k
+- **Token de pago:** MC $9.02M · volumen 24h $972.2k · liquidez $443.6k
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
 - **Riesgos:** concentración: top10 47%, wallet máx 20.0%; liquidez 5% del MC; impuesto 5% · lo puede cambiar: WV9PJN… · cobra: WV9PJN… → revisar a dónde va y si esa wallet vende
 - **Descartado por seguridad:** mint authority activa; freeze authority activa; impuesto 5% que alguien puede cambiar; extensiones Token-2022: permanentDelegate,defaultAccountState,confidentialTransferMint,confidentialTransferFeeConfig,transferHook,scaledUiAmountConfig,pausableConfig
