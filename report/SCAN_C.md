@@ -1,27 +1,28 @@
 # SCAN C — Meta / Flywheel
-**2026-10-02 14:01 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-02 14:36 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
-> Llevo 20 h acumulando pools: las comparaciones 24h vs 24h anteriores son fiables a partir de 48 h.
+> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
+> Llevo 21 h acumulando pools: las comparaciones 24h vs 24h anteriores son fiables a partir de 48 h.
 
 ## Metas por token de pago (2 activándose)
 
 ### 🟡 META ACTIVÁNDOSE — NVDAx
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
-- **Pools nuevos:** 1h 10 (antes 1) · 6h 11 (antes 0, nuevo) · 24h 29 (antes 0, nuevo)
+- **Pools nuevos:** 1h 6 (antes 5) · 6h 11 (antes 0, nuevo) · 24h 29 (antes 0, nuevo)
 - **Amplitud (24h):** 28 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 59% del volumen
-- **Token de pago:** MC $237.9k · volumen 24h $7.88M · liquidez $3.19M
+- **Token de pago:** MC $237.2k · volumen 24h $7.85M · liquidez $3.01M
 - **Líder (más volumen):** NIGGA `8geyFDTLUGsWdqAvwV6zN9k26ThWZjACSnrE2NXaKx7` · MC $22.9k · vol 24h $25.2k · 24h -59.2%
 - **Líder (mayor subida 24h):** RAM `7drkoyRbHEox4YASztjdt6aBYsDiwor3Xe7xmbLMpump` · MC $4.1k · vol 24h $11 · 24h -0.26%
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
-- **Riesgos:** concentración: top10 95%, wallet máx 86.0%
+- **Riesgos:** concentración: top10 94%, wallet máx 80.4%
 
 ### 🟡 META ACTIVÁNDOSE — ANTHRP
 - **Quote:** `Pren1FvFX6J3E4kXhJuCiAD5aDmGEb7qJRncwA8Lkhw`
-- **Pools nuevos:** 1h 12 (antes 0) · 6h 12 (antes 0, nuevo) · 24h 15 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 12) · 6h 12 (antes 0, nuevo) · 24h 15 (antes 0, nuevo)
 - **Amplitud (24h):** 15 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Token de pago:** MC $8.79M · volumen 24h $965.3k · liquidez $451.2k
+- **Token de pago:** MC $9.14M · volumen 24h $967.0k · liquidez $453.4k
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
-- **Riesgos:** concentración: top10 47%, wallet máx 20.0%; impuesto 5% · lo puede cambiar: WV9PJN… · cobra: WV9PJN… → revisar a dónde va y si esa wallet vende
+- **Riesgos:** concentración: top10 47%, wallet máx 20.0%; liquidez 5% del MC; impuesto 5% · lo puede cambiar: WV9PJN… · cobra: WV9PJN… → revisar a dónde va y si esa wallet vende
 - **Descartado por seguridad:** mint authority activa; freeze authority activa; impuesto 5% que alguien puede cambiar; extensiones Token-2022: permanentDelegate,defaultAccountState,confidentialTransferMint,confidentialTransferFeeConfig,transferHook,scaledUiAmountConfig,pausableConfig
 
 ### ⚪ en observación — SPYx
@@ -30,7 +31,7 @@
 
 ### ⚪ en observación — GOOGLx
 - **Quote:** `XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 1 (antes 4, -75%) · 24h 6 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 5, -100%) · 24h 6 (antes 0, nuevo)
 
 ### ⚪ en observación — TSLAx
 - **Quote:** `XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB`
