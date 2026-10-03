@@ -1,10 +1,10 @@
 # OUTCOMES — qué pasó después de cada decisión (incluidas las descartadas)
-**2026-10-03 08:00 UTC** · 68 monedas seguidas · la decisión original nunca se cambia
+**2026-10-03 08:33 UTC** · 69 monedas seguidas · la decisión original nunca se cambia
 
 | Escáner | Decisión | Monedas | con 24h | Mediana MC 24h / inicial | Muertas a 24h (≤ −50%) | Máx. ≥2x | ≥5x | ≥10x | 2x antes de −30% | 5x antes de −50% | 10x antes de −70% |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | A | NO | 1 | 1 | 1.00x | 0% | 0% | 0% | 0% | — | — | — |
-| B | DESCARTAR | 43 | 6 | 0.32x | 83% | 40% | 9% | 3% | 15% (n=34) | 10% (n=29) | 6% (n=18) |
+| B | DESCARTAR | 44 | 6 | 0.32x | 83% | 39% | 8% | 3% | 14% (n=35) | 10% (n=30) | 5% (n=19) |
 | B | FUERA | 5 | 1 | 0.52x | 0% | 25% | 0% | 0% | 0% (n=3) | 0% (n=2) | — |
 | B | WATCH | 14 | 5 | 0.15x | 100% | 42% | 8% | 0% | 8% (n=12) | 0% (n=11) | 0% (n=5) |
 | C-meta | 🟡 META ACTIVÁNDOSE | 5 | 1 | 0.46x | 100% | 25% | 25% | 0% | 50% (n=2) | 50% (n=2) | 0% (n=1) |
@@ -18,6 +18,7 @@
 | compras en el bloque de creación | 11 | 1 | 0.23x | 100% | 18% | 0% | 18% (n=11) | 18% (n=11) | 0% (n=6) |
 | extensión peligrosa | 1 | 1 | 1.00x | 0% | 0% | 0% | — | — | — |
 | snipers | 1 | 0 | —x | — | 0% | 0% | 0% (n=1) | 0% (n=1) | 0% (n=1) |
+| volumen en bucle | 1 | 0 | —x | — | 0% | 0% | 0% (n=1) | 0% (n=1) | 0% (n=1) |
 
 Lectura: un filtro es bueno si sus descartadas mueren mucho y casi nunca hacen ≥5x. Si un motivo tiene muchas ≥5x, ese filtro está matando ganadoras y hay que revisarlo. Con < 30 monedas por fila, todavía es ruido.
 Máximo = velas de 1 h desde la decisión cuando hay; si no, el máximo observado en las pasadas (puede quedarse corto).
