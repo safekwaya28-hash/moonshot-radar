@@ -1,15 +1,15 @@
 # SCAN C — Meta / Flywheel
-**2026-10-03 09:02 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-03 09:32 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
-> Llevo 39 h acumulando pools: las comparaciones 24h vs 24h anteriores son fiables a partir de 48 h.
+> Llevo 40 h acumulando pools: las comparaciones 24h vs 24h anteriores son fiables a partir de 48 h.
 
-## Metas por token de pago (2 activándose)
+## Metas por token de pago (3 activándose)
 
 ### 🟡 META ACTIVÁNDOSE — SPYx
 - **Quote:** `XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W`
-- **Pools nuevos:** 1h 0 (antes 4) · 6h 4 (antes 5, -20%) · 24h 17 (antes 5, +240%)
+- **Pools nuevos:** 1h 0 (antes 2) · 6h 4 (antes 4, +0%) · 24h 17 (antes 5, +240%)
 - **Amplitud (24h):** 17 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 82% del volumen ⚠️ una sola moneda domina: puede no ser una moda
-- **Token de pago:** MC $774.6k · volumen 24h $1.87M · liquidez $3.10M
+- **Token de pago:** MC $774.6k · volumen 24h $1.85M · liquidez $3.10M
 - **Líder (más volumen):** BLACKROCK `7chry38XsAyCWxCN6TebATuNZ1WZC9zWS7QfWaWoVdgv` · MC $4.0k · vol 24h $27.1k · 24h -13.88%
 - **Líder (mayor subida 24h):** NOVBULL `45og2nXkTuN4FSzqdQS9BA8XmVk1axAqj7C9Y3MFpump` · MC $4.1k · vol 24h $0 · 24h 0.13%
 - **Catalizador:** META ACCELERATION (pools 24h +240%)
@@ -19,18 +19,24 @@
 - **Quote:** `Pren1FvFX6J3E4kXhJuCiAD5aDmGEb7qJRncwA8Lkhw`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 13 (antes 3, +333%)
 - **Amplitud (24h):** 13 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Token de pago:** MC $8.73M · volumen 24h $434.3k · liquidez $392.5k
+- **Token de pago:** MC $8.72M · volumen 24h $410.1k · liquidez $392.2k
 - **Catalizador:** META ACCELERATION (pools 24h +333%)
 - **Riesgos:** concentración: top10 47%, wallet máx 20.0%; liquidez 4% del MC; impuesto 5% · lo puede cambiar: WV9PJN… · cobra: WV9PJN… → revisar a dónde va y si esa wallet vende
 - **Descartado por seguridad:** mint authority activa; freeze authority activa; impuesto 5% que alguien puede cambiar; extensiones Token-2022: permanentDelegate,defaultAccountState,confidentialTransferMint,confidentialTransferFeeConfig,transferHook,scaledUiAmountConfig,pausableConfig
 
+### 🟡 META ACTIVÁNDOSE — TSLAx
+- **Quote:** `XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB`
+- **Pools nuevos:** 1h 1 (antes 2) · 6h 9 (antes 0, nuevo) · 24h 10 (antes 6, +67%)
+- **Amplitud (24h):** 10 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 100% del volumen ⚠️ una sola moneda domina: puede no ser una moda
+- **Token de pago:** MC $72.10M · volumen 24h $1.27M · liquidez $2.30M
+- **Líder (más volumen):** KINF `DJcJ2PbogD9LAZ3zQbmm3YkvKmo4gf3LwyaCFxoipump` · MC $4.0k · vol 24h $23 · 24h -0.54%
+- **Líder (mayor subida 24h):** KINF `DJcJ2PbogD9LAZ3zQbmm3YkvKmo4gf3LwyaCFxoipump` · MC $4.0k · vol 24h $23 · 24h -0.54%
+- **Catalizador:** META ACCELERATION (pools 24h +67%)
+- **Riesgos:** liquidez 0% del MC
+
 ### ⚪ en observación — NVDAx
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
-- **Pools nuevos:** 1h 0 (antes 5) · 6h 6 (antes 7, -14%) · 24h 28 (antes 18, +56%)
-
-### ⚪ en observación — TSLAx
-- **Quote:** `XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB`
-- **Pools nuevos:** 1h 0 (antes 2) · 6h 8 (antes 0, nuevo) · 24h 9 (antes 6, +50%)
+- **Pools nuevos:** 1h 0 (antes 4) · 6h 6 (antes 7, -14%) · 24h 28 (antes 18, +56%)
 
 ### ⚪ en observación — QQQx
 - **Quote:** `Xs8S1uUs1zvS2p7iwtsG3b6fkhpvmwz4GYU3gWAmWHZ`
@@ -40,9 +46,13 @@
 - **Quote:** `Xsv9hRk1z5ystj9MhnA7Lq4vjSsLwzL2nxrwmwtD3re`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 6 (antes 2, +200%)
 
+### ⚪ en observación — MSFTx
+- **Quote:** `XspzcW1PRtgf6Wj92HCiZdjzKCyFekVD8P5Ueh3dRMX`
+- **Pools nuevos:** 1h 3 (antes 0) · 6h 3 (antes 0, nuevo) · 24h 5 (antes 4, +25%)
+
 ### ⚪ en observación — WBTC
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 3, -100%) · 24h 6 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 2, -100%) · 24h 5 (antes 1, +400%)
 
 ### ⚪ en observación — AMZNx
 - **Quote:** `Xs3eBt7uRfJX8QUs4suhyU8p2M6DoUDrJyWBa8LLZsg`
@@ -51,10 +61,6 @@
 ### ⚪ en observación — METAx
 - **Quote:** `Xsa62P5mvPszXL1krVUnU5ar38bBSVcWAB6fmPCo5Zu`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 2 (antes 1, +100%)
-
-### ⚪ en observación — MSFTx
-- **Quote:** `XspzcW1PRtgf6Wj92HCiZdjzKCyFekVD8P5Ueh3dRMX`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 2 (antes 4, -50%)
 
 ## Plataformas con ingresos acelerando (DefiLlama)
 
