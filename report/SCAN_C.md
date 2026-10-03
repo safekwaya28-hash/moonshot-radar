@@ -1,6 +1,7 @@
 # SCAN C — Meta / Flywheel
-**2026-10-03 09:32 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-03 09:35 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
+> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 > Llevo 40 h acumulando pools: las comparaciones 24h vs 24h anteriores son fiables a partir de 48 h.
 
 ## Metas por token de pago (3 activándose)
@@ -26,7 +27,7 @@
 
 ### 🟡 META ACTIVÁNDOSE — TSLAx
 - **Quote:** `XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB`
-- **Pools nuevos:** 1h 1 (antes 2) · 6h 9 (antes 0, nuevo) · 24h 10 (antes 6, +67%)
+- **Pools nuevos:** 1h 1 (antes 1) · 6h 7 (antes 2, +250%) · 24h 10 (antes 6, +67%)
 - **Amplitud (24h):** 10 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 100% del volumen ⚠️ una sola moneda domina: puede no ser una moda
 - **Token de pago:** MC $72.10M · volumen 24h $1.27M · liquidez $2.30M
 - **Líder (más volumen):** KINF `DJcJ2PbogD9LAZ3zQbmm3YkvKmo4gf3LwyaCFxoipump` · MC $4.0k · vol 24h $23 · 24h -0.54%
@@ -36,7 +37,7 @@
 
 ### ⚪ en observación — NVDAx
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
-- **Pools nuevos:** 1h 0 (antes 4) · 6h 6 (antes 7, -14%) · 24h 28 (antes 18, +56%)
+- **Pools nuevos:** 1h 0 (antes 3) · 6h 6 (antes 7, -14%) · 24h 28 (antes 18, +56%)
 
 ### ⚪ en observación — QQQx
 - **Quote:** `Xs8S1uUs1zvS2p7iwtsG3b6fkhpvmwz4GYU3gWAmWHZ`
