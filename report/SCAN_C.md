@@ -1,8 +1,7 @@
 # SCAN C — Meta / Flywheel
-**2026-10-02 23:58 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-03 00:39 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
-> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
-> Llevo 30 h acumulando pools: las comparaciones 24h vs 24h anteriores son fiables a partir de 48 h.
+> Llevo 31 h acumulando pools: las comparaciones 24h vs 24h anteriores son fiables a partir de 48 h.
 
 ## Metas por token de pago (1 activándose)
 
@@ -10,14 +9,14 @@
 - **Quote:** `Pren1FvFX6J3E4kXhJuCiAD5aDmGEb7qJRncwA8Lkhw`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 1 (antes 12, -92%) · 24h 13 (antes 3, +333%)
 - **Amplitud (24h):** 13 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Token de pago:** MC $8.75M · volumen 24h $456.2k · liquidez $394.3k
+- **Token de pago:** MC $8.79M · volumen 24h $421.2k · liquidez $395.7k
 - **Catalizador:** META ACCELERATION (pools 24h +333%)
 - **Riesgos:** concentración: top10 47%, wallet máx 20.0%; liquidez 5% del MC; impuesto 5% · lo puede cambiar: WV9PJN… · cobra: WV9PJN… → revisar a dónde va y si esa wallet vende
 - **Descartado por seguridad:** mint authority activa; freeze authority activa; impuesto 5% que alguien puede cambiar; extensiones Token-2022: permanentDelegate,defaultAccountState,confidentialTransferMint,confidentialTransferFeeConfig,transferHook,scaledUiAmountConfig,pausableConfig
 
 ### ⚪ en observación — NVDAx
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
-- **Pools nuevos:** 1h 0 (antes 1) · 6h 5 (antes 12, -58%) · 24h 18 (antes 17, +6%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 5 (antes 12, -58%) · 24h 17 (antes 18, -6%)
 
 ### ⚪ en observación — SPYx
 - **Quote:** `XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W`
@@ -37,7 +36,7 @@
 
 ### ⚪ en observación — WBTC
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
-- **Pools nuevos:** 1h 0 (antes 1) · 6h 3 (antes 1, +200%) · 24h 5 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 3 (antes 1, +200%) · 24h 5 (antes 0, nuevo)
 
 ### ⚪ en observación — AMZNx
 - **Quote:** `Xs3eBt7uRfJX8QUs4suhyU8p2M6DoUDrJyWBa8LLZsg`
@@ -54,20 +53,20 @@
 ## Plataformas con ingresos acelerando (DefiLlama)
 
 ### 🟡 FLYWHEEL ACELERANDO — GMX Solana (Derivatives)
-- **Ingresos 7d:** $267.5k · 7d anteriores $118.7k · cambio 2.3×
-- **Ingresos 24h:** $55.1k · 24h anteriores $55.3k · -0% (¿sigue acelerando hoy?)
+- **Ingresos 7d:** $260.4k · 7d anteriores $91.2k · cambio 2.9×
+- **Ingresos 24h:** $55.1k · 24h anteriores $55.1k · +0% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $0
 - **Token:** sin token listado en CoinGecko
 
 ### 🟡 FLYWHEEL ACELERANDO — Bags (Launchpad)
-- **Ingresos 7d:** $89.6k · 7d anteriores $24.3k · cambio 3.7×
-- **Ingresos 24h:** $9.8k · 24h anteriores $11.4k · -14% (¿sigue acelerando hoy?)
+- **Ingresos 7d:** $82.7k · 7d anteriores $30.3k · cambio 2.7×
+- **Ingresos 24h:** $9.8k · 24h anteriores $9.8k · +0% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** —
 - **Token:** sin token listado en CoinGecko
 
 ### 🟡 FLYWHEEL ACELERANDO — Bloom Trading Bot (Gaming)
 - **Ingresos 7d:** $62.0k · 7d anteriores — · cambio nuevo
-- **Ingresos 24h:** $9.7k · 24h anteriores $14.0k · -31% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $9.7k · 24h anteriores $9.7k · +0% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** —
 - **Token:** sin token listado en CoinGecko
 
