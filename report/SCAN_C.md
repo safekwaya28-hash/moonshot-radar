@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-03 07:35 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-03 07:38 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > Llevo 38 h acumulando pools: las comparaciones 24h vs 24h anteriores son fiables a partir de 48 h.
 
@@ -7,12 +7,12 @@
 
 ### 🟡 META ACTIVÁNDOSE — SPYx
 - **Quote:** `XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W`
-- **Pools nuevos:** 1h 2 (antes 0) · 6h 6 (antes 3, +100%) · 24h 15 (antes 5, +200%)
-- **Amplitud (24h):** 15 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 82% del volumen ⚠️ una sola moneda domina: puede no ser una moda
-- **Token de pago:** MC $774.6k · volumen 24h $1.99M · liquidez $3.10M
+- **Pools nuevos:** 1h 3 (antes 0) · 6h 7 (antes 3, +133%) · 24h 16 (antes 5, +220%)
+- **Amplitud (24h):** 16 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 82% del volumen ⚠️ una sola moneda domina: puede no ser una moda
+- **Token de pago:** MC $65.09M · volumen 24h $1.99M · liquidez $3.10M
 - **Líder (más volumen):** BLACKROCK `7chry38XsAyCWxCN6TebATuNZ1WZC9zWS7QfWaWoVdgv` · MC $4.0k · vol 24h $27.1k · 24h -13.88%
 - **Líder (mayor subida 24h):** HUMAN `FUVV8BugAMSqFW5pZ2Y6GTyheiQg2HXYWq3RbSAvNghx` · MC $4.0k · vol 24h $347 · 24h -7.58%
-- **Catalizador:** META ACCELERATION (pools 24h +200%)
+- **Catalizador:** META ACCELERATION (pools 24h +220%)
 - **Riesgos:** liquidez 0% del MC
 
 ### 🟡 META ACTIVÁNDOSE — ANTHRP
@@ -26,7 +26,7 @@
 
 ### ⚪ en observación — NVDAx
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 5 (antes 5, +0%) · 24h 24 (antes 18, +33%)
+- **Pools nuevos:** 1h 5 (antes 0) · 6h 9 (antes 5, +80%) · 24h 28 (antes 18, +56%)
 
 ### ⚪ en observación — QQQx
 - **Quote:** `Xs8S1uUs1zvS2p7iwtsG3b6fkhpvmwz4GYU3gWAmWHZ`
