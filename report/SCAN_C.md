@@ -1,7 +1,6 @@
 # SCAN C — Meta / Flywheel
-**2026-10-03 04:57 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-03 04:59 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
-> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 > Llevo 35 h acumulando pools: las comparaciones 24h vs 24h anteriores son fiables a partir de 48 h.
 
 ## Metas por token de pago (2 activándose)
@@ -10,7 +9,7 @@
 - **Quote:** `XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 4 (antes 4, +0%) · 24h 13 (antes 5, +160%)
 - **Amplitud (24h):** 13 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 82% del volumen ⚠️ una sola moneda domina: puede no ser una moda
-- **Token de pago:** MC $65.08M · volumen 24h $2.01M · liquidez $3.13M
+- **Token de pago:** MC $65.08M · volumen 24h $2.00M · liquidez $3.13M
 - **Líder (más volumen):** BLACKROCK `7chry38XsAyCWxCN6TebATuNZ1WZC9zWS7QfWaWoVdgv` · MC $4.0k · vol 24h $27.1k · 24h -13.88%
 - **Líder (mayor subida 24h):** HUMAN `FUVV8BugAMSqFW5pZ2Y6GTyheiQg2HXYWq3RbSAvNghx` · MC $4.0k · vol 24h $347 · 24h -7.58%
 - **Catalizador:** META ACCELERATION (pools 24h +160%)
@@ -33,13 +32,13 @@
 - **Quote:** `Xs8S1uUs1zvS2p7iwtsG3b6fkhpvmwz4GYU3gWAmWHZ`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 2, -100%) · 24h 8 (antes 2, +300%)
 
+### ⚪ en observación — TSLAx
+- **Quote:** `XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB`
+- **Pools nuevos:** 1h 1 (antes 5) · 6h 6 (antes 0, nuevo) · 24h 7 (antes 6, +17%)
+
 ### ⚪ en observación — GLDx
 - **Quote:** `Xsv9hRk1z5ystj9MhnA7Lq4vjSsLwzL2nxrwmwtD3re`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 6 (antes 2, +200%)
-
-### ⚪ en observación — TSLAx
-- **Quote:** `XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB`
-- **Pools nuevos:** 1h 0 (antes 5) · 6h 5 (antes 0, nuevo) · 24h 6 (antes 6, +0%)
 
 ### ⚪ en observación — WBTC
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
