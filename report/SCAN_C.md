@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-03 08:59 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-03 09:02 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > Llevo 39 h acumulando pools: las comparaciones 24h vs 24h anteriores son fiables a partir de 48 h.
 
@@ -19,7 +19,7 @@
 - **Quote:** `Pren1FvFX6J3E4kXhJuCiAD5aDmGEb7qJRncwA8Lkhw`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 13 (antes 3, +333%)
 - **Amplitud (24h):** 13 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Token de pago:** MC $8.73M · volumen 24h $434.5k · liquidez $392.5k
+- **Token de pago:** MC $8.73M · volumen 24h $434.3k · liquidez $392.5k
 - **Catalizador:** META ACCELERATION (pools 24h +333%)
 - **Riesgos:** concentración: top10 47%, wallet máx 20.0%; liquidez 4% del MC; impuesto 5% · lo puede cambiar: WV9PJN… · cobra: WV9PJN… → revisar a dónde va y si esa wallet vende
 - **Descartado por seguridad:** mint authority activa; freeze authority activa; impuesto 5% que alguien puede cambiar; extensiones Token-2022: permanentDelegate,defaultAccountState,confidentialTransferMint,confidentialTransferFeeConfig,transferHook,scaledUiAmountConfig,pausableConfig
