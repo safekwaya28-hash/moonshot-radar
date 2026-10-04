@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-04 21:30 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-04 21:45 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 ## Metas por token de pago (0 activándose)
 
