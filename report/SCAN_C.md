@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-04 23:34 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-04 23:56 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -7,11 +7,11 @@
 
 ### ⚪ en observación — NVDAx
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
-- **Pools nuevos:** 1h 2 (antes 0) · 6h 5 (antes 2, +150%) · 24h 7 (antes 12, -42%)
+- **Pools nuevos:** 1h 0 (antes 2) · 6h 5 (antes 2, +150%) · 24h 7 (antes 12, -42%)
 
 ### ⚪ en observación — SPYx
 - **Quote:** `XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 1, +0%) · 24h 2 (antes 8, -75%)
+- **Pools nuevos:** 1h 0 (antes 1) · 6h 1 (antes 1, +0%) · 24h 2 (antes 8, -75%)
 
 ### ⚪ en observación — XSI
 - **Quote:** `97YQ91oKBWLUrH9JJ85QUub6VFz86eChuaxK7yUtSmyv`
@@ -23,7 +23,7 @@
 
 ### ⚪ en observación — DRMR
 - **Quote:** `7Xgc5RacHtGzfhw2HukUBk5V986yBbvshr7rrCoopump`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 0, nuevo) · 24h 1 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 1) · 6h 1 (antes 0, nuevo) · 24h 1 (antes 0, nuevo)
 
 ### ⚪ en observación — GLDx
 - **Quote:** `Xsv9hRk1z5ystj9MhnA7Lq4vjSsLwzL2nxrwmwtD3re`
