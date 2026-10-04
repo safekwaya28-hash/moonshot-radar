@@ -1,29 +1,29 @@
 # ESTUDIO · ¿qué entrada y qué forma de vender dan más 10x–50x cobrados?
-**2026-10-03 19:42 UTC** · fuente: todas las graduadas de pump.fun (PumpSwap)
+**2026-10-04 02:39 UTC** · fuente: todas las graduadas de pump.fun (PumpSwap)
 
-- Monedas revisadas: **3,938 / 206,007** (2%) · con pico ≥ $500k: **797**
-- Entradas simuladas: **89 monedas** · **100% con < 180 días de datos después** (⚠️ con tanta censura el estudio todavía no puede afirmar nada sobre 50x)
+- Monedas revisadas: **4,022 / 206,007** (2%) · con pico ≥ $500k: **819**
+- Entradas simuladas: **93 monedas** · **100% con < 180 días de datos después** (⚠️ con tanta censura el estudio todavía no puede afirmar nada sobre 50x)
 
 ## Ranking (EV = lo que multiplicas de media por operación, cobrado con esa regla de venta)
 
 | # | Entrada | Venta | Ops | EV | IC 95% EV | EV sin top 3 | Mediana | p90 | Cobró ≥10x | Cobró ≥50x | ROI 10×50€ | Caída máx. |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | dd70_mc150k_168h_base | estructura | 7 | 1.14x | — | 0.93x ⚠️ | 1.07x | 1.57x | 0% | 0% | +10% | -3% |
-| 2 | dd70_mc50k_168h_base | estructura | 7 | 1.14x | — | 0.93x ⚠️ | 1.07x | 1.57x | 0% | 0% | +10% | -3% |
-| 3 | dd85_mc150k_168h_base | estructura | 7 | 1.14x | — | 0.93x ⚠️ | 1.07x | 1.57x | 0% | 0% | +10% | -3% |
-| 4 | dd85_mc50k_168h_base | estructura | 7 | 1.14x | — | 0.93x ⚠️ | 1.07x | 1.57x | 0% | 0% | +10% | -3% |
-| 5 | dd70_mc150k_168h_base | escalonada | 7 | 1.14x | — | 0.92x ⚠️ | 1.07x | 1.57x | 0% | 0% | +10% | -3% |
-| 6 | dd70_mc150k_168h_base | solo_stop | 7 | 1.14x | — | 0.92x ⚠️ | 1.07x | 1.57x | 0% | 0% | +10% | -3% |
-| 7 | dd70_mc150k_168h_base | trailing | 7 | 1.14x | — | 0.92x ⚠️ | 1.07x | 1.57x | 0% | 0% | +10% | -3% |
-| 8 | dd70_mc150k_168h_base | tuya | 7 | 1.14x | — | 0.92x ⚠️ | 1.07x | 1.57x | 0% | 0% | +10% | -3% |
-| 9 | dd70_mc50k_168h_base | escalonada | 7 | 1.14x | — | 0.92x ⚠️ | 1.07x | 1.57x | 0% | 0% | +10% | -3% |
-| 10 | dd70_mc50k_168h_base | solo_stop | 7 | 1.14x | — | 0.92x ⚠️ | 1.07x | 1.57x | 0% | 0% | +10% | -3% |
-| 11 | dd70_mc50k_168h_base | trailing | 7 | 1.14x | — | 0.92x ⚠️ | 1.07x | 1.57x | 0% | 0% | +10% | -3% |
-| 12 | dd70_mc50k_168h_base | tuya | 7 | 1.14x | — | 0.92x ⚠️ | 1.07x | 1.57x | 0% | 0% | +10% | -3% |
-| 13 | dd85_mc150k_168h_base | escalonada | 7 | 1.14x | — | 0.92x ⚠️ | 1.07x | 1.57x | 0% | 0% | +10% | -3% |
-| 14 | dd85_mc150k_168h_base | solo_stop | 7 | 1.14x | — | 0.92x ⚠️ | 1.07x | 1.57x | 0% | 0% | +10% | -3% |
-| 15 | dd85_mc150k_168h_base | trailing | 7 | 1.14x | — | 0.92x ⚠️ | 1.07x | 1.57x | 0% | 0% | +10% | -3% |
-| 16 | dd70_mc150k_72h_base ⭐ | tuya | 11 | 0.99x | — | 0.84x | 0.92x | 1.32x | 0% | 0% | -1% | -12% |
+| 1 | dd70_mc150k_168h_base | estructura | 8 | 1.14x | — | 0.97x ⚠️ | 1.09x | 1.56x | 0% | 0% | +11% | -3% |
+| 2 | dd70_mc50k_168h_base | estructura | 8 | 1.14x | — | 0.97x ⚠️ | 1.09x | 1.56x | 0% | 0% | +11% | -3% |
+| 3 | dd85_mc150k_168h_base | estructura | 8 | 1.14x | — | 0.97x ⚠️ | 1.09x | 1.56x | 0% | 0% | +11% | -3% |
+| 4 | dd85_mc50k_168h_base | estructura | 8 | 1.14x | — | 0.97x ⚠️ | 1.09x | 1.56x | 0% | 0% | +11% | -3% |
+| 5 | dd70_mc150k_168h_base | escalonada | 8 | 1.14x | — | 0.96x ⚠️ | 1.09x | 1.56x | 0% | 0% | +11% | -3% |
+| 6 | dd70_mc150k_168h_base | solo_stop | 8 | 1.14x | — | 0.96x ⚠️ | 1.09x | 1.56x | 0% | 0% | +11% | -3% |
+| 7 | dd70_mc150k_168h_base | trailing | 8 | 1.14x | — | 0.96x ⚠️ | 1.09x | 1.56x | 0% | 0% | +11% | -3% |
+| 8 | dd70_mc150k_168h_base | tuya | 8 | 1.14x | — | 0.96x ⚠️ | 1.09x | 1.56x | 0% | 0% | +11% | -3% |
+| 9 | dd70_mc50k_168h_base | escalonada | 8 | 1.14x | — | 0.96x ⚠️ | 1.09x | 1.56x | 0% | 0% | +11% | -3% |
+| 10 | dd70_mc50k_168h_base | solo_stop | 8 | 1.14x | — | 0.96x ⚠️ | 1.09x | 1.56x | 0% | 0% | +11% | -3% |
+| 11 | dd70_mc50k_168h_base | trailing | 8 | 1.14x | — | 0.96x ⚠️ | 1.09x | 1.56x | 0% | 0% | +11% | -3% |
+| 12 | dd70_mc50k_168h_base | tuya | 8 | 1.14x | — | 0.96x ⚠️ | 1.09x | 1.56x | 0% | 0% | +11% | -3% |
+| 13 | dd85_mc150k_168h_base | escalonada | 8 | 1.14x | — | 0.96x ⚠️ | 1.09x | 1.56x | 0% | 0% | +11% | -3% |
+| 14 | dd85_mc150k_168h_base | solo_stop | 8 | 1.14x | — | 0.96x ⚠️ | 1.09x | 1.56x | 0% | 0% | +11% | -3% |
+| 15 | dd85_mc150k_168h_base | trailing | 8 | 1.14x | — | 0.96x ⚠️ | 1.09x | 1.56x | 0% | 0% | +11% | -3% |
+| 16 | dd70_mc150k_72h_base ⭐ | tuya | 12 | 1.00x | — | 0.88x ⚠️ | 0.93x | 1.31x | 0% | 0% | +1% | -12% |
 
 ⭐ = tus reglas actuales. ⚠️ = el EV pasa de ganar a perder quitando las 3 mejores: es suerte, no estrategia.
 EV > 1x = gana de media. Solo filas con ≥ 5 operaciones (con menos de ~30 los números bailan mucho).
