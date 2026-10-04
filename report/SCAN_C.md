@@ -1,17 +1,15 @@
 # SCAN C — Meta / Flywheel
-**2026-10-04 22:34 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
-
-> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
+**2026-10-04 22:56 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 ## Metas por token de pago (0 activándose)
 
 ### ⚪ en observación — NVDAx
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
-- **Pools nuevos:** 1h 0 (antes 3) · 6h 3 (antes 2, +50%) · 24h 5 (antes 12, -58%)
+- **Pools nuevos:** 1h 2 (antes 3) · 6h 5 (antes 2, +150%) · 24h 7 (antes 12, -42%)
 
 ### ⚪ en observación — SPYx
 - **Quote:** `XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 1 (antes 8, -88%)
+- **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 1, +0%) · 24h 2 (antes 8, -75%)
 
 ### ⚪ en observación — XSI
 - **Quote:** `97YQ91oKBWLUrH9JJ85QUub6VFz86eChuaxK7yUtSmyv`
@@ -20,6 +18,10 @@
 ### ⚪ en observación — JI
 - **Quote:** `HYARMuucuFHGMTztgWNh6C8X7n4DBxJMe6c5f3gAAAzw`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 1 (antes 0, nuevo)
+
+### ⚪ en observación — DRMR
+- **Quote:** `7Xgc5RacHtGzfhw2HukUBk5V986yBbvshr7rrCoopump`
+- **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 0, nuevo) · 24h 1 (antes 0, nuevo)
 
 ### ⚪ en observación — GLDx
 - **Quote:** `Xsv9hRk1z5ystj9MhnA7Lq4vjSsLwzL2nxrwmwtD3re`
@@ -40,10 +42,6 @@
 ### ⚪ en observación — CRCLx
 - **Quote:** `XsueG8BtpquVJX9LVLLEGuViXUungE6WmK5YZ3p3bd1`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 0 (antes 0, —)
-
-### ⚪ en observación — GOOGLx
-- **Quote:** `XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 0 (antes 1, -100%)
 
 ## Plataformas con ingresos acelerando (DefiLlama)
 
