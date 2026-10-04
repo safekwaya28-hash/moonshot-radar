@@ -1,18 +1,18 @@
 # SCAN B — Despegues (objetivo 100x+)
-**2026-10-04 22:48 UTC** · 5,000 creaciones recientes revisadas · 3 en la ventana $8k–$40k · 3 con análisis profundo
+**2026-10-04 23:20 UTC** · 5,000 creaciones recientes revisadas · 3 en la ventana $8k–$40k · 3 con análisis profundo
 
 🟢 COMPRA AHORA **0** · 🟡 WATCH **0** · 🔴 DESCARTAR **2** · ⚪ FUERA **1**
 
 ### 🔴 DESCARTAR — $D5KB2Q
 - **CA:** `D5KB2Q2Sqf7jWcmcChykdNiifTwH1QtkeXjAzxXKpump`
-- **MC:** $8.3k · curva 49% · edad 489.1 h · hace 30 min: $8.4k
+- **MC:** $8.4k · curva 49% · edad 489.6 h · hace 30 min: $8.3k
 - **Smart money:** ninguna de tus wallets
 - **B:** 1/9 · **M:** 0/5
 - **Compradores:** 30m 0 · nuevos 5m 0 (antes 0, BAI 0.00) · compradores/vendedores 15m 0.00
 - **Volumen 15m:** $0 (antes $0) · wallet dominante 0% · retención 15m — · compra mediana $31
 - **Seguridad:** snipers 0 · bloque creación 0% · top10 34% · wallet máx 10.7% · dev tiene 0.0% · dev vendió 100% · 5 wallets = 64% del volumen
 - **Prueba de venta:** 6/3 con financiador verificado y distinto (no-dev, mantuvieron ≥5 min y vendieron; 9 en total, 3 no verificables)
-- **Cobertura de datos:** 29340 min observados
+- **Cobertura de datos:** 29372 min observados
 - **Participantes 30m:** nuevos 0 · recompran 0 · compran y venden (flippers) — · volumen 15m / liquidez 0.0×
 - **Smart money:** convergencia 0 wallets en 10 min · posición entre los compradores — (entre los compradores observados, no entre todos)
 - **Financiación del top:** sin grupos detectados (1 nivel, wallets nuevas)
@@ -22,14 +22,14 @@
 
 ### 🔴 DESCARTAR — $4ugHKU
 - **CA:** `4ugHKUbCRjM5jdqtFDo1rZN42Mi9gmZgbEyexjjwpump`
-- **MC:** $7.1k · curva 41% · edad 580.4 h · hace 30 min: $7.1k
+- **MC:** $7.1k · curva 41% · edad 580.9 h · hace 30 min: $7.1k
 - **Smart money:** ninguna de tus wallets
 - **B:** 1/9 · **M:** 0/5
 - **Compradores:** 30m 0 · nuevos 5m 0 (antes 0, BAI 0.00) · compradores/vendedores 15m 0.00
 - **Volumen 15m:** $0 (antes $0) · wallet dominante 0% · retención 15m — · compra mediana $122
 - **Seguridad:** snipers 4 · bloque creación 1% · top10 33% · wallet máx 16.5% · dev tiene 0.0% · dev vendió 100% · 5 wallets = 80% del volumen
 - **Prueba de venta:** 6/3 con financiador verificado y distinto (no-dev, mantuvieron ≥5 min y vendieron; 17 en total, 11 no verificables)
-- **Cobertura de datos:** 34825 min observados
+- **Cobertura de datos:** 34857 min observados
 - **Participantes 30m:** nuevos 0 · recompran 0 · compran y venden (flippers) — · volumen 15m / liquidez 0.0×
 - **Smart money:** convergencia 0 wallets en 10 min · posición entre los compradores — (entre los compradores observados, no entre todos)
 - **Financiación del top:** 2 holders ← 6NwjCu… (19%)
@@ -40,15 +40,15 @@
 
 ### ⚪ FUERA — $6STGyT
 - **CA:** `6STGyTBmMFMVKT7cgd9goCxgjxRetD6orSX768HMREAL`
-- **MC:** $15.1k · curva 71% · edad 49.2 h · hace 30 min: $15.1k
+- **MC:** $15.1k · curva 71% · edad 49.8 h · hace 30 min: $15.1k
 - **Smart money:** ninguna de tus wallets
-- **B:** 1/9 · **M:** 0/5
-- **Compradores:** 30m 0 · nuevos 5m 0 (antes 0, BAI 0.00) · compradores/vendedores 15m 0.00
-- **Volumen 15m:** $0 (antes $0) · wallet dominante 0% · retención 15m — · compra mediana $13
+- **B:** 3/9 · **M:** 3/5
+- **Compradores:** 30m 1 · nuevos 5m 1 (antes 0, BAI ∞) · compradores/vendedores 15m ∞
+- **Volumen 15m:** $2 (antes $0) · wallet dominante 100% · retención 15m — · compra mediana $13
 - **Seguridad:** snipers 7 · bloque creación 6% · top10 24% · wallet máx 3.2% · dev tiene 0.0% · dev vendió 0% · 5 wallets = 48% del volumen
 - **Prueba de venta:** 6/3 con financiador verificado y distinto (no-dev, mantuvieron ≥5 min y vendieron; 15 en total, 9 no verificables)
-- **Cobertura de datos:** 2352 min observados
-- **Participantes 30m:** nuevos 0 · recompran 0 · compran y venden (flippers) — · volumen 15m / liquidez 0.0×
+- **Cobertura de datos:** 2384 min observados
+- **Participantes 30m:** nuevos 1 · recompran 0 · compran y venden (flippers) 0% · volumen 15m / liquidez 0.0×
 - **Smart money:** convergencia 0 wallets en 10 min · posición entre los compradores — (entre los compradores observados, no entre todos)
 - **Financiación del top:** sin grupos detectados (1 nivel, wallets nuevas)
 - **A mano:** origen del dinero de los compradores (bundles/insiders en GMGN); narrativa (X/Telegram)
