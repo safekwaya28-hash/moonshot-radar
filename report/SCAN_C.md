@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-04 23:58 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-05 00:44 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 ## Metas por token de pago (0 activándose)
 
@@ -9,7 +9,19 @@
 
 ### ⚪ en observación — SPYx
 - **Quote:** `XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W`
-- **Pools nuevos:** 1h 0 (antes 1) · 6h 1 (antes 1, +0%) · 24h 2 (antes 8, -75%)
+- **Pools nuevos:** 1h 1 (antes 1) · 6h 2 (antes 1, +100%) · 24h 3 (antes 8, -62%)
+
+### ⚪ en observación — WBTC
+- **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
+- **Pools nuevos:** 1h 2 (antes 0) · 6h 2 (antes 0, nuevo) · 24h 2 (antes 1, +100%)
+
+### ⚪ en observación — GOOGLx
+- **Quote:** `XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN`
+- **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 0, nuevo) · 24h 1 (antes 1, +0%)
+
+### ⚪ en observación — METAx
+- **Quote:** `Xsa62P5mvPszXL1krVUnU5ar38bBSVcWAB6fmPCo5Zu`
+- **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 0, nuevo) · 24h 1 (antes 0, nuevo)
 
 ### ⚪ en observación — XSI
 - **Quote:** `97YQ91oKBWLUrH9JJ85QUub6VFz86eChuaxK7yUtSmyv`
@@ -31,35 +43,23 @@
 - **Quote:** `Xs8S1uUs1zvS2p7iwtsG3b6fkhpvmwz4GYU3gWAmWHZ`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 0 (antes 1, -100%)
 
-### ⚪ en observación — AAPLx
-- **Quote:** `XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 0 (antes 1, -100%)
-
-### ⚪ en observación — COINx
-- **Quote:** `Xs7ZdzSHLU9ftNJsii5fCeJhoRWSC32SQGzGQtePxNu`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 0 (antes 0, —)
-
-### ⚪ en observación — CRCLx
-- **Quote:** `XsueG8BtpquVJX9LVLLEGuViXUungE6WmK5YZ3p3bd1`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 0 (antes 0, —)
-
 ## Plataformas con ingresos acelerando (DefiLlama)
 
 ### 🟡 FLYWHEEL ACELERANDO — GMX Solana (Derivatives)
-- **Ingresos 7d:** $357.7k · 7d anteriores $85.7k · cambio 4.2×
-- **Ingresos 24h:** $0 · 24h anteriores $98.3k · -100% (¿sigue acelerando hoy?)
+- **Ingresos 7d:** $352.8k · 7d anteriores $87.1k · cambio 4.1×
+- **Ingresos 24h:** $0 · 24h anteriores $0 · — (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $0
 - **Token:** sin token listado en CoinGecko
 
 ### 🟡 FLYWHEEL ACELERANDO — Bags (Launchpad)
-- **Ingresos 7d:** $81.8k · 7d anteriores $38.6k · cambio 2.1×
-- **Ingresos 24h:** $1.3k · 24h anteriores $6.9k · -82% (¿sigue acelerando hoy?)
+- **Ingresos 7d:** $80.0k · 7d anteriores $39.9k · cambio 2.0×
+- **Ingresos 24h:** $1.3k · 24h anteriores $1.3k · +0% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** —
 - **Token:** sin token listado en CoinGecko
 
 ### 🟡 FLYWHEEL ACELERANDO — Bloom Trading Bot (Gaming)
-- **Ingresos 7d:** $66.4k · 7d anteriores — · cambio nuevo
-- **Ingresos 24h:** $0 · 24h anteriores $4.3k · -100% (¿sigue acelerando hoy?)
+- **Ingresos 7d:** $53.1k · 7d anteriores $13.3k · cambio 4.0×
+- **Ingresos 24h:** $0 · 24h anteriores $0 · — (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** —
 - **Token:** sin token listado en CoinGecko
 
