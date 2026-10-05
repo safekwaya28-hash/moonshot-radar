@@ -1,13 +1,23 @@
 # SCAN C — Meta / Flywheel
-**2026-10-05 11:59 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-05 12:01 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 ## Metas por token de pago (3 activándose)
 
+### 🟡 META ACTIVÁNDOSE — WBTC
+- **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
+- **Pools nuevos:** 1h 18 (antes 0) · 6h 18 (antes 5, +260%) · 24h 23 (antes 0, nuevo)
+- **Amplitud (24h):** 23 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 71% del volumen
+- **Token de pago:** MC $332.54M · volumen 24h $2.90M · liquidez $2.02M
+- **Líder (más volumen):** BTCMAN `GLSpK3nZ74Vx3uJzhhjJVPNGPJpg2NdzXzFmBGg6TcoK` · MC $3.1k · vol 24h $14.5k · 24h -18.52%
+- **Líder (mayor subida 24h):** BITOPUS `HZiJcWdujKvjSV6wnSn3xVtR56byYn7miwgUeLkuFkSW` · MC $3.1k · vol 24h $20 · 24h 0.12%
+- **Catalizador:** META ACCELERATION (pools 24h nuevo)
+- **Riesgos:** liquidez 0% del MC
+
 ### 🟡 META ACTIVÁNDOSE — NVDAx
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
-- **Pools nuevos:** 1h 0 (antes 1) · 6h 9 (antes 5, +80%) · 24h 21 (antes 0, nuevo)
-- **Amplitud (24h):** 21 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 69% del volumen
-- **Token de pago:** MC $235.5k · volumen 24h $677.8k · liquidez $2.83M
+- **Pools nuevos:** 1h 1 (antes 1) · 6h 10 (antes 5, +100%) · 24h 22 (antes 0, nuevo)
+- **Amplitud (24h):** 22 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 69% del volumen
+- **Token de pago:** MC $235.5k · volumen 24h $678.6k · liquidez $2.83M
 - **Líder (más volumen):** CI `9DpTrg3jkfZKCRxkJMSLyHuqNdT4LoEZvtT2zttEpump` · MC $3.5k · vol 24h $20.9k · 24h 12.64%
 - **Líder (mayor subida 24h):** CI `9DpTrg3jkfZKCRxkJMSLyHuqNdT4LoEZvtT2zttEpump` · MC $3.5k · vol 24h $20.9k · 24h 12.64%
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
@@ -16,19 +26,10 @@
 ### 🟡 META ACTIVÁNDOSE — SPYx
 - **Quote:** `XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W`
 - **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 10, -90%) · 24h 13 (antes 0, nuevo)
-- **Amplitud (24h):** 12 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 53% del volumen
-- **Token de pago:** MC $773.3k · volumen 24h $216.2k · liquidez $2.68M
-- **Líder (más volumen):** NYSE `5zxCqL1ASxWu1xvJGLKvy3cqfFu3Po3w8ZrWzLRYicQU` · MC $2.9k · vol 24h $23.4k · 24h -90.49%
+- **Amplitud (24h):** 12 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 100% del volumen ⚠️ una sola moneda domina: puede no ser una moda
+- **Token de pago:** MC $773.3k · volumen 24h $216.3k · liquidez $2.68M
+- **Líder (más volumen):** Claudarama `7MrHoEWUKhXn4MBMeGpGRGUrDQ8U2N6TBMDUZysWscAt` · MC $3.1k · vol 24h $644 · 24h -8.86%
 - **Líder (mayor subida 24h):** SNP500 `6orPFBpgkHYzZ1fMPw96wFpCm8aDSVgk5Vn9krsTEVbw` · MC $4.0k · vol 24h $193 · 24h -4.32%
-- **Catalizador:** META ACCELERATION (pools 24h nuevo)
-
-### 🟡 META ACTIVÁNDOSE — WBTC
-- **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
-- **Pools nuevos:** 1h 7 (antes 0) · 6h 7 (antes 5, +40%) · 24h 12 (antes 0, nuevo)
-- **Amplitud (24h):** 12 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 52% del volumen
-- **Token de pago:** MC $333.11M · volumen 24h $2.73M · liquidez $2.02M
-- **Líder (más volumen):** RSG `EQ7Xi1Hv69TE5Mqp7UWUJgtodiWJCDwo7tvXDFGGpump` · MC $3.1k · vol 24h $2.4k · 24h -19.53%
-- **Líder (mayor subida 24h):** RSG `EQ7Xi1Hv69TE5Mqp7UWUJgtodiWJCDwo7tvXDFGGpump` · MC $3.1k · vol 24h $2.4k · 24h -19.53%
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
 - **Riesgos:** liquidez 0% del MC
 
