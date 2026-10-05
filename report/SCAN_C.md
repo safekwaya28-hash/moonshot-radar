@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-05 04:40 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-05 04:44 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 ## Metas por token de pago (2 activándose)
 
@@ -8,7 +8,7 @@
 - **Pools nuevos:** 1h 0 (antes 8) · 6h 11 (antes 0, nuevo) · 24h 12 (antes 4, +200%)
 - **Amplitud (24h):** 11 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 53% del volumen
 - **Token de pago:** MC $773.9k · volumen 24h $174.2k · liquidez $2.84M
-- **Líder (más volumen):** NYSE `5zxCqL1ASxWu1xvJGLKvy3cqfFu3Po3w8ZrWzLRYicQU` · MC $3.0k · vol 24h $23.3k · 24h -90.34%
+- **Líder (más volumen):** NYSE `5zxCqL1ASxWu1xvJGLKvy3cqfFu3Po3w8ZrWzLRYicQU` · MC $2.9k · vol 24h $23.4k · 24h -90.43%
 - **Líder (mayor subida 24h):** WILLDOITTV `H8jq6yoVZ6E86y4TBydgVJ6Qd4zdwEjw89op4uDrmwDq` · MC $3.1k · vol 24h $40 · 24h -0.7%
 - **Catalizador:** META ACCELERATION (pools 24h +200%)
 
@@ -16,7 +16,7 @@
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
 - **Pools nuevos:** 1h 1 (antes 3) · 6h 6 (antes 3, +100%) · 24h 11 (antes 6, +83%)
 - **Amplitud (24h):** 11 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 52% del volumen
-- **Token de pago:** MC $235.8k · volumen 24h $588.2k · liquidez $2.98M
+- **Token de pago:** MC $235.8k · volumen 24h $572.1k · liquidez $2.98M
 - **Líder (más volumen):** gud `Da34aMYEB2XBHj81xUpBib2oDXmofHeRRZ4KvyUbpump` · MC $3.1k · vol 24h $3.1k · 24h -27.46%
 - **Líder (mayor subida 24h):** SI `D8VULUmiDYECkJnwiMNUxctMUDaYh6HzZFFe5QAGpump` · MC $3.1k · vol 24h $36 · 24h -1.15%
 - **Catalizador:** META ACCELERATION (pools 24h +83%)
@@ -29,6 +29,10 @@
 ### ⚪ en observación — WBTC
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
 - **Pools nuevos:** 1h 1 (antes 0) · 6h 5 (antes 0, nuevo) · 24h 5 (antes 0, nuevo)
+
+### ⚪ en observación — COINx
+- **Quote:** `Xs7ZdzSHLU9ftNJsii5fCeJhoRWSC32SQGzGQtePxNu`
+- **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 0, nuevo) · 24h 1 (antes 0, nuevo)
 
 ### ⚪ en observación — GOOGLx
 - **Quote:** `XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN`
@@ -48,10 +52,6 @@
 
 ### ⚪ en observación — DRMR
 - **Quote:** `7Xgc5RacHtGzfhw2HukUBk5V986yBbvshr7rrCoopump`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 1 (antes 0, nuevo) · 24h 1 (antes 0, nuevo)
-
-### ⚪ en observación — MSTRx
-- **Quote:** `XsP7xzNPvEHS1m6qfanPUGjNmdnmsLKEoNAnHjdxxyZ`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 1 (antes 0, nuevo) · 24h 1 (antes 0, nuevo)
 
 ## Plataformas con ingresos acelerando (DefiLlama)
