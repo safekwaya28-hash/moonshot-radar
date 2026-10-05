@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-05 06:50 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-05 07:07 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -7,9 +7,9 @@
 
 ### 🟡 META ACTIVÁNDOSE — NVDAx
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 5 (antes 5, +0%) · 24h 12 (antes 6, +100%)
+- **Pools nuevos:** 1h 0 (antes 1) · 6h 5 (antes 5, +0%) · 24h 12 (antes 6, +100%)
 - **Amplitud (24h):** 12 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 52% del volumen
-- **Token de pago:** MC $235.9k · volumen 24h $668.0k · liquidez $2.94M
+- **Token de pago:** MC $236.0k · volumen 24h $671.3k · liquidez $2.94M
 - **Líder (más volumen):** gud `Da34aMYEB2XBHj81xUpBib2oDXmofHeRRZ4KvyUbpump` · MC $3.1k · vol 24h $3.1k · 24h -27.46%
 - **Líder (mayor subida 24h):** SI `D8VULUmiDYECkJnwiMNUxctMUDaYh6HzZFFe5QAGpump` · MC $3.1k · vol 24h $36 · 24h -1.15%
 - **Catalizador:** META ACCELERATION (pools 24h +100%)
@@ -19,7 +19,7 @@
 - **Quote:** `XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 9 (antes 2, +350%) · 24h 12 (antes 4, +200%)
 - **Amplitud (24h):** 11 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 53% del volumen
-- **Token de pago:** MC $773.8k · volumen 24h $175.1k · liquidez $2.84M
+- **Token de pago:** MC $773.8k · volumen 24h $153.2k · liquidez $2.84M
 - **Líder (más volumen):** NYSE `5zxCqL1ASxWu1xvJGLKvy3cqfFu3Po3w8ZrWzLRYicQU` · MC $2.9k · vol 24h $23.4k · 24h -90.49%
 - **Líder (mayor subida 24h):** WILLDOITTV `H8jq6yoVZ6E86y4TBydgVJ6Qd4zdwEjw89op4uDrmwDq` · MC $3.1k · vol 24h $40 · 24h -0.7%
 - **Catalizador:** META ACCELERATION (pools 24h +200%)
@@ -34,7 +34,7 @@
 
 ### ⚪ en observación — METAx
 - **Quote:** `Xsa62P5mvPszXL1krVUnU5ar38bBSVcWAB6fmPCo5Zu`
-- **Pools nuevos:** 1h 2 (antes 0) · 6h 2 (antes 1, +100%) · 24h 3 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 2) · 6h 2 (antes 1, +100%) · 24h 3 (antes 0, nuevo)
 
 ### ⚪ en observación — COINx
 - **Quote:** `Xs7ZdzSHLU9ftNJsii5fCeJhoRWSC32SQGzGQtePxNu`
