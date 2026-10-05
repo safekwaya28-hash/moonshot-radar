@@ -1,21 +1,21 @@
 # OUTCOMES — qué pasó después de cada decisión (incluidas las descartadas)
-**2026-10-05 21:34 UTC** · 122 monedas seguidas · la decisión original nunca se cambia
+**2026-10-05 21:41 UTC** · 127 monedas seguidas · la decisión original nunca se cambia
 
 | Escáner | Decisión | Monedas | con 24h | Mediana MC 24h / inicial | Muertas a 24h (≤ −50%) | Máx. ≥2x | ≥5x | ≥10x | 2x antes de −30% | 5x antes de −50% | 10x antes de −70% |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | A | NO | 1 | 1 | 1.00x | 0% | 0% | 0% | 0% | 0% (n=1) | — | — |
-| B | DESCARTAR | 77 | 43 | 0.29x | 88% | 40% | 9% | 3% | 10% (n=68) | 5% (n=65) | 2% (n=40) |
+| B | DESCARTAR | 81 | 43 | 0.29x | 88% | 38% | 10% | 3% | 8% (n=71) | 4% (n=69) | 2% (n=42) |
 | B | FUERA | 7 | 5 | 0.52x | 40% | 50% | 17% | 17% | 17% (n=6) | 25% (n=4) | 100% (n=1) |
-| B | WATCH | 23 | 18 | 0.18x | 89% | 33% | 10% | 5% | 10% (n=21) | 5% (n=21) | 7% (n=14) |
+| B | WATCH | 24 | 18 | 0.18x | 89% | 36% | 9% | 5% | 9% (n=22) | 5% (n=22) | 7% (n=15) |
 | C-meta | 🟡 META ACTIVÁNDOSE | 14 | 2 | 0.74x | 50% | 15% | 15% | 0% | 20% (n=5) | 40% (n=5) | 0% (n=2) |
 
 ## ¿Qué filtro mata ganadoras? (descartadas por motivo)
 
 | Motivo del descarte | Monedas | con 24h | Mediana 24h | Muertas a 24h | Máx. ≥5x | ≥10x | 2x antes de −30% | 5x antes de −50% | 10x antes de −70% |
 |---|---|---|---|---|---|---|---|---|---|
-| concentración | 32 | 10 | 0.37x | 80% | 0% | 0% | 9% (n=23) | 0% (n=23) | 0% (n=15) |
-| dev vendió | 27 | 18 | 0.28x | 83% | 7% | 4% | 7% (n=27) | 4% (n=24) | 7% (n=14) |
-| compras en el bloque de creación | 16 | 13 | 0.24x | 100% | 19% | 0% | 12% (n=16) | 12% (n=16) | 0% (n=9) |
+| concentración | 35 | 10 | 0.37x | 80% | 0% | 0% | 8% (n=25) | 0% (n=25) | 0% (n=15) |
+| dev vendió | 27 | 18 | 0.28x | 83% | 11% | 4% | 4% (n=27) | 4% (n=25) | 7% (n=15) |
+| compras en el bloque de creación | 17 | 13 | 0.24x | 100% | 18% | 0% | 12% (n=17) | 12% (n=17) | 0% (n=10) |
 | extensión peligrosa | 1 | 1 | 1.00x | 0% | 0% | 0% | 0% (n=1) | — | — |
 | snipers | 1 | 1 | 0.15x | 100% | 0% | 0% | 0% (n=1) | 0% (n=1) | 0% (n=1) |
 | volumen en bucle | 1 | 1 | 0.10x | 100% | 100% | 100% | 100% (n=1) | 0% (n=1) | 0% (n=1) |
