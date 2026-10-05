@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-05 01:58 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-05 02:00 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 ## Metas por token de pago (0 activándose)
 
@@ -46,8 +46,8 @@
 ## Plataformas con ingresos acelerando (DefiLlama)
 
 ### 🟡 FLYWHEEL ACELERANDO — GMX Solana (Derivatives)
-- **Ingresos 7d:** $352.8k · 7d anteriores $87.1k · cambio 4.1×
-- **Ingresos 24h:** $0 · 24h anteriores $0 · — (¿sigue acelerando hoy?)
+- **Ingresos 7d:** $384.7k · 7d anteriores $87.1k · cambio 4.4×
+- **Ingresos 24h:** $31.9k · 24h anteriores $0 · nuevo (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $0
 - **Token:** sin token listado en CoinGecko
 
