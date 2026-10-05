@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-05 09:05 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-05 09:38 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -7,19 +7,19 @@
 
 ### 🟡 META ACTIVÁNDOSE — NVDAx
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
-- **Pools nuevos:** 1h 1 (antes 2) · 6h 9 (antes 7, +29%) · 24h 18 (antes 1, +1700%)
+- **Pools nuevos:** 1h 1 (antes 2) · 6h 8 (antes 5, +60%) · 24h 18 (antes 1, +1700%)
 - **Amplitud (24h):** 18 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 71% del volumen
-- **Token de pago:** MC $235.9k · volumen 24h $624.5k · liquidez $2.94M
-- **Líder (más volumen):** CI `9DpTrg3jkfZKCRxkJMSLyHuqNdT4LoEZvtT2zttEpump` · MC $4.0k · vol 24h $20.7k · 24h 27.68%
-- **Líder (mayor subida 24h):** CI `9DpTrg3jkfZKCRxkJMSLyHuqNdT4LoEZvtT2zttEpump` · MC $4.0k · vol 24h $20.7k · 24h 27.68%
+- **Token de pago:** MC $235.9k · volumen 24h $615.0k · liquidez $2.87M
+- **Líder (más volumen):** CI `9DpTrg3jkfZKCRxkJMSLyHuqNdT4LoEZvtT2zttEpump` · MC $3.9k · vol 24h $20.7k · 24h 24.85%
+- **Líder (mayor subida 24h):** CI `9DpTrg3jkfZKCRxkJMSLyHuqNdT4LoEZvtT2zttEpump` · MC $3.9k · vol 24h $20.7k · 24h 24.85%
 - **Catalizador:** META ACCELERATION (pools 24h +1700%)
 - **Riesgos:** liquidez 0% del MC
 
 ### 🟡 META ACTIVÁNDOSE — SPYx
 - **Quote:** `XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 8 (antes 3, +167%) · 24h 12 (antes 0, nuevo)
-- **Amplitud (24h):** 11 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 53% del volumen
-- **Token de pago:** MC $773.5k · volumen 24h $186.6k · liquidez $2.84M
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 1 (antes 10, -90%) · 24h 12 (antes 0, nuevo)
+- **Amplitud (24h):** 11 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 55% del volumen
+- **Token de pago:** MC $773.5k · volumen 24h $185.3k · liquidez $2.68M
 - **Líder (más volumen):** NYSE `5zxCqL1ASxWu1xvJGLKvy3cqfFu3Po3w8ZrWzLRYicQU` · MC $2.9k · vol 24h $23.4k · 24h -90.49%
 - **Líder (mayor subida 24h):** WILLDOITTV `H8jq6yoVZ6E86y4TBydgVJ6Qd4zdwEjw89op4uDrmwDq` · MC $3.1k · vol 24h $40 · 24h -0.7%
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
