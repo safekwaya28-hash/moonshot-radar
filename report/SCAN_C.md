@@ -1,21 +1,19 @@
 # SCAN C — Meta / Flywheel
-**2026-10-05 03:03 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
-
-> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
+**2026-10-05 03:36 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 ## Metas por token de pago (0 activándose)
 
 ### ⚪ en observación — NVDAx
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
-- **Pools nuevos:** 1h 2 (antes 0) · 6h 7 (antes 0, nuevo) · 24h 9 (antes 7, +29%)
+- **Pools nuevos:** 1h 3 (antes 0) · 6h 5 (antes 3, +67%) · 24h 10 (antes 7, +43%)
+
+### ⚪ en observación — SPYx
+- **Quote:** `XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W`
+- **Pools nuevos:** 1h 5 (antes 1) · 6h 8 (antes 0, nuevo) · 24h 9 (antes 4, +125%)
 
 ### ⚪ en observación — ANTHRP
 - **Quote:** `Pren1FvFX6J3E4kXhJuCiAD5aDmGEb7qJRncwA8Lkhw`
 - **Pools nuevos:** 1h 5 (antes 0) · 6h 5 (antes 0, nuevo) · 24h 5 (antes 0, nuevo)
-
-### ⚪ en observación — SPYx
-- **Quote:** `XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 3 (antes 0, nuevo) · 24h 4 (antes 4, +0%)
 
 ### ⚪ en observación — WBTC
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
@@ -54,14 +52,14 @@
 - **Token:** sin token listado en CoinGecko
 
 ### 🟡 FLYWHEEL ACELERANDO — Bags (Launchpad)
-- **Ingresos 7d:** $80.0k · 7d anteriores $39.9k · cambio 2.0×
-- **Ingresos 24h:** $1.3k · 24h anteriores $1.3k · +0% (¿sigue acelerando hoy?)
+- **Ingresos 7d:** $81.1k · 7d anteriores $39.9k · cambio 2.0×
+- **Ingresos 24h:** $1.1k · 24h anteriores $1.3k · -13% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** —
 - **Token:** sin token listado en CoinGecko
 
 ### 🟡 FLYWHEEL ACELERANDO — Bloom Trading Bot (Gaming)
-- **Ingresos 7d:** $53.1k · 7d anteriores $13.3k · cambio 4.0×
-- **Ingresos 24h:** $0 · 24h anteriores $0 · — (¿sigue acelerando hoy?)
+- **Ingresos 7d:** $53.2k · 7d anteriores $13.3k · cambio 4.0×
+- **Ingresos 24h:** $122 · 24h anteriores $0 · nuevo (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** —
 - **Token:** sin token listado en CoinGecko
 
