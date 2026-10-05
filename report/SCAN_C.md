@@ -1,15 +1,20 @@
 # SCAN C — Meta / Flywheel
-**2026-10-05 03:36 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-05 03:41 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
-## Metas por token de pago (0 activándose)
+## Metas por token de pago (1 activándose)
+
+### 🟡 META ACTIVÁNDOSE — SPYx
+- **Quote:** `XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W`
+- **Pools nuevos:** 1h 8 (antes 1) · 6h 11 (antes 0, nuevo) · 24h 12 (antes 4, +200%)
+- **Amplitud (24h):** 11 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 53% del volumen
+- **Token de pago:** MC $774.5k · volumen 24h $139.4k · liquidez $2.84M
+- **Líder (más volumen):** NYSE `5zxCqL1ASxWu1xvJGLKvy3cqfFu3Po3w8ZrWzLRYicQU` · MC $4.7k · vol 24h $23.1k · 24h -89.53%
+- **Líder (mayor subida 24h):** WILLDOITTV `H8jq6yoVZ6E86y4TBydgVJ6Qd4zdwEjw89op4uDrmwDq` · MC $3.1k · vol 24h $40 · 24h -0.7%
+- **Catalizador:** META ACCELERATION (pools 24h +200%)
 
 ### ⚪ en observación — NVDAx
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
-- **Pools nuevos:** 1h 3 (antes 0) · 6h 5 (antes 3, +67%) · 24h 10 (antes 7, +43%)
-
-### ⚪ en observación — SPYx
-- **Quote:** `XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W`
-- **Pools nuevos:** 1h 5 (antes 1) · 6h 8 (antes 0, nuevo) · 24h 9 (antes 4, +125%)
+- **Pools nuevos:** 1h 3 (antes 0) · 6h 5 (antes 3, +67%) · 24h 10 (antes 6, +67%)
 
 ### ⚪ en observación — ANTHRP
 - **Quote:** `Pren1FvFX6J3E4kXhJuCiAD5aDmGEb7qJRncwA8Lkhw`
