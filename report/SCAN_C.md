@@ -1,5 +1,7 @@
 # SCAN C — Meta / Flywheel
-**2026-10-05 02:59 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-05 03:03 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+
+> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
 ## Metas por token de pago (0 activándose)
 
@@ -52,14 +54,14 @@
 - **Token:** sin token listado en CoinGecko
 
 ### 🟡 FLYWHEEL ACELERANDO — Bags (Launchpad)
-- **Ingresos 7d:** $81.1k · 7d anteriores $39.9k · cambio 2.0×
-- **Ingresos 24h:** $1.1k · 24h anteriores $1.3k · -13% (¿sigue acelerando hoy?)
+- **Ingresos 7d:** $80.0k · 7d anteriores $39.9k · cambio 2.0×
+- **Ingresos 24h:** $1.3k · 24h anteriores $1.3k · +0% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** —
 - **Token:** sin token listado en CoinGecko
 
 ### 🟡 FLYWHEEL ACELERANDO — Bloom Trading Bot (Gaming)
-- **Ingresos 7d:** $53.2k · 7d anteriores $13.3k · cambio 4.0×
-- **Ingresos 24h:** $122 · 24h anteriores $0 · nuevo (¿sigue acelerando hoy?)
+- **Ingresos 7d:** $53.1k · 7d anteriores $13.3k · cambio 4.0×
+- **Ingresos 24h:** $0 · 24h anteriores $0 · — (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** —
 - **Token:** sin token listado en CoinGecko
 
