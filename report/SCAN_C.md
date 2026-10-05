@@ -1,18 +1,16 @@
 # SCAN C — Meta / Flywheel
-**2026-10-05 07:07 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
-
-> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
+**2026-10-05 07:09 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 ## Metas por token de pago (2 activándose)
 
 ### 🟡 META ACTIVÁNDOSE — NVDAx
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
-- **Pools nuevos:** 1h 0 (antes 1) · 6h 5 (antes 5, +0%) · 24h 12 (antes 6, +100%)
-- **Amplitud (24h):** 12 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 52% del volumen
-- **Token de pago:** MC $236.0k · volumen 24h $671.3k · liquidez $2.94M
+- **Pools nuevos:** 1h 3 (antes 1) · 6h 8 (antes 5, +60%) · 24h 15 (antes 6, +150%)
+- **Amplitud (24h):** 15 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 52% del volumen
+- **Token de pago:** MC $236.0k · volumen 24h $672.3k · liquidez $2.94M
 - **Líder (más volumen):** gud `Da34aMYEB2XBHj81xUpBib2oDXmofHeRRZ4KvyUbpump` · MC $3.1k · vol 24h $3.1k · 24h -27.46%
 - **Líder (mayor subida 24h):** SI `D8VULUmiDYECkJnwiMNUxctMUDaYh6HzZFFe5QAGpump` · MC $3.1k · vol 24h $36 · 24h -1.15%
-- **Catalizador:** META ACCELERATION (pools 24h +100%)
+- **Catalizador:** META ACCELERATION (pools 24h +150%)
 - **Riesgos:** liquidez 0% del MC
 
 ### 🟡 META ACTIVÁNDOSE — SPYx
@@ -36,6 +34,10 @@
 - **Quote:** `Xsa62P5mvPszXL1krVUnU5ar38bBSVcWAB6fmPCo5Zu`
 - **Pools nuevos:** 1h 0 (antes 2) · 6h 2 (antes 1, +100%) · 24h 3 (antes 0, nuevo)
 
+### ⚪ en observación — GLDx
+- **Quote:** `Xsv9hRk1z5ystj9MhnA7Lq4vjSsLwzL2nxrwmwtD3re`
+- **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 0, nuevo) · 24h 1 (antes 0, nuevo)
+
 ### ⚪ en observación — COINx
 - **Quote:** `Xs7ZdzSHLU9ftNJsii5fCeJhoRWSC32SQGzGQtePxNu`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 1 (antes 0, nuevo) · 24h 1 (antes 0, nuevo)
@@ -51,10 +53,6 @@
 ### ⚪ en observación — JI
 - **Quote:** `HYARMuucuFHGMTztgWNh6C8X7n4DBxJMe6c5f3gAAAzw`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 1 (antes 0, nuevo)
-
-### ⚪ en observación — DRMR
-- **Quote:** `7Xgc5RacHtGzfhw2HukUBk5V986yBbvshr7rrCoopump`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 1 (antes 0, nuevo)
 
 ## Plataformas con ingresos acelerando (DefiLlama)
 
