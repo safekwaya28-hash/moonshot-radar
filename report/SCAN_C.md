@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-05 05:16 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-05 05:39 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -7,16 +7,16 @@
 
 ### 🟡 META ACTIVÁNDOSE — SPYx
 - **Quote:** `XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W`
-- **Pools nuevos:** 1h 0 (antes 8) · 6h 10 (antes 1, +900%) · 24h 12 (antes 4, +200%)
+- **Pools nuevos:** 1h 0 (antes 1) · 6h 10 (antes 1, +900%) · 24h 12 (antes 4, +200%)
 - **Amplitud (24h):** 11 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 53% del volumen
-- **Token de pago:** MC $773.9k · volumen 24h $169.4k · liquidez $2.84M
-- **Líder (más volumen):** NYSE `5zxCqL1ASxWu1xvJGLKvy3cqfFu3Po3w8ZrWzLRYicQU` · MC $2.9k · vol 24h $23.4k · 24h -90.43%
+- **Token de pago:** MC $773.9k · volumen 24h $175.1k · liquidez $2.84M
+- **Líder (más volumen):** NYSE `5zxCqL1ASxWu1xvJGLKvy3cqfFu3Po3w8ZrWzLRYicQU` · MC $2.9k · vol 24h $23.4k · 24h -90.46%
 - **Líder (mayor subida 24h):** WILLDOITTV `H8jq6yoVZ6E86y4TBydgVJ6Qd4zdwEjw89op4uDrmwDq` · MC $3.1k · vol 24h $40 · 24h -0.7%
 - **Catalizador:** META ACCELERATION (pools 24h +200%)
 
 ### ⚪ en observación — NVDAx
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
-- **Pools nuevos:** 1h 1 (antes 1) · 6h 4 (antes 5, -20%) · 24h 11 (antes 6, +83%)
+- **Pools nuevos:** 1h 0 (antes 1) · 6h 4 (antes 5, -20%) · 24h 11 (antes 6, +83%)
 
 ### ⚪ en observación — ANTHRP
 - **Quote:** `Pren1FvFX6J3E4kXhJuCiAD5aDmGEb7qJRncwA8Lkhw`
@@ -24,7 +24,7 @@
 
 ### ⚪ en observación — WBTC
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 5 (antes 0, nuevo) · 24h 5 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 1) · 6h 5 (antes 0, nuevo) · 24h 5 (antes 0, nuevo)
 
 ### ⚪ en observación — COINx
 - **Quote:** `Xs7ZdzSHLU9ftNJsii5fCeJhoRWSC32SQGzGQtePxNu`
