@@ -1,7 +1,7 @@
 # ESTUDIO · distribución por entrada × venta
-**2026-10-05 07:35 UTC** · fuente: todas las graduadas de pump.fun (PumpSwap)
+**2026-10-05 08:35 UTC** · fuente: todas las graduadas de pump.fun (PumpSwap)
 
-- Monedas revisadas: **5,273 / 206,007** (3%) · con pico ≥ $500k: **1,065**
+- Monedas revisadas: **5,361 / 206,007** (3%) · con pico ≥ $500k: **1,082**
 
 | Entrada | Venta | Ops | Censura <180d | EV | Mediana | p75 | p90 | p99 | Cobró ≥10x | Tocó ≥10x | Cobró ≥50x | Tocó ≥50x | Días al pico (med/p90) | Top 3 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -15,11 +15,11 @@
 | REF_dd85_mc150k_sin_base | solo_stop | 55 | 100% | 0.96x | 0.97x | 1.19x | 1.30x | 1.89x | 0% | 2% | 0% | 0% | 1 / 30 | 1.7x, 1.7x, 2.1x |
 | REF_dd85_mc150k_sin_base | trailing | 55 | 100% | 0.98x | 0.98x | 1.20x | 1.30x | 1.89x | 0% | 2% | 0% | 0% | 1 / 30 | 1.7x, 1.7x, 2.1x |
 | REF_dd85_mc150k_sin_base | tuya | 55 | 100% | 1.02x | 0.99x | 1.21x | 1.33x | 1.89x | 0% | 2% | 0% | 0% | 1 / 30 | 1.7x, 1.7x, 2.1x |
-| TIPO_SOAP_pico200k_dd75_mc50k_72h_base | escalonada | 23 | 100% | 1.00x | 0.94x | 1.17x | 1.30x | 1.53x | 0% | 4% | 0% | 0% | 2 / 31 | 1.3x, 1.3x, 1.6x |
-| TIPO_SOAP_pico200k_dd75_mc50k_72h_base | estructura | 23 | 100% | 0.95x | 0.99x | 1.17x | 1.30x | 1.55x | 0% | 4% | 0% | 0% | 7 / 33 | 1.3x, 1.4x, 1.6x |
-| TIPO_SOAP_pico200k_dd75_mc50k_72h_base | solo_stop | 23 | 100% | 0.99x | 0.94x | 1.11x | 1.22x | 1.53x | 0% | 4% | 0% | 0% | 2 / 31 | 1.2x, 1.3x, 1.6x |
-| TIPO_SOAP_pico200k_dd75_mc50k_72h_base | trailing | 23 | 100% | 0.99x | 0.94x | 1.11x | 1.22x | 1.53x | 0% | 4% | 0% | 0% | 2 / 31 | 1.2x, 1.3x, 1.6x |
-| TIPO_SOAP_pico200k_dd75_mc50k_72h_base | tuya | 23 | 100% | 1.01x | 0.94x | 1.17x | 1.30x | 1.68x | 0% | 4% | 0% | 0% | 2 / 31 | 1.3x, 1.6x, 1.7x |
+| TIPO_SOAP_pico200k_dd75_mc50k_72h_base | escalonada | 24 | 100% | 1.00x | 0.94x | 1.16x | 1.29x | 1.53x | 0% | 4% | 0% | 0% | 2 / 30 | 1.3x, 1.3x, 1.6x |
+| TIPO_SOAP_pico200k_dd75_mc50k_72h_base | estructura | 24 | 100% | 0.96x | 1.01x | 1.17x | 1.29x | 1.55x | 0% | 4% | 0% | 0% | 8 / 37 | 1.3x, 1.4x, 1.6x |
+| TIPO_SOAP_pico200k_dd75_mc50k_72h_base | solo_stop | 24 | 100% | 0.98x | 0.94x | 1.08x | 1.22x | 1.53x | 0% | 4% | 0% | 0% | 2 / 30 | 1.2x, 1.3x, 1.6x |
+| TIPO_SOAP_pico200k_dd75_mc50k_72h_base | trailing | 24 | 100% | 0.98x | 0.94x | 1.08x | 1.22x | 1.53x | 0% | 4% | 0% | 0% | 2 / 30 | 1.2x, 1.3x, 1.6x |
+| TIPO_SOAP_pico200k_dd75_mc50k_72h_base | tuya | 24 | 100% | 1.01x | 0.94x | 1.16x | 1.29x | 1.68x | 0% | 4% | 0% | 0% | 2 / 30 | 1.3x, 1.6x, 1.7x |
 | TIPO_SOAP_pico200k_dd75_mc50k_72h_ruptura | escalonada | 11 | 100% | 0.92x | 1.09x | 1.15x | 1.29x | 1.31x | 0% | 9% | 0% | 0% | 14 / 31 | 1.2x, 1.3x, 1.3x |
 | TIPO_SOAP_pico200k_dd75_mc50k_72h_ruptura | estructura | 11 | 100% | 0.90x | 0.97x | 1.11x | 1.17x | 1.28x | 0% | 9% | 0% | 0% | 14 / 31 | 1.1x, 1.2x, 1.3x |
 | TIPO_SOAP_pico200k_dd75_mc50k_72h_ruptura | solo_stop | 11 | 100% | 0.90x | 1.04x | 1.11x | 1.17x | 1.28x | 0% | 9% | 0% | 0% | 14 / 31 | 1.1x, 1.2x, 1.3x |
