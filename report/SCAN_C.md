@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-06 16:36 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-06 16:39 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -28,9 +28,9 @@
 - **Quote:** `XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN`
 - **Pools nuevos:** 1h 0 (antes 1) · 6h 2 (antes 0, nuevo) · 24h 12 (antes 1, +1100%)
 - **Amplitud (24h):** 11 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 100% del volumen ⚠️ una sola moneda domina: puede no ser una moda
-- **Token de pago:** MC $349.1k · volumen 24h $1.06M · liquidez $991.4k
-- **Líder (más volumen):** AdCoin `Gz65nKnN1RvGSZxmn8NgN8rcEkbvYjdhzouJqa54PQfX` · MC $4.1k · vol 24h $76.8k · 24h -65.53%
-- **Líder (mayor subida 24h):** AdCoin `Gz65nKnN1RvGSZxmn8NgN8rcEkbvYjdhzouJqa54PQfX` · MC $4.1k · vol 24h $76.8k · 24h -65.53%
+- **Token de pago:** MC $349.0k · volumen 24h $1.06M · liquidez $991.4k
+- **Líder (más volumen):** AdCoin `Gz65nKnN1RvGSZxmn8NgN8rcEkbvYjdhzouJqa54PQfX` · MC $4.2k · vol 24h $76.9k · 24h -64.43%
+- **Líder (mayor subida 24h):** AdCoin `Gz65nKnN1RvGSZxmn8NgN8rcEkbvYjdhzouJqa54PQfX` · MC $4.2k · vol 24h $76.9k · 24h -64.43%
 - **Catalizador:** META ACCELERATION (pools 24h +1100%)
 - **Riesgos:** liquidez 0% del MC
 
