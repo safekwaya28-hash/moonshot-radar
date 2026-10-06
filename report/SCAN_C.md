@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-06 11:59 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-06 12:01 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -20,7 +20,7 @@
 - **Quote:** `XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 10 (antes 1, +900%)
 - **Amplitud (24h):** 9 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 53% del volumen
-- **Token de pago:** MC $39.73M · volumen 24h $900.7k · liquidez $847.1k
+- **Token de pago:** MC $39.73M · volumen 24h $902.5k · liquidez $847.2k
 - **Líder (más volumen):** BOTANIC-1 `HdMgdKFYcdP6268H5mg5PQoS3BnqSjnGG15Eq8nFDabV` · MC $2.9k · vol 24h $86.6k · 24h -94.09%
 - **Líder (mayor subida 24h):** AdCoin `Gz65nKnN1RvGSZxmn8NgN8rcEkbvYjdhzouJqa54PQfX` · MC $4.1k · vol 24h $76.8k · 24h -65.11%
 - **Catalizador:** META ACCELERATION (pools 24h +900%)
@@ -33,7 +33,7 @@
 
 ### ⚪ en observación — WBTC
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 12 (antes 18, -33%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 7 (antes 23, -70%)
 
 ### ⚪ en observación — SPYx
 - **Quote:** `XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W`
