@@ -1,11 +1,11 @@
 # SCAN C — Meta / Flywheel
-**2026-10-06 20:57 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-06 20:59 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 ## Metas por token de pago (3 activándose)
 
 ### 🟡 META ACTIVÁNDOSE — NVDAx
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 2 (antes 15, -87%) · 24h 47 (antes 23, +104%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 1 (antes 16, -94%) · 24h 47 (antes 23, +104%)
 - **Amplitud (24h):** 47 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 18% del volumen
 - **Token de pago:** MC $239.9k · volumen 24h $6.72M · liquidez $3.25M
 - **Líder (más volumen):** HYDRA `FenVSz43AmhRUnPP73VCCxn6drLDweAXPKjo1WVRpump` · MC $3.1k · vol 24h $6.5k · 24h -7.6%
@@ -15,28 +15,28 @@
 
 ### 🟡 META ACTIVÁNDOSE — ANTHRP
 - **Quote:** `Pren1FvFX6J3E4kXhJuCiAD5aDmGEb7qJRncwA8Lkhw`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 17 (antes 5, +240%)
-- **Amplitud (24h):** 17 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 100% del volumen ⚠️ una sola moneda domina: puede no ser una moda
-- **Token de pago:** MC $8.12M · volumen 24h $1.03M · liquidez $419.6k
+- **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 0, nuevo) · 24h 18 (antes 5, +260%)
+- **Amplitud (24h):** 18 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 100% del volumen ⚠️ una sola moneda domina: puede no ser una moda
+- **Token de pago:** MC $8.12M · volumen 24h $1.04M · liquidez $419.9k
 - **Líder (más volumen):** Ants `Fizv9hDCTpmqFAHjcqsRYgnX4AdxDQ1j9j3UcHiHWQkx` · MC $10.8k · vol 24h $841.7k · 24h -79.06%
 - **Líder (mayor subida 24h):** Ants `Fizv9hDCTpmqFAHjcqsRYgnX4AdxDQ1j9j3UcHiHWQkx` · MC $10.8k · vol 24h $841.7k · 24h -79.06%
-- **Catalizador:** META ACCELERATION (pools 24h +240%)
+- **Catalizador:** META ACCELERATION (pools 24h +260%)
 - **Riesgos:** concentración: top10 70%, wallet máx 46.9%; impuesto 1% · lo puede cambiar: 5KXDF6… · cobra: 5KXDF6… → revisar a dónde va y si esa wallet vende
 - **Descartado por seguridad:** impuesto 1% que alguien puede cambiar
 
 ### 🟡 META ACTIVÁNDOSE — MSFTx
 - **Quote:** `XspzcW1PRtgf6Wj92HCiZdjzKCyFekVD8P5Ueh3dRMX`
 - **Pools nuevos:** 1h 6 (antes 0) · 6h 7 (antes 1, +600%) · 24h 10 (antes 3, +233%)
-- **Amplitud (24h):** 10 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 70% del volumen
+- **Amplitud (24h):** 10 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 36% del volumen
 - **Token de pago:** MC $8.39M · volumen 24h $305.1k · liquidez $464.8k
 - **Líder (más volumen):** Yarnaby `FJE2NUwNiCLWG3RpE3PprV9pS5Y8R5rHHEXjVLk4TqrR` · MC $3.1k · vol 24h $5.9k · 24h -34.01%
-- **Líder (mayor subida 24h):** Steve `tdhLPHi5TfEXCduBrdcMZqnRe8zMp73tRC6Vtjipump` · MC $4.3k · vol 24h $811 · 24h -31.21%
+- **Líder (mayor subida 24h):** TWEETCRAFT `A8wWF3jLhVzgvBiRpkS9GqTzLCsrkm2TnyacaCtNpyWg` · MC $3.1k · vol 24h $301 · 24h -11.44%
 - **Catalizador:** META ACCELERATION (pools 24h +233%)
 - **Riesgos:** liquidez 0% del MC
 
 ### ⚪ en observación — SPYx
 - **Quote:** `XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W`
-- **Pools nuevos:** 1h 1 (antes 1) · 6h 3 (antes 2, +50%) · 24h 7 (antes 16, -56%)
+- **Pools nuevos:** 1h 2 (antes 1) · 6h 4 (antes 2, +100%) · 24h 8 (antes 16, -50%)
 
 ### ⚪ en observación — QQQx
 - **Quote:** `Xs8S1uUs1zvS2p7iwtsG3b6fkhpvmwz4GYU3gWAmWHZ`
@@ -52,7 +52,7 @@
 
 ### ⚪ en observación — GOOGLx
 - **Quote:** `XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 1 (antes 1, +0%) · 24h 2 (antes 11, -82%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 2, -100%) · 24h 2 (antes 11, -82%)
 
 ### ⚪ en observación — METAx
 - **Quote:** `Xsa62P5mvPszXL1krVUnU5ar38bBSVcWAB6fmPCo5Zu`
