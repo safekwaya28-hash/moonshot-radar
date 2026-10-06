@@ -1,20 +1,20 @@
 # ESTUDIO · distribución por entrada × venta
-**2026-10-06 07:32 UTC** · fuente: todas las graduadas de pump.fun (PumpSwap)
+**2026-10-06 08:33 UTC** · fuente: todas las graduadas de pump.fun (PumpSwap)
 
-- Monedas revisadas: **7,175 / 206,007** (3%) · con pico ≥ $500k: **1,484**
+- Monedas revisadas: **7,266 / 206,007** (4%) · con pico ≥ $500k: **1,501**
 
 | Entrada | Venta | Ops | Censura <180d | EV | Mediana | p75 | p90 | p99 | Cobró ≥10x | Tocó ≥10x | Cobró ≥50x | Tocó ≥50x | Días al pico (med/p90) | Top 3 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| REF_dd70_mc150k_sin_base | escalonada | 82 | 100% | 1.00x | 0.98x | 1.20x | 1.42x | 1.81x | 0% | 1% | 0% | 0% | 2 / 33 | 1.7x, 1.7x, 2.1x |
-| REF_dd70_mc150k_sin_base | estructura | 82 | 100% | 0.99x | 1.10x | 1.29x | 1.47x | 1.81x | 0% | 1% | 0% | 0% | 11 / 44 | 1.7x, 1.7x, 2.1x |
-| REF_dd70_mc150k_sin_base | solo_stop | 82 | 100% | 0.98x | 0.98x | 1.19x | 1.35x | 1.81x | 0% | 1% | 0% | 0% | 2 / 33 | 1.7x, 1.7x, 2.1x |
-| REF_dd70_mc150k_sin_base | trailing | 82 | 100% | 0.98x | 0.98x | 1.20x | 1.35x | 1.81x | 0% | 1% | 0% | 0% | 2 / 33 | 1.7x, 1.7x, 2.1x |
-| REF_dd70_mc150k_sin_base | tuya | 82 | 100% | 1.02x | 0.99x | 1.21x | 1.42x | 1.81x | 0% | 1% | 0% | 0% | 2 / 33 | 1.7x, 1.7x, 2.1x |
-| REF_dd85_mc150k_sin_base | escalonada | 82 | 100% | 1.02x | 0.98x | 1.21x | 1.42x | 1.81x | 0% | 1% | 0% | 0% | 2 / 33 | 1.7x, 1.7x, 2.1x |
-| REF_dd85_mc150k_sin_base | estructura | 82 | 100% | 1.00x | 1.10x | 1.29x | 1.47x | 1.81x | 0% | 1% | 0% | 0% | 11 / 44 | 1.7x, 1.7x, 2.1x |
-| REF_dd85_mc150k_sin_base | solo_stop | 82 | 100% | 0.98x | 0.98x | 1.19x | 1.35x | 1.81x | 0% | 1% | 0% | 0% | 2 / 33 | 1.7x, 1.7x, 2.1x |
-| REF_dd85_mc150k_sin_base | trailing | 82 | 100% | 1.00x | 0.98x | 1.20x | 1.35x | 1.81x | 0% | 1% | 0% | 0% | 2 / 33 | 1.7x, 1.7x, 2.1x |
-| REF_dd85_mc150k_sin_base | tuya | 82 | 100% | 1.03x | 0.99x | 1.21x | 1.42x | 1.81x | 0% | 1% | 0% | 0% | 2 / 33 | 1.7x, 1.7x, 2.1x |
+| REF_dd70_mc150k_sin_base | escalonada | 84 | 100% | 1.00x | 0.98x | 1.20x | 1.40x | 1.81x | 0% | 1% | 0% | 0% | 2 / 33 | 1.7x, 1.7x, 2.1x |
+| REF_dd70_mc150k_sin_base | estructura | 84 | 100% | 1.00x | 1.10x | 1.28x | 1.47x | 1.81x | 0% | 1% | 0% | 0% | 11 / 43 | 1.7x, 1.7x, 2.1x |
+| REF_dd70_mc150k_sin_base | solo_stop | 84 | 100% | 0.98x | 0.98x | 1.19x | 1.35x | 1.81x | 0% | 1% | 0% | 0% | 2 / 33 | 1.7x, 1.7x, 2.1x |
+| REF_dd70_mc150k_sin_base | trailing | 84 | 100% | 0.98x | 0.98x | 1.20x | 1.35x | 1.81x | 0% | 1% | 0% | 0% | 2 / 33 | 1.7x, 1.7x, 2.1x |
+| REF_dd70_mc150k_sin_base | tuya | 84 | 100% | 1.02x | 0.99x | 1.20x | 1.40x | 1.81x | 0% | 1% | 0% | 0% | 2 / 33 | 1.7x, 1.7x, 2.1x |
+| REF_dd85_mc150k_sin_base | escalonada | 84 | 100% | 1.01x | 0.98x | 1.20x | 1.40x | 1.81x | 0% | 1% | 0% | 0% | 2 / 33 | 1.7x, 1.7x, 2.1x |
+| REF_dd85_mc150k_sin_base | estructura | 84 | 100% | 1.00x | 1.10x | 1.28x | 1.47x | 1.81x | 0% | 1% | 0% | 0% | 11 / 43 | 1.7x, 1.7x, 2.1x |
+| REF_dd85_mc150k_sin_base | solo_stop | 84 | 100% | 0.98x | 0.98x | 1.19x | 1.35x | 1.81x | 0% | 1% | 0% | 0% | 2 / 33 | 1.7x, 1.7x, 2.1x |
+| REF_dd85_mc150k_sin_base | trailing | 84 | 100% | 1.00x | 0.98x | 1.20x | 1.35x | 1.81x | 0% | 1% | 0% | 0% | 2 / 33 | 1.7x, 1.7x, 2.1x |
+| REF_dd85_mc150k_sin_base | tuya | 84 | 100% | 1.02x | 0.99x | 1.20x | 1.40x | 1.81x | 0% | 1% | 0% | 0% | 2 / 33 | 1.7x, 1.7x, 2.1x |
 | TIPO_SOAP_pico200k_dd75_mc50k_72h_base | escalonada | 33 | 100% | 1.01x | 0.95x | 1.19x | 1.32x | 1.68x | 0% | 3% | 0% | 0% | 2 / 33 | 1.4x, 1.6x, 1.7x |
 | TIPO_SOAP_pico200k_dd75_mc50k_72h_base | estructura | 33 | 100% | 0.99x | 1.05x | 1.19x | 1.40x | 1.68x | 0% | 3% | 0% | 0% | 10 / 38 | 1.4x, 1.6x, 1.7x |
 | TIPO_SOAP_pico200k_dd75_mc50k_72h_base | solo_stop | 33 | 100% | 1.00x | 0.95x | 1.16x | 1.30x | 1.68x | 0% | 3% | 0% | 0% | 2 / 33 | 1.4x, 1.6x, 1.7x |
