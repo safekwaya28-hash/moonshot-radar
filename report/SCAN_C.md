@@ -1,16 +1,18 @@
 # SCAN C — Meta / Flywheel
-**2026-10-06 00:44 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-06 00:47 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+
+> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
 ## Metas por token de pago (4 activándose)
 
 ### 🟡 META ACTIVÁNDOSE — WBTC
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
-- **Pools nuevos:** 1h 0 (antes 1) · 6h 1 (antes 6, -83%) · 24h 27 (antes 3, +800%)
-- **Amplitud (24h):** 27 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 50% del volumen
-- **Token de pago:** MC $330.90M · volumen 24h $5.02M · liquidez $2.08M
+- **Pools nuevos:** 1h 0 (antes 1) · 6h 1 (antes 6, -83%) · 24h 26 (antes 4, +550%)
+- **Amplitud (24h):** 26 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 50% del volumen
+- **Token de pago:** MC $330.85M · volumen 24h $5.02M · liquidez $2.08M
 - **Líder (más volumen):** BTCMAN `GLSpK3nZ74Vx3uJzhhjJVPNGPJpg2NdzXzFmBGg6TcoK` · MC $3.1k · vol 24h $14.5k · 24h -18.52%
-- **Líder (mayor subida 24h):** BITOPUS `HZiJcWdujKvjSV6wnSn3xVtR56byYn7miwgUeLkuFkSW` · MC $3.1k · vol 24h $17 · 24h -0.65%
-- **Catalizador:** META ACCELERATION (pools 24h +800%)
+- **Líder (mayor subida 24h):** Satoshi `2m45JTV76aPfK8kDVBe4F9P1VSMKF1AziCeiN71B26Yn` · MC $3.1k · vol 24h $46 · 24h -1.39%
+- **Catalizador:** META ACCELERATION (pools 24h +550%)
 - **Riesgos:** liquidez 0% del MC
 
 ### 🟡 META ACTIVÁNDOSE — NVDAx
@@ -27,7 +29,7 @@
 - **Quote:** `XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W`
 - **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 4, -75%) · 24h 15 (antes 3, +400%)
 - **Amplitud (24h):** 14 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 52% del volumen
-- **Token de pago:** MC $779.5k · volumen 24h $421.2k · liquidez $2.68M
+- **Token de pago:** MC $779.5k · volumen 24h $421.3k · liquidez $2.68M
 - **Líder (más volumen):** NYSE `5zxCqL1ASxWu1xvJGLKvy3cqfFu3Po3w8ZrWzLRYicQU` · MC $3.0k · vol 24h $23.4k · 24h -90.37%
 - **Líder (mayor subida 24h):** Courage `2s3bcGgKmFqw6qfVgY7MaiTD2AgrhE1ijZHUZtXP3kjo` · MC $3.1k · vol 24h $25 · 24h -0.75%
 - **Catalizador:** META ACCELERATION (pools 24h +400%)
