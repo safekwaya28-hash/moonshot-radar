@@ -1,5 +1,7 @@
 # SCAN C — Meta / Flywheel
-**2026-10-06 03:59 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-06 04:05 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+
+> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
 ## Metas por token de pago (4 activándose)
 
@@ -17,7 +19,7 @@
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 1 (antes 1, +0%) · 24h 26 (antes 4, +550%)
 - **Amplitud (24h):** 26 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 50% del volumen
-- **Token de pago:** MC $330.07M · volumen 24h $5.03M · liquidez $2.07M
+- **Token de pago:** MC $330.21M · volumen 24h $5.03M · liquidez $2.07M
 - **Líder (más volumen):** BTCMAN `GLSpK3nZ74Vx3uJzhhjJVPNGPJpg2NdzXzFmBGg6TcoK` · MC $3.1k · vol 24h $14.5k · 24h -18.52%
 - **Líder (mayor subida 24h):** Satoshi `2m45JTV76aPfK8kDVBe4F9P1VSMKF1AziCeiN71B26Yn` · MC $3.1k · vol 24h $46 · 24h -1.39%
 - **Catalizador:** META ACCELERATION (pools 24h +550%)
@@ -28,8 +30,8 @@
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 17 (antes 0, nuevo) · 24h 17 (antes 5, +240%)
 - **Amplitud (24h):** 17 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 100% del volumen ⚠️ una sola moneda domina: puede no ser una moda
 - **Token de pago:** MC $8.05M · volumen 24h $757.2k · liquidez $387.3k
-- **Líder (más volumen):** Ants `Fizv9hDCTpmqFAHjcqsRYgnX4AdxDQ1j9j3UcHiHWQkx` · MC $15.3k · vol 24h $828.3k · 24h -70.16%
-- **Líder (mayor subida 24h):** Ants `Fizv9hDCTpmqFAHjcqsRYgnX4AdxDQ1j9j3UcHiHWQkx` · MC $15.3k · vol 24h $828.3k · 24h -70.16%
+- **Líder (más volumen):** Ants `Fizv9hDCTpmqFAHjcqsRYgnX4AdxDQ1j9j3UcHiHWQkx` · MC $15.4k · vol 24h $828.3k · 24h -70.12%
+- **Líder (mayor subida 24h):** Ants `Fizv9hDCTpmqFAHjcqsRYgnX4AdxDQ1j9j3UcHiHWQkx` · MC $15.4k · vol 24h $828.3k · 24h -70.12%
 - **Catalizador:** META ACCELERATION (pools 24h +240%)
 - **Riesgos:** concentración: top10 65%, wallet máx 38.4%; impuesto 1% · lo puede cambiar: 5KXDF6… · cobra: 5KXDF6… → revisar a dónde va y si esa wallet vende
 - **Descartado por seguridad:** impuesto 1% que alguien puede cambiar
@@ -38,7 +40,7 @@
 - **Quote:** `XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 10, -100%) · 24h 10 (antes 1, +900%)
 - **Amplitud (24h):** 9 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 53% del volumen
-- **Token de pago:** MC $39.59M · volumen 24h $792.5k · liquidez $884.2k
+- **Token de pago:** MC $39.59M · volumen 24h $792.9k · liquidez $884.2k
 - **Líder (más volumen):** BOTANIC-1 `HdMgdKFYcdP6268H5mg5PQoS3BnqSjnGG15Eq8nFDabV` · MC $3.4k · vol 24h $86.4k · 24h -93.1%
 - **Líder (mayor subida 24h):** L&M `93CwvG9XGybdKw61XjeZfX4pSMRJF1RZo69iun93pump` · MC $3.1k · vol 24h $521 · 24h -21.75%
 - **Catalizador:** META ACCELERATION (pools 24h +900%)
@@ -67,7 +69,7 @@
 
 ### ⚪ en observación — JUP
 - **Quote:** `JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 2, -100%) · 24h 2 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 2 (antes 0, nuevo)
 
 ## Plataformas con ingresos acelerando (DefiLlama)
 
