@@ -1,15 +1,17 @@
 # SCAN C — Meta / Flywheel
-**2026-10-06 15:59 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-06 16:03 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+
+> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
 ## Metas por token de pago (3 activándose)
 
 ### 🟡 META ACTIVÁNDOSE — NVDAx
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
-- **Pools nuevos:** 1h 2 (antes 7) · 6h 17 (antes 12, +42%) · 24h 48 (antes 22, +118%)
+- **Pools nuevos:** 1h 1 (antes 8) · 6h 17 (antes 12, +42%) · 24h 48 (antes 22, +118%)
 - **Amplitud (24h):** 48 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 18% del volumen
 - **Token de pago:** MC $242.0k · volumen 24h $5.96M · liquidez $3.31M
 - **Líder (más volumen):** HYDRA `FenVSz43AmhRUnPP73VCCxn6drLDweAXPKjo1WVRpump` · MC $3.1k · vol 24h $6.5k · 24h -6.56%
-- **Líder (mayor subida 24h):** JKT `C73JJ8SECDHZAy9XxFPvMzENTsM51HKBrd1pNmxppump` · MC $6.3k · vol 24h $3.4k · 24h 63.71%
+- **Líder (mayor subida 24h):** JKT `C73JJ8SECDHZAy9XxFPvMzENTsM51HKBrd1pNmxppump` · MC $6.1k · vol 24h $3.4k · 24h 58.74%
 - **Catalizador:** META ACCELERATION (pools 24h +118%)
 - **Riesgos:** liquidez 0% del MC
 
@@ -17,7 +19,7 @@
 - **Quote:** `Pren1FvFX6J3E4kXhJuCiAD5aDmGEb7qJRncwA8Lkhw`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 17 (antes 5, +240%)
 - **Amplitud (24h):** 17 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Token de pago:** MC $7.69M · volumen 24h $726.6k · liquidez $402.8k
+- **Token de pago:** MC $7.69M · volumen 24h $725.5k · liquidez $402.6k
 - **Catalizador:** META ACCELERATION (pools 24h +240%)
 - **Riesgos:** concentración: top10 52%, wallet máx 19.2%; impuesto 5% · lo puede cambiar: WV9PJN… · cobra: WV9PJN… → revisar a dónde va y si esa wallet vende
 - **Descartado por seguridad:** mint authority activa; freeze authority activa; impuesto 5% que alguien puede cambiar; extensiones Token-2022: permanentDelegate,defaultAccountState,confidentialTransferMint,confidentialTransferFeeConfig,transferHook,scaledUiAmountConfig,pausableConfig
@@ -26,7 +28,7 @@
 - **Quote:** `XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN`
 - **Pools nuevos:** 1h 0 (antes 1) · 6h 2 (antes 0, nuevo) · 24h 12 (antes 1, +1100%)
 - **Amplitud (24h):** 11 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 100% del volumen ⚠️ una sola moneda domina: puede no ser una moda
-- **Token de pago:** MC $349.1k · volumen 24h $1.02M · liquidez $991.2k
+- **Token de pago:** MC $349.2k · volumen 24h $1.03M · liquidez $991.5k
 - **Líder (más volumen):** AdCoin `Gz65nKnN1RvGSZxmn8NgN8rcEkbvYjdhzouJqa54PQfX` · MC $4.1k · vol 24h $76.8k · 24h -65.49%
 - **Líder (mayor subida 24h):** AdCoin `Gz65nKnN1RvGSZxmn8NgN8rcEkbvYjdhzouJqa54PQfX` · MC $4.1k · vol 24h $76.8k · 24h -65.49%
 - **Catalizador:** META ACCELERATION (pools 24h +1100%)
@@ -38,7 +40,7 @@
 
 ### ⚪ en observación — HOODx
 - **Quote:** `XsvNBAYkrDRNhA7wPHQfX3ZUXZyZLdnCQDfHZ56bzpg`
-- **Pools nuevos:** 1h 0 (antes 1) · 6h 2 (antes 0, nuevo) · 24h 3 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 2 (antes 0, nuevo) · 24h 3 (antes 0, nuevo)
 
 ### ⚪ en observación — MSFTx
 - **Quote:** `XspzcW1PRtgf6Wj92HCiZdjzKCyFekVD8P5Ueh3dRMX`
@@ -56,9 +58,9 @@
 - **Quote:** `XsP7xzNPvEHS1m6qfanPUGjNmdnmsLKEoNAnHjdxxyZ`
 - **Pools nuevos:** 1h 0 (antes 1) · 6h 2 (antes 0, nuevo) · 24h 2 (antes 1, +100%)
 
-### ⚪ en observación — JUP
-- **Quote:** `JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 2 (antes 0, nuevo)
+### ⚪ en observación — cbBTC
+- **Quote:** `cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij`
+- **Pools nuevos:** 1h 0 (antes 1) · 6h 1 (antes 0, nuevo) · 24h 2 (antes 0, nuevo)
 
 ## Plataformas con ingresos acelerando (DefiLlama)
 
