@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-06 07:34 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-06 07:37 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 ## Metas por token de pago (4 activándose)
 
@@ -17,7 +17,7 @@
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 25 (antes 5, +400%)
 - **Amplitud (24h):** 25 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 55% del volumen
-- **Token de pago:** MC $329.45M · volumen 24h $4.91M · liquidez $2.07M
+- **Token de pago:** MC $329.46M · volumen 24h $4.91M · liquidez $2.07M
 - **Líder (más volumen):** BTCMAN `GLSpK3nZ74Vx3uJzhhjJVPNGPJpg2NdzXzFmBGg6TcoK` · MC $3.1k · vol 24h $14.5k · 24h -18.52%
 - **Líder (mayor subida 24h):** RSG `EQ7Xi1Hv69TE5Mqp7UWUJgtodiWJCDwo7tvXDFGGpump` · MC $3.1k · vol 24h $289 · 24h -0.03%
 - **Catalizador:** META ACCELERATION (pools 24h +400%)
@@ -27,18 +27,18 @@
 - **Quote:** `Pren1FvFX6J3E4kXhJuCiAD5aDmGEb7qJRncwA8Lkhw`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 17, -100%) · 24h 17 (antes 5, +240%)
 - **Amplitud (24h):** 17 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 100% del volumen ⚠️ una sola moneda domina: puede no ser una moda
-- **Token de pago:** MC $7.98M · volumen 24h $771.2k · liquidez $375.4k
-- **Líder (más volumen):** Ants `Fizv9hDCTpmqFAHjcqsRYgnX4AdxDQ1j9j3UcHiHWQkx` · MC $14.2k · vol 24h $831.8k · 24h -72.31%
-- **Líder (mayor subida 24h):** Ants `Fizv9hDCTpmqFAHjcqsRYgnX4AdxDQ1j9j3UcHiHWQkx` · MC $14.2k · vol 24h $831.8k · 24h -72.31%
+- **Token de pago:** MC $7.64M · volumen 24h $771.1k · liquidez $375.4k
+- **Líder (más volumen):** Ants `Fizv9hDCTpmqFAHjcqsRYgnX4AdxDQ1j9j3UcHiHWQkx` · MC $14.1k · vol 24h $831.9k · 24h -72.52%
+- **Líder (mayor subida 24h):** Ants `Fizv9hDCTpmqFAHjcqsRYgnX4AdxDQ1j9j3UcHiHWQkx` · MC $14.1k · vol 24h $831.9k · 24h -72.52%
 - **Catalizador:** META ACCELERATION (pools 24h +240%)
-- **Riesgos:** concentración: top10 66%, wallet máx 39.7%; impuesto 1% · lo puede cambiar: 5KXDF6… · cobra: 5KXDF6… → revisar a dónde va y si esa wallet vende
+- **Riesgos:** concentración: top10 66%, wallet máx 39.9%; impuesto 1% · lo puede cambiar: 5KXDF6… · cobra: 5KXDF6… → revisar a dónde va y si esa wallet vende
 - **Descartado por seguridad:** impuesto 1% que alguien puede cambiar
 
 ### 🟡 META ACTIVÁNDOSE — GOOGLx
 - **Quote:** `XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 10 (antes 1, +900%)
 - **Amplitud (24h):** 9 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 100% del volumen ⚠️ una sola moneda domina: puede no ser una moda
-- **Token de pago:** MC $39.65M · volumen 24h $796.4k · liquidez $884.1k
+- **Token de pago:** MC $39.65M · volumen 24h $796.0k · liquidez $884.1k
 - **Líder (más volumen):** AdCoin `Gz65nKnN1RvGSZxmn8NgN8rcEkbvYjdhzouJqa54PQfX` · MC $4.1k · vol 24h $76.7k · 24h -65.03%
 - **Líder (mayor subida 24h):** AdCoin `Gz65nKnN1RvGSZxmn8NgN8rcEkbvYjdhzouJqa54PQfX` · MC $4.1k · vol 24h $76.7k · 24h -65.03%
 - **Catalizador:** META ACCELERATION (pools 24h +900%)
