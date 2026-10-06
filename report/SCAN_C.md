@@ -1,18 +1,16 @@
 # SCAN C — Meta / Flywheel
-**2026-10-06 07:59 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
-
-> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
+**2026-10-06 08:01 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 ## Metas por token de pago (4 activándose)
 
 ### 🟡 META ACTIVÁNDOSE — NVDAx
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
-- **Pools nuevos:** 1h 6 (antes 1) · 6h 19 (antes 7, +171%) · 24h 35 (antes 16, +119%)
+- **Pools nuevos:** 1h 6 (antes 2) · 6h 20 (antes 7, +186%) · 24h 35 (antes 17, +106%)
 - **Amplitud (24h):** 35 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 32% del volumen
-- **Token de pago:** MC $240.6k · volumen 24h $3.04M · liquidez $3.34M
-- **Líder (más volumen):** CI `9DpTrg3jkfZKCRxkJMSLyHuqNdT4LoEZvtT2zttEpump` · MC $3.4k · vol 24h $18.0k · 24h -45.65%
+- **Token de pago:** MC $240.6k · volumen 24h $3.05M · liquidez $3.34M
+- **Líder (más volumen):** CI `9DpTrg3jkfZKCRxkJMSLyHuqNdT4LoEZvtT2zttEpump` · MC $3.4k · vol 24h $13.6k · 24h -73.31%
 - **Líder (mayor subida 24h):** SIM `DMtZxTAbaiPtcq11Rvnoso1aXMyBbg3dLojgk785pump` · MC $3.1k · vol 24h $2.4k · 24h -0.03%
-- **Catalizador:** META ACCELERATION (pools 24h +119%)
+- **Catalizador:** META ACCELERATION (pools 24h +106%)
 - **Riesgos:** liquidez 0% del MC
 
 ### 🟡 META ACTIVÁNDOSE — WBTC
@@ -40,7 +38,7 @@
 - **Quote:** `XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 10 (antes 1, +900%)
 - **Amplitud (24h):** 9 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 100% del volumen ⚠️ una sola moneda domina: puede no ser una moda
-- **Token de pago:** MC $39.68M · volumen 24h $799.5k · liquidez $884.5k
+- **Token de pago:** MC $39.70M · volumen 24h $802.7k · liquidez $884.7k
 - **Líder (más volumen):** AdCoin `Gz65nKnN1RvGSZxmn8NgN8rcEkbvYjdhzouJqa54PQfX` · MC $4.1k · vol 24h $76.7k · 24h -65.03%
 - **Líder (mayor subida 24h):** AdCoin `Gz65nKnN1RvGSZxmn8NgN8rcEkbvYjdhzouJqa54PQfX` · MC $4.1k · vol 24h $76.7k · 24h -65.03%
 - **Catalizador:** META ACCELERATION (pools 24h +900%)
@@ -56,7 +54,7 @@
 
 ### ⚪ en observación — GLDx
 - **Quote:** `Xsv9hRk1z5ystj9MhnA7Lq4vjSsLwzL2nxrwmwtD3re`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 3 (antes 1, +200%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 2 (antes 2, +0%)
 
 ### ⚪ en observación — AAPLx
 - **Quote:** `XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp`
