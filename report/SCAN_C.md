@@ -1,7 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-07 04:36 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
-
-> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
+**2026-10-07 04:39 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 ## Metas por token de pago (2 activándose)
 
@@ -9,7 +7,7 @@
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 4 (antes 2, +100%) · 24h 35 (antes 32, +9%)
 - **Amplitud (24h):** 35 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 25% del volumen
-- **Token de pago:** MC $240.7k · volumen 24h $6.12M · liquidez $3.36M
+- **Token de pago:** MC $240.7k · volumen 24h $6.13M · liquidez $3.36M
 - **Líder (más volumen):** HYDRA `FenVSz43AmhRUnPP73VCCxn6drLDweAXPKjo1WVRpump` · MC $3.1k · vol 24h $6.5k · 24h -7.6%
 - **Líder (mayor subida 24h):** STREAK `4zHy67nnHJpth8jAGiycSTGZPczYHzBgV2iy8LRGmcNL` · MC $3.1k · vol 24h $112 · 24h -3.3%
 - **Catalizador:** META ACCELERATION (pools 24h +9%)
@@ -17,12 +15,12 @@
 
 ### 🟡 META ACTIVÁNDOSE — MSFTx
 - **Quote:** `XspzcW1PRtgf6Wj92HCiZdjzKCyFekVD8P5Ueh3dRMX`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 8, -100%) · 24h 11 (antes 3, +267%)
-- **Amplitud (24h):** 11 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 36% del volumen
-- **Token de pago:** MC $532.7k · volumen 24h $445.8k · liquidez $471.8k
+- **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 8, -88%) · 24h 12 (antes 3, +300%)
+- **Amplitud (24h):** 12 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 36% del volumen
+- **Token de pago:** MC $532.8k · volumen 24h $446.5k · liquidez $471.8k
 - **Líder (más volumen):** Yarnaby `FJE2NUwNiCLWG3RpE3PprV9pS5Y8R5rHHEXjVLk4TqrR` · MC $3.1k · vol 24h $5.9k · 24h -34.59%
-- **Líder (mayor subida 24h):** TWEETCRAFT `A8wWF3jLhVzgvBiRpkS9GqTzLCsrkm2TnyacaCtNpyWg` · MC $3.1k · vol 24h $301 · 24h -11.44%
-- **Catalizador:** META ACCELERATION (pools 24h +267%)
+- **Líder (mayor subida 24h):** Steve `tdhLPHi5TfEXCduBrdcMZqnRe8zMp73tRC6Vtjipump` · MC $4.3k · vol 24h $325 · 24h -13.73%
+- **Catalizador:** META ACCELERATION (pools 24h +300%)
 - **Riesgos:** liquidez 0% del MC
 
 ### ⚪ en observación — SPYx
