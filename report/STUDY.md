@@ -1,8 +1,8 @@
 # ESTUDIO · ¿qué entrada y qué forma de vender dan más 10x–50x cobrados?
-**2026-10-07 04:33 UTC** · fuente: todas las graduadas de pump.fun (PumpSwap)
+**2026-10-07 05:32 UTC** · fuente: todas las graduadas de pump.fun (PumpSwap)
 
-- Monedas revisadas: **9,032 / 206,007** (4%) · con pico ≥ $500k: **1,875**
-- Entradas simuladas: **209 monedas** · **100% con < 180 días de datos después** (⚠️ con tanta censura el estudio todavía no puede afirmar nada sobre 50x)
+- Monedas revisadas: **9,121 / 206,007** (4%) · con pico ≥ $500k: **1,892**
+- Entradas simuladas: **212 monedas** · **100% con < 180 días de datos después** (⚠️ con tanta censura el estudio todavía no puede afirmar nada sobre 50x)
 
 ## Ranking (EV = lo que multiplicas de media por operación, cobrado con esa regla de venta)
 
@@ -23,7 +23,7 @@
 | 13 | dd85_mc150k_168h_ruptura | solo_stop | 5 | 1.20x | — | 1.07x | 1.19x | 1.36x | 0% | 0% | +10% | 0% |
 | 14 | dd85_mc150k_168h_ruptura | trailing | 5 | 1.20x | — | 1.07x | 1.19x | 1.36x | 0% | 0% | +10% | 0% |
 | 15 | dd85_mc150k_168h_ruptura | tuya | 5 | 1.20x | — | 1.07x | 1.19x | 1.36x | 0% | 0% | +10% | 0% |
-| 16 | dd70_mc150k_72h_base ⭐ | tuya | 21 | 1.05x | — | 0.96x ⚠️ | 0.98x | 1.42x | 0% | 0% | +8% | -12% |
+| 16 | dd70_mc150k_72h_base ⭐ | tuya | 22 | 1.07x | — | 0.98x ⚠️ | 0.98x | 1.49x | 0% | 0% | +16% | -10% |
 
 ⭐ = tus reglas actuales. ⚠️ = el EV pasa de ganar a perder quitando las 3 mejores: es suerte, no estrategia.
 EV > 1x = gana de media. Solo filas con ≥ 5 operaciones (con menos de ~30 los números bailan mucho).
