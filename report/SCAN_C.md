@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-07 03:35 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-07 03:38 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -7,22 +7,22 @@
 
 ### 🟡 META ACTIVÁNDOSE — NVDAx
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
-- **Pools nuevos:** 1h 0 (antes 1) · 6h 6 (antes 1, +500%) · 24h 38 (antes 31, +23%)
+- **Pools nuevos:** 1h 0 (antes 1) · 6h 6 (antes 1, +500%) · 24h 38 (antes 30, +27%)
 - **Amplitud (24h):** 38 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 25% del volumen
-- **Token de pago:** MC $240.5k · volumen 24h $6.10M · liquidez $3.37M
+- **Token de pago:** MC $240.5k · volumen 24h $6.10M · liquidez $3.35M
 - **Líder (más volumen):** HYDRA `FenVSz43AmhRUnPP73VCCxn6drLDweAXPKjo1WVRpump` · MC $3.1k · vol 24h $6.5k · 24h -7.6%
 - **Líder (mayor subida 24h):** STREAK `4zHy67nnHJpth8jAGiycSTGZPczYHzBgV2iy8LRGmcNL` · MC $3.1k · vol 24h $112 · 24h -3.3%
-- **Catalizador:** META ACCELERATION (pools 24h +23%)
+- **Catalizador:** META ACCELERATION (pools 24h +27%)
 - **Riesgos:** liquidez 0% del MC
 
 ### 🟡 META ACTIVÁNDOSE — SPYx
 - **Quote:** `XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W`
-- **Pools nuevos:** 1h 0 (antes 3) · 6h 7 (antes 3, +133%) · 24h 13 (antes 10, +30%)
+- **Pools nuevos:** 1h 0 (antes 3) · 6h 7 (antes 3, +133%) · 24h 13 (antes 8, +62%)
 - **Amplitud (24h):** 13 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 74% del volumen
 - **Token de pago:** MC $783.7k · volumen 24h $181.8k · liquidez $2.58M
 - **Líder (más volumen):** Ilya `FievHFbDcLwbsYEeuof4KvpHv4jqHmC14iwi9q6qz4Qe` · MC $3.1k · vol 24h $13.8k · 24h -42.76%
 - **Líder (mayor subida 24h):** Benben `FzkBwcNqLYZKan4cDCFHVmPFjjEaS67QBYdzhdEqaUNs` · MC $3.1k · vol 24h $4 · 24h -0.12%
-- **Catalizador:** META ACCELERATION (pools 24h +30%)
+- **Catalizador:** META ACCELERATION (pools 24h +62%)
 - **Riesgos:** liquidez 0% del MC
 
 ### 🟡 META ACTIVÁNDOSE — MSFTx
