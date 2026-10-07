@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-07 20:00 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-07 20:34 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -13,29 +13,29 @@
 
 ### 🟡 META ACTIVÁNDOSE — SPYx
 - **Quote:** `XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W`
-- **Pools nuevos:** 1h 0 (antes 1) · 6h 4 (antes 2, +100%) · 24h 18 (antes 6, +200%)
-- **Amplitud (24h):** 18 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Catalizador:** META ACCELERATION (pools 24h +200%)
+- **Pools nuevos:** 1h 0 (antes 1) · 6h 3 (antes 3, +0%) · 24h 17 (antes 7, +143%)
+- **Amplitud (24h):** 17 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
+- **Catalizador:** META ACCELERATION (pools 24h +143%)
 
 ### 🟡 META ACTIVÁNDOSE — GOOGLx
 - **Quote:** `XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 14 (antes 2, +600%) · 24h 17 (antes 2, +750%)
+- **Pools nuevos:** 1h 1 (antes 0) · 6h 7 (antes 9, -22%) · 24h 17 (antes 2, +750%)
 - **Amplitud (24h):** 17 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
 - **Catalizador:** META ACCELERATION (pools 24h +750%)
 
 ### 🟡 META ACTIVÁNDOSE — NVDAx
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
-- **Pools nuevos:** 1h 4 (antes 0) · 6h 7 (antes 0, nuevo) · 24h 16 (antes 47, -66%)
+- **Pools nuevos:** 1h 3 (antes 1) · 6h 7 (antes 0, nuevo) · 24h 16 (antes 47, -66%)
 - **Amplitud (24h):** 16 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
 - **Catalizador:** META ACCELERATION (pools 24h -66%)
-
-### ⚪ en observación — MSFTx
-- **Quote:** `XspzcW1PRtgf6Wj92HCiZdjzKCyFekVD8P5Ueh3dRMX`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 9 (antes 4, +125%)
 
 ### ⚪ en observación — METAx
 - **Quote:** `Xsa62P5mvPszXL1krVUnU5ar38bBSVcWAB6fmPCo5Zu`
 - **Pools nuevos:** 1h 0 (antes 1) · 6h 1 (antes 1, +0%) · 24h 7 (antes 0, nuevo)
+
+### ⚪ en observación — MSFTx
+- **Quote:** `XspzcW1PRtgf6Wj92HCiZdjzKCyFekVD8P5Ueh3dRMX`
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 4 (antes 9, -56%)
 
 ### ⚪ en observación — AAPLx
 - **Quote:** `XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp`
@@ -49,9 +49,9 @@
 - **Quote:** `Xs7ZdzSHLU9ftNJsii5fCeJhoRWSC32SQGzGQtePxNu`
 - **Pools nuevos:** 1h 0 (antes 1) · 6h 2 (antes 0, nuevo) · 24h 2 (antes 0, nuevo)
 
-### ⚪ en observación — TSLAx
-- **Quote:** `XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 2 (antes 0, nuevo)
+### ⚪ en observación — MSTRx
+- **Quote:** `XsP7xzNPvEHS1m6qfanPUGjNmdnmsLKEoNAnHjdxxyZ`
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 1 (antes 0, nuevo) · 24h 2 (antes 2, +0%)
 
 ## Plataformas con ingresos acelerando (DefiLlama)
 
