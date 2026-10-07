@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-07 05:59 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-07 06:01 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -35,7 +35,7 @@
 
 ### ⚪ en observación — AAPLx
 - **Quote:** `XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 2 (antes 1, +100%) · 24h 3 (antes 2, +50%)
+- **Pools nuevos:** 1h 0 (antes 1) · 6h 2 (antes 1, +100%) · 24h 3 (antes 2, +50%)
 
 ### ⚪ en observación — WBTC
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
