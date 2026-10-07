@@ -1,14 +1,16 @@
 # SCAN C — Meta / Flywheel
-**2026-10-07 17:35 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-07 17:38 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+
+> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
 ## Metas por token de pago (3 activándose)
 
 ### 🟡 META ACTIVÁNDOSE — WBTC
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
 - **Pools nuevos:** 1h 17 (antes 0) · 6h 19 (antes 0, nuevo) · 24h 21 (antes 2, +950%)
-- **Amplitud (24h):** 21 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 59% del volumen
-- **Token de pago:** MC $320.50M · volumen 24h $6.61M · liquidez $2.05M
-- **Líder (más volumen):** SHRINCS `6B1NyoTmp2hs5FAR4qeFCVxYMVkjiDq5oFFyKu2Gygc` · MC $17.9k · vol 24h $120.9k · 24h -59.79%
+- **Amplitud (24h):** 21 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 61% del volumen
+- **Token de pago:** MC $320.48M · volumen 24h $6.60M · liquidez $2.05M
+- **Líder (más volumen):** SHRINCS `6B1NyoTmp2hs5FAR4qeFCVxYMVkjiDq5oFFyKu2Gygc` · MC $15.4k · vol 24h $132.4k · 24h -65.32%
 - **Líder (mayor subida 24h):** SHRINCS `4ku2oFWWTNLsXByjzUJEtSRjxDTochp7E6GsrtZ1mYoR` · MC $3.1k · vol 24h $228 · 24h -6.62%
 - **Catalizador:** META ACCELERATION (pools 24h +950%)
 
@@ -26,7 +28,7 @@
 - **Quote:** `XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN`
 - **Pools nuevos:** 1h 0 (antes 6) · 6h 15 (antes 1, +1400%) · 24h 16 (antes 2, +700%)
 - **Amplitud (24h):** 16 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 29% del volumen
-- **Token de pago:** MC $347.1k · volumen 24h $4.30M · liquidez $1.34M
+- **Token de pago:** MC $39.42M · volumen 24h $4.30M · liquidez $1.34M
 - **Líder (más volumen):** SI `DMpguAwjVuToVhRCGtKvfescPREz1eGJykZrG832ozdd` · MC $3.0k · vol 24h $4.6k · 24h -26.32%
 - **Líder (mayor subida 24h):** BOTANIC-1 `HdMgdKFYcdP6268H5mg5PQoS3BnqSjnGG15Eq8nFDabV` · MC $2.9k · vol 24h $11 · 24h -1.28%
 - **Catalizador:** META ACCELERATION (pools 24h +700%)
