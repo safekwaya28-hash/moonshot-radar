@@ -1,10 +1,10 @@
 # OUTCOMES — qué pasó después de cada decisión (incluidas las descartadas)
-**2026-10-07 01:08 UTC** · 174 monedas seguidas · la decisión original nunca se cambia
+**2026-10-07 01:34 UTC** · 179 monedas seguidas · la decisión original nunca se cambia
 
 | Escáner | Decisión | Monedas | con 24h | Mediana MC 24h / inicial | Muertas a 24h (≤ −50%) | Máx. ≥2x | ≥5x | ≥10x | 2x antes de −30% | 5x antes de −50% | 10x antes de −70% |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | A | NO | 1 | 1 | 1.00x | 0% | 0% | 0% | 0% | 0% (n=1) | 0% (n=1) | — |
-| B | DESCARTAR | 105 | 59 | 0.28x | 90% | 33% | 7% | 2% | 6% (n=95) | 3% (n=93) | 2% (n=57) |
+| B | DESCARTAR | 110 | 63 | 0.29x | 90% | 32% | 7% | 2% | 6% (n=100) | 3% (n=98) | 2% (n=59) |
 | B | FUERA | 11 | 9 | 0.51x | 44% | 50% | 10% | 10% | 10% (n=10) | 14% (n=7) | 100% (n=1) |
 | B | WATCH | 36 | 26 | 0.20x | 92% | 39% | 6% | 3% | 12% (n=33) | 3% (n=31) | 6% (n=18) |
 | C-meta | 🟡 META ACTIVÁNDOSE | 21 | 5 | 0.46x | 60% | 20% | 10% | 0% | 38% (n=8) | 33% (n=6) | 0% (n=4) |
@@ -13,9 +13,9 @@
 
 | Motivo del descarte | Monedas | con 24h | Mediana 24h | Muertas a 24h | Máx. ≥5x | ≥10x | 2x antes de −30% | 5x antes de −50% | 10x antes de −70% |
 |---|---|---|---|---|---|---|---|---|---|
-| concentración | 46 | 14 | 0.32x | 79% | 0% | 0% | 6% (n=36) | 0% (n=36) | 0% (n=24) |
-| dev vendió | 37 | 27 | 0.29x | 89% | 8% | 3% | 3% (n=37) | 3% (n=35) | 5% (n=20) |
-| compras en el bloque de creación | 20 | 16 | 0.24x | 100% | 15% | 0% | 10% (n=20) | 10% (n=20) | 0% (n=11) |
+| concentración | 47 | 14 | 0.32x | 79% | 0% | 0% | 5% (n=37) | 0% (n=37) | 0% (n=24) |
+| dev vendió | 41 | 29 | 0.30x | 90% | 7% | 2% | 2% (n=41) | 3% (n=39) | 5% (n=22) |
+| compras en el bloque de creación | 20 | 18 | 0.24x | 100% | 15% | 0% | 10% (n=20) | 10% (n=20) | 0% (n=11) |
 | impuesto modificable | 2 | 0 | —x | — | 0% | 0% | 0% (n=1) | 0% (n=1) | 0% (n=1) |
 | extensión peligrosa | 1 | 1 | 1.00x | 0% | 0% | 0% | 0% (n=1) | 0% (n=1) | — |
 | snipers | 1 | 1 | 0.15x | 100% | 0% | 0% | 0% (n=1) | 0% (n=1) | 0% (n=1) |
