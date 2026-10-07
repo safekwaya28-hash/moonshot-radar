@@ -1,23 +1,25 @@
 # SCAN C — Meta / Flywheel
-**2026-10-07 12:01 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-07 12:43 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+
+> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
 ## Metas por token de pago (2 activándose)
 
 ### 🟡 META ACTIVÁNDOSE — SPYx
 - **Quote:** `XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 6, -100%) · 24h 16 (antes 6, +167%)
-- **Amplitud (24h):** 16 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 73% del volumen
-- **Token de pago:** MC $64.17M · volumen 24h $231.6k · liquidez $2.57M
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 6, -100%) · 24h 15 (antes 7, +114%)
+- **Amplitud (24h):** 15 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 73% del volumen
+- **Token de pago:** MC $64.14M · volumen 24h $238.5k · liquidez $2.57M
 - **Líder (más volumen):** Ilya `FievHFbDcLwbsYEeuof4KvpHv4jqHmC14iwi9q6qz4Qe` · MC $3.1k · vol 24h $13.8k · 24h -42.76%
 - **Líder (mayor subida 24h):** Benben `FzkBwcNqLYZKan4cDCFHVmPFjjEaS67QBYdzhdEqaUNs` · MC $3.1k · vol 24h $4 · 24h -0.12%
-- **Catalizador:** META ACCELERATION (pools 24h +167%)
+- **Catalizador:** META ACCELERATION (pools 24h +114%)
 - **Riesgos:** liquidez 0% del MC
 
 ### 🟡 META ACTIVÁNDOSE — MSFTx
 - **Quote:** `XspzcW1PRtgf6Wj92HCiZdjzKCyFekVD8P5Ueh3dRMX`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 10 (antes 4, +150%)
 - **Amplitud (24h):** 10 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 41% del volumen
-- **Token de pago:** MC $528.9k · volumen 24h $427.1k · liquidez $463.7k
+- **Token de pago:** MC $529.0k · volumen 24h $430.2k · liquidez $464.8k
 - **Líder (más volumen):** Yarnaby `FJE2NUwNiCLWG3RpE3PprV9pS5Y8R5rHHEXjVLk4TqrR` · MC $3.1k · vol 24h $5.9k · 24h -34.59%
 - **Líder (mayor subida 24h):** TWEETCRAFT `A8wWF3jLhVzgvBiRpkS9GqTzLCsrkm2TnyacaCtNpyWg` · MC $3.1k · vol 24h $301 · 24h -11.44%
 - **Catalizador:** META ACCELERATION (pools 24h +150%)
@@ -29,7 +31,7 @@
 
 ### ⚪ en observación — METAx
 - **Quote:** `Xsa62P5mvPszXL1krVUnU5ar38bBSVcWAB6fmPCo5Zu`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 5 (antes 2, +150%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 5 (antes 2, +150%)
 
 ### ⚪ en observación — WBTC
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
@@ -41,7 +43,7 @@
 
 ### ⚪ en observación — GOOGLx
 - **Quote:** `XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 1 (antes 0, nuevo) · 24h 3 (antes 10, -70%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 3 (antes 10, -70%)
 
 ### ⚪ en observación — HOODx
 - **Quote:** `XsvNBAYkrDRNhA7wPHQfX3ZUXZyZLdnCQDfHZ56bzpg`
