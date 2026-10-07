@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-07 12:45 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-07 13:05 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 ## Metas por token de pago (2 activándose)
 
@@ -7,7 +7,7 @@
 - **Quote:** `XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 6, -100%) · 24h 15 (antes 7, +114%)
 - **Amplitud (24h):** 15 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 73% del volumen
-- **Token de pago:** MC $64.14M · volumen 24h $238.5k · liquidez $2.57M
+- **Token de pago:** MC $64.14M · volumen 24h $237.8k · liquidez $2.57M
 - **Líder (más volumen):** Ilya `FievHFbDcLwbsYEeuof4KvpHv4jqHmC14iwi9q6qz4Qe` · MC $3.1k · vol 24h $13.8k · 24h -42.76%
 - **Líder (mayor subida 24h):** Benben `FzkBwcNqLYZKan4cDCFHVmPFjjEaS67QBYdzhdEqaUNs` · MC $3.1k · vol 24h $4 · 24h -0.12%
 - **Catalizador:** META ACCELERATION (pools 24h +114%)
@@ -17,7 +17,7 @@
 - **Quote:** `XspzcW1PRtgf6Wj92HCiZdjzKCyFekVD8P5Ueh3dRMX`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 10 (antes 4, +150%)
 - **Amplitud (24h):** 10 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 41% del volumen
-- **Token de pago:** MC $529.0k · volumen 24h $430.2k · liquidez $464.8k
+- **Token de pago:** MC $530.6k · volumen 24h $422.8k · liquidez $465.1k
 - **Líder (más volumen):** Yarnaby `FJE2NUwNiCLWG3RpE3PprV9pS5Y8R5rHHEXjVLk4TqrR` · MC $3.1k · vol 24h $5.9k · 24h -34.59%
 - **Líder (mayor subida 24h):** TWEETCRAFT `A8wWF3jLhVzgvBiRpkS9GqTzLCsrkm2TnyacaCtNpyWg` · MC $3.1k · vol 24h $301 · 24h -11.44%
 - **Catalizador:** META ACCELERATION (pools 24h +150%)
@@ -37,15 +37,11 @@
 
 ### ⚪ en observación — WBTC
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 1, +0%) · 24h 4 (antes 7, -43%)
+- **Pools nuevos:** 1h 1 (antes 1) · 6h 2 (antes 1, +100%) · 24h 5 (antes 7, -29%)
 
 ### ⚪ en observación — AAPLx
 - **Quote:** `XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 3 (antes 2, +50%)
-
-### ⚪ en observación — HOODx
-- **Quote:** `XsvNBAYkrDRNhA7wPHQfX3ZUXZyZLdnCQDfHZ56bzpg`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 1 (antes 0, nuevo) · 24h 3 (antes 1, +200%)
 
 ### ⚪ en observación — GLDx
 - **Quote:** `Xsv9hRk1z5ystj9MhnA7Lq4vjSsLwzL2nxrwmwtD3re`
@@ -54,6 +50,10 @@
 ### ⚪ en observación — QQQx
 - **Quote:** `Xs8S1uUs1zvS2p7iwtsG3b6fkhpvmwz4GYU3gWAmWHZ`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 2 (antes 1, +100%)
+
+### ⚪ en observación — TSLAx
+- **Quote:** `XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB`
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 2 (antes 1, +100%)
 
 ## Plataformas con ingresos acelerando (DefiLlama)
 
