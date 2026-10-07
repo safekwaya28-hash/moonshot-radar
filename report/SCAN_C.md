@@ -1,5 +1,7 @@
 # SCAN C — Meta / Flywheel
-**2026-10-07 00:45 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-07 00:49 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+
+> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
 ## Metas por token de pago (4 activándose)
 
@@ -17,7 +19,7 @@
 - **Quote:** `Pren1FvFX6J3E4kXhJuCiAD5aDmGEb7qJRncwA8Lkhw`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 1 (antes 0, nuevo) · 24h 18 (antes 5, +260%)
 - **Amplitud (24h):** 18 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 100% del volumen ⚠️ una sola moneda domina: puede no ser una moda
-- **Token de pago:** MC $8.09M · volumen 24h $1.14M · liquidez $428.2k
+- **Token de pago:** MC $8.08M · volumen 24h $1.14M · liquidez $427.5k
 - **Líder (más volumen):** Ants `Fizv9hDCTpmqFAHjcqsRYgnX4AdxDQ1j9j3UcHiHWQkx` · MC $10.3k · vol 24h $841.7k · 24h -79.88%
 - **Líder (mayor subida 24h):** Ants `Fizv9hDCTpmqFAHjcqsRYgnX4AdxDQ1j9j3UcHiHWQkx` · MC $10.3k · vol 24h $841.7k · 24h -79.88%
 - **Catalizador:** META ACCELERATION (pools 24h +260%)
