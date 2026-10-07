@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-07 04:04 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-07 04:36 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -7,19 +7,19 @@
 
 ### 🟡 META ACTIVÁNDOSE — NVDAx
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 6 (antes 0, nuevo) · 24h 35 (antes 33, +6%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 4 (antes 2, +100%) · 24h 35 (antes 32, +9%)
 - **Amplitud (24h):** 35 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 25% del volumen
-- **Token de pago:** MC $240.7k · volumen 24h $6.14M · liquidez $3.35M
+- **Token de pago:** MC $240.7k · volumen 24h $6.12M · liquidez $3.36M
 - **Líder (más volumen):** HYDRA `FenVSz43AmhRUnPP73VCCxn6drLDweAXPKjo1WVRpump` · MC $3.1k · vol 24h $6.5k · 24h -7.6%
 - **Líder (mayor subida 24h):** STREAK `4zHy67nnHJpth8jAGiycSTGZPczYHzBgV2iy8LRGmcNL` · MC $3.1k · vol 24h $112 · 24h -3.3%
-- **Catalizador:** META ACCELERATION (pools 24h +6%)
+- **Catalizador:** META ACCELERATION (pools 24h +9%)
 - **Riesgos:** liquidez 0% del MC
 
 ### 🟡 META ACTIVÁNDOSE — MSFTx
 - **Quote:** `XspzcW1PRtgf6Wj92HCiZdjzKCyFekVD8P5Ueh3dRMX`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 8, -100%) · 24h 11 (antes 3, +267%)
 - **Amplitud (24h):** 11 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 36% del volumen
-- **Token de pago:** MC $532.7k · volumen 24h $445.8k · liquidez $474.4k
+- **Token de pago:** MC $532.7k · volumen 24h $445.8k · liquidez $471.8k
 - **Líder (más volumen):** Yarnaby `FJE2NUwNiCLWG3RpE3PprV9pS5Y8R5rHHEXjVLk4TqrR` · MC $3.1k · vol 24h $5.9k · 24h -34.59%
 - **Líder (mayor subida 24h):** TWEETCRAFT `A8wWF3jLhVzgvBiRpkS9GqTzLCsrkm2TnyacaCtNpyWg` · MC $3.1k · vol 24h $301 · 24h -11.44%
 - **Catalizador:** META ACCELERATION (pools 24h +267%)
@@ -27,7 +27,7 @@
 
 ### ⚪ en observación — SPYx
 - **Quote:** `XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 6 (antes 4, +50%) · 24h 13 (antes 7, +86%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 4 (antes 6, -33%) · 24h 13 (antes 7, +86%)
 
 ### ⚪ en observación — METAx
 - **Quote:** `Xsa62P5mvPszXL1krVUnU5ar38bBSVcWAB6fmPCo5Zu`
