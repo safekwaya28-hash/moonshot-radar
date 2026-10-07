@@ -1,7 +1,7 @@
 # ESTUDIO · por trimestre (¿funciona en todos o solo en uno?)
-**2026-10-07 09:33 UTC** · fuente: todas las graduadas de pump.fun (PumpSwap)
+**2026-10-07 10:32 UTC** · fuente: todas las graduadas de pump.fun (PumpSwap)
 
-- Monedas revisadas: **9,464 / 206,007** (5%) · con pico ≥ $500k: **1,966**
+- Monedas revisadas: **9,552 / 206,007** (5%) · con pico ≥ $500k: **1,985**
 
 EV por trimestre de entrada (entre paréntesis, nº de operaciones y % que cobró ≥10x):
 
