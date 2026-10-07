@@ -1,23 +1,23 @@
 # SCAN C — Meta / Flywheel
-**2026-10-07 14:00 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-07 14:02 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 ## Metas por token de pago (2 activándose)
 
 ### 🟡 META ACTIVÁNDOSE — SPYx
 - **Quote:** `XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W`
-- **Pools nuevos:** 1h 2 (antes 0) · 6h 2 (antes 3, -33%) · 24h 17 (antes 7, +143%)
-- **Amplitud (24h):** 17 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 70% del volumen
-- **Token de pago:** MC $64.01M · volumen 24h $241.4k · liquidez $2.57M
+- **Pools nuevos:** 1h 3 (antes 0) · 6h 3 (antes 3, +0%) · 24h 18 (antes 7, +157%)
+- **Amplitud (24h):** 18 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 70% del volumen
+- **Token de pago:** MC $64.01M · volumen 24h $237.9k · liquidez $2.57M
 - **Líder (más volumen):** Ilya `FievHFbDcLwbsYEeuof4KvpHv4jqHmC14iwi9q6qz4Qe` · MC $3.1k · vol 24h $13.8k · 24h -42.76%
 - **Líder (mayor subida 24h):** ShART `21nVJ7jnXyD8KfDDDAJGKgqXNPsujx1icg34mKPxoER3` · MC $3.1k · vol 24h $2 · 24h -0.07%
-- **Catalizador:** META ACCELERATION (pools 24h +143%)
+- **Catalizador:** META ACCELERATION (pools 24h +157%)
 - **Riesgos:** liquidez 0% del MC
 
 ### 🟡 META ACTIVÁNDOSE — MSFTx
 - **Quote:** `XspzcW1PRtgf6Wj92HCiZdjzKCyFekVD8P5Ueh3dRMX`
 - **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 1, +0%) · 24h 11 (antes 4, +175%)
 - **Amplitud (24h):** 11 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 31% del volumen
-- **Token de pago:** MC $530.1k · volumen 24h $423.6k · liquidez $464.7k
+- **Token de pago:** MC $530.1k · volumen 24h $422.8k · liquidez $464.7k
 - **Líder (más volumen):** Yarnaby `FJE2NUwNiCLWG3RpE3PprV9pS5Y8R5rHHEXjVLk4TqrR` · MC $3.1k · vol 24h $5.9k · 24h -34.59%
 - **Líder (mayor subida 24h):** TWEETCRAFT `A8wWF3jLhVzgvBiRpkS9GqTzLCsrkm2TnyacaCtNpyWg` · MC $3.1k · vol 24h $301 · 24h -11.44%
 - **Catalizador:** META ACCELERATION (pools 24h +175%)
