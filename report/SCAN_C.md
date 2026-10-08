@@ -1,7 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-08 16:02 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
-
-> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
+**2026-10-08 16:06 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 ## Metas por token de pago (4 activándose)
 
@@ -9,7 +7,7 @@
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
 - **Pools nuevos:** 1h 1 (antes 0) · 6h 4 (antes 0, nuevo) · 24h 28 (antes 5, +460%)
 - **Amplitud (24h):** 28 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 62% del volumen
-- **Token de pago:** MC $312.04M · volumen 24h $5.99M · liquidez $1.90M
+- **Token de pago:** MC $312.24M · volumen 24h $6.03M · liquidez $1.92M
 - **Líder (más volumen):** SHRINCS `6B1NyoTmp2hs5FAR4qeFCVxYMVkjiDq5oFFyKu2Gygc` · MC $2.4k · vol 24h $145.8k · 24h -93.92%
 - **Líder (mayor subida 24h):** LBTC `FfP2ew4CM8bmqH2woXLS5XVzMiPnHNUnrAvpi9eZpump` · MC $3.4k · vol 24h $499 · 24h 10.12%
 - **Catalizador:** META ACCELERATION (pools 24h +460%)
@@ -17,10 +15,10 @@
 ### 🟡 META ACTIVÁNDOSE — NVDAx
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
 - **Pools nuevos:** 1h 3 (antes 0) · 6h 8 (antes 0, nuevo) · 24h 18 (antes 10, +80%)
-- **Amplitud (24h):** 18 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 36% del volumen
-- **Token de pago:** MC $44.86M · volumen 24h $2.55M · liquidez $3.16M
-- **Líder (más volumen):** POKECRAFT `6J41D4TKUayBbX3gDXWdhVuiK7Lg1AW4PWMjK1Qepump` · MC $7.5k · vol 24h $10.5k · 24h 93.78%
-- **Líder (mayor subida 24h):** POKECRAFT `6J41D4TKUayBbX3gDXWdhVuiK7Lg1AW4PWMjK1Qepump` · MC $7.5k · vol 24h $10.5k · 24h 93.78%
+- **Amplitud (24h):** 18 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 37% del volumen
+- **Token de pago:** MC $235.7k · volumen 24h $2.55M · liquidez $3.16M
+- **Líder (más volumen):** POKECRAFT `6J41D4TKUayBbX3gDXWdhVuiK7Lg1AW4PWMjK1Qepump` · MC $7.3k · vol 24h $10.6k · 24h 87.97%
+- **Líder (mayor subida 24h):** POKECRAFT `6J41D4TKUayBbX3gDXWdhVuiK7Lg1AW4PWMjK1Qepump` · MC $7.3k · vol 24h $10.6k · 24h 87.97%
 - **Catalizador:** META ACCELERATION (pools 24h +80%)
 - **Riesgos:** liquidez 0% del MC
 
@@ -38,7 +36,7 @@
 - **Quote:** `XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W`
 - **Pools nuevos:** 1h 4 (antes 1) · 6h 7 (antes 0, nuevo) · 24h 10 (antes 17, -41%)
 - **Amplitud (24h):** 10 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Token de pago:** MC $64.88M · volumen 24h $513.8k · liquidez $2.50M
+- **Token de pago:** MC $64.88M · volumen 24h $513.4k · liquidez $2.50M
 - **Líder (más volumen):** NYSE `5zxCqL1ASxWu1xvJGLKvy3cqfFu3Po3w8ZrWzLRYicQU` · MC $2.9k · vol 24h $2 · 24h None%
 - **Líder (mayor subida 24h):** NYSE `5zxCqL1ASxWu1xvJGLKvy3cqfFu3Po3w8ZrWzLRYicQU` · MC $2.9k · vol 24h $2 · 24h None%
 - **Catalizador:** META ACCELERATION (pools 24h -41%)
