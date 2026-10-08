@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-08 19:07 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-08 19:34 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -7,7 +7,7 @@
 
 ### ⚪ en observación — NVDAx
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
-- **Pools nuevos:** 1h 2 (antes 0) · 6h 6 (antes 4, +50%) · 24h 18 (antes 12, +50%)
+- **Pools nuevos:** 1h 2 (antes 0) · 6h 6 (antes 4, +50%) · 24h 17 (antes 13, +31%)
 
 ### ⚪ en observación — WBTC
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
@@ -49,7 +49,7 @@
 
 ### 🟡 FLYWHEEL ACELERANDO — Phygitals (Physical TCG)
 - **Ingresos 7d:** $85.3k · 7d anteriores $19.8k · cambio 4.3×
-- **Ingresos 24h:** $22.4k · 24h anteriores $16.6k · +35% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $9.9k · 24h anteriores $16.6k · -40% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $0
 - **Token:** sin token listado en CoinGecko
 
