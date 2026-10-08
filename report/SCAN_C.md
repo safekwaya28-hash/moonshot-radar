@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-08 02:59 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-08 03:01 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -9,7 +9,7 @@
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 4 (antes 20, -80%) · 24h 27 (antes 2, +1250%)
 - **Amplitud (24h):** 27 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 62% del volumen
-- **Token de pago:** MC $320.70M · volumen 24h $5.08M · liquidez $2.05M
+- **Token de pago:** MC $320.64M · volumen 24h $5.07M · liquidez $2.05M
 - **Líder (más volumen):** SHRINCS `6B1NyoTmp2hs5FAR4qeFCVxYMVkjiDq5oFFyKu2Gygc` · MC $2.5k · vol 24h $145.7k · 24h -93.82%
 - **Líder (mayor subida 24h):** BTCFUNCAT `r3a5Po91MgLhHieZiUKDDoXPtKwRP4KhA1FBwHmpump` · MC $3.1k · vol 24h $22 · 24h -0.46%
 - **Catalizador:** META ACCELERATION (pools 24h +1250%)
@@ -60,7 +60,7 @@
 
 ### 🟡 FLYWHEEL ACELERANDO — Phygitals (Physical TCG)
 - **Ingresos 7d:** $85.3k · 7d anteriores $19.8k · cambio 4.3×
-- **Ingresos 24h:** $36.1k · 24h anteriores $16.6k · +118% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $34.4k · 24h anteriores $16.6k · +107% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $0
 - **Token:** sin token listado en CoinGecko
 
