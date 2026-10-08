@@ -1,5 +1,7 @@
 # SCAN C — Meta / Flywheel
-**2026-10-08 22:36 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-08 22:59 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+
+> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
 ## Metas por token de pago (0 activándose)
 
@@ -19,10 +21,6 @@
 - **Quote:** `XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 3, -100%) · 24h 7 (antes 1, +600%)
 
-### ⚪ en observación — QQQx
-- **Quote:** `Xs8S1uUs1zvS2p7iwtsG3b6fkhpvmwz4GYU3gWAmWHZ`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 5, -100%) · 24h 5 (antes 0, nuevo)
-
 ### ⚪ en observación — MSFTx
 - **Quote:** `XspzcW1PRtgf6Wj92HCiZdjzKCyFekVD8P5Ueh3dRMX`
 - **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 4, -75%) · 24h 5 (antes 2, +150%)
@@ -31,9 +29,13 @@
 - **Quote:** `Pren1FvFX6J3E4kXhJuCiAD5aDmGEb7qJRncwA8Lkhw`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 4, -100%) · 24h 5 (antes 0, nuevo)
 
+### ⚪ en observación — QQQx
+- **Quote:** `Xs8S1uUs1zvS2p7iwtsG3b6fkhpvmwz4GYU3gWAmWHZ`
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 5, -100%) · 24h 5 (antes 0, nuevo)
+
 ### ⚪ en observación — GLDx
 - **Quote:** `Xsv9hRk1z5ystj9MhnA7Lq4vjSsLwzL2nxrwmwtD3re`
-- **Pools nuevos:** 1h 0 (antes 1) · 6h 1 (antes 1, +0%) · 24h 3 (antes 2, +50%)
+- **Pools nuevos:** 1h 0 (antes 1) · 6h 1 (antes 1, +0%) · 24h 3 (antes 1, +200%)
 
 ### ⚪ en observación — GOOGLx
 - **Quote:** `XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN`
@@ -47,7 +49,7 @@
 
 ### 🟡 FLYWHEEL ACELERANDO — Phygitals (Physical TCG)
 - **Ingresos 7d:** $85.3k · 7d anteriores $19.8k · cambio 4.3×
-- **Ingresos 24h:** $8.4k · 24h anteriores $16.6k · -49% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $11.2k · 24h anteriores $16.6k · -33% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $0
 - **Token:** sin token listado en CoinGecko
 
