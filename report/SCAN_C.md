@@ -1,7 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-08 06:02 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
-
-> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
+**2026-10-08 06:42 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 ## Metas por token de pago (2 activándose)
 
@@ -9,19 +7,19 @@
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 2 (antes 5, -60%) · 24h 26 (antes 3, +767%)
 - **Amplitud (24h):** 26 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 62% del volumen
-- **Token de pago:** MC $318.56M · volumen 24h $5.25M · liquidez $2.03M
-- **Líder (más volumen):** SHRINCS `6B1NyoTmp2hs5FAR4qeFCVxYMVkjiDq5oFFyKu2Gygc` · MC $2.6k · vol 24h $145.7k · 24h -93.58%
+- **Token de pago:** MC $318.54M · volumen 24h $5.23M · liquidez $2.03M
+- **Líder (más volumen):** SHRINCS `6B1NyoTmp2hs5FAR4qeFCVxYMVkjiDq5oFFyKu2Gygc` · MC $2.6k · vol 24h $145.7k · 24h -93.47%
 - **Líder (mayor subida 24h):** BTCFUNCAT `r3a5Po91MgLhHieZiUKDDoXPtKwRP4KhA1FBwHmpump` · MC $3.1k · vol 24h $22 · 24h -0.46%
 - **Catalizador:** META ACCELERATION (pools 24h +767%)
 
 ### 🟡 META ACTIVÁNDOSE — GOOGLx
 - **Quote:** `XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 3, -100%) · 24h 19 (antes 2, +850%)
-- **Amplitud (24h):** 19 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 69% del volumen
-- **Token de pago:** MC $351.2k · volumen 24h $3.18M · liquidez $1.31M
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 3, -100%) · 24h 18 (antes 3, +500%)
+- **Amplitud (24h):** 18 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 79% del volumen
+- **Token de pago:** MC $350.9k · volumen 24h $3.23M · liquidez $1.37M
 - **Líder (más volumen):** SI `DMpguAwjVuToVhRCGtKvfescPREz1eGJykZrG832ozdd` · MC $3.0k · vol 24h $4.6k · 24h -26.32%
 - **Líder (mayor subida 24h):** BOTANIC-1 `HdMgdKFYcdP6268H5mg5PQoS3BnqSjnGG15Eq8nFDabV` · MC $2.9k · vol 24h $5 · 24h -0.51%
-- **Catalizador:** META ACCELERATION (pools 24h +850%)
+- **Catalizador:** META ACCELERATION (pools 24h +500%)
 - **Riesgos:** liquidez 0% del MC
 
 ### ⚪ en observación — NVDAx
@@ -42,7 +40,7 @@
 
 ### ⚪ en observación — GLDx
 - **Quote:** `Xsv9hRk1z5ystj9MhnA7Lq4vjSsLwzL2nxrwmwtD3re`
-- **Pools nuevos:** 1h 0 (antes 1) · 6h 1 (antes 0, nuevo) · 24h 2 (antes 2, +0%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 1 (antes 0, nuevo) · 24h 2 (antes 2, +0%)
 
 ### ⚪ en observación — METAx
 - **Quote:** `Xsa62P5mvPszXL1krVUnU5ar38bBSVcWAB6fmPCo5Zu`
@@ -60,7 +58,7 @@
 
 ### 🟡 FLYWHEEL ACELERANDO — Phygitals (Physical TCG)
 - **Ingresos 7d:** $85.3k · 7d anteriores $19.8k · cambio 4.3×
-- **Ingresos 24h:** $35.0k · 24h anteriores $16.6k · +111% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $0 · 24h anteriores $16.6k · -100% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $0
 - **Token:** sin token listado en CoinGecko
 
