@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-08 17:59 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-08 18:01 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -9,9 +9,9 @@
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 4 (antes 0, nuevo) · 24h 11 (antes 21, -48%)
 - **Amplitud (24h):** 11 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 50% del volumen
-- **Token de pago:** MC $310.73M · volumen 24h $6.68M · liquidez $1.89M
-- **Líder (más volumen):** SHRINCS `6B1NyoTmp2hs5FAR4qeFCVxYMVkjiDq5oFFyKu2Gygc` · MC $3.0k · vol 24h $3.6k · 24h 3.1%
-- **Líder (mayor subida 24h):** SHRINCS `6B1NyoTmp2hs5FAR4qeFCVxYMVkjiDq5oFFyKu2Gygc` · MC $3.0k · vol 24h $3.6k · 24h 3.1%
+- **Token de pago:** MC $309.74M · volumen 24h $6.72M · liquidez $1.89M
+- **Líder (más volumen):** SHRINCS `6B1NyoTmp2hs5FAR4qeFCVxYMVkjiDq5oFFyKu2Gygc` · MC $3.0k · vol 24h $3.6k · 24h 7.32%
+- **Líder (mayor subida 24h):** SHRINCS `6B1NyoTmp2hs5FAR4qeFCVxYMVkjiDq5oFFyKu2Gygc` · MC $3.0k · vol 24h $3.6k · 24h 7.32%
 - **Catalizador:** META ACCELERATION (pools 24h -48%)
 
 ### ⚪ en observación — NVDAx
