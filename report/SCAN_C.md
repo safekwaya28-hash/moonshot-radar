@@ -1,13 +1,15 @@
 # SCAN C — Meta / Flywheel
-**2026-10-08 15:01 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-08 15:04 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+
+> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
 ## Metas por token de pago (3 activándose)
 
 ### 🟡 META ACTIVÁNDOSE — WBTC
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
-- **Pools nuevos:** 1h 0 (antes 2) · 6h 3 (antes 0, nuevo) · 24h 27 (antes 5, +440%)
+- **Pools nuevos:** 1h 0 (antes 1) · 6h 3 (antes 0, nuevo) · 24h 27 (antes 5, +440%)
 - **Amplitud (24h):** 27 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 62% del volumen
-- **Token de pago:** MC $319.29M · volumen 24h $5.28M · liquidez $1.91M
+- **Token de pago:** MC $319.32M · volumen 24h $5.29M · liquidez $1.91M
 - **Líder (más volumen):** SHRINCS `6B1NyoTmp2hs5FAR4qeFCVxYMVkjiDq5oFFyKu2Gygc` · MC $2.6k · vol 24h $145.7k · 24h -93.53%
 - **Líder (mayor subida 24h):** BTCFUNCAT `r3a5Po91MgLhHieZiUKDDoXPtKwRP4KhA1FBwHmpump` · MC $3.1k · vol 24h $22 · 24h -0.46%
 - **Catalizador:** META ACCELERATION (pools 24h +440%)
@@ -16,7 +18,7 @@
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
 - **Pools nuevos:** 1h 0 (antes 1) · 6h 5 (antes 2, +150%) · 24h 16 (antes 10, +60%)
 - **Amplitud (24h):** 16 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 39% del volumen
-- **Token de pago:** MC $45.08M · volumen 24h $2.50M · liquidez $3.16M
+- **Token de pago:** MC $45.05M · volumen 24h $2.52M · liquidez $3.16M
 - **Líder (más volumen):** nividia `Ak8wRxTxcoLCWVPiFHagWRRjSyyU7XQ5X9rpcgPPpump` · MC $3.1k · vol 24h $8.7k · 24h -42.67%
 - **Líder (mayor subida 24h):** POKECRAFT `6J41D4TKUayBbX3gDXWdhVuiK7Lg1AW4PWMjK1Qepump` · MC $6.7k · vol 24h $5.0k · 24h 72.48%
 - **Catalizador:** META ACCELERATION (pools 24h +60%)
@@ -26,7 +28,7 @@
 - **Quote:** `XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 2 (antes 0, nuevo) · 24h 11 (antes 10, +10%)
 - **Amplitud (24h):** 11 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Token de pago:** MC $40.30M · volumen 24h $2.24M · liquidez $1.31M
+- **Token de pago:** MC $40.30M · volumen 24h $2.21M · liquidez $1.31M
 - **Líder (más volumen):** SI `8gPrKQMFAVAQDSFC2qA6J9KVwME8H3weKb9W9E12k91h` · MC $3.1k · vol 24h $213 · 24h -10.65%
 - **Líder (mayor subida 24h):** BOTANIC-1 `HdMgdKFYcdP6268H5mg5PQoS3BnqSjnGG15Eq8nFDabV` · MC $3.0k · vol 24h $3 · 24h 1.97%
 - **Catalizador:** META ACCELERATION (pools 24h +10%)
