@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-09 15:35 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-09 15:38 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -7,21 +7,21 @@
 
 ### 🟡 META ACTIVÁNDOSE — WBTC
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 8 (antes 1, +700%) · 24h 12 (antes 28, -57%)
+- **Pools nuevos:** 1h 0 (antes 1) · 6h 8 (antes 1, +700%) · 24h 12 (antes 28, -57%)
 - **Amplitud (24h):** 12 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 100% del volumen ⚠️ una sola moneda domina: puede no ser una moda
-- **Token de pago:** MC $318.93M · volumen 24h $6.62M · liquidez $1.94M
+- **Token de pago:** MC $287.62M · volumen 24h $6.56M · liquidez $1.90M
 - **Líder (más volumen):** SHA256 `9MmBDzSzHt4PjrrDEWc1wv4WRNCknuzEAoqf52WB8s8` · MC $5.8k · vol 24h $4.3k · 24h 84.41%
 - **Líder (mayor subida 24h):** SHA256 `9MmBDzSzHt4PjrrDEWc1wv4WRNCknuzEAoqf52WB8s8` · MC $5.8k · vol 24h $4.3k · 24h 84.41%
 - **Catalizador:** META ACCELERATION (pools 24h -57%)
 - **Riesgos:** liquidez 0% del MC
 
-### ⚪ en observación — NVDAx
-- **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 2 (antes 5, -60%) · 24h 12 (antes 16, -25%)
-
 ### ⚪ en observación — SPYx
 - **Quote:** `XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 3 (antes 3, +0%) · 24h 11 (antes 9, +22%)
+- **Pools nuevos:** 1h 0 (antes 1) · 6h 3 (antes 3, +0%) · 24h 11 (antes 9, +22%)
+
+### ⚪ en observación — NVDAx
+- **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
+- **Pools nuevos:** 1h 0 (antes 1) · 6h 2 (antes 5, -60%) · 24h 11 (antes 17, -35%)
 
 ### ⚪ en observación — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
@@ -45,7 +45,7 @@
 
 ### ⚪ en observación — JUP
 - **Quote:** `JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN`
-- **Pools nuevos:** 1h 2 (antes 0) · 6h 2 (antes 0, nuevo) · 24h 5 (antes 2, +150%)
+- **Pools nuevos:** 1h 0 (antes 2) · 6h 2 (antes 0, nuevo) · 24h 5 (antes 2, +150%)
 
 ### ⚪ en observación — STRK
 - **Quote:** `HsRpHQn6VbyMs5b5j5SV6xQ2VvpvvCCzu19GjytVSCoz`
