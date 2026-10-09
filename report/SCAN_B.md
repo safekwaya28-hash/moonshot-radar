@@ -1,5 +1,5 @@
 # SCAN B — Despegues (objetivo 100x+)
-**2026-10-09 06:30 UTC** · 5,000 creaciones recientes revisadas · 0 en la ventana $8k–$40k · 0 con análisis profundo
+**2026-10-09 06:58 UTC** · 5,000 creaciones recientes revisadas · 0 en la ventana $8k–$40k · 0 con análisis profundo
 
 🟢 COMPRA AHORA **0** · 🟡 WATCH **0** · 🔴 DESCARTAR **0** · ⚪ FUERA **0**
 
