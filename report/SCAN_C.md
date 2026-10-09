@@ -1,13 +1,13 @@
 # SCAN C — Meta / Flywheel
-**2026-10-09 17:01 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-09 17:05 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 ## Metas por token de pago (3 activándose)
 
 ### 🟡 META ACTIVÁNDOSE — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 5 (antes 0) · 6h 8 (antes 6, +33%) · 24h 14 (antes 0, nuevo)
-- **Amplitud (24h):** 14 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 96% del volumen ⚠️ una sola moneda domina: puede no ser una moda
-- **Token de pago:** MC $2549.74M · volumen 24h $7.06M · liquidez $25.98M
+- **Pools nuevos:** 1h 6 (antes 0) · 6h 9 (antes 6, +50%) · 24h 15 (antes 0, nuevo)
+- **Amplitud (24h):** 15 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 95% del volumen ⚠️ una sola moneda domina: puede no ser una moda
+- **Token de pago:** MC $2531.06M · volumen 24h $7.04M · liquidez $25.89M
 - **Líder (más volumen):** maine `QRw8qtxLApeotQBWNVnhZydPonEY5CA6n6h1bxhpump` · MC $2.9k · vol 24h $11.0k · 24h -13.02%
 - **Líder (mayor subida 24h):** SCAT `4cb5wWvXyYqNbs1CihqpKZcdhTJqaoybXKTzaCx9pump` · MC $3.1k · vol 24h $0 · 24h 0.06%
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
@@ -16,9 +16,9 @@
 ### 🟡 META ACTIVÁNDOSE — WBTC
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 7 (antes 2, +250%) · 24h 12 (antes 28, -57%)
-- **Amplitud (24h):** 12 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 51% del volumen
-- **Token de pago:** MC $318.20M · volumen 24h $5.96M · liquidez $1.99M
-- **Líder (más volumen):** SHA256 `Hn3kE27EddcDXgZqLAhcwKdAxfpRfEidGj8bDh26pump` · MC $3.1k · vol 24h $16.7k · 24h -31.02%
+- **Amplitud (24h):** 12 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 41% del volumen
+- **Token de pago:** MC $318.54M · volumen 24h $5.95M · liquidez $1.99M
+- **Líder (más volumen):** SHA256 `6fuKNdhSgx5b3cp1K3VkLgtjWMJpUyXWhgppo4wV6AjH` · MC $3.1k · vol 24h $6.6k · 24h -31.35%
 - **Líder (mayor subida 24h):** SHA256 `9MmBDzSzHt4PjrrDEWc1wv4WRNCknuzEAoqf52WB8s8` · MC $5.8k · vol 24h $4.3k · 24h 84.41%
 - **Catalizador:** META ACCELERATION (pools 24h -57%)
 - **Riesgos:** liquidez 0% del MC
@@ -27,7 +27,7 @@
 - **Quote:** `CWZ6BsdnjkDVTGkmL6bGbJXXig6ceef12KvyGQW14cMt`
 - **Pools nuevos:** 1h 2 (antes 0) · 6h 8 (antes 2, +300%) · 24h 10 (antes 0, nuevo)
 - **Amplitud (24h):** 10 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Token de pago:** MC $21.84M · volumen 24h $943.3k · liquidez $13.68M
+- **Token de pago:** MC $21.86M · volumen 24h $943.6k · liquidez $13.69M
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
 - **Riesgos:** concentración: top10 21%, wallet máx 8.0%
 
