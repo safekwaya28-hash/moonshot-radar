@@ -1,11 +1,11 @@
 # OUTCOMES — qué pasó después de cada decisión (incluidas las descartadas)
-**2026-10-09 14:43 UTC** · 294 monedas seguidas · la decisión original nunca se cambia
+**2026-10-09 15:02 UTC** · 299 monedas seguidas · la decisión original nunca se cambia
 
 | Escáner | Decisión | Monedas | con 24h | Mediana MC 24h / inicial | Muertas a 24h (≤ −50%) | Máx. ≥2x | ≥5x | ≥10x | 2x antes de −30% | 5x antes de −50% | 10x antes de −70% |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | A | NO | 1 | 1 | 1.00x | 0% | 0% | 0% | 0% | 0% (n=1) | 0% (n=1) | — |
-| B | DESCARTAR | 161 | 82 | 0.28x | 91% | 33% | 7% | 3% | 5% (n=150) | 3% (n=148) | 3% (n=94) |
-| B | FUERA | 16 | 11 | 0.52x | 36% | 47% | 7% | 7% | 13% (n=15) | 11% (n=9) | 100% (n=1) |
+| B | DESCARTAR | 165 | 82 | 0.28x | 91% | 33% | 6% | 3% | 6% (n=154) | 3% (n=151) | 3% (n=95) |
+| B | FUERA | 17 | 11 | 0.52x | 36% | 50% | 6% | 6% | 12% (n=16) | 10% (n=10) | 100% (n=1) |
 | B | WATCH | 78 | 40 | 0.30x | 88% | 44% | 16% | 8% | 16% (n=63) | 13% (n=63) | 12% (n=41) |
 | C-meta | 🟡 META ACTIVÁNDOSE | 38 | 13 | 0.85x | 38% | 22% | 11% | 3% | 43% (n=14) | 40% (n=10) | 17% (n=6) |
 
@@ -14,8 +14,8 @@
 | Motivo del descarte | Monedas | con 24h | Mediana 24h | Muertas a 24h | Máx. ≥5x | ≥10x | 2x antes de −30% | 5x antes de −50% | 10x antes de −70% |
 |---|---|---|---|---|---|---|---|---|---|
 | concentración | 74 | 20 | 0.32x | 80% | 2% | 2% | 3% (n=63) | 0% (n=63) | 2% (n=44) |
-| dev vendió | 56 | 41 | 0.28x | 93% | 7% | 2% | 4% (n=56) | 4% (n=54) | 3% (n=29) |
-| compras en el bloque de creación | 28 | 18 | 0.24x | 100% | 14% | 4% | 11% (n=28) | 11% (n=28) | 6% (n=18) |
+| dev vendió | 59 | 41 | 0.28x | 93% | 7% | 2% | 5% (n=59) | 4% (n=56) | 3% (n=30) |
+| compras en el bloque de creación | 29 | 18 | 0.24x | 100% | 14% | 3% | 10% (n=29) | 10% (n=29) | 6% (n=18) |
 | snipers | 2 | 2 | 0.16x | 100% | 0% | 0% | 0% (n=2) | 0% (n=2) | 0% (n=2) |
 | impuesto modificable | 2 | 2 | 0.45x | 50% | 0% | 0% | 0% (n=2) | 0% (n=1) | 0% (n=1) |
 | extensión peligrosa | 1 | 1 | 1.00x | 0% | 0% | 0% | 0% (n=1) | 0% (n=1) | — |
