@@ -1,7 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-09 06:43 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
-
-> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
+**2026-10-09 06:45 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 ## Metas por token de pago (1 activándose)
 
@@ -9,7 +7,7 @@
 - **Quote:** `XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W`
 - **Pools nuevos:** 1h 3 (antes 0) · 6h 5 (antes 1, +400%) · 24h 13 (antes 7, +86%)
 - **Amplitud (24h):** 13 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 47% del volumen
-- **Token de pago:** MC $64.98M · volumen 24h $803.1k · liquidez $2.50M
+- **Token de pago:** MC $64.98M · volumen 24h $802.0k · liquidez $2.50M
 - **Líder (más volumen):** SNIBBU `727Yj75NUzS1tY4UT1z1vEV6PQMTAfX1wjrQ6Mtf4nVe` · MC $3.1k · vol 24h $1.6k · 24h -24.05%
 - **Líder (mayor subida 24h):** Cody `CuQ1zDMo2h6W18MRQX23WL7e88bC4whQ1HScvKzCbUjt` · MC $3.1k · vol 24h $2 · 24h -0.06%
 - **Catalizador:** META ACCELERATION (pools 24h +86%)
@@ -17,11 +15,11 @@
 
 ### ⚪ en observación — NVDAx
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
-- **Pools nuevos:** 1h 0 (antes 1) · 6h 1 (antes 2, -50%) · 24h 11 (antes 13, -15%)
+- **Pools nuevos:** 1h 1 (antes 1) · 6h 2 (antes 2, +0%) · 24h 12 (antes 13, -8%)
 
 ### ⚪ en observación — WBTC
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 1 (antes 2, -50%) · 24h 7 (antes 26, -73%)
+- **Pools nuevos:** 1h 1 (antes 0) · 6h 2 (antes 2, +0%) · 24h 8 (antes 26, -69%)
 
 ### ⚪ en observación — QQQx
 - **Quote:** `Xs8S1uUs1zvS2p7iwtsG3b6fkhpvmwz4GYU3gWAmWHZ`
