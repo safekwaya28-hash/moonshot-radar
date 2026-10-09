@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-09 13:04 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-09 13:06 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 ## Metas por token de pago (3 activándose)
 
@@ -17,7 +17,7 @@
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
 - **Pools nuevos:** 1h 1 (antes 0) · 6h 4 (antes 2, +100%) · 24h 12 (antes 15, -20%)
 - **Amplitud (24h):** 12 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 36% del volumen
-- **Token de pago:** MC $44.59M · volumen 24h $3.57M · liquidez $3.26M
+- **Token de pago:** MC $44.60M · volumen 24h $3.58M · liquidez $3.26M
 - **Líder (más volumen):** POKECRAFT `6J41D4TKUayBbX3gDXWdhVuiK7Lg1AW4PWMjK1Qepump` · MC $5.2k · vol 24h $6.6k · 24h -23.11%
 - **Líder (mayor subida 24h):** test `93nNxjXEw2PiTwGv1cnJDsHj7ZG22P2ooDp6Ah6HNV2a` · MC $3.7k · vol 24h $644 · 24h 18.88%
 - **Catalizador:** META ACCELERATION (pools 24h -20%)
@@ -25,17 +25,21 @@
 
 ### 🟡 META ACTIVÁNDOSE — WBTC
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
-- **Pools nuevos:** 1h 1 (antes 3) · 6h 5 (antes 2, +150%) · 24h 11 (antes 26, -58%)
-- **Amplitud (24h):** 11 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 80% del volumen
-- **Token de pago:** MC $319.72M · volumen 24h $7.01M · liquidez $1.98M
-- **Líder (más volumen):** SHA256 `Hn3kE27EddcDXgZqLAhcwKdAxfpRfEidGj8bDh26pump` · MC $4.1k · vol 24h $16.2k · 24h -8.68%
+- **Pools nuevos:** 1h 2 (antes 3) · 6h 6 (antes 2, +200%) · 24h 12 (antes 26, -54%)
+- **Amplitud (24h):** 12 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 100% del volumen ⚠️ una sola moneda domina: puede no ser una moda
+- **Token de pago:** MC $319.86M · volumen 24h $6.99M · liquidez $1.99M
+- **Líder (más volumen):** SHA256 `9MmBDzSzHt4PjrrDEWc1wv4WRNCknuzEAoqf52WB8s8` · MC $9.6k · vol 24h $4.1k · 24h 208%
 - **Líder (mayor subida 24h):** SHA256 `9MmBDzSzHt4PjrrDEWc1wv4WRNCknuzEAoqf52WB8s8` · MC $9.6k · vol 24h $4.1k · 24h 208%
-- **Catalizador:** META ACCELERATION (pools 24h -58%)
+- **Catalizador:** META ACCELERATION (pools 24h -54%)
 - **Riesgos:** liquidez 0% del MC
 
 ### ⚪ en observación — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
 - **Pools nuevos:** 1h 1 (antes 2) · 6h 9 (antes 0, nuevo) · 24h 9 (antes 0, nuevo)
+
+### ⚪ en observación — ANTFUN
+- **Quote:** `CWZ6BsdnjkDVTGkmL6bGbJXXig6ceef12KvyGQW14cMt`
+- **Pools nuevos:** 1h 4 (antes 2) · 6h 8 (antes 0, nuevo) · 24h 8 (antes 0, nuevo)
 
 ### ⚪ en observación — ANTHRP
 - **Quote:** `Pren1FvFX6J3E4kXhJuCiAD5aDmGEb7qJRncwA8Lkhw`
@@ -48,10 +52,6 @@
 ### ⚪ en observación — TSLAx
 - **Quote:** `XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB`
 - **Pools nuevos:** 1h 0 (antes 2) · 6h 2 (antes 2, +0%) · 24h 7 (antes 4, +75%)
-
-### ⚪ en observación — ANTFUN
-- **Quote:** `CWZ6BsdnjkDVTGkmL6bGbJXXig6ceef12KvyGQW14cMt`
-- **Pools nuevos:** 1h 3 (antes 2) · 6h 7 (antes 0, nuevo) · 24h 7 (antes 0, nuevo)
 
 ### ⚪ en observación — MSFTx
 - **Quote:** `XspzcW1PRtgf6Wj92HCiZdjzKCyFekVD8P5Ueh3dRMX`
