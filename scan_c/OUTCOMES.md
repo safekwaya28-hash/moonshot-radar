@@ -1,21 +1,21 @@
 # OUTCOMES — qué pasó después de cada decisión (incluidas las descartadas)
-**2026-10-09 18:01 UTC** · 309 monedas seguidas · la decisión original nunca se cambia
+**2026-10-09 18:38 UTC** · 309 monedas seguidas · la decisión original nunca se cambia
 
 | Escáner | Decisión | Monedas | con 24h | Mediana MC 24h / inicial | Muertas a 24h (≤ −50%) | Máx. ≥2x | ≥5x | ≥10x | 2x antes de −30% | 5x antes de −50% | 10x antes de −70% |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | A | NO | 1 | 1 | 1.00x | 0% | 0% | 0% | 0% | 0% (n=1) | 0% (n=1) | — |
-| B | DESCARTAR | 169 | 94 | 0.29x | 88% | 33% | 6% | 3% | 6% (n=158) | 3% (n=155) | 3% (n=96) |
+| B | DESCARTAR | 169 | 98 | 0.29x | 89% | 33% | 6% | 3% | 6% (n=158) | 3% (n=155) | 3% (n=96) |
 | B | FUERA | 17 | 12 | 0.51x | 42% | 50% | 6% | 6% | 12% (n=16) | 10% (n=10) | 100% (n=1) |
-| B | WATCH | 80 | 45 | 0.26x | 89% | 43% | 15% | 8% | 15% (n=65) | 12% (n=65) | 12% (n=43) |
+| B | WATCH | 80 | 46 | 0.26x | 87% | 43% | 15% | 8% | 15% (n=65) | 12% (n=65) | 12% (n=43) |
 | C-meta | 🟡 META ACTIVÁNDOSE | 42 | 14 | 0.74x | 43% | 20% | 10% | 2% | 43% (n=14) | 40% (n=10) | 17% (n=6) |
 
 ## ¿Qué filtro mata ganadoras? (descartadas por motivo)
 
 | Motivo del descarte | Monedas | con 24h | Mediana 24h | Muertas a 24h | Máx. ≥5x | ≥10x | 2x antes de −30% | 5x antes de −50% | 10x antes de −70% |
 |---|---|---|---|---|---|---|---|---|---|
-| concentración | 76 | 23 | 0.33x | 70% | 2% | 2% | 3% (n=65) | 0% (n=65) | 2% (n=44) |
-| dev vendió | 60 | 46 | 0.29x | 93% | 7% | 2% | 5% (n=60) | 4% (n=57) | 3% (n=30) |
-| compras en el bloque de creación | 30 | 22 | 0.25x | 95% | 13% | 3% | 10% (n=30) | 10% (n=30) | 5% (n=19) |
+| concentración | 76 | 24 | 0.33x | 71% | 2% | 2% | 3% (n=65) | 0% (n=65) | 2% (n=44) |
+| dev vendió | 60 | 48 | 0.29x | 94% | 7% | 2% | 5% (n=60) | 4% (n=57) | 3% (n=30) |
+| compras en el bloque de creación | 30 | 23 | 0.26x | 96% | 13% | 3% | 10% (n=30) | 10% (n=30) | 5% (n=19) |
 | snipers | 2 | 2 | 0.16x | 100% | 0% | 0% | 0% (n=2) | 0% (n=2) | 0% (n=2) |
 | impuesto modificable | 2 | 2 | 0.45x | 50% | 0% | 0% | 0% (n=2) | 0% (n=1) | 0% (n=1) |
 | extensión peligrosa | 1 | 1 | 1.00x | 0% | 0% | 0% | 0% (n=1) | 0% (n=1) | — |
