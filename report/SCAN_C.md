@@ -1,7 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-09 02:05 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
-
-> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
+**2026-10-09 02:33 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 ## Metas por token de pago (0 activándose)
 
@@ -19,7 +17,7 @@
 
 ### ⚪ en observación — ANTHRP
 - **Quote:** `Pren1FvFX6J3E4kXhJuCiAD5aDmGEb7qJRncwA8Lkhw`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 2 (antes 2, +0%) · 24h 7 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 2 (antes 1, +100%) · 24h 7 (antes 0, nuevo)
 
 ### ⚪ en observación — WBTC
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
@@ -39,7 +37,7 @@
 
 ### ⚪ en observación — TSLAx
 - **Quote:** `XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 3, -100%) · 24h 3 (antes 5, -40%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 3 (antes 5, -40%)
 
 ### ⚪ en observación — JUP
 - **Quote:** `JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN`
@@ -48,8 +46,8 @@
 ## Plataformas con ingresos acelerando (DefiLlama)
 
 ### 🟡 FLYWHEEL ACELERANDO — Beezie (Physical TCG)
-- **Ingresos 7d:** $175.1k · 7d anteriores $58.6k · cambio 3.0×
-- **Ingresos 24h:** $65.4k · 24h anteriores $56.2k · +16% (¿sigue acelerando hoy?)
+- **Ingresos 7d:** $175.7k · 7d anteriores $58.6k · cambio 3.0×
+- **Ingresos 24h:** $66.0k · 24h anteriores $56.2k · +17% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** —
 - **Token:** sin token listado en CoinGecko
 
