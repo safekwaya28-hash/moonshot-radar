@@ -1,15 +1,15 @@
 # ESTUDIO · distribución por entrada × venta
-**2026-10-09 17:30 UTC** · fuente: todas las graduadas de pump.fun (PumpSwap)
+**2026-10-09 18:34 UTC** · fuente: todas las graduadas de pump.fun (PumpSwap)
 
-- Monedas revisadas: **14,253 / 206,007** (7%) · con pico ≥ $500k: **2,973**
+- Monedas revisadas: **14,334 / 206,007** (7%) · con pico ≥ $500k: **2,991**
 
 | Entrada | Venta | Ops | Censura <180d | EV | Mediana | p75 | p90 | p99 | Cobró ≥10x | Tocó ≥10x | Cobró ≥50x | Tocó ≥50x | Días al pico (med/p90) | Top 3 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| REF_dd70_mc150k_sin_base | escalonada | 136 | 99% | 1.06x | 0.98x | 1.19x | 1.37x | 2.68x | 0% | 1% | 0% | 0% | 2 / 28 | 2.2x, 2.9x, 8.8x |
-| REF_dd70_mc150k_sin_base | estructura | 136 | 99% | 1.08x | 1.07x | 1.24x | 1.47x | 3.26x | 0% | 1% | 0% | 0% | 9 / 40 | 3.2x, 3.3x, 9.9x |
-| REF_dd70_mc150k_sin_base | solo_stop | 136 | 99% | 1.05x | 0.98x | 1.19x | 1.35x | 2.87x | 0% | 1% | 0% | 0% | 2 / 28 | 2.2x, 3.2x, 9.9x |
-| REF_dd70_mc150k_sin_base | trailing | 136 | 99% | 1.05x | 0.98x | 1.19x | 1.35x | 2.68x | 0% | 1% | 0% | 0% | 2 / 28 | 2.2x, 2.9x, 9.9x |
-| REF_dd70_mc150k_sin_base | tuya | 136 | 99% | 1.07x | 0.98x | 1.20x | 1.43x | 2.82x | 0% | 1% | 0% | 0% | 2 / 28 | 2.2x, 3.2x, 7.6x |
+| REF_dd70_mc150k_sin_base | escalonada | 137 | 99% | 1.07x | 0.98x | 1.20x | 1.40x | 2.74x | 0% | 1% | 0% | 0% | 2 / 28 | 2.4x, 2.9x, 8.8x |
+| REF_dd70_mc150k_sin_base | estructura | 137 | 99% | 1.08x | 1.07x | 1.25x | 1.47x | 3.26x | 0% | 1% | 0% | 0% | 9 / 40 | 3.2x, 3.3x, 9.9x |
+| REF_dd70_mc150k_sin_base | solo_stop | 137 | 99% | 1.05x | 0.98x | 1.19x | 1.35x | 2.86x | 0% | 1% | 0% | 0% | 2 / 28 | 2.2x, 3.2x, 9.9x |
+| REF_dd70_mc150k_sin_base | trailing | 137 | 99% | 1.06x | 0.98x | 1.19x | 1.37x | 2.70x | 0% | 1% | 0% | 0% | 2 / 28 | 2.3x, 2.9x, 9.9x |
+| REF_dd70_mc150k_sin_base | tuya | 137 | 99% | 1.08x | 0.99x | 1.20x | 1.44x | 2.81x | 0% | 1% | 0% | 0% | 2 / 28 | 2.2x, 3.2x, 7.6x |
 | REF_dd85_mc150k_sin_base | escalonada | 136 | 99% | 1.07x | 0.98x | 1.20x | 1.37x | 2.68x | 0% | 1% | 0% | 0% | 2 / 28 | 2.2x, 2.9x, 8.8x |
 | REF_dd85_mc150k_sin_base | estructura | 136 | 99% | 1.08x | 1.07x | 1.24x | 1.47x | 3.26x | 0% | 1% | 0% | 0% | 9 / 40 | 3.2x, 3.3x, 9.9x |
 | REF_dd85_mc150k_sin_base | solo_stop | 136 | 99% | 1.06x | 0.98x | 1.19x | 1.35x | 2.87x | 0% | 1% | 0% | 0% | 2 / 28 | 2.2x, 3.2x, 9.9x |
