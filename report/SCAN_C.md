@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-09 11:36 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-09 12:00 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -7,29 +7,25 @@
 
 ### 🟡 META ACTIVÁNDOSE — NVDAx
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 4 (antes 1, +300%) · 24h 15 (antes 11, +36%)
-- **Amplitud (24h):** 15 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 30% del volumen
-- **Token de pago:** MC $44.64M · volumen 24h $3.69M · liquidez $3.27M
-- **Líder (más volumen):** Boba `ES5BRFwZuZkp1ve1qK4wwBeYEtVrHjjQTWsHXe2mm5CR` · MC $4.4k · vol 24h $42.1k · 24h 25.31%
-- **Líder (mayor subida 24h):** Boba `ES5BRFwZuZkp1ve1qK4wwBeYEtVrHjjQTWsHXe2mm5CR` · MC $4.4k · vol 24h $42.1k · 24h 25.31%
-- **Catalizador:** META ACCELERATION (pools 24h +36%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 4 (antes 1, +300%) · 24h 12 (antes 14, -14%)
+- **Amplitud (24h):** 12 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 36% del volumen
+- **Token de pago:** MC $44.63M · volumen 24h $3.67M · liquidez $3.27M
+- **Líder (más volumen):** Boba `ES5BRFwZuZkp1ve1qK4wwBeYEtVrHjjQTWsHXe2mm5CR` · MC $4.4k · vol 24h $39.5k · 24h 18.15%
+- **Líder (mayor subida 24h):** test `93nNxjXEw2PiTwGv1cnJDsHj7ZG22P2ooDp6Ah6HNV2a` · MC $3.8k · vol 24h $585 · 24h 23.22%
+- **Catalizador:** META ACCELERATION (pools 24h -14%)
 - **Riesgos:** liquidez 0% del MC
 
 ### ⚪ en observación — SPYx
 - **Quote:** `XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 3 (antes 2, +50%) · 24h 13 (antes 7, +86%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 2 (antes 3, -33%) · 24h 13 (antes 7, +86%)
 
 ### ⚪ en observación — WBTC
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 2 (antes 1, +100%) · 24h 9 (antes 26, -65%)
+- **Pools nuevos:** 1h 0 (antes 1) · 6h 2 (antes 1, +100%) · 24h 9 (antes 25, -64%)
 
 ### ⚪ en observación — QQQx
 - **Quote:** `Xs8S1uUs1zvS2p7iwtsG3b6fkhpvmwz4GYU3gWAmWHZ`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 2, -100%) · 24h 7 (antes 0, nuevo)
-
-### ⚪ en observación — GOOGLx
-- **Quote:** `XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 4 (antes 0, nuevo) · 24h 7 (antes 18, -61%)
 
 ### ⚪ en observación — ANTHRP
 - **Quote:** `Pren1FvFX6J3E4kXhJuCiAD5aDmGEb7qJRncwA8Lkhw`
@@ -37,7 +33,7 @@
 
 ### ⚪ en observación — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 3 (antes 0) · 6h 6 (antes 0, nuevo) · 24h 6 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 3) · 6h 6 (antes 0, nuevo) · 24h 6 (antes 0, nuevo)
 
 ### ⚪ en observación — MSFTx
 - **Quote:** `XspzcW1PRtgf6Wj92HCiZdjzKCyFekVD8P5Ueh3dRMX`
@@ -46,6 +42,10 @@
 ### ⚪ en observación — TSLAx
 - **Quote:** `XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 2, -100%) · 24h 5 (antes 4, +25%)
+
+### ⚪ en observación — GOOGLx
+- **Quote:** `XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN`
+- **Pools nuevos:** 1h 0 (antes 1) · 6h 3 (antes 1, +200%) · 24h 5 (antes 20, -75%)
 
 ### ⚪ en observación — JUP
 - **Quote:** `JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN`
