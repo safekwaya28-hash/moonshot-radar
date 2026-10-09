@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-09 14:02 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-09 14:07 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 ## Metas por token de pago (2 activándose)
 
@@ -7,7 +7,7 @@
 - **Quote:** `XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W`
 - **Pools nuevos:** 1h 1 (antes 1) · 6h 2 (antes 4, -50%) · 24h 13 (antes 6, +117%)
 - **Amplitud (24h):** 13 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 38% del volumen
-- **Token de pago:** MC $65.00M · volumen 24h $606.5k · liquidez $2.50M
+- **Token de pago:** MC $65.00M · volumen 24h $600.0k · liquidez $2.50M
 - **Líder (más volumen):** SNIBBU `727Yj75NUzS1tY4UT1z1vEV6PQMTAfX1wjrQ6Mtf4nVe` · MC $3.1k · vol 24h $1.6k · 24h -24.05%
 - **Líder (mayor subida 24h):** Cody `CuQ1zDMo2h6W18MRQX23WL7e88bC4whQ1HScvKzCbUjt` · MC $3.1k · vol 24h $2 · 24h -0.06%
 - **Catalizador:** META ACCELERATION (pools 24h +117%)
@@ -17,7 +17,7 @@
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
 - **Pools nuevos:** 1h 1 (antes 2) · 6h 7 (antes 2, +250%) · 24h 12 (antes 27, -56%)
 - **Amplitud (24h):** 12 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 50% del volumen
-- **Token de pago:** MC $318.24M · volumen 24h $6.95M · liquidez $1.97M
+- **Token de pago:** MC $318.86M · volumen 24h $7.01M · liquidez $1.97M
 - **Líder (más volumen):** SHA256 `Hn3kE27EddcDXgZqLAhcwKdAxfpRfEidGj8bDh26pump` · MC $3.1k · vol 24h $16.7k · 24h -31.02%
 - **Líder (mayor subida 24h):** SHA256 `9MmBDzSzHt4PjrrDEWc1wv4WRNCknuzEAoqf52WB8s8` · MC $7.5k · vol 24h $4.3k · 24h 140%
 - **Catalizador:** META ACCELERATION (pools 24h -56%)
@@ -25,19 +25,19 @@
 
 ### ⚪ en observación — NVDAx
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
-- **Pools nuevos:** 1h 0 (antes 1) · 6h 2 (antes 4, -50%) · 24h 11 (antes 16, -31%)
+- **Pools nuevos:** 1h 0 (antes 1) · 6h 1 (antes 5, -80%) · 24h 11 (antes 16, -31%)
 
 ### ⚪ en observación — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
 - **Pools nuevos:** 1h 0 (antes 1) · 6h 9 (antes 0, nuevo) · 24h 9 (antes 0, nuevo)
 
+### ⚪ en observación — GLDx
+- **Quote:** `Xsv9hRk1z5ystj9MhnA7Lq4vjSsLwzL2nxrwmwtD3re`
+- **Pools nuevos:** 1h 4 (antes 1) · 6h 5 (antes 0, nuevo) · 24h 8 (antes 1, +700%)
+
 ### ⚪ en observación — ANTFUN
 - **Quote:** `CWZ6BsdnjkDVTGkmL6bGbJXXig6ceef12KvyGQW14cMt`
 - **Pools nuevos:** 1h 0 (antes 4) · 6h 8 (antes 0, nuevo) · 24h 8 (antes 0, nuevo)
-
-### ⚪ en observación — GLDx
-- **Quote:** `Xsv9hRk1z5ystj9MhnA7Lq4vjSsLwzL2nxrwmwtD3re`
-- **Pools nuevos:** 1h 3 (antes 1) · 6h 4 (antes 0, nuevo) · 24h 7 (antes 1, +600%)
 
 ### ⚪ en observación — QQQx
 - **Quote:** `Xs8S1uUs1zvS2p7iwtsG3b6fkhpvmwz4GYU3gWAmWHZ`
@@ -47,13 +47,13 @@
 - **Quote:** `XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 2 (antes 2, +0%) · 24h 7 (antes 4, +75%)
 
+### ⚪ en observación — ANTHRP
+- **Quote:** `Pren1FvFX6J3E4kXhJuCiAD5aDmGEb7qJRncwA8Lkhw`
+- **Pools nuevos:** 1h 1 (antes 0) · 6h 2 (antes 0, nuevo) · 24h 6 (antes 3, +100%)
+
 ### ⚪ en observación — MSFTx
 - **Quote:** `XspzcW1PRtgf6Wj92HCiZdjzKCyFekVD8P5Ueh3dRMX`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 5 (antes 0, nuevo)
-
-### ⚪ en observación — ANTHRP
-- **Quote:** `Pren1FvFX6J3E4kXhJuCiAD5aDmGEb7qJRncwA8Lkhw`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 1 (antes 0, nuevo) · 24h 5 (antes 3, +67%)
 
 ## Plataformas con ingresos acelerando (DefiLlama)
 
