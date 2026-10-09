@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-09 10:01 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-09 10:05 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -7,9 +7,9 @@
 
 ### 🟡 META ACTIVÁNDOSE — NVDAx
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
-- **Pools nuevos:** 1h 0 (antes 1) · 6h 5 (antes 0, nuevo) · 24h 15 (antes 11, +36%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 5 (antes 0, nuevo) · 24h 15 (antes 11, +36%)
 - **Amplitud (24h):** 15 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 27% del volumen
-- **Token de pago:** MC $234.9k · volumen 24h $3.65M · liquidez $3.21M
+- **Token de pago:** MC $44.81M · volumen 24h $3.69M · liquidez $3.22M
 - **Líder (más volumen):** Boba `ES5BRFwZuZkp1ve1qK4wwBeYEtVrHjjQTWsHXe2mm5CR` · MC $4.4k · vol 24h $42.1k · 24h 25.31%
 - **Líder (mayor subida 24h):** Boba `ES5BRFwZuZkp1ve1qK4wwBeYEtVrHjjQTWsHXe2mm5CR` · MC $4.4k · vol 24h $42.1k · 24h 25.31%
 - **Catalizador:** META ACCELERATION (pools 24h +36%)
@@ -49,7 +49,7 @@
 
 ### ⚪ en observación — STRK
 - **Quote:** `HsRpHQn6VbyMs5b5j5SV6xQ2VvpvvCCzu19GjytVSCoz`
-- **Pools nuevos:** 1h 3 (antes 2) · 6h 5 (antes 0, nuevo) · 24h 5 (antes 0, nuevo)
+- **Pools nuevos:** 1h 2 (antes 3) · 6h 5 (antes 0, nuevo) · 24h 5 (antes 0, nuevo)
 
 ## Plataformas con ingresos acelerando (DefiLlama)
 
