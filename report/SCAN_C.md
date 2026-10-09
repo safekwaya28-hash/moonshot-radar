@@ -1,5 +1,7 @@
 # SCAN C — Meta / Flywheel
-**2026-10-09 09:36 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-09 09:40 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+
+> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
 ## Metas por token de pago (1 activándose)
 
@@ -7,7 +9,7 @@
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
 - **Pools nuevos:** 1h 0 (antes 3) · 6h 5 (antes 0, nuevo) · 24h 15 (antes 11, +36%)
 - **Amplitud (24h):** 15 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 27% del volumen
-- **Token de pago:** MC $44.70M · volumen 24h $3.64M · liquidez $3.21M
+- **Token de pago:** MC $44.69M · volumen 24h $3.65M · liquidez $3.21M
 - **Líder (más volumen):** Boba `ES5BRFwZuZkp1ve1qK4wwBeYEtVrHjjQTWsHXe2mm5CR` · MC $4.4k · vol 24h $42.1k · 24h 25.31%
 - **Líder (mayor subida 24h):** Boba `ES5BRFwZuZkp1ve1qK4wwBeYEtVrHjjQTWsHXe2mm5CR` · MC $4.4k · vol 24h $42.1k · 24h 25.31%
 - **Catalizador:** META ACCELERATION (pools 24h +36%)
@@ -39,7 +41,7 @@
 
 ### ⚪ en observación — TSLAx
 - **Quote:** `XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 2 (antes 0, nuevo) · 24h 5 (antes 4, +25%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 1 (antes 1, +0%) · 24h 5 (antes 4, +25%)
 
 ### ⚪ en observación — JUP
 - **Quote:** `JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN`
