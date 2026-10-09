@@ -1,5 +1,7 @@
 # SCAN C — Meta / Flywheel
-**2026-10-09 02:33 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-09 02:37 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+
+> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
 ## Metas por token de pago (0 activándose)
 
@@ -13,7 +15,7 @@
 
 ### ⚪ en observación — QQQx
 - **Quote:** `Xs8S1uUs1zvS2p7iwtsG3b6fkhpvmwz4GYU3gWAmWHZ`
-- **Pools nuevos:** 1h 2 (antes 0) · 6h 2 (antes 5, -60%) · 24h 7 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 2) · 6h 2 (antes 5, -60%) · 24h 7 (antes 0, nuevo)
 
 ### ⚪ en observación — ANTHRP
 - **Quote:** `Pren1FvFX6J3E4kXhJuCiAD5aDmGEb7qJRncwA8Lkhw`
