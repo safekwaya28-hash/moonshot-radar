@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-10 21:04 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-10 21:32 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -7,31 +7,31 @@
 
 ### 🟡 META ACTIVÁNDOSE — SPCX
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
-- **Pools nuevos:** 1h 4 (antes 0) · 6h 16 (antes 3, +433%) · 24h 64 (antes 11, +482%)
-- **Amplitud (24h):** 64 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 91% del volumen ⚠️ una sola moneda domina: puede no ser una moda
-- **Token de pago:** MC $7.43M · volumen 24h $10.47M · liquidez $2.51M
-- **Líder (más volumen):** Musk `64GXmXjTQmVxc3XwZG5aMZdbmq4UrkedCLyqHFzppump` · MC $31.1k · vol 24h $912.3k · 24h -29.36%
+- **Pools nuevos:** 1h 2 (antes 2) · 6h 13 (antes 6, +117%) · 24h 63 (antes 12, +425%)
+- **Amplitud (24h):** 63 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 91% del volumen ⚠️ una sola moneda domina: puede no ser una moda
+- **Token de pago:** MC — · volumen 24h $10.71M · liquidez $2.62M
+- **Líder (más volumen):** Musk `64GXmXjTQmVxc3XwZG5aMZdbmq4UrkedCLyqHFzppump` · MC $31.2k · vol 24h $913.3k · 24h -29.35%
 - **Líder (mayor subida 24h):** WATT `7zwtGzP4DFJMpvQrRpVJF2uy3ymwrENKeYjdc12Vpump` · MC $4.6k · vol 24h $561 · 24h 28.34%
-- **Catalizador:** META ACCELERATION (pools 24h +482%)
+- **Catalizador:** META ACCELERATION (pools 24h +425%)
 
 ### 🟡 META ACTIVÁNDOSE — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 38 (antes 2) · 6h 47 (antes 4, +1075%) · 24h 62 (antes 38, +63%)
-- **Amplitud (24h):** 62 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 22% del volumen
-- **Token de pago:** MC $2573.06M · volumen 24h $2.96M · liquidez $26.11M
-- **Líder (más volumen):** caller `Hx9v5LV1SKxmmBCmEXbVPY7Pn4iVasXmaCkbc1vypump` · MC $3.8k · vol 24h $29.8k · 24h -3.52%
+- **Pools nuevos:** 1h 12 (antes 28) · 6h 46 (antes 5, +820%) · 24h 61 (antes 39, +56%)
+- **Amplitud (24h):** 61 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 22% del volumen
+- **Token de pago:** MC $2585.07M · volumen 24h $2.83M · liquidez $26.17M
+- **Líder (más volumen):** caller `Hx9v5LV1SKxmmBCmEXbVPY7Pn4iVasXmaCkbc1vypump` · MC $3.2k · vol 24h $29.8k · 24h -18.49%
 - **Líder (mayor subida 24h):** JAMSHEED `DXVBNuXt85aRuzw7DGgga6CoF7aXWRWKy31LYsg7pump` · MC $4.9k · vol 24h $739 · 24h 31.78%
-- **Catalizador:** META ACCELERATION (pools 24h +63%)
+- **Catalizador:** META ACCELERATION (pools 24h +56%)
 - **Riesgos:** liquidez 0% del MC
 
 ### 🟡 META ACTIVÁNDOSE — GOOGLx
 - **Quote:** `XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 2 (antes 19, -89%) · 24h 24 (antes 6, +300%)
-- **Amplitud (24h):** 23 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 32% del volumen
-- **Token de pago:** MC $40.24M · volumen 24h $895.6k · liquidez $1.58M
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 2 (antes 19, -89%) · 24h 22 (antes 8, +175%)
+- **Amplitud (24h):** 21 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 34% del volumen
+- **Token de pago:** MC $40.24M · volumen 24h $720.4k · liquidez $1.58M
 - **Líder (más volumen):** RSI `HNshbAEW8kfT9WKQiTNSLGdww4kZ5ZoDdpWDvc7swVpy` · MC $3.1k · vol 24h $21.0k · 24h -23.54%
 - **Líder (mayor subida 24h):** RSI `BkGSwL5bfJVjXaL1QeutT3iD2NmsjFqagDAjEihqpump` · MC $4.4k · vol 24h $422 · 24h 13.09%
-- **Catalizador:** META ACCELERATION (pools 24h +300%)
+- **Catalizador:** META ACCELERATION (pools 24h +175%)
 - **Riesgos:** liquidez 0% del MC
 
 ### 🟡 META ACTIVÁNDOSE — BE
@@ -44,9 +44,9 @@
 
 ### 🟡 META ACTIVÁNDOSE — NVDAx
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 7 (antes 3, +133%) · 24h 12 (antes 7, +71%)
+- **Pools nuevos:** 1h 0 (antes 1) · 6h 7 (antes 3, +133%) · 24h 12 (antes 7, +71%)
 - **Amplitud (24h):** 12 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Token de pago:** MC $44.71M · volumen 24h $1.07M · liquidez $3.29M
+- **Token de pago:** MC $44.71M · volumen 24h $1.14M · liquidez $3.29M
 - **Líder (más volumen):** POKECRAFT `6J41D4TKUayBbX3gDXWdhVuiK7Lg1AW4PWMjK1Qepump` · MC $4.9k · vol 24h $36 · 24h None%
 - **Líder (mayor subida 24h):** Boba `ES5BRFwZuZkp1ve1qK4wwBeYEtVrHjjQTWsHXe2mm5CR` · MC $3.9k · vol 24h $22 · 24h None%
 - **Catalizador:** META ACCELERATION (pools 24h +71%)
@@ -54,19 +54,19 @@
 
 ### ⚪ en observación — SPYx
 - **Quote:** `XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W`
-- **Pools nuevos:** 1h 2 (antes 0) · 6h 2 (antes 2, +0%) · 24h 10 (antes 11, -9%)
+- **Pools nuevos:** 1h 1 (antes 1) · 6h 2 (antes 2, +0%) · 24h 10 (antes 11, -9%)
 
 ### ⚪ en observación — SKHY
 - **Quote:** `SKHYhSjuRWHgikq8eRKbtBbpABgJSkd7ytQV14i9EQ3`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 8 (antes 0, nuevo) · 24h 8 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 8, -100%) · 24h 8 (antes 0, nuevo)
 
 ### ⚪ en observación — ZEC
 - **Quote:** `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS`
-- **Pools nuevos:** 1h 1 (antes 2) · 6h 4 (antes 0, nuevo) · 24h 7 (antes 3, +133%)
+- **Pools nuevos:** 1h 0 (antes 3) · 6h 4 (antes 0, nuevo) · 24h 7 (antes 3, +133%)
 
 ### ⚪ en observación — DJT
 - **Quote:** `DJTu7vi8norVzdVAffgvb39VP7wjKeTsgaMBJrzfxvoF`
-- **Pools nuevos:** 1h 2 (antes 0) · 6h 3 (antes 0, nuevo) · 24h 7 (antes 4, +75%)
+- **Pools nuevos:** 1h 1 (antes 1) · 6h 3 (antes 0, nuevo) · 24h 7 (antes 4, +75%)
 
 ### ⚪ en observación — REELS
 - **Quote:** `mGzw6zwvig3GitrCM6sGJXdRWeWz81X2vyzVH3Upump`
@@ -78,12 +78,6 @@
 - **Ingresos 7d:** $166.0k · 7d anteriores $70.4k · cambio 2.4×
 - **Ingresos 24h:** $6.0k · 24h anteriores $66.0k · -91% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** —
-- **Token:** sin token listado en CoinGecko
-
-### 🟡 FLYWHEEL ACELERANDO — Nullmask (Privacy)
-- **Ingresos 7d:** $151.0k · 7d anteriores $43.5k · cambio 3.5×
-- **Ingresos 24h:** $9.2k · 24h anteriores $13.5k · -31% (¿sigue acelerando hoy?)
-- **A holders (recompras/quemas/repartos) 7d:** $0
 - **Token:** sin token listado en CoinGecko
 
 ### 🟡 FLYWHEEL ACELERANDO — Phygitals (Physical TCG)
