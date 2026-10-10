@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-10 16:32 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-10 16:36 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -7,28 +7,28 @@
 
 ### 🟡 META ACTIVÁNDOSE — SPCX
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
-- **Pools nuevos:** 1h 0 (antes 3) · 6h 5 (antes 27, -81%) · 24h 57 (antes 5, +1040%)
-- **Amplitud (24h):** 57 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 92% del volumen ⚠️ una sola moneda domina: puede no ser una moda
+- **Pools nuevos:** 1h 0 (antes 3) · 6h 5 (antes 27, -81%) · 24h 56 (antes 6, +833%)
+- **Amplitud (24h):** 56 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 93% del volumen ⚠️ una sola moneda domina: puede no ser una moda
 - **Token de pago:** MC $7.42M · volumen 24h $8.95M · liquidez $2.30M
-- **Líder (más volumen):** Musk `64GXmXjTQmVxc3XwZG5aMZdbmq4UrkedCLyqHFzppump` · MC $43.3k · vol 24h $891.9k · 24h -1.81%
+- **Líder (más volumen):** Musk `64GXmXjTQmVxc3XwZG5aMZdbmq4UrkedCLyqHFzppump` · MC $38.7k · vol 24h $892.1k · 24h -12.19%
 - **Líder (mayor subida 24h):** WATT `7zwtGzP4DFJMpvQrRpVJF2uy3ymwrENKeYjdc12Vpump` · MC $4.6k · vol 24h $561 · 24h 28.34%
-- **Catalizador:** META ACCELERATION (pools 24h +1040%)
+- **Catalizador:** META ACCELERATION (pools 24h +833%)
 
 ### 🟡 META ACTIVÁNDOSE — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 0 (antes 1) · 6h 4 (antes 6, -33%) · 24h 44 (antes 10, +340%)
-- **Amplitud (24h):** 44 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 19% del volumen
-- **Token de pago:** MC $2615.45M · volumen 24h $3.31M · liquidez $26.32M
+- **Pools nuevos:** 1h 0 (antes 1) · 6h 4 (antes 6, -33%) · 24h 43 (antes 11, +291%)
+- **Amplitud (24h):** 43 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 19% del volumen
+- **Token de pago:** MC $2606.28M · volumen 24h $3.31M · liquidez $26.28M
 - **Líder (más volumen):** PUMPDOG `AqvkmLvyBGfqgrEvouK5DPHjRZAFAUNrUWxisr3oqoxK` · MC $3.1k · vol 24h $5.6k · 24h -53.65%
 - **Líder (mayor subida 24h):** Balloon `EpbzgG6YAH8EcvppvMGXmtjjMHDLBVeybWfTX5Xdpump` · MC $5.9k · vol 24h $652 · 24h 43.2%
-- **Catalizador:** META ACCELERATION (pools 24h +340%)
+- **Catalizador:** META ACCELERATION (pools 24h +291%)
 - **Riesgos:** liquidez 0% del MC
 
 ### 🟡 META ACTIVÁNDOSE — GOOGLx
 - **Quote:** `XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 8 (antes 11, -27%) · 24h 23 (antes 5, +360%)
 - **Amplitud (24h):** 23 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 32% del volumen
-- **Token de pago:** MC $40.25M · volumen 24h $2.06M · liquidez $1.57M
+- **Token de pago:** MC $40.25M · volumen 24h $2.06M · liquidez $1.58M
 - **Líder (más volumen):** RSI `HNshbAEW8kfT9WKQiTNSLGdww4kZ5ZoDdpWDvc7swVpy` · MC $3.1k · vol 24h $21.0k · 24h -23.08%
 - **Líder (mayor subida 24h):** RSI `BkGSwL5bfJVjXaL1QeutT3iD2NmsjFqagDAjEihqpump` · MC $4.4k · vol 24h $422 · 24h 13.09%
 - **Catalizador:** META ACCELERATION (pools 24h +360%)
@@ -42,13 +42,13 @@
 - **Líder (mayor subida 24h):** PW `6CQxGiwqRj3bJTSAnb68GKnzeFdgBWbHQekhsrrrpump` · MC — · vol 24h $0 · 24h None%
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
 
-### ⚪ en observación — SPYx
-- **Quote:** `XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 4, -100%) · 24h 9 (antes 10, -10%)
-
 ### ⚪ en observación — baton
 - **Quote:** `Hg5Ja55T5wESq4vyFoiVCMeHXtGyVA69X2UHq8hgpump`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 1 (antes 0, nuevo) · 24h 9 (antes 0, nuevo)
+
+### ⚪ en observación — SPYx
+- **Quote:** `XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W`
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 4, -100%) · 24h 8 (antes 11, -27%)
 
 ### ⚪ en observación — ANTFUN
 - **Quote:** `CWZ6BsdnjkDVTGkmL6bGbJXXig6ceef12KvyGQW14cMt`
