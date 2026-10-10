@@ -1,35 +1,25 @@
 # SCAN C — Meta / Flywheel
-**2026-10-10 17:57 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-10 17:59 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
-## Metas por token de pago (4 activándose)
+## Metas por token de pago (3 activándose)
 
 ### 🟡 META ACTIVÁNDOSE — SPCX
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
-- **Pools nuevos:** 1h 3 (antes 4) · 6h 11 (antes 25, -56%) · 24h 62 (antes 7, +786%)
-- **Amplitud (24h):** 62 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 91% del volumen ⚠️ una sola moneda domina: puede no ser una moda
-- **Token de pago:** MC $7.42M · volumen 24h $8.87M · liquidez $2.33M
-- **Líder (más volumen):** Musk `64GXmXjTQmVxc3XwZG5aMZdbmq4UrkedCLyqHFzppump` · MC $37.0k · vol 24h $900.3k · 24h -15.98%
+- **Pools nuevos:** 1h 3 (antes 4) · 6h 11 (antes 25, -56%) · 24h 59 (antes 10, +490%)
+- **Amplitud (24h):** 59 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 91% del volumen ⚠️ una sola moneda domina: puede no ser una moda
+- **Token de pago:** MC $7.42M · volumen 24h $8.86M · liquidez $2.32M
+- **Líder (más volumen):** Musk `64GXmXjTQmVxc3XwZG5aMZdbmq4UrkedCLyqHFzppump` · MC $37.1k · vol 24h $900.3k · 24h -15.85%
 - **Líder (mayor subida 24h):** WATT `7zwtGzP4DFJMpvQrRpVJF2uy3ymwrENKeYjdc12Vpump` · MC $4.6k · vol 24h $561 · 24h 28.34%
-- **Catalizador:** META ACCELERATION (pools 24h +786%)
-
-### 🟡 META ACTIVÁNDOSE — PUMP
-- **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 0 (antes 1) · 6h 4 (antes 5, -20%) · 24h 37 (antes 18, +106%)
-- **Amplitud (24h):** 37 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 18% del volumen
-- **Token de pago:** MC $2597.55M · volumen 24h $3.12M · liquidez $26.23M
-- **Líder (más volumen):** PUMPDOG `AqvkmLvyBGfqgrEvouK5DPHjRZAFAUNrUWxisr3oqoxK` · MC $3.1k · vol 24h $5.6k · 24h -53.65%
-- **Líder (mayor subida 24h):** Balloon `EpbzgG6YAH8EcvppvMGXmtjjMHDLBVeybWfTX5Xdpump` · MC $5.9k · vol 24h $652 · 24h 43.2%
-- **Catalizador:** META ACCELERATION (pools 24h +106%)
-- **Riesgos:** liquidez 0% del MC
+- **Catalizador:** META ACCELERATION (pools 24h +490%)
 
 ### 🟡 META ACTIVÁNDOSE — GOOGLx
 - **Quote:** `XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN`
 - **Pools nuevos:** 1h 0 (antes 2) · 6h 3 (antes 18, -83%) · 24h 24 (antes 6, +300%)
-- **Amplitud (24h):** 23 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 40% del volumen
+- **Amplitud (24h):** 23 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 32% del volumen
 - **Token de pago:** MC $40.24M · volumen 24h $2.09M · liquidez $1.58M
-- **Líder (más volumen):** gascoin `GEtt4jmiR4e9qA25z61kufPaEWbSro7Ft5Kks4t2pump` · MC $3.1k · vol 24h $16.9k · 24h -30.55%
+- **Líder (más volumen):** RSI `HNshbAEW8kfT9WKQiTNSLGdww4kZ5ZoDdpWDvc7swVpy` · MC $3.1k · vol 24h $21.0k · 24h -23.52%
 - **Líder (mayor subida 24h):** RSI `BkGSwL5bfJVjXaL1QeutT3iD2NmsjFqagDAjEihqpump` · MC $4.4k · vol 24h $422 · 24h 13.09%
 - **Catalizador:** META ACCELERATION (pools 24h +300%)
 - **Riesgos:** liquidez 0% del MC
@@ -38,7 +28,13 @@
 - **Quote:** `BEBVfXZ8uCxRBuunEbW9wcq9r7W9ySNo14oJBJkDgpZx`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 16 (antes 0, nuevo)
 - **Amplitud (24h):** 16 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
+- **Líder (más volumen):** Energy `GXkCugMQs4XhPhyQGzLgXKeKfvXD6Ts7CeDvHdCRpump` · MC — · vol 24h $0 · 24h None%
+- **Líder (mayor subida 24h):** Energy `GXkCugMQs4XhPhyQGzLgXKeKfvXD6Ts7CeDvHdCRpump` · MC — · vol 24h $0 · 24h None%
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
+
+### ⚪ en observación — PUMP
+- **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
+- **Pools nuevos:** 1h 0 (antes 1) · 6h 4 (antes 5, -20%) · 24h 36 (antes 19, +89%)
 
 ### ⚪ en observación — baton
 - **Quote:** `Hg5Ja55T5wESq4vyFoiVCMeHXtGyVA69X2UHq8hgpump`
