@@ -1,22 +1,24 @@
 # SCAN C — Meta / Flywheel
-**2026-10-10 15:35 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-10 15:57 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+
+> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
 ## Metas por token de pago (4 activándose)
 
 ### 🟡 META ACTIVÁNDOSE — SPCX
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
-- **Pools nuevos:** 1h 3 (antes 0) · 6h 6 (antes 26, -77%) · 24h 58 (antes 4, +1350%)
+- **Pools nuevos:** 1h 3 (antes 0) · 6h 5 (antes 27, -81%) · 24h 58 (antes 4, +1350%)
 - **Amplitud (24h):** 58 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 90% del volumen ⚠️ una sola moneda domina: puede no ser una moda
-- **Token de pago:** MC $7.42M · volumen 24h $8.66M · liquidez $2.17M
-- **Líder (más volumen):** Musk `64GXmXjTQmVxc3XwZG5aMZdbmq4UrkedCLyqHFzppump` · MC $64.0k · vol 24h $876.0k · 24h 45.03%
-- **Líder (mayor subida 24h):** Musk `64GXmXjTQmVxc3XwZG5aMZdbmq4UrkedCLyqHFzppump` · MC $64.0k · vol 24h $876.0k · 24h 45.03%
+- **Token de pago:** MC $7.42M · volumen 24h $8.78M · liquidez $2.18M
+- **Líder (más volumen):** Musk `64GXmXjTQmVxc3XwZG5aMZdbmq4UrkedCLyqHFzppump` · MC $43.6k · vol 24h $881.5k · 24h -1.19%
+- **Líder (mayor subida 24h):** WATT `7zwtGzP4DFJMpvQrRpVJF2uy3ymwrENKeYjdc12Vpump` · MC $4.6k · vol 24h $561 · 24h 28.34%
 - **Catalizador:** META ACCELERATION (pools 24h +1350%)
 
 ### 🟡 META ACTIVÁNDOSE — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 5 (antes 5, +0%) · 24h 45 (antes 9, +400%)
+- **Pools nuevos:** 1h 1 (antes 0) · 6h 4 (antes 6, -33%) · 24h 45 (antes 9, +400%)
 - **Amplitud (24h):** 45 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 18% del volumen
-- **Token de pago:** MC $2648.66M · volumen 24h $3.44M · liquidez $26.49M
+- **Token de pago:** MC $2657.88M · volumen 24h $3.39M · liquidez $26.54M
 - **Líder (más volumen):** PUMPDOG `AqvkmLvyBGfqgrEvouK5DPHjRZAFAUNrUWxisr3oqoxK` · MC $3.1k · vol 24h $5.6k · 24h -53.65%
 - **Líder (mayor subida 24h):** Balloon `EpbzgG6YAH8EcvppvMGXmtjjMHDLBVeybWfTX5Xdpump` · MC $5.9k · vol 24h $652 · 24h 43.2%
 - **Catalizador:** META ACCELERATION (pools 24h +400%)
@@ -26,7 +28,7 @@
 - **Quote:** `XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 19 (antes 0, nuevo) · 24h 23 (antes 5, +360%)
 - **Amplitud (24h):** 23 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 32% del volumen
-- **Token de pago:** MC $40.25M · volumen 24h $2.14M · liquidez $1.55M
+- **Token de pago:** MC $40.25M · volumen 24h $2.06M · liquidez $1.55M
 - **Líder (más volumen):** RSI `HNshbAEW8kfT9WKQiTNSLGdww4kZ5ZoDdpWDvc7swVpy` · MC $3.1k · vol 24h $21.0k · 24h -23.08%
 - **Líder (mayor subida 24h):** RSI `BkGSwL5bfJVjXaL1QeutT3iD2NmsjFqagDAjEihqpump` · MC $4.4k · vol 24h $422 · 24h 13.09%
 - **Catalizador:** META ACCELERATION (pools 24h +360%)
@@ -42,11 +44,11 @@
 
 ### ⚪ en observación — SPYx
 - **Quote:** `XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 2 (antes 2, +0%) · 24h 10 (antes 11, -9%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 1 (antes 3, -67%) · 24h 10 (antes 9, +11%)
 
 ### ⚪ en observación — ANTFUN
 - **Quote:** `CWZ6BsdnjkDVTGkmL6bGbJXXig6ceef12KvyGQW14cMt`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 3 (antes 2, +50%) · 24h 9 (antes 8, +12%)
+- **Pools nuevos:** 1h 1 (antes 0) · 6h 2 (antes 3, -33%) · 24h 9 (antes 8, +12%)
 
 ### ⚪ en observación — baton
 - **Quote:** `Hg5Ja55T5wESq4vyFoiVCMeHXtGyVA69X2UHq8hgpump`
@@ -62,7 +64,7 @@
 
 ### ⚪ en observación — WBTC
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 2 (antes 0, nuevo) · 24h 6 (antes 12, -50%)
+- **Pools nuevos:** 1h 0 (antes 1) · 6h 2 (antes 0, nuevo) · 24h 6 (antes 12, -50%)
 
 ## Plataformas con ingresos acelerando (DefiLlama)
 
@@ -74,7 +76,7 @@
 
 ### 🟡 FLYWHEEL ACELERANDO — Nullmask (Privacy)
 - **Ingresos 7d:** $151.0k · 7d anteriores $43.5k · cambio 3.5×
-- **Ingresos 24h:** $10.6k · 24h anteriores $13.5k · -21% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $19.9k · 24h anteriores $13.5k · +48% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $0
 - **Token:** sin token listado en CoinGecko
 
