@@ -1,19 +1,19 @@
 # SCAN B — Despegues (objetivo 100x+)
-**2026-10-10 15:21 UTC** · 5,000 creaciones recientes revisadas · 1 en la ventana $8k–$40k · 1 con análisis profundo
+**2026-10-10 15:49 UTC** · 5,000 creaciones recientes revisadas · 1 en la ventana $8k–$40k · 1 con análisis profundo
 
 🟢 COMPRA AHORA **0** · 🟡 WATCH **0** · 🔴 DESCARTAR **0** · ⚪ FUERA **1**
 
 ### ⚪ FUERA — $DGEUFm
 - **CA:** `DGEUFmpGDbVSjhRNvUJsno27HSoDB9bvPHpaTxvpREAL`
-- **MC:** $20.3k · curva 83% · edad 19.1 h · hace 30 min: $20.9k
+- **MC:** $21.1k · curva 84% · edad 19.6 h · hace 30 min: $20.3k
 - **Smart money:** ninguna de tus wallets
-- **B:** 2/9 · **M:** 1/5
-- **Compradores:** 30m 0 · nuevos 5m 0 (antes 0, BAI 0.00) · compradores/vendedores 15m 0.00
-- **Volumen 15m:** $50 (antes $12) · wallet dominante 44% · retención 15m — · compra mediana $39
-- **Seguridad:** snipers 2 · bloque creación 0% · top10 23% · wallet máx 3.2% · dev tiene 0.0% · dev vendió 0% · 5 wallets = 62% del volumen
-- **Prueba de venta:** 6/3 con financiador verificado y distinto (no-dev, mantuvieron ≥5 min y vendieron; 9 en total, 3 no verificables)
-- **Cobertura de datos:** 155 min observados
-- **Participantes 30m:** nuevos 0 · recompran 0 · compran y venden (flippers) 0% · volumen 15m / liquidez 0.0×
+- **B:** 3/9 · **M:** 2/5
+- **Compradores:** 30m 3 · nuevos 5m 0 (antes 0, BAI 0.00) · compradores/vendedores 15m 3.00
+- **Volumen 15m:** $218 (antes $21) · wallet dominante 36% · retención 15m — · compra mediana $33
+- **Seguridad:** snipers 0 · bloque creación 0% · top10 23% · wallet máx 3.2% · dev tiene 0.0% · dev vendió 0% · 5 wallets = 66% del volumen
+- **Prueba de venta:** 6/3 con financiador verificado y distinto (no-dev, mantuvieron ≥5 min y vendieron; 6 en total, 0 no verificables)
+- **Cobertura de datos:** 172 min observados
+- **Participantes 30m:** nuevos 3 · recompran 0 · compran y venden (flippers) 0% · volumen 15m / liquidez 0.0×
 - **Smart money:** convergencia 0 wallets en 10 min · posición entre los compradores — (entre los compradores observados, no entre todos)
 - **Financiación del top:** sin grupos detectados (1 nivel, wallets nuevas)
 - **A mano:** origen del dinero de los compradores (bundles/insiders en GMGN); narrativa (X/Telegram)
