@@ -1,5 +1,7 @@
 # SCAN C — Meta / Flywheel
-**2026-10-11 02:39 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-11 02:59 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+
+> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
 ## Metas por token de pago (7 activándose)
 
@@ -7,8 +9,8 @@
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 2 (antes 16, -88%) · 24h 55 (antes 22, +150%)
 - **Amplitud (24h):** 55 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 92% del volumen ⚠️ una sola moneda domina: puede no ser una moda
-- **Token de pago:** MC — · volumen 24h $8.56M · liquidez $2.93M
-- **Líder (más volumen):** Musk `64GXmXjTQmVxc3XwZG5aMZdbmq4UrkedCLyqHFzppump` · MC $36.3k · vol 24h $938.3k · 24h -17.59%
+- **Token de pago:** MC — · volumen 24h $8.40M · liquidez $2.93M
+- **Líder (más volumen):** Musk `64GXmXjTQmVxc3XwZG5aMZdbmq4UrkedCLyqHFzppump` · MC $40.0k · vol 24h $939.0k · 24h -9.18%
 - **Líder (mayor subida 24h):** FRENS `3H3hFpitNCy4MxRSMsjxBQu5QtujiSHoxuL2CSJppump` · MC $7.2k · vol 24h $872 · 24h 113%
 - **Catalizador:** META ACCELERATION (pools 24h +150%)
 
@@ -16,7 +18,7 @@
 - **Quote:** `XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 2, -100%) · 24h 21 (antes 8, +162%)
 - **Amplitud (24h):** 20 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 34% del volumen
-- **Token de pago:** MC $40.12M · volumen 24h $530.8k · liquidez $1.71M
+- **Token de pago:** MC $40.12M · volumen 24h $531.3k · liquidez $1.71M
 - **Líder (más volumen):** RSI `HNshbAEW8kfT9WKQiTNSLGdww4kZ5ZoDdpWDvc7swVpy` · MC $3.1k · vol 24h $21.0k · 24h -23.54%
 - **Líder (mayor subida 24h):** RSI `BkGSwL5bfJVjXaL1QeutT3iD2NmsjFqagDAjEihqpump` · MC $4.4k · vol 24h $422 · 24h 13.09%
 - **Catalizador:** META ACCELERATION (pools 24h +162%)
@@ -44,7 +46,7 @@
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 2 (antes 7, -71%) · 24h 14 (antes 7, +100%)
 - **Amplitud (24h):** 14 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 28% del volumen
-- **Token de pago:** MC $44.68M · volumen 24h $1.14M · liquidez $3.30M
+- **Token de pago:** MC $230.7k · volumen 24h $1.14M · liquidez $3.30M
 - **Líder (más volumen):** AGI `2s5jUWekcxYR5hKPMA6yo1KMmpciqRErQkoDiKZtpump` · MC $3.1k · vol 24h $4.1k · 24h -18.41%
 - **Líder (mayor subida 24h):** RAI `B3ubCh3E3GiWJhEGSUyMTwE9UpuMN7ToSKffyP3Mkok8` · MC $3.3k · vol 24h $3.2k · 24h -3.89%
 - **Catalizador:** META ACCELERATION (pools 24h +100%)
@@ -64,7 +66,7 @@
 
 ### ⚪ en observación — WBTC
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 3 (antes 4, -25%) · 24h 8 (antes 14, -43%)
+- **Pools nuevos:** 1h 0 (antes 1) · 6h 3 (antes 3, +0%) · 24h 8 (antes 13, -38%)
 
 ### ⚪ en observación — SKHY
 - **Quote:** `SKHYhSjuRWHgikq8eRKbtBbpABgJSkd7ytQV14i9EQ3`
@@ -73,8 +75,8 @@
 ## Plataformas con ingresos acelerando (DefiLlama)
 
 ### 🟡 FLYWHEEL ACELERANDO — Beezie (Physical TCG)
-- **Ingresos 7d:** $160.1k · 7d anteriores $64.8k · cambio 2.5×
-- **Ingresos 24h:** $5.0k · 24h anteriores $11.0k · -54% (¿sigue acelerando hoy?)
+- **Ingresos 7d:** $159.8k · 7d anteriores $64.8k · cambio 2.5×
+- **Ingresos 24h:** $4.7k · 24h anteriores $11.0k · -57% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** —
 - **Token:** sin token listado en CoinGecko
 
