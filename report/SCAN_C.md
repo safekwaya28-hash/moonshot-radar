@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-11 15:58 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-11 16:01 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -17,9 +17,9 @@
 
 ### 🟡 META ACTIVÁNDOSE — NVDAx
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
-- **Pools nuevos:** 1h 0 (antes 3) · 6h 5 (antes 3, +67%) · 24h 17 (antes 5, +240%)
+- **Pools nuevos:** 1h 0 (antes 3) · 6h 5 (antes 2, +150%) · 24h 17 (antes 5, +240%)
 - **Amplitud (24h):** 17 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 41% del volumen
-- **Token de pago:** MC $44.78M · volumen 24h $1.03M · liquidez $3.27M
+- **Token de pago:** MC $231.3k · volumen 24h $1.02M · liquidez $3.27M
 - **Líder (más volumen):** MEOW `CGqBQ5XEBQwba2DohrRrUEsEfLfBKdYCXAYd9nFrpump` · MC $3.1k · vol 24h $7.2k · 24h -33.09%
 - **Líder (mayor subida 24h):** ESI `DhkHe6WTJRL6nGppo2uYmNeb2rd6b89cKxv83Pakpump` · MC $3.1k · vol 24h $208 · 24h -3.25%
 - **Catalizador:** META ACCELERATION (pools 24h +240%)
@@ -39,7 +39,7 @@
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
 - **Pools nuevos:** 1h 0 (antes 3) · 6h 6 (antes 0, nuevo) · 24h 13 (antes 6, +117%)
 - **Amplitud (24h):** 13 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 39% del volumen
-- **Token de pago:** MC $321.66M · volumen 24h $2.07M · liquidez $2.05M
+- **Token de pago:** MC $321.77M · volumen 24h $2.11M · liquidez $2.05M
 - **Líder (más volumen):** sha1024 `ATqZA2JeCtxp7X4HNf1U4kvsjq1LTqgeUnPJugTpump` · MC $3.7k · vol 24h $2.1k · 24h 12.32%
 - **Líder (mayor subida 24h):** sha1024 `ATqZA2JeCtxp7X4HNf1U4kvsjq1LTqgeUnPJugTpump` · MC $3.7k · vol 24h $2.1k · 24h 12.32%
 - **Catalizador:** META ACCELERATION (pools 24h +117%)
@@ -55,7 +55,7 @@
 
 ### ⚪ en observación — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 0 (antes 3) · 6h 7 (antes 6, +17%) · 24h 70 (antes 45, +56%)
+- **Pools nuevos:** 1h 0 (antes 3) · 6h 7 (antes 5, +40%) · 24h 70 (antes 45, +56%)
 
 ### ⚪ en observación — SPCX
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
@@ -83,7 +83,7 @@
 
 ### 🟡 FLYWHEEL ACELERANDO — Phygitals (Physical TCG)
 - **Ingresos 7d:** $102.2k · 7d anteriores $40.0k · cambio 2.6×
-- **Ingresos 24h:** $89.7k · 24h anteriores $42.4k · +111% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $97.7k · 24h anteriores $42.4k · +130% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $0
 - **Token:** sin token listado en CoinGecko
 
