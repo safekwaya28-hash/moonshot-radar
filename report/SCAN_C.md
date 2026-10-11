@@ -1,7 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-11 13:34 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
-
-> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
+**2026-10-11 13:37 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 ## Metas por token de pago (3 activándose)
 
@@ -17,19 +15,19 @@
 
 ### 🟡 META ACTIVÁNDOSE — NVDAx
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 1 (antes 3, -67%) · 24h 13 (antes 6, +117%)
-- **Amplitud (24h):** 13 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 35% del volumen
-- **Token de pago:** MC $230.8k · volumen 24h $957.8k · liquidez $3.31M
+- **Pools nuevos:** 1h 1 (antes 0) · 6h 2 (antes 3, -33%) · 24h 14 (antes 6, +133%)
+- **Amplitud (24h):** 14 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 31% del volumen
+- **Token de pago:** MC $44.70M · volumen 24h $962.1k · liquidez $3.31M
 - **Líder (más volumen):** RAI `B3ubCh3E3GiWJhEGSUyMTwE9UpuMN7ToSKffyP3Mkok8` · MC $3.3k · vol 24h $3.2k · 24h -3.89%
 - **Líder (mayor subida 24h):** ESI `DhkHe6WTJRL6nGppo2uYmNeb2rd6b89cKxv83Pakpump` · MC $3.1k · vol 24h $208 · 24h -3.25%
-- **Catalizador:** META ACCELERATION (pools 24h +117%)
+- **Catalizador:** META ACCELERATION (pools 24h +133%)
 - **Riesgos:** liquidez 0% del MC
 
 ### 🟡 META ACTIVÁNDOSE — ZEC
 - **Quote:** `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 2, -100%) · 24h 12 (antes 5, +140%)
 - **Amplitud (24h):** 12 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Token de pago:** MC $123.47M · volumen 24h $2.80M · liquidez $3.29M
+- **Token de pago:** MC $123.01M · volumen 24h $2.80M · liquidez $3.28M
 - **Líder (más volumen):** ZCASH `GCQAeuvYWCG2F9KKtPTJQRokHbm4iPwej5n92pYspump` · MC $3.1k · vol 24h $2 · 24h None%
 - **Líder (mayor subida 24h):** ZCASH `GCQAeuvYWCG2F9KKtPTJQRokHbm4iPwej5n92pYspump` · MC $3.1k · vol 24h $2 · 24h None%
 - **Catalizador:** META ACCELERATION (pools 24h +140%)
@@ -41,27 +39,27 @@
 
 ### ⚪ en observación — SPCX
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
-- **Pools nuevos:** 1h 13 (antes 0) · 6h 13 (antes 28, -54%) · 24h 59 (antes 58, +2%)
+- **Pools nuevos:** 1h 13 (antes 1) · 6h 14 (antes 28, -50%) · 24h 60 (antes 58, +3%)
 
 ### ⚪ en observación — SPYx
 - **Quote:** `XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W`
-- **Pools nuevos:** 1h 2 (antes 0) · 6h 2 (antes 3, -33%) · 24h 17 (antes 11, +55%)
+- **Pools nuevos:** 1h 2 (antes 1) · 6h 3 (antes 3, +0%) · 24h 18 (antes 11, +64%)
 
 ### ⚪ en observación — WBTC
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
-- **Pools nuevos:** 1h 3 (antes 0) · 6h 3 (antes 2, +50%) · 24h 11 (antes 6, +83%)
+- **Pools nuevos:** 1h 2 (antes 1) · 6h 3 (antes 2, +50%) · 24h 11 (antes 6, +83%)
 
 ### ⚪ en observación — QQQx
 - **Quote:** `Xs8S1uUs1zvS2p7iwtsG3b6fkhpvmwz4GYU3gWAmWHZ`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 5, -100%) · 24h 8 (antes 0, nuevo)
 
+### ⚪ en observación — DJT
+- **Quote:** `DJTu7vi8norVzdVAffgvb39VP7wjKeTsgaMBJrzfxvoF`
+- **Pools nuevos:** 1h 3 (antes 0) · 6h 3 (antes 0, nuevo) · 24h 8 (antes 5, +60%)
+
 ### ⚪ en observación — SKHY
 - **Quote:** `SKHYhSjuRWHgikq8eRKbtBbpABgJSkd7ytQV14i9EQ3`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 8 (antes 0, nuevo)
-
-### ⚪ en observación — TSLAx
-- **Quote:** `XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB`
-- **Pools nuevos:** 1h 2 (antes 0) · 6h 2 (antes 1, +100%) · 24h 7 (antes 4, +75%)
 
 ## Plataformas con ingresos acelerando (DefiLlama)
 
