@@ -1,18 +1,18 @@
 # SCAN B — Despegues (objetivo 100x+)
-**2026-10-11 11:49 UTC** · 5,000 creaciones recientes revisadas · 1 en la ventana $8k–$40k · 1 con análisis profundo
+**2026-10-11 12:27 UTC** · 5,000 creaciones recientes revisadas · 1 en la ventana $8k–$40k · 1 con análisis profundo
 
 🟢 COMPRA AHORA **0** · 🟡 WATCH **0** · 🔴 DESCARTAR **0** · ⚪ FUERA **1**
 
 ### ⚪ FUERA — $DGEUFm
 - **CA:** `DGEUFmpGDbVSjhRNvUJsno27HSoDB9bvPHpaTxvpREAL`
-- **MC:** $9.7k · curva 59% · edad 39.6 h · hace 30 min: $10.0k
+- **MC:** $9.7k · curva 59% · edad 40.2 h · hace 30 min: $9.7k
 - **Smart money:** ninguna de tus wallets
 - **B:** 2/9 · **M:** 0/5
 - **Compradores:** 30m 0 · nuevos 5m 0 (antes 0, BAI 0.00) · compradores/vendedores 15m 0.00
 - **Volumen 15m:** $0 (antes $0) · wallet dominante 0% · retención 15m — · compra mediana $49
 - **Seguridad:** snipers 0 · bloque creación 0% · top10 18% · wallet máx 3.5% · dev tiene 0.0% · dev vendió 0% · 5 wallets = 64% del volumen
 - **Prueba de venta:** 3/3 con financiador verificado y distinto (no-dev, mantuvieron ≥5 min y vendieron; 3 en total, 0 no verificables)
-- **Cobertura de datos:** 760 min observados
+- **Cobertura de datos:** 791 min observados
 - **Participantes 30m:** nuevos 0 · recompran 0 · compran y venden (flippers) — · volumen 15m / liquidez 0.0×
 - **Smart money:** convergencia 0 wallets en 10 min · posición entre los compradores — (entre los compradores observados, no entre todos)
 - **Financiación del top:** 2 holders ← 5tzFki… (4%)
