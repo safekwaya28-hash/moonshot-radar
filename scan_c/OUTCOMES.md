@@ -1,20 +1,20 @@
 # OUTCOMES — qué pasó después de cada decisión (incluidas las descartadas)
-**2026-10-11 00:48 UTC** · 395 monedas seguidas · la decisión original nunca se cambia
+**2026-10-11 01:04 UTC** · 400 monedas seguidas · la decisión original nunca se cambia
 
 | Escáner | Decisión | Monedas | con 24h | Mediana MC 24h / inicial | Muertas a 24h (≤ −50%) | Máx. ≥2x | ≥5x | ≥10x | 2x antes de −30% | 5x antes de −50% | 10x antes de −70% |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | A | NO | 1 | 1 | 1.00x | 0% | 0% | 0% | 0% | 0% (n=1) | 0% (n=1) | — |
-| B | DESCARTAR | 218 | 130 | 0.31x | 85% | 31% | 5% | 2% | 5% (n=205) | 3% (n=199) | 3% (n=123) |
+| B | DESCARTAR | 221 | 134 | 0.32x | 84% | 30% | 5% | 2% | 5% (n=208) | 3% (n=202) | 3% (n=126) |
 | B | FUERA | 19 | 16 | 0.50x | 50% | 56% | 11% | 6% | 11% (n=18) | 17% (n=12) | 100% (n=1) |
-| B | WATCH | 102 | 67 | 0.26x | 82% | 42% | 17% | 8% | 17% (n=83) | 14% (n=83) | 13% (n=52) |
+| B | WATCH | 104 | 67 | 0.26x | 82% | 42% | 16% | 8% | 16% (n=85) | 14% (n=84) | 13% (n=52) |
 | C-meta | 🟡 META ACTIVÁNDOSE | 55 | 20 | 0.88x | 35% | 22% | 10% | 2% | 42% (n=19) | 33% (n=15) | 11% (n=9) |
 
 ## ¿Qué filtro mata ganadoras? (descartadas por motivo)
 
 | Motivo del descarte | Monedas | con 24h | Mediana 24h | Muertas a 24h | Máx. ≥5x | ≥10x | 2x antes de −30% | 5x antes de −50% | 10x antes de −70% |
 |---|---|---|---|---|---|---|---|---|---|
-| concentración | 107 | 40 | 0.35x | 68% | 1% | 1% | 2% (n=96) | 0% (n=94) | 2% (n=57) |
-| dev vendió | 69 | 58 | 0.31x | 90% | 7% | 3% | 4% (n=69) | 5% (n=66) | 5% (n=39) |
+| concentración | 109 | 42 | 0.37x | 67% | 1% | 1% | 2% (n=98) | 0% (n=96) | 2% (n=59) |
+| dev vendió | 70 | 60 | 0.31x | 88% | 7% | 3% | 4% (n=70) | 4% (n=67) | 5% (n=40) |
 | compras en el bloque de creación | 38 | 29 | 0.26x | 97% | 11% | 3% | 11% (n=36) | 9% (n=35) | 4% (n=23) |
 | snipers | 2 | 2 | 0.16x | 100% | 0% | 0% | 0% (n=2) | 0% (n=2) | 0% (n=2) |
 | volumen en bucle | 2 | 1 | 0.10x | 100% | 50% | 50% | 100% (n=2) | 0% (n=2) | 0% (n=2) |
