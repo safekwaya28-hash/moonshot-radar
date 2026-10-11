@@ -1,5 +1,7 @@
 # SCAN C — Meta / Flywheel
-**2026-10-11 01:04 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-11 01:08 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+
+> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
 ## Metas por token de pago (8 activándose)
 
@@ -7,7 +9,7 @@
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
 - **Pools nuevos:** 1h 3 (antes 2) · 6h 49 (antes 7, +600%) · 24h 66 (antes 43, +53%)
 - **Amplitud (24h):** 66 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 18% del volumen
-- **Token de pago:** MC $2533.33M · volumen 24h $2.83M · liquidez $25.91M
+- **Token de pago:** MC $2533.78M · volumen 24h $2.83M · liquidez $25.91M
 - **Líder (más volumen):** caller `Hx9v5LV1SKxmmBCmEXbVPY7Pn4iVasXmaCkbc1vypump` · MC $3.1k · vol 24h $29.8k · 24h -20.24%
 - **Líder (mayor subida 24h):** SGGoodLife `HLwGUDb19nmvBNqYJ4xyDiP2cwp4CgSh7mfaEkhypump` · MC $10.8k · vol 24h $15.6k · 24h 244%
 - **Catalizador:** META ACCELERATION (pools 24h +53%)
@@ -17,8 +19,8 @@
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 6 (antes 12, -50%) · 24h 58 (antes 19, +205%)
 - **Amplitud (24h):** 58 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 92% del volumen ⚠️ una sola moneda domina: puede no ser una moda
-- **Token de pago:** MC $7.43M · volumen 24h $10.25M · liquidez $2.90M
-- **Líder (más volumen):** Musk `64GXmXjTQmVxc3XwZG5aMZdbmq4UrkedCLyqHFzppump` · MC $40.7k · vol 24h $936.8k · 24h -7.75%
+- **Token de pago:** MC $7.43M · volumen 24h $10.13M · liquidez $2.90M
+- **Líder (más volumen):** Musk `64GXmXjTQmVxc3XwZG5aMZdbmq4UrkedCLyqHFzppump` · MC $40.8k · vol 24h $936.8k · 24h -7.56%
 - **Líder (mayor subida 24h):** FRENS `3H3hFpitNCy4MxRSMsjxBQu5QtujiSHoxuL2CSJppump` · MC $7.2k · vol 24h $872 · 24h 113%
 - **Catalizador:** META ACCELERATION (pools 24h +205%)
 
