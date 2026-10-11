@@ -1,26 +1,19 @@
 # SCAN C — Meta / Flywheel
-**2026-10-11 18:37 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-11 18:41 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
-## Metas por token de pago (6 activándose)
+> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
+
+## Metas por token de pago (5 activándose)
 
 ### 🟡 META ACTIVÁNDOSE — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 14 (antes 2) · 6h 23 (antes 6, +283%) · 24h 81 (antes 38, +113%)
+- **Pools nuevos:** 1h 14 (antes 2) · 6h 23 (antes 6, +283%) · 24h 81 (antes 28, +189%)
 - **Amplitud (24h):** 81 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 15% del volumen
-- **Token de pago:** MC $2662.82M · volumen 24h $2.94M · liquidez $26.58M
+- **Token de pago:** MC $2672.76M · volumen 24h $2.95M · liquidez $26.63M
 - **Líder (más volumen):** SGGoodLife `HLwGUDb19nmvBNqYJ4xyDiP2cwp4CgSh7mfaEkhypump` · MC $12.7k · vol 24h $30.9k · 24h 314%
 - **Líder (mayor subida 24h):** SGGoodLife `HLwGUDb19nmvBNqYJ4xyDiP2cwp4CgSh7mfaEkhypump` · MC $12.7k · vol 24h $30.9k · 24h 314%
-- **Catalizador:** META ACCELERATION (pools 24h +113%)
+- **Catalizador:** META ACCELERATION (pools 24h +189%)
 - **Riesgos:** liquidez 0% del MC
-
-### 🟡 META ACTIVÁNDOSE — SPCX
-- **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
-- **Pools nuevos:** 1h 3 (antes 5) · 6h 21 (antes 9, +133%) · 24h 56 (antes 61, -8%)
-- **Amplitud (24h):** 56 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 52% del volumen
-- **Token de pago:** MC $7.54M · volumen 24h $7.97M · liquidez $2.97M
-- **Líder (más volumen):** YILONG `7VL7KpYB2Qs88FBWDL7gb5apQZ2rULcnCBcA6xCopump` · MC $3.9k · vol 24h $184.6k · 24h -91.08%
-- **Líder (mayor subida 24h):** FRENS `3H3hFpitNCy4MxRSMsjxBQu5QtujiSHoxuL2CSJppump` · MC $7.2k · vol 24h $872 · 24h 113%
-- **Catalizador:** META ACCELERATION (pools 24h -8%)
 
 ### 🟡 META ACTIVÁNDOSE — SPYx
 - **Quote:** `XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W`
@@ -44,8 +37,8 @@
 ### 🟡 META ACTIVÁNDOSE — NVDAx
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
 - **Pools nuevos:** 1h 1 (antes 1) · 6h 6 (antes 1, +500%) · 24h 13 (antes 11, +18%)
-- **Amplitud (24h):** 13 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 78% del volumen
-- **Token de pago:** MC $44.86M · volumen 24h $986.3k · liquidez $3.25M
+- **Amplitud (24h):** 13 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 68% del volumen
+- **Token de pago:** MC $44.86M · volumen 24h $987.0k · liquidez $3.25M
 - **Líder (más volumen):** MEOW `CGqBQ5XEBQwba2DohrRrUEsEfLfBKdYCXAYd9nFrpump` · MC $3.1k · vol 24h $7.2k · 24h -33.43%
 - **Líder (mayor subida 24h):** ESI `DhkHe6WTJRL6nGppo2uYmNeb2rd6b89cKxv83Pakpump` · MC $3.1k · vol 24h $208 · 24h -3.25%
 - **Catalizador:** META ACCELERATION (pools 24h +18%)
@@ -54,6 +47,15 @@
 ### 🟡 META ACTIVÁNDOSE — WBTC
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 5 (antes 1, +400%) · 24h 11 (antes 5, +120%)
+- **Amplitud (24h):** 11 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
+- **Token de pago:** MC $322.98M · volumen 24h $2.49M · liquidez $2.06M
+- **Catalizador:** META ACCELERATION (pools 24h +120%)
+- **Riesgos:** liquidez 1% del MC
+- **Descartado por seguridad:** mint authority activa
+
+### ⚪ en observación — SPCX
+- **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
+- **Pools nuevos:** 1h 3 (antes 5) · 6h 15 (antes 15, +0%) · 24h 56 (antes 61, -8%)
 
 ### ⚪ en observación — neet
 - **Quote:** `Ce2gx9KGXJ6C9Mp5b5x1sn9Mg87JwEbrQby4Zqo3pump`
@@ -65,7 +67,7 @@
 
 ### ⚪ en observación — DJT
 - **Quote:** `DJTu7vi8norVzdVAffgvb39VP7wjKeTsgaMBJrzfxvoF`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 4 (antes 0, nuevo) · 24h 8 (antes 6, +33%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 3 (antes 1, +200%) · 24h 8 (antes 6, +33%)
 
 ### ⚪ en observación — GRND
 - **Quote:** `GRNDYDpqwpCm6jVxpbh4xT5AM4r3p391qYsKTHqgaET2`
