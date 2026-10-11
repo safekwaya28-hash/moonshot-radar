@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-11 00:45 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-11 00:48 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -9,7 +9,7 @@
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
 - **Pools nuevos:** 1h 2 (antes 3) · 6h 46 (antes 7, +557%) · 24h 64 (antes 42, +52%)
 - **Amplitud (24h):** 64 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 18% del volumen
-- **Token de pago:** MC $2540.46M · volumen 24h $2.84M · liquidez $25.95M
+- **Token de pago:** MC $2540.49M · volumen 24h $2.84M · liquidez $25.95M
 - **Líder (más volumen):** caller `Hx9v5LV1SKxmmBCmEXbVPY7Pn4iVasXmaCkbc1vypump` · MC $3.1k · vol 24h $29.8k · 24h -20.24%
 - **Líder (mayor subida 24h):** SGGoodLife `HLwGUDb19nmvBNqYJ4xyDiP2cwp4CgSh7mfaEkhypump` · MC $12.2k · vol 24h $15.3k · 24h 289%
 - **Catalizador:** META ACCELERATION (pools 24h +52%)
@@ -75,20 +75,20 @@
 ## Plataformas con ingresos acelerando (DefiLlama)
 
 ### 🟡 FLYWHEEL ACELERANDO — Beezie (Physical TCG)
-- **Ingresos 7d:** $160.1k · 7d anteriores $64.8k · cambio 2.5×
-- **Ingresos 24h:** $5.0k · 24h anteriores $11.0k · -54% (¿sigue acelerando hoy?)
+- **Ingresos 7d:** $166.0k · 7d anteriores $70.4k · cambio 2.4×
+- **Ingresos 24h:** $5.0k · 24h anteriores $66.0k · -92% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** —
 - **Token:** sin token listado en CoinGecko
 
 ### 🟡 FLYWHEEL ACELERANDO — Phygitals (Physical TCG)
-- **Ingresos 7d:** $102.2k · 7d anteriores $40.0k · cambio 2.6×
-- **Ingresos 24h:** $0 · 24h anteriores $42.4k · -100% (¿sigue acelerando hoy?)
+- **Ingresos 7d:** $102.2k · 7d anteriores $45.3k · cambio 2.3×
+- **Ingresos 24h:** $0 · 24h anteriores $0 · — (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $0
 - **Token:** sin token listado en CoinGecko
 
 ### 🟡 FLYWHEEL ACELERANDO — Migrate.Fun (Interface)
 - **Ingresos 7d:** $86.4k · 7d anteriores $0 · cambio nuevo
-- **Ingresos 24h:** $86.4k · 24h anteriores $86.4k · +0% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $86.4k · 24h anteriores $0 · nuevo (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $0
 - **Token:** sin token listado en CoinGecko
 
