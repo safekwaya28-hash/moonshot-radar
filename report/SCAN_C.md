@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-12 21:02 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-12 21:09 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -9,11 +9,11 @@
 - **Quote:** `HsRpHQn6VbyMs5b5j5SV6xQ2VvpvvCCzu19GjytVSCoz`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 60 (antes 0, nuevo) · 24h 62 (antes 4, +1450%)
 - **Amplitud (24h):** 62 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 100% del volumen ⚠️ una sola moneda domina: puede no ser una moda
-- **Token de pago:** MC $695.23M · volumen 24h $3.69M · liquidez $347.7k
-- **Líder (más volumen):** QCAT `EosbW31T1WAQSiHUErogcaNHd8FBZDbjPPgQMJzXARNV` · MC $42.6k · vol 24h $189.5k · 24h -78.11%
-- **Líder (mayor subida 24h):** QCAT `EosbW31T1WAQSiHUErogcaNHd8FBZDbjPPgQMJzXARNV` · MC $42.6k · vol 24h $189.5k · 24h -78.11%
+- **Token de pago:** MC $631.2k · volumen 24h $3.69M · liquidez $344.6k
+- **Líder (más volumen):** QCAT `EosbW31T1WAQSiHUErogcaNHd8FBZDbjPPgQMJzXARNV` · MC $45.3k · vol 24h $187.8k · 24h -80.26%
+- **Líder (mayor subida 24h):** QCAT `EosbW31T1WAQSiHUErogcaNHd8FBZDbjPPgQMJzXARNV` · MC $45.3k · vol 24h $187.8k · 24h -80.26%
 - **Catalizador:** META ACCELERATION (pools 24h +1450%)
-- **Riesgos:** concentración: top10 48%, wallet máx 21.5%; impuesto 3% · lo puede cambiar: 5KXDF6… · cobra: 5KXDF6… → revisar a dónde va y si esa wallet vende
+- **Riesgos:** concentración: top10 47%, wallet máx 20.8%; impuesto 3% · lo puede cambiar: 5KXDF6… · cobra: 5KXDF6… → revisar a dónde va y si esa wallet vende
 - **Descartado por seguridad:** impuesto 3% que alguien puede cambiar
 
 ### 🟡 META ACTIVÁNDOSE — MSFTx
@@ -21,7 +21,7 @@
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 42 (antes 1, +4100%) · 24h 43 (antes 0, nuevo)
 - **Amplitud (24h):** 43 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 73% del volumen
 - **Token de pago:** MC $543.1k · volumen 24h $926.2k · liquidez $620.1k
-- **Líder (más volumen):** ZKINU `DGdmHacFYkfrazHYtFEPtAbRnSru8db5cNyQkgY6QsQV` · MC $5.0k · vol 24h $188.7k · 24h -87.59%
+- **Líder (más volumen):** ZKINU `DGdmHacFYkfrazHYtFEPtAbRnSru8db5cNyQkgY6QsQV` · MC $4.7k · vol 24h $188.7k · 24h -88.16%
 - **Líder (mayor subida 24h):** zkCBDC `28FAcA9ZqZc7E1Q43ceKjipjQeHaiTb9EVSd1RwRpump` · MC $3.1k · vol 24h $947 · 24h -0.47%
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
 
@@ -36,7 +36,7 @@
 
 ### 🟡 META ACTIVÁNDOSE — wXMR
 - **Quote:** `WXMRyRZhsa19ety5erZhHg4N3xj3EVN92u94422teJp`
-- **Pools nuevos:** 1h 0 (antes 1) · 6h 3 (antes 27, -89%) · 24h 33 (antes 6, +450%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 3 (antes 27, -89%) · 24h 33 (antes 6, +450%)
 - **Amplitud (24h):** 33 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 31% del volumen
 - **Token de pago:** MC $1.37M · volumen 24h $296.2k · liquidez $460.0k
 - **Líder (más volumen):** MMM `2VEmKGyHRosZciehmau2jiqbCWZE2asf1PVdJHQXpump` · MC $3.0k · vol 24h $24.4k · 24h -25.9%
@@ -46,9 +46,9 @@
 
 ### 🟡 META ACTIVÁNDOSE — METAx
 - **Quote:** `Xsa62P5mvPszXL1krVUnU5ar38bBSVcWAB6fmPCo5Zu`
-- **Pools nuevos:** 1h 0 (antes 1) · 6h 25 (antes 4, +525%) · 24h 30 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 5 (antes 24, -79%) · 24h 30 (antes 0, nuevo)
 - **Amplitud (24h):** 30 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 71% del volumen
-- **Token de pago:** MC $10.66M · volumen 24h $2.35M · liquidez $810.9k
+- **Token de pago:** MC $10.66M · volumen 24h $2.35M · liquidez $811.3k
 - **Líder (más volumen):** Watermelon `E1WAsa9o2hVin6c2APW74V91dLs3GkL2JeWqF8WHpump` · MC $8.4k · vol 24h $107.4k · 24h -82.71%
 - **Líder (mayor subida 24h):** ACAT `XqphfU4VMrZjwyPeZWmBYwVk5TgNLmBw49QWmWcpump` · MC $5.0k · vol 24h $377 · 24h 9.38%
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
@@ -56,15 +56,15 @@
 
 ### 🟡 META ACTIVÁNDOSE — W
 - **Quote:** `85VBFQZC9TZkfaptBWjvUw7YbZjy52A6mjtPGjstQAmQ`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 2 (antes 4, -50%) · 24h 27 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 6, -100%) · 24h 27 (antes 0, nuevo)
 
 ### 🟡 META ACTIVÁNDOSE — SPYx
 - **Quote:** `XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W`
-- **Pools nuevos:** 1h 0 (antes 1) · 6h 12 (antes 2, +500%) · 24h 25 (antes 19, +32%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 12 (antes 2, +500%) · 24h 25 (antes 19, +32%)
 
 ### 🟡 META ACTIVÁNDOSE — STONK
 - **Quote:** `6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx`
-- **Pools nuevos:** 1h 0 (antes 11) · 6h 16 (antes 1, +1500%) · 24h 19 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 11) · 6h 12 (antes 5, +140%) · 24h 19 (antes 0, nuevo)
 
 ### 🟡 META ACTIVÁNDOSE — PEPE
 - **Quote:** `PEPEqnuuCDbBC89p1u9vpnP1KQ2oj1xTcQBsjt9X55m`
