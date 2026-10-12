@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-12 21:34 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-12 21:37 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -9,11 +9,11 @@
 - **Quote:** `HsRpHQn6VbyMs5b5j5SV6xQ2VvpvvCCzu19GjytVSCoz`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 60 (antes 0, nuevo) · 24h 62 (antes 4, +1450%)
 - **Amplitud (24h):** 62 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 100% del volumen ⚠️ una sola moneda domina: puede no ser una moda
-- **Token de pago:** MC $681.30M · volumen 24h $3.58M · liquidez $340.5k
-- **Líder (más volumen):** QCAT `EosbW31T1WAQSiHUErogcaNHd8FBZDbjPPgQMJzXARNV` · MC $46.1k · vol 24h $178.8k · 24h -81.54%
-- **Líder (mayor subida 24h):** QCAT `EosbW31T1WAQSiHUErogcaNHd8FBZDbjPPgQMJzXARNV` · MC $46.1k · vol 24h $178.8k · 24h -81.54%
+- **Token de pago:** MC $674.72M · volumen 24h $3.57M · liquidez $337.5k
+- **Líder (más volumen):** QCAT `EosbW31T1WAQSiHUErogcaNHd8FBZDbjPPgQMJzXARNV` · MC $45.2k · vol 24h $178.4k · 24h -81.68%
+- **Líder (mayor subida 24h):** QCAT `EosbW31T1WAQSiHUErogcaNHd8FBZDbjPPgQMJzXARNV` · MC $45.2k · vol 24h $178.4k · 24h -81.68%
 - **Catalizador:** META ACCELERATION (pools 24h +1450%)
-- **Riesgos:** concentración: top10 47%, wallet máx 20.5%; impuesto 3% · lo puede cambiar: 5KXDF6… · cobra: 5KXDF6… → revisar a dónde va y si esa wallet vende
+- **Riesgos:** concentración: top10 47%, wallet máx 20.6%; impuesto 3% · lo puede cambiar: 5KXDF6… · cobra: 5KXDF6… → revisar a dónde va y si esa wallet vende
 - **Descartado por seguridad:** impuesto 3% que alguien puede cambiar
 
 ### 🟡 META ACTIVÁNDOSE — MSFTx
@@ -21,7 +21,7 @@
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 42 (antes 1, +4100%) · 24h 43 (antes 0, nuevo)
 - **Amplitud (24h):** 43 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 73% del volumen
 - **Token de pago:** MC $543.1k · volumen 24h $926.2k · liquidez $620.6k
-- **Líder (más volumen):** ZKINU `DGdmHacFYkfrazHYtFEPtAbRnSru8db5cNyQkgY6QsQV` · MC $4.5k · vol 24h $188.8k · 24h -88.65%
+- **Líder (más volumen):** ZKINU `DGdmHacFYkfrazHYtFEPtAbRnSru8db5cNyQkgY6QsQV` · MC $4.5k · vol 24h $188.8k · 24h -88.7%
 - **Líder (mayor subida 24h):** zkCBDC `28FAcA9ZqZc7E1Q43ceKjipjQeHaiTb9EVSd1RwRpump` · MC $3.1k · vol 24h $947 · 24h -0.47%
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
 
@@ -56,7 +56,7 @@
 
 ### 🟡 META ACTIVÁNDOSE — W
 - **Quote:** `85VBFQZC9TZkfaptBWjvUw7YbZjy52A6mjtPGjstQAmQ`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 6, -100%) · 24h 27 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 5, -100%) · 24h 27 (antes 0, nuevo)
 
 ### 🟡 META ACTIVÁNDOSE — SPYx
 - **Quote:** `XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W`
