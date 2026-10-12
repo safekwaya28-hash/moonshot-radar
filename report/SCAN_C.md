@@ -1,7 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-12 23:00 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
-
-> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
+**2026-10-12 23:05 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 ## Metas por token de pago (10 activándose)
 
@@ -9,11 +7,11 @@
 - **Quote:** `HsRpHQn6VbyMs5b5j5SV6xQ2VvpvvCCzu19GjytVSCoz`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 3 (antes 57, -95%) · 24h 62 (antes 4, +1450%)
 - **Amplitud (24h):** 62 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 100% del volumen ⚠️ una sola moneda domina: puede no ser una moda
-- **Token de pago:** MC $562.5k · volumen 24h $3.47M · liquidez $306.4k
-- **Líder (más volumen):** QCAT `EosbW31T1WAQSiHUErogcaNHd8FBZDbjPPgQMJzXARNV` · MC $37.0k · vol 24h $162.9k · 24h -80.64%
-- **Líder (mayor subida 24h):** QCAT `EosbW31T1WAQSiHUErogcaNHd8FBZDbjPPgQMJzXARNV` · MC $37.0k · vol 24h $162.9k · 24h -80.64%
+- **Token de pago:** MC $565.8k · volumen 24h $3.45M · liquidez $308.2k
+- **Líder (más volumen):** QCAT `EosbW31T1WAQSiHUErogcaNHd8FBZDbjPPgQMJzXARNV` · MC $37.9k · vol 24h $162.3k · 24h -79.88%
+- **Líder (mayor subida 24h):** QCAT `EosbW31T1WAQSiHUErogcaNHd8FBZDbjPPgQMJzXARNV` · MC $37.9k · vol 24h $162.3k · 24h -79.88%
 - **Catalizador:** META ACCELERATION (pools 24h +1450%)
-- **Riesgos:** concentración: top10 48%, wallet máx 21.7%; impuesto 3% · lo puede cambiar: 5KXDF6… · cobra: 5KXDF6… → revisar a dónde va y si esa wallet vende
+- **Riesgos:** concentración: top10 48%, wallet máx 21.5%; impuesto 3% · lo puede cambiar: 5KXDF6… · cobra: 5KXDF6… → revisar a dónde va y si esa wallet vende
 - **Descartado por seguridad:** impuesto 3% que alguien puede cambiar
 
 ### 🟡 META ACTIVÁNDOSE — MSFTx
@@ -29,10 +27,20 @@
 - **Quote:** `XPLTrL1ZH3tZJBdFWbbtrNjK9qoqZWfuhQJnXibbdfT`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 43 (antes 0, nuevo) · 24h 43 (antes 0, nuevo)
 - **Amplitud (24h):** 43 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 55% del volumen
-- **Token de pago:** MC $261.0k · volumen 24h $56.7k · liquidez $54.8k
+- **Token de pago:** MC $258.8k · volumen 24h $1.92M · liquidez $1.2k
 - **Líder (más volumen):** XPL `BuakiQ69B7DHTPEkq77KCjv2kBgBM7CV9SHLYV2GsAPd` · MC $10.0k · vol 24h $1 · 24h -31.1%
 - **Líder (mayor subida 24h):** XPL `BuakiQ69B7DHTPEkq77KCjv2kBgBM7CV9SHLYV2GsAPd` · MC $10.0k · vol 24h $1 · 24h -31.1%
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
+- **Riesgos:** liquidez 0% del MC
+
+### 🟡 META ACTIVÁNDOSE — wXMR
+- **Quote:** `WXMRyRZhsa19ety5erZhHg4N3xj3EVN92u94422teJp`
+- **Pools nuevos:** 1h 1 (antes 0) · 6h 2 (antes 29, -93%) · 24h 34 (antes 6, +467%)
+- **Amplitud (24h):** 34 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 31% del volumen
+- **Token de pago:** MC $1.37M · volumen 24h $296.5k · liquidez $460.4k
+- **Líder (más volumen):** MMM `2VEmKGyHRosZciehmau2jiqbCWZE2asf1PVdJHQXpump` · MC $3.0k · vol 24h $24.4k · 24h -25.9%
+- **Líder (mayor subida 24h):** QVAULTS `J4L44pvUSrgjMw8G39GGhMyajHtm3RKJFfuWgBoUpump` · MC $3.4k · vol 24h $2.3k · 24h 4.78%
+- **Catalizador:** META ACCELERATION (pools 24h +467%)
 - **Riesgos:** liquidez 0% del MC
 
 ### 🟡 META ACTIVÁNDOSE — METAx
@@ -44,16 +52,6 @@
 - **Líder (mayor subida 24h):** ACAT `XqphfU4VMrZjwyPeZWmBYwVk5TgNLmBw49QWmWcpump` · MC $5.0k · vol 24h $377 · 24h 9.38%
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
 - **Riesgos:** concentración: top10 27%, wallet máx 6.6%
-
-### 🟡 META ACTIVÁNDOSE — wXMR
-- **Quote:** `WXMRyRZhsa19ety5erZhHg4N3xj3EVN92u94422teJp`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 1 (antes 29, -97%) · 24h 33 (antes 6, +450%)
-- **Amplitud (24h):** 33 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 31% del volumen
-- **Token de pago:** MC $1.37M · volumen 24h $296.5k · liquidez $460.4k
-- **Líder (más volumen):** MMM `2VEmKGyHRosZciehmau2jiqbCWZE2asf1PVdJHQXpump` · MC $3.0k · vol 24h $24.4k · 24h -25.9%
-- **Líder (mayor subida 24h):** QVAULTS `J4L44pvUSrgjMw8G39GGhMyajHtm3RKJFfuWgBoUpump` · MC $3.4k · vol 24h $2.3k · 24h 4.78%
-- **Catalizador:** META ACCELERATION (pools 24h +450%)
-- **Riesgos:** liquidez 0% del MC
 
 ### 🟡 META ACTIVÁNDOSE — W
 - **Quote:** `85VBFQZC9TZkfaptBWjvUw7YbZjy52A6mjtPGjstQAmQ`
