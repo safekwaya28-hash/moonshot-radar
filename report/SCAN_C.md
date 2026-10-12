@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-12 00:02 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-12 00:47 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -9,7 +9,7 @@
 - **Quote:** `Hg5Ja55T5wESq4vyFoiVCMeHXtGyVA69X2UHq8hgpump`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 17 (antes 0, nuevo) · 24h 18 (antes 3, +500%)
 - **Amplitud (24h):** 18 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Token de pago:** MC $16.20M · volumen 24h $663.4k · liquidez $850.1k
+- **Token de pago:** MC $15.70M · volumen 24h $647.0k · liquidez $837.1k
 - **Líder (más volumen):** catbaton `G6pzuQUPJrGFQdPLoi3qDoXAWsRHW5fPE8Ct3vGypump` · MC — · vol 24h $0 · 24h None%
 - **Líder (mayor subida 24h):** catbaton `G6pzuQUPJrGFQdPLoi3qDoXAWsRHW5fPE8Ct3vGypump` · MC — · vol 24h $0 · 24h None%
 - **Catalizador:** META ACCELERATION (pools 24h +500%)
@@ -20,11 +20,11 @@
 
 ### ⚪ en observación — SPCX
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 4 (antes 21, -81%) · 24h 53 (antes 64, -17%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 3 (antes 15, -80%) · 24h 53 (antes 64, -17%)
 
 ### ⚪ en observación — SPYx
 - **Quote:** `XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W`
-- **Pools nuevos:** 1h 0 (antes 1) · 6h 3 (antes 6, -50%) · 24h 15 (antes 17, -12%)
+- **Pools nuevos:** 1h 0 (antes 1) · 6h 3 (antes 5, -40%) · 24h 15 (antes 17, -12%)
 
 ### ⚪ en observación — ZEC
 - **Quote:** `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS`
@@ -36,7 +36,7 @@
 
 ### ⚪ en observación — WBTC
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 1 (antes 6, -83%) · 24h 9 (antes 7, +29%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 1 (antes 5, -80%) · 24h 9 (antes 7, +29%)
 
 ### ⚪ en observación — QQQx
 - **Quote:** `Xs8S1uUs1zvS2p7iwtsG3b6fkhpvmwz4GYU3gWAmWHZ`
@@ -52,21 +52,21 @@
 
 ## Plataformas con ingresos acelerando (DefiLlama)
 
-### 🟡 FLYWHEEL ACELERANDO — Beezie (Physical TCG)
-- **Ingresos 7d:** $159.8k · 7d anteriores $64.8k · cambio 2.5×
-- **Ingresos 24h:** $11.6k · 24h anteriores $11.0k · +6% (¿sigue acelerando hoy?)
-- **A holders (recompras/quemas/repartos) 7d:** —
+### 🟡 FLYWHEEL ACELERANDO — Phygitals (Physical TCG)
+- **Ingresos 7d:** $193.5k · 7d anteriores $48.8k · cambio 4.0×
+- **Ingresos 24h:** $100.1k · 24h anteriores $0 · nuevo (¿sigue acelerando hoy?)
+- **A holders (recompras/quemas/repartos) 7d:** $0
 - **Token:** sin token listado en CoinGecko
 
-### 🟡 FLYWHEEL ACELERANDO — Phygitals (Physical TCG)
-- **Ingresos 7d:** $102.2k · 7d anteriores $40.0k · cambio 2.6×
-- **Ingresos 24h:** $100.1k · 24h anteriores $42.4k · +136% (¿sigue acelerando hoy?)
-- **A holders (recompras/quemas/repartos) 7d:** $0
+### 🟡 FLYWHEEL ACELERANDO — Beezie (Physical TCG)
+- **Ingresos 7d:** $159.5k · 7d anteriores $74.1k · cambio 2.2×
+- **Ingresos 24h:** $11.6k · 24h anteriores $4.7k · +146% (¿sigue acelerando hoy?)
+- **A holders (recompras/quemas/repartos) 7d:** —
 - **Token:** sin token listado en CoinGecko
 
 ### 🟡 FLYWHEEL ACELERANDO — Migrate.Fun (Interface)
 - **Ingresos 7d:** $86.4k · 7d anteriores $0 · cambio nuevo
-- **Ingresos 24h:** $0 · 24h anteriores $86.4k · -100% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $0 · 24h anteriores $0 · — (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $0
 - **Token:** sin token listado en CoinGecko
 
