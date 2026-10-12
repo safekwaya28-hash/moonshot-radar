@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-12 14:43 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-12 14:50 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -9,7 +9,7 @@
 - **Quote:** `WXMRyRZhsa19ety5erZhHg4N3xj3EVN92u94422teJp`
 - **Pools nuevos:** 1h 0 (antes 26) · 6h 26 (antes 1, +2500%) · 24h 30 (antes 6, +400%)
 - **Amplitud (24h):** 30 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 32% del volumen
-- **Token de pago:** MC $1.36M · volumen 24h $294.1k · liquidez $460.7k
+- **Token de pago:** MC $1.36M · volumen 24h $294.7k · liquidez $459.5k
 - **Líder (más volumen):** MMM `2VEmKGyHRosZciehmau2jiqbCWZE2asf1PVdJHQXpump` · MC $3.0k · vol 24h $24.4k · 24h -25.9%
 - **Líder (mayor subida 24h):** BONERO `4VhQwrBVSxHYWbHxfSWCRwCSqNbEsqX44Gh4DBqZpump` · MC $3.4k · vol 24h $1.2k · 24h 3%
 - **Catalizador:** META ACCELERATION (pools 24h +400%)
@@ -19,9 +19,9 @@
 - **Quote:** `85VBFQZC9TZkfaptBWjvUw7YbZjy52A6mjtPGjstQAmQ`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 3 (antes 21, -86%) · 24h 24 (antes 0, nuevo)
 - **Amplitud (24h):** 24 tokens distintos · 1 superan $100k · 0 superan $1M · el mayor = 100% del volumen ⚠️ una sola moneda domina: puede no ser una moda
-- **Token de pago:** MC $61.58M · volumen 24h $1.02M · liquidez $164.9k
-- **Líder (más volumen):** UNI `uniHfuPhEQSrtpzXpJZDCSq53yaejKKpNhFUiKoHKHV` · MC $426.9k · vol 24h $13.0k · 24h -2.83%
-- **Líder (mayor subida 24h):** UNI `uniHfuPhEQSrtpzXpJZDCSq53yaejKKpNhFUiKoHKHV` · MC $426.9k · vol 24h $13.0k · 24h -2.83%
+- **Token de pago:** MC $61.77M · volumen 24h $9.94M · liquidez $167.6k
+- **Líder (más volumen):** UNI `uniHfuPhEQSrtpzXpJZDCSq53yaejKKpNhFUiKoHKHV` · MC $425.7k · vol 24h $13.7k · 24h -3.09%
+- **Líder (mayor subida 24h):** UNI `uniHfuPhEQSrtpzXpJZDCSq53yaejKKpNhFUiKoHKHV` · MC $425.7k · vol 24h $13.7k · 24h -3.09%
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
 - **Riesgos:** concentración: top10 30%, wallet máx 8.1%
 - **Descartado por seguridad:** mint authority activa
@@ -30,7 +30,7 @@
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
 - **Pools nuevos:** 1h 0 (antes 1) · 6h 5 (antes 1, +400%) · 24h 21 (antes 60, -65%)
 - **Amplitud (24h):** 21 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 57% del volumen
-- **Token de pago:** MC $7.58M · volumen 24h $2.50M · liquidez $1.36M
+- **Token de pago:** MC $7.57M · volumen 24h $2.52M · liquidez $1.37M
 - **Líder (más volumen):** PULSAR `BVML3nQFRFFnvefbJEgCpMYpZANDPbXRkQAS1QU5pump` · MC $3.3k · vol 24h $42.4k · 24h -15.62%
 - **Líder (mayor subida 24h):** Pulsar `G5CK697PPF97mweASVS2vhXeDH8jR9XNBxnzRrCTpump` · MC $4.0k · vol 24h $2.4k · 24h 22.03%
 - **Catalizador:** META ACCELERATION (pools 24h -65%)
@@ -40,7 +40,7 @@
 - **Quote:** `Hg5Ja55T5wESq4vyFoiVCMeHXtGyVA69X2UHq8hgpump`
 - **Pools nuevos:** 1h 0 (antes 1) · 6h 2 (antes 0, nuevo) · 24h 19 (antes 1, +1800%)
 - **Amplitud (24h):** 19 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Token de pago:** MC $15.76M · volumen 24h $671.1k · liquidez $825.0k
+- **Token de pago:** MC $15.12M · volumen 24h $667.5k · liquidez $806.8k
 - **Líder (más volumen):** Pumped `BaZcWMN8u2RWurR2mLkJjNxFVzPrVhTNBZvH2yK2pump` · MC — · vol 24h $0 · 24h None%
 - **Líder (mayor subida 24h):** Pumped `BaZcWMN8u2RWurR2mLkJjNxFVzPrVhTNBZvH2yK2pump` · MC — · vol 24h $0 · 24h None%
 - **Catalizador:** META ACCELERATION (pools 24h +1800%)
@@ -49,7 +49,7 @@
 - **Quote:** `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS`
 - **Pools nuevos:** 1h 0 (antes 4) · 6h 5 (antes 1, +400%) · 24h 17 (antes 12, +42%)
 - **Amplitud (24h):** 17 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 100% del volumen ⚠️ una sola moneda domina: puede no ser una moda
-- **Token de pago:** MC $127.19M · volumen 24h $7.01M · liquidez $3.35M
+- **Token de pago:** MC $127.07M · volumen 24h $7.03M · liquidez $3.34M
 - **Líder (más volumen):** OPSEC `HhBX9MD8PuupasdkAim7HavHQoHWEyhnmrG2WEv1pump` · MC $9.7k · vol 24h $22.9k · 24h 0.36%
 - **Líder (mayor subida 24h):** OPSEC `HhBX9MD8PuupasdkAim7HavHQoHWEyhnmrG2WEv1pump` · MC $9.7k · vol 24h $22.9k · 24h 0.36%
 - **Catalizador:** META ACCELERATION (pools 24h +42%)
