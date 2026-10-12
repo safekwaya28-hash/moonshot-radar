@@ -1,24 +1,9 @@
 # SCAN B — Despegues (objetivo 100x+)
-**2026-10-12 22:51 UTC** · 5,000 creaciones recientes revisadas · 1 en la ventana $8k–$40k · 1 con análisis profundo
+**2026-10-12 23:23 UTC** · 5,000 creaciones recientes revisadas · 0 en la ventana $8k–$40k · 0 con análisis profundo
 
-🟢 COMPRA AHORA **0** · 🟡 WATCH **0** · 🔴 DESCARTAR **0** · ⚪ FUERA **1**
+🟢 COMPRA AHORA **0** · 🟡 WATCH **0** · 🔴 DESCARTAR **0** · ⚪ FUERA **0**
 
-### ⚪ FUERA — $DGEUFm
-- **CA:** `DGEUFmpGDbVSjhRNvUJsno27HSoDB9bvPHpaTxvpREAL`
-- **MC:** $27.8k · curva 91% · edad 74.6 h · hace 30 min: $27.6k
-- **Smart money:** ninguna de tus wallets
-- **B:** 2/9 · **M:** 1/5
-- **Compradores:** 30m 10 · nuevos 5m 0 (antes 0, BAI 0.00) · compradores/vendedores 15m 0.00
-- **Volumen 15m:** $90 (antes $4,242) · wallet dominante 94% · retención 15m 100% · compra mediana $21
-- **Seguridad:** snipers 9 · bloque creación 0% · top10 24% · wallet máx 3.7% · dev tiene 0.0% · dev vendió 0% · 5 wallets = 67% del volumen
-- **Prueba de venta:** 6/3 con financiador verificado y distinto (no-dev, mantuvieron ≥5 min y vendieron; 8 en total, 2 no verificables)
-- **Cobertura de datos:** 35 min observados
-- **Participantes 30m:** nuevos 7 · recompran 2 · compran y venden (flippers) 41% · volumen 15m / liquidez 0.0×
-- **Smart money:** convergencia 0 wallets en 10 min · posición entre los compradores — (entre los compradores observados, no entre todos)
-- **Financiación del top:** sin grupos detectados (1 nivel, wallets nuevas)
-- **A mano:** origen del dinero de los compradores (bundles/insiders en GMGN); narrativa (X/Telegram)
-- [GMGN](https://gmgn.ai/sol/token/DGEUFmpGDbVSjhRNvUJsno27HSoDB9bvPHpaTxvpREAL) · [pump.fun](https://pump.fun/coin/DGEUFmpGDbVSjhRNvUJsno27HSoDB9bvPHpaTxvpREAL) · [DexScreener](https://dexscreener.com/solana/DGEUFmpGDbVSjhRNvUJsno27HSoDB9bvPHpaTxvpREAL) · [Solscan](https://solscan.io/token/DGEUFmpGDbVSjhRNvUJsno27HSoDB9bvPHpaTxvpREAL)
-
+_Ninguna moneda en la ventana ahora mismo._
 ---
 **COMPRA AHORA** = seguridad OK + MC $8k–40k + edad < 6 h + B ≥ 6 + M ≥ 4 + smart money + prueba de venta ≥ 3 + ninguna wallet > 20% del volumen 15m. **WATCH** = pasa seguridad y ventana, falta algo (se indica). Umbrales provisionales: se calibran con `scan_b_log.jsonl`.
 Tamaño de entrada pequeño; no vender antes de 10x; a 10x recuperar lo invertido; el resto corre.
