@@ -1,11 +1,11 @@
 # OUTCOMES — qué pasó después de cada decisión (incluidas las descartadas)
-**2026-10-12 09:10 UTC** · 595 monedas seguidas · la decisión original nunca se cambia
+**2026-10-12 09:40 UTC** · 600 monedas seguidas · la decisión original nunca se cambia
 
 | Escáner | Decisión | Monedas | con 24h | Mediana MC 24h / inicial | Muertas a 24h (≤ −50%) | Máx. ≥2x | ≥5x | ≥10x | 2x antes de −30% | 5x antes de −50% | 10x antes de −70% |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | A | NO | 1 | 1 | 1.00x | 0% | 0% | 0% | 0% | 0% (n=1) | 0% (n=1) | — |
-| B | DESCARTAR | 308 | 183 | 0.31x | 85% | 29% | 5% | 2% | 5% (n=293) | 3% (n=284) | 3% (n=174) |
-| B | FUERA | 37 | 24 | 0.47x | 58% | 47% | 12% | 3% | 6% (n=34) | 9% (n=22) | 100% (n=1) |
+| B | DESCARTAR | 313 | 183 | 0.31x | 85% | 28% | 5% | 2% | 5% (n=298) | 3% (n=290) | 3% (n=178) |
+| B | FUERA | 37 | 25 | 0.48x | 60% | 47% | 12% | 3% | 6% (n=34) | 9% (n=22) | 100% (n=1) |
 | B | WATCH | 165 | 105 | 0.26x | 84% | 40% | 14% | 6% | 15% (n=133) | 13% (n=131) | 9% (n=89) |
 | C-meta | 🟡 META ACTIVÁNDOSE | 84 | 26 | 0.82x | 38% | 21% | 7% | 1% | 48% (n=25) | 31% (n=16) | 11% (n=9) |
 
@@ -13,9 +13,9 @@
 
 | Motivo del descarte | Monedas | con 24h | Mediana 24h | Muertas a 24h | Máx. ≥5x | ≥10x | 2x antes de −30% | 5x antes de −50% | 10x antes de −70% |
 |---|---|---|---|---|---|---|---|---|---|
-| concentración | 155 | 60 | 0.35x | 70% | 1% | 1% | 3% (n=142) | 1% (n=139) | 1% (n=89) |
+| concentración | 159 | 60 | 0.35x | 70% | 1% | 1% | 3% (n=146) | 1% (n=144) | 1% (n=92) |
 | dev vendió | 96 | 77 | 0.30x | 91% | 10% | 3% | 4% (n=94) | 4% (n=89) | 6% (n=51) |
-| compras en el bloque de creación | 51 | 42 | 0.26x | 95% | 8% | 2% | 8% (n=51) | 6% (n=50) | 4% (n=28) |
+| compras en el bloque de creación | 52 | 42 | 0.26x | 95% | 8% | 2% | 8% (n=52) | 6% (n=51) | 3% (n=29) |
 | volumen en bucle | 4 | 2 | 0.09x | 100% | 25% | 25% | 50% (n=4) | 0% (n=4) | 0% (n=4) |
 | snipers | 2 | 2 | 0.16x | 100% | 0% | 0% | 0% (n=2) | 0% (n=2) | 0% (n=2) |
 | impuesto modificable | 2 | 2 | 0.45x | 50% | 0% | 0% | 0% (n=2) | 0% (n=1) | 0% (n=1) |
