@@ -1,19 +1,19 @@
 # SCAN B — Despegues (objetivo 100x+)
-**2026-10-12 21:22 UTC** · 5,000 creaciones recientes revisadas · 2 en la ventana $8k–$40k · 2 con análisis profundo
+**2026-10-12 21:51 UTC** · 5,000 creaciones recientes revisadas · 2 en la ventana $8k–$40k · 2 con análisis profundo
 
 🟢 COMPRA AHORA **0** · 🟡 WATCH **0** · 🔴 DESCARTAR **1** · ⚪ FUERA **1**
 
 ### 🔴 DESCARTAR — $4gMzzc
 - **CA:** `4gMzzcuKzcQ6YrdowJbeimjoscFbzCnYBn5KGW2ypump`
-- **MC:** $15.4k · curva 75% · edad 1.4 h · hace 30 min: $15.9k
+- **MC:** $9.4k · curva 59% · edad 1.9 h · hace 30 min: $15.4k
 - **Smart money:** ninguna de tus wallets
-- **B:** 2/9 · **M:** 2/5
-- **Compradores:** 30m 3 · nuevos 5m 0 (antes 0, BAI 0.00) · compradores/vendedores 15m 3.00
-- **Volumen 15m:** $192 (antes $23) · wallet dominante 57% · retención 15m — · compra mediana $94
-- **Seguridad:** snipers 3 · bloque creación 1% · top10 13% · wallet máx 2.0% · dev tiene 0.0% · dev vendió 100% · 5 wallets = 35% del volumen
-- **Prueba de venta:** 6/3 con financiador verificado y distinto (no-dev, mantuvieron ≥5 min y vendieron; 7 en total, 1 no verificables)
-- **Cobertura de datos:** 77 min observados
-- **Participantes 30m:** nuevos 2 · recompran 0 · compran y venden (flippers) 0% · volumen 15m / liquidez 0.0×
+- **B:** 1/9 · **M:** 1/5
+- **Compradores:** 30m 5 · nuevos 5m 0 (antes 0, BAI 0.00) · compradores/vendedores 15m 0.00
+- **Volumen 15m:** $796 (antes $781) · wallet dominante 27% · retención 15m 60% · compra mediana $37
+- **Seguridad:** snipers 3 · bloque creación 1% · top10 1% · wallet máx 0.7% · dev tiene 0.0% · dev vendió 100% · 5 wallets = 22% del volumen
+- **Prueba de venta:** 2/3 con financiador verificado y distinto (no-dev, mantuvieron ≥5 min y vendieron; 2 en total, 0 no verificables)
+- **Cobertura de datos:** 21 min observados ⚠️ insuficiente
+- **Participantes 30m:** nuevos 5 · recompran 0 · compran y venden (flippers) 33% · volumen 15m / liquidez 0.3×
 - **Smart money:** convergencia 0 wallets en 10 min · posición entre los compradores — (entre los compradores observados, no entre todos)
 - **Financiación del top:** sin grupos detectados (1 nivel, wallets nuevas)
 - **Descartada por:** dev vendió/sacó 100% de su compra
@@ -22,15 +22,15 @@
 
 ### ⚪ FUERA — $DGEUFm
 - **CA:** `DGEUFmpGDbVSjhRNvUJsno27HSoDB9bvPHpaTxvpREAL`
-- **MC:** $24.3k · curva 88% · edad 73.2 h · hace 30 min: $20.7k
+- **MC:** $24.3k · curva 88% · edad 73.6 h · hace 30 min: $24.3k
 - **Smart money:** ninguna de tus wallets
-- **B:** 2/9 · **M:** 1/5
-- **Compradores:** 30m 4 · nuevos 5m 0 (antes 0, BAI 0.00) · compradores/vendedores 15m 0.00
-- **Volumen 15m:** $0 (antes $335) · wallet dominante 0% · retención 15m 100% · compra mediana $38
-- **Seguridad:** snipers 5 · bloque creación 0% · top10 26% · wallet máx 3.7% · dev tiene 0.0% · dev vendió 0% · 5 wallets = 81% del volumen
-- **Prueba de venta:** 6/3 con financiador verificado y distinto (no-dev, mantuvieron ≥5 min y vendieron; 7 en total, 1 no verificables)
-- **Cobertura de datos:** 168 min observados
-- **Participantes 30m:** nuevos 3 · recompran 0 · compran y venden (flippers) 50% · volumen 15m / liquidez 0.0×
+- **B:** 2/9 · **M:** 0/5
+- **Compradores:** 30m 20 · nuevos 5m 0 (antes 0, BAI 0.00) · compradores/vendedores 15m 0.60
+- **Volumen 15m:** $2,395 (antes $3,488) · wallet dominante 45% · retención 15m 50% · compra mediana $30
+- **Seguridad:** snipers 2 · bloque creación 0% · top10 25% · wallet máx 3.7% · dev tiene 0.0% · dev vendió 0% · 5 wallets = 69% del volumen
+- **Prueba de venta:** 5/3 con financiador verificado y distinto (no-dev, mantuvieron ≥5 min y vendieron; 9 en total, 3 no verificables)
+- **Cobertura de datos:** 69 min observados
+- **Participantes 30m:** nuevos 19 · recompran 8 · compran y venden (flippers) 50% · volumen 15m / liquidez 0.4×
 - **Smart money:** convergencia 0 wallets en 10 min · posición entre los compradores — (entre los compradores observados, no entre todos)
 - **Financiación del top:** sin grupos detectados (1 nivel, wallets nuevas)
 - **A mano:** origen del dinero de los compradores (bundles/insiders en GMGN); narrativa (X/Telegram)
