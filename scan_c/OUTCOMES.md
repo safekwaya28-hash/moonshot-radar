@@ -1,5 +1,5 @@
 # OUTCOMES — qué pasó después de cada decisión (incluidas las descartadas)
-**2026-10-12 00:47 UTC** · 503 monedas seguidas · la decisión original nunca se cambia
+**2026-10-12 00:54 UTC** · 504 monedas seguidas · la decisión original nunca se cambia
 
 | Escáner | Decisión | Monedas | con 24h | Mediana MC 24h / inicial | Muertas a 24h (≤ −50%) | Máx. ≥2x | ≥5x | ≥10x | 2x antes de −30% | 5x antes de −50% | 10x antes de −70% |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -7,7 +7,7 @@
 | B | DESCARTAR | 267 | 157 | 0.30x | 85% | 30% | 5% | 2% | 5% (n=255) | 3% (n=248) | 3% (n=154) |
 | B | FUERA | 28 | 18 | 0.50x | 50% | 56% | 16% | 4% | 8% (n=24) | 11% (n=18) | 100% (n=1) |
 | B | WATCH | 132 | 83 | 0.26x | 83% | 44% | 17% | 7% | 17% (n=107) | 15% (n=106) | 11% (n=72) |
-| C-meta | 🟡 META ACTIVÁNDOSE | 75 | 25 | 0.78x | 40% | 21% | 7% | 1% | 46% (n=24) | 33% (n=15) | 11% (n=9) |
+| C-meta | 🟡 META ACTIVÁNDOSE | 76 | 25 | 0.78x | 40% | 22% | 7% | 1% | 48% (n=25) | 33% (n=15) | 11% (n=9) |
 
 ## ¿Qué filtro mata ganadoras? (descartadas por motivo)
 
