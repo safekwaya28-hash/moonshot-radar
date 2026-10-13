@@ -1,21 +1,21 @@
 # OUTCOMES — qué pasó después de cada decisión (incluidas las descartadas)
-**2026-10-13 11:11 UTC** · 817 monedas seguidas · la decisión original nunca se cambia
+**2026-10-13 11:37 UTC** · 822 monedas seguidas · la decisión original nunca se cambia
 
 | Escáner | Decisión | Monedas | con 24h | Mediana MC 24h / inicial | Muertas a 24h (≤ −50%) | Máx. ≥2x | ≥5x | ≥10x | 2x antes de −30% | 5x antes de −50% | 10x antes de −70% |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | A | NO | 1 | 1 | 1.00x | 0% | 0% | 0% | 0% | 0% (n=1) | 0% (n=1) | — |
-| B | DESCARTAR | 436 | 222 | 0.30x | 86% | 27% | 5% | 2% | 5% (n=412) | 3% (n=404) | 3% (n=249) |
-| B | FUERA | 54 | 37 | 0.46x | 70% | 46% | 8% | 2% | 4% (n=48) | 5% (n=42) | 50% (n=2) |
-| B | WATCH | 230 | 135 | 0.26x | 84% | 40% | 13% | 5% | 14% (n=186) | 12% (n=184) | 8% (n=125) |
+| B | DESCARTAR | 438 | 225 | 0.31x | 86% | 27% | 5% | 2% | 5% (n=414) | 3% (n=406) | 3% (n=250) |
+| B | FUERA | 54 | 38 | 0.46x | 71% | 46% | 8% | 2% | 4% (n=48) | 5% (n=42) | 50% (n=2) |
+| B | WATCH | 233 | 136 | 0.26x | 84% | 39% | 12% | 5% | 14% (n=189) | 11% (n=187) | 8% (n=127) |
 | C-meta | 🟡 META ACTIVÁNDOSE | 96 | 34 | 0.84x | 35% | 24% | 7% | 1% | 44% (n=32) | 23% (n=22) | 7% (n=14) |
 
 ## ¿Qué filtro mata ganadoras? (descartadas por motivo)
 
 | Motivo del descarte | Monedas | con 24h | Mediana 24h | Muertas a 24h | Máx. ≥5x | ≥10x | 2x antes de −30% | 5x antes de −50% | 10x antes de −70% |
 |---|---|---|---|---|---|---|---|---|---|
-| concentración | 227 | 70 | 0.33x | 70% | 1% | 0% | 2% (n=207) | 0% (n=204) | 1% (n=135) |
-| dev vendió | 129 | 93 | 0.31x | 91% | 9% | 4% | 6% (n=125) | 6% (n=120) | 8% (n=63) |
-| compras en el bloque de creación | 74 | 53 | 0.26x | 96% | 8% | 1% | 8% (n=74) | 7% (n=74) | 2% (n=45) |
+| concentración | 229 | 70 | 0.33x | 70% | 1% | 0% | 2% (n=209) | 0% (n=206) | 1% (n=136) |
+| dev vendió | 129 | 94 | 0.31x | 91% | 9% | 4% | 6% (n=125) | 6% (n=120) | 8% (n=63) |
+| compras en el bloque de creación | 74 | 55 | 0.27x | 96% | 8% | 1% | 8% (n=74) | 7% (n=74) | 2% (n=45) |
 | volumen en bucle | 4 | 4 | 0.12x | 100% | 25% | 25% | 50% (n=4) | 0% (n=4) | 0% (n=4) |
 | impuesto modificable | 4 | 2 | 0.45x | 50% | 0% | 0% | 0% (n=3) | 0% (n=2) | 0% (n=1) |
 | snipers | 2 | 2 | 0.16x | 100% | 0% | 0% | 0% (n=2) | 0% (n=2) | 0% (n=2) |
