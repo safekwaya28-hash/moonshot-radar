@@ -1,21 +1,21 @@
 # OUTCOMES — qué pasó después de cada decisión (incluidas las descartadas)
-**2026-10-13 19:21 UTC** · 864 monedas seguidas · la decisión original nunca se cambia
+**2026-10-13 19:49 UTC** · 869 monedas seguidas · la decisión original nunca se cambia
 
 | Escáner | Decisión | Monedas | con 24h | Mediana MC 24h / inicial | Muertas a 24h (≤ −50%) | Máx. ≥2x | ≥5x | ≥10x | 2x antes de −30% | 5x antes de −50% | 10x antes de −70% |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | A | NO | 1 | 1 | 1.00x | 0% | 0% | 0% | 0% | 0% (n=1) | 0% (n=1) | — |
-| B | DESCARTAR | 466 | 257 | 0.30x | 87% | 27% | 5% | 2% | 5% (n=442) | 3% (n=433) | 3% (n=268) |
+| B | DESCARTAR | 469 | 257 | 0.30x | 87% | 27% | 5% | 2% | 5% (n=442) | 3% (n=433) | 3% (n=268) |
 | B | FUERA | 59 | 43 | 0.46x | 74% | 48% | 8% | 2% | 4% (n=50) | 5% (n=44) | 50% (n=2) |
-| B | WATCH | 236 | 147 | 0.26x | 84% | 40% | 12% | 5% | 15% (n=192) | 12% (n=190) | 8% (n=131) |
+| B | WATCH | 238 | 147 | 0.26x | 84% | 39% | 12% | 5% | 15% (n=192) | 12% (n=190) | 8% (n=132) |
 | C-meta | 🟡 META ACTIVÁNDOSE | 102 | 40 | 0.80x | 38% | 24% | 8% | 1% | 44% (n=34) | 25% (n=24) | 7% (n=15) |
 
 ## ¿Qué filtro mata ganadoras? (descartadas por motivo)
 
 | Motivo del descarte | Monedas | con 24h | Mediana 24h | Muertas a 24h | Máx. ≥5x | ≥10x | 2x antes de −30% | 5x antes de −50% | 10x antes de −70% |
 |---|---|---|---|---|---|---|---|---|---|
-| concentración | 243 | 81 | 0.33x | 72% | 1% | 0% | 2% (n=223) | 0% (n=220) | 1% (n=145) |
+| concentración | 245 | 81 | 0.33x | 72% | 1% | 0% | 2% (n=223) | 0% (n=220) | 1% (n=145) |
 | dev vendió | 138 | 106 | 0.31x | 92% | 10% | 4% | 6% (n=134) | 5% (n=129) | 7% (n=68) |
-| compras en el bloque de creación | 79 | 64 | 0.26x | 97% | 8% | 3% | 9% (n=79) | 6% (n=78) | 4% (n=49) |
+| compras en el bloque de creación | 80 | 64 | 0.26x | 97% | 8% | 2% | 9% (n=79) | 6% (n=78) | 4% (n=49) |
 | volumen en bucle | 4 | 4 | 0.12x | 100% | 25% | 25% | 50% (n=4) | 0% (n=4) | 0% (n=4) |
 | impuesto modificable | 4 | 3 | 0.53x | 33% | 0% | 0% | 0% (n=3) | 0% (n=2) | 0% (n=1) |
 | snipers | 2 | 2 | 0.16x | 100% | 0% | 0% | 0% (n=2) | 0% (n=2) | 0% (n=2) |
