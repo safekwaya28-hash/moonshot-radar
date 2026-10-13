@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-13 15:39 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-13 15:46 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 ## Metas por token de pago (8 activándose)
 
@@ -7,9 +7,9 @@
 - **Quote:** `HsRpHQn6VbyMs5b5j5SV6xQ2VvpvvCCzu19GjytVSCoz`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 60 (antes 4, +1400%)
 - **Amplitud (24h):** 60 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 100% del volumen ⚠️ una sola moneda domina: puede no ser una moda
-- **Token de pago:** MC $631.95M · volumen 24h $1.73M · liquidez $320.5k
+- **Token de pago:** MC $631.92M · volumen 24h $1.73M · liquidez $320.5k
 - **Líder (más volumen):** SGORILLA `8ubf4S7gMNDqeb1Kef8gU2TPibRjo3zQsBF9uEYsmW4Q` · MC $2.0k · vol 24h $90.3k · 24h -95.7%
-- **Líder (mayor subida 24h):** QCAT `EosbW31T1WAQSiHUErogcaNHd8FBZDbjPPgQMJzXARNV` · MC $38.8k · vol 24h $57.7k · 24h -48.36%
+- **Líder (mayor subida 24h):** QCAT `EosbW31T1WAQSiHUErogcaNHd8FBZDbjPPgQMJzXARNV` · MC $25.4k · vol 24h $60.9k · 24h -65.27%
 - **Catalizador:** META ACCELERATION (pools 24h +1400%)
 - **Riesgos:** concentración: top10 98%, wallet máx 96.2%; impuesto 1% · lo puede cambiar: 5KXDF6… · cobra: 5KXDF6… → revisar a dónde va y si esa wallet vende
 - **Descartado por seguridad:** impuesto 1% que alguien puede cambiar
@@ -18,7 +18,7 @@
 - **Quote:** `XPLTrL1ZH3tZJBdFWbbtrNjK9qoqZWfuhQJnXibbdfT`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 44 (antes 0, nuevo)
 - **Amplitud (24h):** 44 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 98% del volumen ⚠️ una sola moneda domina: puede no ser una moda
-- **Token de pago:** MC $257.6k · volumen 24h $125.1k · liquidez $55.5k
+- **Token de pago:** MC $257.4k · volumen 24h $125.2k · liquidez $55.4k
 - **Líder (más volumen):** Mike `5gCBK3vT6ZjHbpT4GGfRGm3GhU6SViCheUeBVQ4gpump` · MC $4.1k · vol 24h $63 · 24h -87.01%
 - **Líder (mayor subida 24h):** XPL `BuakiQ69B7DHTPEkq77KCjv2kBgBM7CV9SHLYV2GsAPd` · MC $10.0k · vol 24h $1 · 24h -31.1%
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
@@ -28,18 +28,18 @@
 - **Quote:** `XspzcW1PRtgf6Wj92HCiZdjzKCyFekVD8P5Ueh3dRMX`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 43 (antes 1, +4200%)
 - **Amplitud (24h):** 43 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 71% del volumen
-- **Token de pago:** MC $8.24M · volumen 24h $816.8k · liquidez $524.0k
+- **Token de pago:** MC $8.22M · volumen 24h $822.9k · liquidez $524.0k
 - **Líder (más volumen):** ZKINU `DGdmHacFYkfrazHYtFEPtAbRnSru8db5cNyQkgY6QsQV` · MC $3.9k · vol 24h $189.3k · 24h -90.15%
 - **Líder (mayor subida 24h):** zkCBDC `28FAcA9ZqZc7E1Q43ceKjipjQeHaiTb9EVSd1RwRpump` · MC $3.3k · vol 24h $1.1k · 24h 7.8%
 - **Catalizador:** META ACCELERATION (pools 24h +4200%)
 
 ### 🟡 META ACTIVÁNDOSE — SPCX
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
-- **Pools nuevos:** 1h 1 (antes 2) · 6h 23 (antes 5, +360%) · 24h 39 (antes 24, +62%)
+- **Pools nuevos:** 1h 1 (antes 0) · 6h 23 (antes 5, +360%) · 24h 39 (antes 24, +62%)
 - **Amplitud (24h):** 39 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 14% del volumen
-- **Token de pago:** MC — · volumen 24h $4.13M · liquidez $1.78M
-- **Líder (más volumen):** Musk `64GXmXjTQmVxc3XwZG5aMZdbmq4UrkedCLyqHFzppump` · MC $52.4k · vol 24h $16.0k · 24h 57.7%
-- **Líder (mayor subida 24h):** Musk `64GXmXjTQmVxc3XwZG5aMZdbmq4UrkedCLyqHFzppump` · MC $52.4k · vol 24h $16.0k · 24h 57.7%
+- **Token de pago:** MC — · volumen 24h $4.11M · liquidez $1.78M
+- **Líder (más volumen):** Musk `64GXmXjTQmVxc3XwZG5aMZdbmq4UrkedCLyqHFzppump` · MC $52.4k · vol 24h $16.0k · 24h 54.32%
+- **Líder (mayor subida 24h):** Musk `64GXmXjTQmVxc3XwZG5aMZdbmq4UrkedCLyqHFzppump` · MC $52.4k · vol 24h $16.0k · 24h 54.32%
 - **Catalizador:** META ACCELERATION (pools 24h +62%)
 
 ### 🟡 META ACTIVÁNDOSE — HIMS
@@ -57,7 +57,7 @@
 
 ### 🟡 META ACTIVÁNDOSE — METAx
 - **Quote:** `Xsa62P5mvPszXL1krVUnU5ar38bBSVcWAB6fmPCo5Zu`
-- **Pools nuevos:** 1h 0 (antes 3) · 6h 3 (antes 1, +200%) · 24h 13 (antes 25, -48%)
+- **Pools nuevos:** 1h 0 (antes 2) · 6h 3 (antes 1, +200%) · 24h 11 (antes 27, -59%)
 
 ### 🟡 META ACTIVÁNDOSE — HIRE
 - **Quote:** `98AG3zJUawbvDnpgbDhmxpMKva43vtgPLLPSXqo1pump`
