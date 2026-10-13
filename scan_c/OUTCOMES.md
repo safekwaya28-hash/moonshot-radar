@@ -1,5 +1,5 @@
 # OUTCOMES — qué pasó después de cada decisión (incluidas las descartadas)
-**2026-10-13 05:37 UTC** · 760 monedas seguidas · la decisión original nunca se cambia
+**2026-10-13 05:42 UTC** · 760 monedas seguidas · la decisión original nunca se cambia
 
 | Escáner | Decisión | Monedas | con 24h | Mediana MC 24h / inicial | Muertas a 24h (≤ −50%) | Máx. ≥2x | ≥5x | ≥10x | 2x antes de −30% | 5x antes de −50% | 10x antes de −70% |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -7,7 +7,7 @@
 | B | DESCARTAR | 402 | 203 | 0.31x | 85% | 27% | 5% | 2% | 5% (n=380) | 3% (n=373) | 3% (n=235) |
 | B | FUERA | 52 | 28 | 0.48x | 61% | 43% | 9% | 2% | 4% (n=46) | 5% (n=40) | 50% (n=2) |
 | B | WATCH | 211 | 123 | 0.25x | 85% | 42% | 14% | 6% | 15% (n=168) | 13% (n=165) | 9% (n=114) |
-| C-meta | 🟡 META ACTIVÁNDOSE | 94 | 33 | 0.82x | 36% | 24% | 7% | 1% | 44% (n=32) | 23% (n=22) | 7% (n=14) |
+| C-meta | 🟡 META ACTIVÁNDOSE | 94 | 34 | 0.84x | 35% | 24% | 7% | 1% | 44% (n=32) | 23% (n=22) | 7% (n=14) |
 
 ## ¿Qué filtro mata ganadoras? (descartadas por motivo)
 
@@ -20,7 +20,7 @@
 | impuesto modificable | 3 | 2 | 0.45x | 50% | 0% | 0% | 0% (n=3) | 0% (n=2) | 0% (n=1) |
 | snipers | 2 | 2 | 0.16x | 100% | 0% | 0% | 0% (n=2) | 0% (n=2) | 0% (n=2) |
 | extensión peligrosa | 1 | 1 | 1.00x | 0% | 0% | 0% | 0% (n=1) | 0% (n=1) | — |
-| puede crear tokens | 1 | 0 | —x | — | 0% | 0% | — | — | — |
+| puede crear tokens | 1 | 1 | 0.95x | 0% | 0% | 0% | — | — | — |
 
 Lectura: un filtro es bueno si sus descartadas mueren mucho y casi nunca hacen ≥5x. Si un motivo tiene muchas ≥5x, ese filtro está matando ganadoras y hay que revisarlo. Con < 30 monedas por fila, todavía es ruido.
 Máximo = velas de 1 h desde la decisión cuando hay; si no, el máximo observado en las pasadas (puede quedarse corto).
