@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-13 12:47 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-13 12:52 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -11,7 +11,7 @@
 - **Amplitud (24h):** 60 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 100% del volumen ⚠️ una sola moneda domina: puede no ser una moda
 - **Token de pago:** MC $667.99M · volumen 24h $2.41M · liquidez $338.0k
 - **Líder (más volumen):** SGORILLA `8ubf4S7gMNDqeb1Kef8gU2TPibRjo3zQsBF9uEYsmW4Q` · MC $2.1k · vol 24h $90.3k · 24h -95.42%
-- **Líder (mayor subida 24h):** QCAT `EosbW31T1WAQSiHUErogcaNHd8FBZDbjPPgQMJzXARNV` · MC $54.8k · vol 24h $67.9k · 24h -45.01%
+- **Líder (mayor subida 24h):** QCAT `EosbW31T1WAQSiHUErogcaNHd8FBZDbjPPgQMJzXARNV` · MC $53.6k · vol 24h $67.8k · 24h -46.2%
 - **Catalizador:** META ACCELERATION (pools 24h +1100%)
 - **Riesgos:** concentración: top10 98%, wallet máx 95.3%; impuesto 1% · lo puede cambiar: 5KXDF6… · cobra: 5KXDF6… → revisar a dónde va y si esa wallet vende
 - **Descartado por seguridad:** impuesto 1% que alguien puede cambiar
@@ -66,7 +66,7 @@
 
 ### 🟡 META ACTIVÁNDOSE — HIRE
 - **Quote:** `98AG3zJUawbvDnpgbDhmxpMKva43vtgPLLPSXqo1pump`
-- **Pools nuevos:** 1h 0 (antes 1) · 6h 1 (antes 0, nuevo) · 24h 11 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 1 (antes 0, nuevo) · 24h 11 (antes 0, nuevo)
 
 ### ⚪ en observación — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
