@@ -1,7 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-13 09:46 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
-
-> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
+**2026-10-13 10:02 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 ## Metas por token de pago (9 activándose)
 
@@ -9,9 +7,9 @@
 - **Quote:** `HsRpHQn6VbyMs5b5j5SV6xQ2VvpvvCCzu19GjytVSCoz`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 60 (antes 5, +1100%)
 - **Amplitud (24h):** 60 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 100% del volumen ⚠️ una sola moneda domina: puede no ser una moda
-- **Token de pago:** MC $654.93M · volumen 24h $2.42M · liquidez $331.8k
+- **Token de pago:** MC $674.66M · volumen 24h $2.43M · liquidez $341.0k
 - **Líder (más volumen):** SGORILLA `8ubf4S7gMNDqeb1Kef8gU2TPibRjo3zQsBF9uEYsmW4Q` · MC $2.0k · vol 24h $90.3k · 24h -95.56%
-- **Líder (mayor subida 24h):** QCAT `EosbW31T1WAQSiHUErogcaNHd8FBZDbjPPgQMJzXARNV` · MC $44.4k · vol 24h $77.1k · 24h -63.21%
+- **Líder (mayor subida 24h):** QCAT `EosbW31T1WAQSiHUErogcaNHd8FBZDbjPPgQMJzXARNV` · MC $51.0k · vol 24h $74.8k · 24h -58.07%
 - **Catalizador:** META ACCELERATION (pools 24h +1100%)
 - **Riesgos:** concentración: top10 98%, wallet máx 94.2%; impuesto 1% · lo puede cambiar: 5KXDF6… · cobra: 5KXDF6… → revisar a dónde va y si esa wallet vende
 - **Descartado por seguridad:** impuesto 1% que alguien puede cambiar
@@ -20,7 +18,7 @@
 - **Quote:** `XspzcW1PRtgf6Wj92HCiZdjzKCyFekVD8P5Ueh3dRMX`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 44 (antes 0, nuevo)
 - **Amplitud (24h):** 44 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 71% del volumen
-- **Token de pago:** MC $545.1k · volumen 24h $938.9k · liquidez $611.0k
+- **Token de pago:** MC $545.1k · volumen 24h $938.5k · liquidez $614.4k
 - **Líder (más volumen):** ZKINU `DGdmHacFYkfrazHYtFEPtAbRnSru8db5cNyQkgY6QsQV` · MC $3.9k · vol 24h $189.2k · 24h -90.32%
 - **Líder (mayor subida 24h):** VirlX402 `6GaxLjKUbnnQ9x7gZDUwtth6vFzNWjt2uBhuLfBjpump` · MC $3.9k · vol 24h $8.9k · 24h 5.88%
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
@@ -59,7 +57,7 @@
 
 ### 🟡 META ACTIVÁNDOSE — STONK
 - **Quote:** `6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 1 (antes 3, -67%) · 24h 20 (antes 3, +567%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 4, -100%) · 24h 20 (antes 3, +567%)
 
 ### 🟡 META ACTIVÁNDOSE — HIMS
 - **Quote:** `HiMSSzzwkZkrXJ4PGVJRdtfLaANeAztjjcgk5Dxe7Lwx`
@@ -71,7 +69,7 @@
 
 ### ⚪ en observación — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 16 (antes 29, -45%) · 24h 85 (antes 78, +9%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 16 (antes 29, -45%) · 24h 80 (antes 83, -4%)
 
 ## Plataformas con ingresos acelerando (DefiLlama)
 
@@ -83,7 +81,7 @@
 
 ### 🟡 FLYWHEEL ACELERANDO — Beezie (Physical TCG)
 - **Ingresos 7d:** $162.8k · 7d anteriores $68.0k · cambio 2.4×
-- **Ingresos 24h:** $10.7k · 24h anteriores $11.9k · -11% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $9.0k · 24h anteriores $11.9k · -24% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** —
 - **Token:** sin token listado en CoinGecko
 
