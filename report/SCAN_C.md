@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-13 12:03 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-13 12:10 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -9,9 +9,9 @@
 - **Quote:** `HsRpHQn6VbyMs5b5j5SV6xQ2VvpvvCCzu19GjytVSCoz`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 60 (antes 5, +1100%)
 - **Amplitud (24h):** 60 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 100% del volumen ⚠️ una sola moneda domina: puede no ser una moda
-- **Token de pago:** MC $668.09M · volumen 24h $2.42M · liquidez $338.0k
+- **Token de pago:** MC $674.73M · volumen 24h $2.42M · liquidez $341.1k
 - **Líder (más volumen):** SGORILLA `8ubf4S7gMNDqeb1Kef8gU2TPibRjo3zQsBF9uEYsmW4Q` · MC $2.1k · vol 24h $90.3k · 24h -95.42%
-- **Líder (mayor subida 24h):** QCAT `EosbW31T1WAQSiHUErogcaNHd8FBZDbjPPgQMJzXARNV` · MC $57.8k · vol 24h $68.8k · 24h -39.08%
+- **Líder (mayor subida 24h):** QCAT `EosbW31T1WAQSiHUErogcaNHd8FBZDbjPPgQMJzXARNV` · MC $57.8k · vol 24h $68.7k · 24h -38.2%
 - **Catalizador:** META ACCELERATION (pools 24h +1100%)
 - **Riesgos:** concentración: top10 98%, wallet máx 95.3%; impuesto 1% · lo puede cambiar: 5KXDF6… · cobra: 5KXDF6… → revisar a dónde va y si esa wallet vende
 - **Descartado por seguridad:** impuesto 1% que alguien puede cambiar
@@ -19,8 +19,8 @@
 ### 🟡 META ACTIVÁNDOSE — XPL
 - **Quote:** `XPLTrL1ZH3tZJBdFWbbtrNjK9qoqZWfuhQJnXibbdfT`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 44 (antes 0, nuevo)
-- **Amplitud (24h):** 44 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 53% del volumen
-- **Líder (más volumen):** XPL `BuakiQ69B7DHTPEkq77KCjv2kBgBM7CV9SHLYV2GsAPd` · MC $10.0k · vol 24h $1 · 24h -31.1%
+- **Amplitud (24h):** 44 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 98% del volumen ⚠️ una sola moneda domina: puede no ser una moda
+- **Líder (más volumen):** Mike `5gCBK3vT6ZjHbpT4GGfRGm3GhU6SViCheUeBVQ4gpump` · MC $5.0k · vol 24h $63 · 24h -84.37%
 - **Líder (mayor subida 24h):** XPL `BuakiQ69B7DHTPEkq77KCjv2kBgBM7CV9SHLYV2GsAPd` · MC $10.0k · vol 24h $1 · 24h -31.1%
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
 - **Riesgos:** liquidez 0% del MC
@@ -39,8 +39,8 @@
 - **Pools nuevos:** 1h 18 (antes 2) · 6h 22 (antes 6, +267%) · 24h 40 (antes 34, +18%)
 - **Amplitud (24h):** 40 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 15% del volumen
 - **Token de pago:** MC — · volumen 24h $4.17M · liquidez $1.67M
-- **Líder (más volumen):** Musk `64GXmXjTQmVxc3XwZG5aMZdbmq4UrkedCLyqHFzppump` · MC $47.9k · vol 24h $15.7k · 24h 55.13%
-- **Líder (mayor subida 24h):** Musk `64GXmXjTQmVxc3XwZG5aMZdbmq4UrkedCLyqHFzppump` · MC $47.9k · vol 24h $15.7k · 24h 55.13%
+- **Líder (más volumen):** Musk `64GXmXjTQmVxc3XwZG5aMZdbmq4UrkedCLyqHFzppump` · MC $47.9k · vol 24h $15.0k · 24h 48.98%
+- **Líder (mayor subida 24h):** Musk `64GXmXjTQmVxc3XwZG5aMZdbmq4UrkedCLyqHFzppump` · MC $47.9k · vol 24h $15.0k · 24h 48.98%
 - **Catalizador:** META ACCELERATION (pools 24h +18%)
 
 ### 🟡 META ACTIVÁNDOSE — METAx
