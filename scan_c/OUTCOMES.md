@@ -1,20 +1,20 @@
 # OUTCOMES — qué pasó después de cada decisión (incluidas las descartadas)
-**2026-10-13 02:09 UTC** · 725 monedas seguidas · la decisión original nunca se cambia
+**2026-10-13 02:38 UTC** · 730 monedas seguidas · la decisión original nunca se cambia
 
 | Escáner | Decisión | Monedas | con 24h | Mediana MC 24h / inicial | Muertas a 24h (≤ −50%) | Máx. ≥2x | ≥5x | ≥10x | 2x antes de −30% | 5x antes de −50% | 10x antes de −70% |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | A | NO | 1 | 1 | 1.00x | 0% | 0% | 0% | 0% | 0% (n=1) | 0% (n=1) | — |
-| B | DESCARTAR | 382 | 192 | 0.31x | 85% | 28% | 6% | 2% | 5% (n=360) | 3% (n=354) | 3% (n=221) |
+| B | DESCARTAR | 383 | 194 | 0.31x | 85% | 28% | 6% | 2% | 5% (n=362) | 4% (n=356) | 3% (n=222) |
 | B | FUERA | 49 | 25 | 0.48x | 60% | 47% | 9% | 2% | 5% (n=43) | 5% (n=37) | 50% (n=2) |
-| B | WATCH | 199 | 111 | 0.26x | 85% | 43% | 15% | 6% | 17% (n=157) | 14% (n=154) | 9% (n=107) |
+| B | WATCH | 203 | 113 | 0.26x | 84% | 42% | 14% | 6% | 16% (n=161) | 13% (n=158) | 9% (n=110) |
 | C-meta | 🟡 META ACTIVÁNDOSE | 94 | 32 | 0.80x | 38% | 24% | 7% | 1% | 44% (n=32) | 24% (n=21) | 7% (n=14) |
 
 ## ¿Qué filtro mata ganadoras? (descartadas por motivo)
 
 | Motivo del descarte | Monedas | con 24h | Mediana 24h | Muertas a 24h | Máx. ≥5x | ≥10x | 2x antes de −30% | 5x antes de −50% | 10x antes de −70% |
 |---|---|---|---|---|---|---|---|---|---|
-| concentración | 194 | 63 | 0.36x | 70% | 2% | 1% | 2% (n=176) | 1% (n=174) | 1% (n=113) |
-| dev vendió | 116 | 82 | 0.30x | 90% | 11% | 4% | 6% (n=112) | 6% (n=108) | 8% (n=61) |
+| concentración | 194 | 64 | 0.35x | 70% | 2% | 1% | 2% (n=176) | 1% (n=174) | 1% (n=113) |
+| dev vendió | 117 | 83 | 0.30x | 90% | 11% | 4% | 6% (n=114) | 7% (n=110) | 8% (n=62) |
 | compras en el bloque de creación | 66 | 43 | 0.26x | 95% | 8% | 2% | 8% (n=66) | 6% (n=66) | 2% (n=41) |
 | volumen en bucle | 4 | 2 | 0.09x | 100% | 25% | 25% | 50% (n=4) | 0% (n=4) | 0% (n=4) |
 | impuesto modificable | 3 | 2 | 0.45x | 50% | 0% | 0% | 0% (n=3) | 0% (n=1) | 0% (n=1) |
