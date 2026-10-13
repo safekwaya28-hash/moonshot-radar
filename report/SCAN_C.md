@@ -1,7 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-13 09:02 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
-
-> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
+**2026-10-13 09:06 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 ## Metas por token de pago (10 activándose)
 
@@ -9,9 +7,9 @@
 - **Quote:** `HsRpHQn6VbyMs5b5j5SV6xQ2VvpvvCCzu19GjytVSCoz`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 60 (antes 5, +1100%)
 - **Amplitud (24h):** 60 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 100% del volumen ⚠️ una sola moneda domina: puede no ser una moda
-- **Token de pago:** MC $641.28M · volumen 24h $2.44M · liquidez $325.3k
+- **Token de pago:** MC $642.03M · volumen 24h $2.43M · liquidez $325.7k
 - **Líder (más volumen):** SGORILLA `8ubf4S7gMNDqeb1Kef8gU2TPibRjo3zQsBF9uEYsmW4Q` · MC $2.0k · vol 24h $90.3k · 24h -95.56%
-- **Líder (mayor subida 24h):** QCAT `EosbW31T1WAQSiHUErogcaNHd8FBZDbjPPgQMJzXARNV` · MC $47.8k · vol 24h $82.3k · 24h -56.46%
+- **Líder (mayor subida 24h):** QCAT `EosbW31T1WAQSiHUErogcaNHd8FBZDbjPPgQMJzXARNV` · MC $47.8k · vol 24h $82.0k · 24h -57.13%
 - **Catalizador:** META ACCELERATION (pools 24h +1100%)
 - **Riesgos:** concentración: top10 98%, wallet máx 94.2%; impuesto 1% · lo puede cambiar: 5KXDF6… · cobra: 5KXDF6… → revisar a dónde va y si esa wallet vende
 - **Descartado por seguridad:** impuesto 1% que alguien puede cambiar
