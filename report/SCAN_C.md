@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-13 18:02 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-13 18:04 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -17,7 +17,7 @@
 
 ### 🟡 META ACTIVÁNDOSE — CMG
 - **Quote:** `CMGi497VQA9RiHVWpQi5B847vN8RLaEwcMhB5kEUhkAQ`
-- **Pools nuevos:** 1h 4 (antes 17) · 6h 23 (antes 0, nuevo) · 24h 23 (antes 0, nuevo)
+- **Pools nuevos:** 1h 4 (antes 2) · 6h 23 (antes 0, nuevo) · 24h 23 (antes 0, nuevo)
 - **Amplitud (24h):** 23 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
 - **Líder (más volumen):** dip `34iJ1qdCSNSCtVh6mzrQwFBJNq3Fd1ZZqLUYMcZdpump` · MC — · vol 24h $0 · 24h None%
 - **Líder (mayor subida 24h):** dip `34iJ1qdCSNSCtVh6mzrQwFBJNq3Fd1ZZqLUYMcZdpump` · MC — · vol 24h $0 · 24h None%
@@ -27,16 +27,16 @@
 - **Quote:** `HiMSSzzwkZkrXJ4PGVJRdtfLaANeAztjjcgk5Dxe7Lwx`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 18 (antes 5, +260%)
 - **Amplitud (24h):** 18 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 36% del volumen
-- **Token de pago:** MC $290.8k · volumen 24h $582.6k · liquidez $167.6k
+- **Token de pago:** MC $290.8k · volumen 24h $582.5k · liquidez $167.6k
 - **Líder (más volumen):** FLACCID `7ejoGwJxy84mqmjd7BiUFDC4XXX2SzXwPgQor3q8pump` · MC $2.7k · vol 24h $18.9k · 24h -91.84%
 - **Líder (mayor subida 24h):** FLACCID `CfVXksu7cGwZ8mhYn5uMg9yMGkxP2Z7gZQqQBU1Upump` · MC $3.0k · vol 24h $790 · 24h -1.22%
 - **Catalizador:** META ACCELERATION (pools 24h +260%)
 
 ### 🟡 META ACTIVÁNDOSE — GOOGLx
 - **Quote:** `XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN`
-- **Pools nuevos:** 1h 0 (antes 9) · 6h 9 (antes 2, +350%) · 24h 12 (antes 6, +100%)
+- **Pools nuevos:** 1h 0 (antes 7) · 6h 9 (antes 2, +350%) · 24h 12 (antes 6, +100%)
 - **Amplitud (24h):** 12 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 54% del volumen
-- **Token de pago:** MC $355.7k · volumen 24h $1.93M · liquidez $1.50M
+- **Token de pago:** MC $355.7k · volumen 24h $1.94M · liquidez $1.53M
 - **Líder (más volumen):** argon `BpjGeNvXT68nbyBqBemoUGZ9ishvyVCikHNkNrpRvYbK` · MC $3.3k · vol 24h $9.5k · 24h -32.24%
 - **Líder (mayor subida 24h):** GAS `BrqpzfkhF2kdbHvPPPdfGkqvsDbZWm9mC39M6Rvzpump` · MC $4.3k · vol 24h $270 · 24h 14.73%
 - **Catalizador:** META ACCELERATION (pools 24h +100%)
@@ -44,20 +44,20 @@
 
 ### 🟡 META ACTIVÁNDOSE — METAx
 - **Quote:** `Xsa62P5mvPszXL1krVUnU5ar38bBSVcWAB6fmPCo5Zu`
-- **Pools nuevos:** 1h 1 (antes 1) · 6h 5 (antes 1, +400%) · 24h 11 (antes 29, -62%)
+- **Pools nuevos:** 1h 1 (antes 0) · 6h 5 (antes 1, +400%) · 24h 11 (antes 29, -62%)
 - **Amplitud (24h):** 11 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 47% del volumen
-- **Token de pago:** MC $10.76M · volumen 24h $1.52M · liquidez $976.8k
-- **Líder (más volumen):** Watermelon `E1WAsa9o2hVin6c2APW74V91dLs3GkL2JeWqF8WHpump` · MC $5.4k · vol 24h $14.1k · 24h -76.88%
+- **Token de pago:** MC $10.76M · volumen 24h $1.49M · liquidez $976.8k
+- **Líder (más volumen):** Watermelon `E1WAsa9o2hVin6c2APW74V91dLs3GkL2JeWqF8WHpump` · MC $5.4k · vol 24h $10.5k · 24h -83.67%
 - **Líder (mayor subida 24h):** ZUCK `DrQcRF5TRnRjhdDiwyYHKzB4XVdVY3Jt72usYpxBwMut` · MC $4.0k · vol 24h $96 · 24h 3.48%
 - **Catalizador:** META ACCELERATION (pools 24h -62%)
 
 ### 🟡 META ACTIVÁNDOSE — NVDAx
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
-- **Pools nuevos:** 1h 1 (antes 4) · 6h 6 (antes 1, +500%) · 24h 11 (antes 11, +0%)
+- **Pools nuevos:** 1h 1 (antes 3) · 6h 6 (antes 1, +500%) · 24h 11 (antes 11, +0%)
 
 ### ⚪ en observación — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 1 (antes 3) · 6h 5 (antes 4, +25%) · 24h 61 (antes 84, -27%)
+- **Pools nuevos:** 1h 1 (antes 2) · 6h 5 (antes 4, +25%) · 24h 61 (antes 84, -27%)
 
 ### ⚪ en observación — SPCX
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
