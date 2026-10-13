@@ -1,20 +1,20 @@
 # OUTCOMES — qué pasó después de cada decisión (incluidas las descartadas)
-**2026-10-13 14:49 UTC** · 852 monedas seguidas · la decisión original nunca se cambia
+**2026-10-13 15:05 UTC** · 858 monedas seguidas · la decisión original nunca se cambia
 
 | Escáner | Decisión | Monedas | con 24h | Mediana MC 24h / inicial | Muertas a 24h (≤ −50%) | Máx. ≥2x | ≥5x | ≥10x | 2x antes de −30% | 5x antes de −50% | 10x antes de −70% |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | A | NO | 1 | 1 | 1.00x | 0% | 0% | 0% | 0% | 0% (n=1) | 0% (n=1) | — |
-| B | DESCARTAR | 460 | 238 | 0.31x | 87% | 26% | 5% | 2% | 5% (n=436) | 3% (n=426) | 3% (n=260) |
-| B | FUERA | 59 | 41 | 0.46x | 73% | 48% | 8% | 2% | 4% (n=50) | 5% (n=44) | 50% (n=2) |
+| B | DESCARTAR | 465 | 240 | 0.31x | 87% | 27% | 5% | 2% | 5% (n=441) | 3% (n=431) | 3% (n=264) |
+| B | FUERA | 59 | 42 | 0.45x | 74% | 48% | 8% | 2% | 4% (n=50) | 5% (n=44) | 50% (n=2) |
 | B | WATCH | 236 | 138 | 0.25x | 84% | 39% | 12% | 5% | 14% (n=192) | 11% (n=190) | 8% (n=129) |
-| C-meta | 🟡 META ACTIVÁNDOSE | 96 | 35 | 0.83x | 34% | 24% | 7% | 1% | 42% (n=33) | 22% (n=23) | 7% (n=14) |
+| C-meta | 🟡 META ACTIVÁNDOSE | 97 | 35 | 0.83x | 34% | 24% | 7% | 1% | 42% (n=33) | 22% (n=23) | 7% (n=14) |
 
 ## ¿Qué filtro mata ganadoras? (descartadas por motivo)
 
 | Motivo del descarte | Monedas | con 24h | Mediana 24h | Muertas a 24h | Máx. ≥5x | ≥10x | 2x antes de −30% | 5x antes de −50% | 10x antes de −70% |
 |---|---|---|---|---|---|---|---|---|---|
-| concentración | 240 | 75 | 0.33x | 72% | 1% | 0% | 2% (n=220) | 0% (n=217) | 1% (n=141) |
-| dev vendió | 135 | 98 | 0.31x | 92% | 8% | 4% | 7% (n=131) | 6% (n=125) | 8% (n=65) |
+| concentración | 243 | 75 | 0.33x | 72% | 1% | 0% | 2% (n=223) | 0% (n=220) | 1% (n=144) |
+| dev vendió | 137 | 100 | 0.31x | 92% | 8% | 4% | 7% (n=133) | 6% (n=127) | 8% (n=66) |
 | compras en el bloque de creación | 79 | 59 | 0.27x | 97% | 8% | 1% | 9% (n=79) | 6% (n=78) | 2% (n=48) |
 | volumen en bucle | 4 | 4 | 0.12x | 100% | 25% | 25% | 50% (n=4) | 0% (n=4) | 0% (n=4) |
 | impuesto modificable | 4 | 2 | 0.45x | 50% | 0% | 0% | 0% (n=3) | 0% (n=2) | 0% (n=1) |
