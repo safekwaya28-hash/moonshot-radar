@@ -1,26 +1,28 @@
 # SCAN C — Meta / Flywheel
-**2026-10-14 03:13 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-14 03:51 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
-## Metas por token de pago (7 activándose)
+> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
+
+## Metas por token de pago (6 activándose)
 
 ### 🟡 META ACTIVÁNDOSE — SPCX
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
-- **Pools nuevos:** 1h 29 (antes 1) · 6h 34 (antes 2, +1600%) · 24h 63 (antes 20, +215%)
-- **Amplitud (24h):** 63 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 33% del volumen
-- **Token de pago:** MC — · volumen 24h $5.88M · liquidez $3.62M
-- **Líder (más volumen):** Starcat `BaXReg8FVCQCpxSMFSvzuZWMT3FmB7x232thwHCSpump` · MC $4.3k · vol 24h $87.8k · 24h -4.44%
-- **Líder (mayor subida 24h):** Musk `64GXmXjTQmVxc3XwZG5aMZdbmq4UrkedCLyqHFzppump` · MC $55.5k · vol 24h $10.8k · 24h 25.47%
+- **Pools nuevos:** 1h 12 (antes 17) · 6h 33 (antes 2, +1550%) · 24h 63 (antes 20, +215%)
+- **Amplitud (24h):** 63 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 31% del volumen
+- **Token de pago:** MC — · volumen 24h $6.43M · liquidez $2.80M
+- **Líder (más volumen):** Starcat `BaXReg8FVCQCpxSMFSvzuZWMT3FmB7x232thwHCSpump` · MC $3.3k · vol 24h $88.3k · 24h -27.47%
+- **Líder (mayor subida 24h):** moonpig `Djjg2qP7txZiT8USqmJKCHCBGDx1EdCvvVsjyqZYpump` · MC $5.6k · vol 24h $5.2k · 24h 64.97%
 - **Catalizador:** META ACCELERATION (pools 24h +215%)
-- **Riesgos:** concentración: top10 14%, wallet máx 5.3%; liquidez 0% del MC
+- **Riesgos:** liquidez 0% del MC
 
 ### 🟡 META ACTIVÁNDOSE — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 19 (antes 5, +280%) · 24h 52 (antes 66, -21%)
-- **Amplitud (24h):** 52 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 43% del volumen
-- **Token de pago:** MC $4209.12M · volumen 24h $3.66M · liquidez $25.03M
-- **Líder (más volumen):** .fun `H6JjfjdR1X4ANrmMEVoXJ5LecWcVtETbY1ncYQn4pump` · MC $15.7k · vol 24h $206.4k · 24h -64.44%
-- **Líder (mayor subida 24h):** Fun `FYvcCiBfQFak6kMxtMcUzXQP7iEQcermq7N3gpYYpump` · MC $4.4k · vol 24h $352 · 24h 12.58%
-- **Catalizador:** META ACCELERATION (pools 24h -21%)
+- **Pools nuevos:** 1h 0 (antes 1) · 6h 19 (antes 5, +280%) · 24h 42 (antes 76, -45%)
+- **Amplitud (24h):** 42 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 32% del volumen
+- **Token de pago:** MC $4191.36M · volumen 24h $3.56M · liquidez $24.97M
+- **Líder (más volumen):** .fun `H6JjfjdR1X4ANrmMEVoXJ5LecWcVtETbY1ncYQn4pump` · MC $14.7k · vol 24h $206.6k · 24h -66.65%
+- **Líder (mayor subida 24h):** MOTIONMAN `3dkPzJKuTnZqzXtUuNJxivSCmWVaajhXrcT9Pyiypump` · MC $4.1k · vol 24h $533 · 24h 12.35%
+- **Catalizador:** META ACCELERATION (pools 24h -45%)
 - **Riesgos:** concentración: top10 31%, wallet máx 3.8%
 
 ### 🟡 META ACTIVÁNDOSE — CMG
@@ -33,41 +35,42 @@
 
 ### 🟡 META ACTIVÁNDOSE — ACT
 - **Quote:** `GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 23 (antes 0, nuevo) · 24h 23 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 23, -100%) · 24h 23 (antes 0, nuevo)
 - **Amplitud (24h):** 23 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Token de pago:** MC $9.46M · volumen 24h $535.3k · liquidez $1.45M
+- **Token de pago:** MC $9.55M · volumen 24h $533.8k · liquidez $1.46M
 - **Líder (más volumen):** ACTII `5F3dxK2jMKq7GYhvucuY1sCrHtd9dm19tJA8qPyppump` · MC — · vol 24h $0 · 24h None%
 - **Líder (mayor subida 24h):** ACTII `5F3dxK2jMKq7GYhvucuY1sCrHtd9dm19tJA8qPyppump` · MC — · vol 24h $0 · 24h None%
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
 
-### 🟡 META ACTIVÁNDOSE — NVDAx
-- **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
-- **Pools nuevos:** 1h 3 (antes 1) · 6h 12 (antes 7, +71%) · 24h 22 (antes 11, +100%)
-- **Amplitud (24h):** 22 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 65% del volumen
-- **Token de pago:** MC $45.44M · volumen 24h $3.12M · liquidez $3.17M
-- **Líder (más volumen):** vMaru `9jJmm4THTrCPeytTFJb6XoRCqEB3wKUWf2fczj3jpump` · MC $2.6k · vol 24h $110.5k · 24h -93.56%
-- **Líder (mayor subida 24h):** ACT S `DnF7rBzwDTx2Gxy5s44syp1UxNczuxme3Se7A2Rcpump` · MC $4.0k · vol 24h $338 · 24h 8.36%
-- **Catalizador:** META ACCELERATION (pools 24h +100%)
-
 ### 🟡 META ACTIVÁNDOSE — GOOGLx
 - **Quote:** `XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 1 (antes 11, -91%) · 24h 15 (antes 4, +275%)
+- **Amplitud (24h):** 15 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 50% del volumen
+- **Token de pago:** MC $356.1k · volumen 24h $2.59M · liquidez $1.43M
+- **Líder (más volumen):** Morris `AHhtCct4FRitrHTGrqYmhMsem32MkMUe59nEpmE5pump` · MC $3.1k · vol 24h $2.6k · 24h -20.41%
+- **Líder (mayor subida 24h):** GAS `BrqpzfkhF2kdbHvPPPdfGkqvsDbZWm9mC39M6Rvzpump` · MC $4.3k · vol 24h $270 · 24h 14.73%
+- **Catalizador:** META ACCELERATION (pools 24h +275%)
+- **Riesgos:** liquidez 0% del MC
 
 ### 🟡 META ACTIVÁNDOSE — VEIL
 - **Quote:** `HgTGdc29D5bDMrDvsCLnorxz899VyDj7ZN7FPa6vpump`
-- **Pools nuevos:** 1h 2 (antes 0) · 6h 12 (antes 0, nuevo) · 24h 12 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 2) · 6h 12 (antes 0, nuevo) · 24h 12 (antes 0, nuevo)
 
-### ⚪ en observación — ZEC
-- **Quote:** `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS`
-- **Pools nuevos:** 1h 2 (antes 1) · 6h 3 (antes 3, +0%) · 24h 18 (antes 10, +80%)
+### ⚪ en observación — NVDAx
+- **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
+- **Pools nuevos:** 1h 3 (antes 0) · 6h 6 (antes 12, -50%) · 24h 20 (antes 13, +54%)
 
 ### ⚪ en observación — SPYx
 - **Quote:** `XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 10 (antes 20, -50%)
 
+### ⚪ en observación — ZEC
+- **Quote:** `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS`
+- **Pools nuevos:** 1h 1 (antes 1) · 6h 3 (antes 3, +0%) · 24h 10 (antes 18, -44%)
+
 ### ⚪ en observación — DJT
 - **Quote:** `DJTu7vi8norVzdVAffgvb39VP7wjKeTsgaMBJrzfxvoF`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 7 (antes 1, +600%) · 24h 9 (antes 3, +200%)
+- **Pools nuevos:** 1h 0 (antes 1) · 6h 5 (antes 2, +150%) · 24h 9 (antes 3, +200%)
 
 ## Plataformas con ingresos acelerando (DefiLlama)
 
