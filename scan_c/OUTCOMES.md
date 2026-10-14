@@ -1,23 +1,23 @@
 # OUTCOMES — qué pasó después de cada decisión (incluidas las descartadas)
-**2026-10-14 11:50 UTC** · 973 monedas seguidas · la decisión original nunca se cambia
+**2026-10-14 11:58 UTC** · 973 monedas seguidas · la decisión original nunca se cambia
 
 | Escáner | Decisión | Monedas | con 24h | Mediana MC 24h / inicial | Muertas a 24h (≤ −50%) | Máx. ≥2x | ≥5x | ≥10x | 2x antes de −30% | 5x antes de −50% | 10x antes de −70% |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | A | NO | 1 | 1 | 1.00x | 0% | 0% | 0% | 0% | 0% (n=1) | 0% (n=1) | — |
-| B | DESCARTAR | 516 | 298 | 0.32x | 83% | 27% | 5% | 2% | 5% (n=468) | 3% (n=461) | 3% (n=288) |
+| B | DESCARTAR | 516 | 300 | 0.32x | 83% | 27% | 5% | 2% | 6% (n=468) | 3% (n=461) | 3% (n=288) |
 | B | FUERA | 68 | 48 | 0.45x | 75% | 43% | 7% | 2% | 4% (n=54) | 4% (n=47) | 50% (n=2) |
-| B | WATCH | 272 | 186 | 0.27x | 85% | 37% | 12% | 5% | 14% (n=204) | 11% (n=203) | 7% (n=144) |
-| C-meta | 🟡 META ACTIVÁNDOSE | 116 | 45 | 0.82x | 36% | 25% | 7% | 1% | 45% (n=40) | 22% (n=27) | 6% (n=16) |
+| B | WATCH | 272 | 187 | 0.27x | 86% | 37% | 12% | 5% | 14% (n=204) | 11% (n=203) | 7% (n=144) |
+| C-meta | 🟡 META ACTIVÁNDOSE | 116 | 45 | 0.82x | 36% | 25% | 7% | 1% | 45% (n=40) | 22% (n=27) | 6% (n=17) |
 
 ## ¿Qué filtro mata ganadoras? (descartadas por motivo)
 
 | Motivo del descarte | Monedas | con 24h | Mediana 24h | Muertas a 24h | Máx. ≥5x | ≥10x | 2x antes de −30% | 5x antes de −50% | 10x antes de −70% |
 |---|---|---|---|---|---|---|---|---|---|
-| concentración | 276 | 98 | 0.38x | 62% | 2% | 0% | 2% (n=241) | 1% (n=239) | 1% (n=157) |
-| dev vendió | 142 | 122 | 0.33x | 92% | 9% | 4% | 7% (n=136) | 5% (n=132) | 7% (n=71) |
+| concentración | 276 | 99 | 0.38x | 63% | 2% | 0% | 2% (n=241) | 1% (n=239) | 1% (n=157) |
+| dev vendió | 142 | 123 | 0.33x | 92% | 9% | 4% | 7% (n=136) | 5% (n=132) | 7% (n=71) |
 | compras en el bloque de creación | 92 | 72 | 0.27x | 93% | 9% | 3% | 9% (n=85) | 7% (n=84) | 6% (n=54) |
 | volumen en bucle | 4 | 4 | 0.12x | 100% | 25% | 25% | 50% (n=4) | 0% (n=4) | 0% (n=4) |
-| impuesto modificable | 4 | 4 | 0.69x | 25% | 0% | 0% | 0% (n=3) | 0% (n=2) | 0% (n=1) |
+| impuesto modificable | 4 | 4 | 0.69x | 25% | 0% | 0% | 0% (n=3) | 0% (n=2) | 0% (n=2) |
 | snipers | 2 | 2 | 0.16x | 100% | 0% | 0% | 0% (n=2) | 0% (n=2) | 0% (n=2) |
 | extensión peligrosa | 1 | 1 | 1.00x | 0% | 0% | 0% | 0% (n=1) | 0% (n=1) | — |
 | puede crear tokens | 1 | 1 | 0.95x | 0% | 0% | 0% | — | — | — |
