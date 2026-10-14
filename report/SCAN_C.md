@@ -1,5 +1,7 @@
 # SCAN C — Meta / Flywheel
-**2026-10-14 13:52 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-14 14:00 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+
+> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
 ## Metas por token de pago (7 activándose)
 
@@ -15,7 +17,7 @@
 - **Quote:** `GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 23 (antes 0, nuevo)
 - **Amplitud (24h):** 23 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Token de pago:** MC $9.24M · volumen 24h $547.7k · liquidez $1.42M
+- **Token de pago:** MC $9.20M · volumen 24h $546.9k · liquidez $1.42M
 - **Líder (más volumen):** ACTII `5F3dxK2jMKq7GYhvucuY1sCrHtd9dm19tJA8qPyppump` · MC — · vol 24h $0 · 24h None%
 - **Líder (mayor subida 24h):** ACTII `5F3dxK2jMKq7GYhvucuY1sCrHtd9dm19tJA8qPyppump` · MC — · vol 24h $0 · 24h None%
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
@@ -24,30 +26,29 @@
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
 - **Pools nuevos:** 1h 1 (antes 0) · 6h 2 (antes 4, -50%) · 24h 22 (antes 8, +175%)
 - **Amplitud (24h):** 22 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 54% del volumen
-- **Token de pago:** MC $226.0k · volumen 24h $2.97M · liquidez $3.16M
+- **Token de pago:** MC $224.9k · volumen 24h $2.84M · liquidez $3.15M
 - **Líder (más volumen):** vMaru `9jJmm4THTrCPeytTFJb6XoRCqEB3wKUWf2fczj3jpump` · MC $2.6k · vol 24h $110.9k · 24h -93.54%
-- **Líder (mayor subida 24h):** CIV `BsydGAWCUSdn9n53QM9EWmp7Mo978FWgtpJpuTgpump` · MC $15.8k · vol 24h $13.7k · 24h 368%
+- **Líder (mayor subida 24h):** CIV `BsydGAWCUSdn9n53QM9EWmp7Mo978FWgtpJpuTgpump` · MC $11.2k · vol 24h $15.3k · 24h 232%
 - **Catalizador:** META ACCELERATION (pools 24h +175%)
 
 ### 🟡 META ACTIVÁNDOSE — GOOGLx
 - **Quote:** `XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN`
 - **Pools nuevos:** 1h 6 (antes 0) · 6h 6 (antes 0, nuevo) · 24h 18 (antes 6, +200%)
-- **Amplitud (24h):** 18 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 41% del volumen
-- **Token de pago:** MC $358.2k · volumen 24h $2.97M · liquidez $1.38M
-- **Líder (más volumen):** FRANK `8W8VSD8M4ryYNF8GyTm7iosUfsyKWpuMnXsFHNDRpump` · MC $7.5k · vol 24h $21.9k · 24h 65.28%
-- **Líder (mayor subida 24h):** FRANK `8W8VSD8M4ryYNF8GyTm7iosUfsyKWpuMnXsFHNDRpump` · MC $7.5k · vol 24h $21.9k · 24h 65.28%
+- **Amplitud (24h):** 18 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 46% del volumen
+- **Token de pago:** MC $356.8k · volumen 24h $2.97M · liquidez $1.39M
+- **Líder (más volumen):** FRANK `8W8VSD8M4ryYNF8GyTm7iosUfsyKWpuMnXsFHNDRpump` · MC $3.4k · vol 24h $27.0k · 24h -24.17%
+- **Líder (mayor subida 24h):** GAS `BrqpzfkhF2kdbHvPPPdfGkqvsDbZWm9mC39M6Rvzpump` · MC $4.3k · vol 24h $270 · 24h 14.73%
 - **Catalizador:** META ACCELERATION (pools 24h +200%)
 - **Riesgos:** liquidez 0% del MC
 
 ### 🟡 META ACTIVÁNDOSE — TTWO
 - **Quote:** `TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 9 (antes 0, nuevo) · 24h 12 (antes 1, +1100%)
-- **Amplitud (24h):** 12 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 100% del volumen ⚠️ una sola moneda domina: puede no ser una moda
-- **Token de pago:** MC $878.7k · volumen 24h $456.2k · liquidez $112.3k
-- **Líder (más volumen):** leek `5uGU7HtkYJSahddaTDSyM3m23Txyz4ReA2Hnx7KZpump` · MC $3.2k · vol 24h $9.3k · 24h -24.87%
-- **Líder (mayor subida 24h):** leek `5uGU7HtkYJSahddaTDSyM3m23Txyz4ReA2Hnx7KZpump` · MC $3.2k · vol 24h $9.3k · 24h -24.87%
+- **Amplitud (24h):** 12 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
+- **Token de pago:** MC $871.0k · volumen 24h $457.1k · liquidez $112.1k
 - **Catalizador:** META ACCELERATION (pools 24h +1100%)
-- **Riesgos:** liquidez 0% del MC
+- **Riesgos:** concentración: top10 18%, wallet máx 6.2%
+- **Descartado por seguridad:** mint authority activa; freeze authority activa; extensiones Token-2022: permanentDelegate,defaultAccountState,pausableConfig,confidentialTransferMint,transferHook,scaledUiAmountConfig
 
 ### 🟡 META ACTIVÁNDOSE — VEIL
 - **Quote:** `HgTGdc29D5bDMrDvsCLnorxz899VyDj7ZN7FPa6vpump`
