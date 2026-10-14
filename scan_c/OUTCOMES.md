@@ -1,20 +1,20 @@
 # OUTCOMES — qué pasó después de cada decisión (incluidas las descartadas)
-**2026-10-14 22:54 UTC** · 1068 monedas seguidas · la decisión original nunca se cambia
+**2026-10-14 23:09 UTC** · 1069 monedas seguidas · la decisión original nunca se cambia
 
 | Escáner | Decisión | Monedas | con 24h | Mediana MC 24h / inicial | Muertas a 24h (≤ −50%) | Máx. ≥2x | ≥5x | ≥10x | 2x antes de −30% | 5x antes de −50% | 10x antes de −70% |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | A | NO | 1 | 1 | 1.00x | 0% | 0% | 0% | 0% | 0% (n=1) | 0% (n=1) | — |
-| B | DESCARTAR | 569 | 326 | 0.33x | 83% | 28% | 6% | 2% | 6% (n=526) | 4% (n=517) | 3% (n=329) |
+| B | DESCARTAR | 570 | 326 | 0.33x | 83% | 28% | 6% | 2% | 6% (n=526) | 4% (n=517) | 3% (n=329) |
 | B | FUERA | 71 | 50 | 0.45x | 72% | 42% | 7% | 2% | 4% (n=57) | 4% (n=51) | 50% (n=2) |
-| B | WATCH | 301 | 191 | 0.27x | 86% | 37% | 11% | 5% | 14% (n=241) | 10% (n=240) | 7% (n=164) |
-| C-meta | 🟡 META ACTIVÁNDOSE | 126 | 50 | 0.85x | 32% | 23% | 6% | 1% | 43% (n=42) | 21% (n=28) | 6% (n=17) |
+| B | WATCH | 301 | 191 | 0.27x | 86% | 37% | 11% | 5% | 14% (n=242) | 10% (n=241) | 7% (n=164) |
+| C-meta | 🟡 META ACTIVÁNDOSE | 126 | 51 | 0.85x | 31% | 23% | 6% | 1% | 43% (n=42) | 21% (n=28) | 6% (n=17) |
 
 ## ¿Qué filtro mata ganadoras? (descartadas por motivo)
 
 | Motivo del descarte | Monedas | con 24h | Mediana 24h | Muertas a 24h | Máx. ≥5x | ≥10x | 2x antes de −30% | 5x antes de −50% | 10x antes de −70% |
 |---|---|---|---|---|---|---|---|---|---|
 | concentración | 300 | 111 | 0.38x | 62% | 3% | 1% | 3% (n=267) | 2% (n=264) | 1% (n=176) |
-| dev vendió | 160 | 131 | 0.33x | 92% | 10% | 4% | 7% (n=154) | 5% (n=150) | 7% (n=85) |
+| dev vendió | 161 | 131 | 0.33x | 92% | 10% | 4% | 7% (n=154) | 5% (n=150) | 7% (n=85) |
 | compras en el bloque de creación | 103 | 78 | 0.26x | 94% | 8% | 4% | 9% (n=99) | 7% (n=97) | 6% (n=62) |
 | volumen en bucle | 4 | 4 | 0.12x | 100% | 25% | 25% | 50% (n=4) | 0% (n=4) | 0% (n=4) |
 | impuesto modificable | 4 | 4 | 0.69x | 25% | 0% | 0% | 0% (n=3) | 0% (n=2) | 0% (n=2) |
