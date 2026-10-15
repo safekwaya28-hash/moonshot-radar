@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-15 11:50 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-15 11:57 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -16,7 +16,7 @@
 
 ### 🟡 META ACTIVÁNDOSE — SPYx
 - **Quote:** `XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W`
-- **Pools nuevos:** 1h 1 (antes 1) · 6h 7 (antes 6, +17%) · 24h 17 (antes 3, +467%)
+- **Pools nuevos:** 1h 0 (antes 2) · 6h 7 (antes 6, +17%) · 24h 17 (antes 3, +467%)
 - **Amplitud (24h):** 17 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 33% del volumen
 - **Token de pago:** MC $64.40M · volumen 24h $195.8k · liquidez $2.13M
 - **Líder (más volumen):** Bread `4zkZcc9X5VCSkUECPF7sWavC5dqSa7BysvAfevbmM2Zf` · MC $3.1k · vol 24h $2.0k · 24h -5.85%
@@ -27,8 +27,8 @@
 ### 🟡 META ACTIVÁNDOSE — DJT
 - **Quote:** `DJTu7vi8norVzdVAffgvb39VP7wjKeTsgaMBJrzfxvoF`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 1 (antes 0, nuevo) · 24h 11 (antes 10, +10%)
-- **Amplitud (24h):** 11 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 68% del volumen
-- **Token de pago:** MC $136.6k · volumen 24h $931.5k · liquidez $352.3k
+- **Amplitud (24h):** 11 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 72% del volumen
+- **Token de pago:** MC $137.5k · volumen 24h $934.0k · liquidez $354.2k
 - **Líder (más volumen):** BALLS `2yDkosQ9cUYJQ3BQxGWZJyo9zqb9nEeDmMHMGdnMpump` · MC $3.0k · vol 24h $24.1k · 24h -41.77%
 - **Líder (mayor subida 24h):** Socialism `3wVDGaMMJkkHfUeqa6ujYnwzuPWjMggweSY4KGoGpump` · MC $3.0k · vol 24h $5.5k · 24h -23.09%
 - **Catalizador:** META ACCELERATION (pools 24h +10%)
