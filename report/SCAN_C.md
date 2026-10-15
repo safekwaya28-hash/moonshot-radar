@@ -1,5 +1,7 @@
 # SCAN C — Meta / Flywheel
-**2026-10-15 23:05 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-15 23:13 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+
+> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
 ## Metas por token de pago (4 activándose)
 
@@ -7,9 +9,9 @@
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
 - **Pools nuevos:** 1h 3 (antes 0) · 6h 10 (antes 1, +900%) · 24h 19 (antes 39, -51%)
 - **Amplitud (24h):** 19 tokens distintos · 1 superan $100k · 0 superan $1M · el mayor = 90% del volumen ⚠️ una sola moneda domina: puede no ser una moda
-- **Token de pago:** MC $2096.65M · volumen 24h $17.28M · liquidez $23.68M
-- **Líder (más volumen):** Dip `48hnR1CWtafBumJsJod6Q8yduwDuYyumCJzuBVzvpump` · MC $116.7k · vol 24h $631.3k · 24h 167%
-- **Líder (mayor subida 24h):** Dip `48hnR1CWtafBumJsJod6Q8yduwDuYyumCJzuBVzvpump` · MC $116.7k · vol 24h $631.3k · 24h 167%
+- **Token de pago:** MC $2088.68M · volumen 24h $17.30M · liquidez $23.63M
+- **Líder (más volumen):** Dip `48hnR1CWtafBumJsJod6Q8yduwDuYyumCJzuBVzvpump` · MC $119.5k · vol 24h $636.0k · 24h 173%
+- **Líder (mayor subida 24h):** Dip `48hnR1CWtafBumJsJod6Q8yduwDuYyumCJzuBVzvpump` · MC $119.5k · vol 24h $636.0k · 24h 173%
 - **Catalizador:** META ACCELERATION (pools 24h -51%)
 
 ### 🟡 META ACTIVÁNDOSE — DOGE
@@ -34,7 +36,7 @@
 - **Quote:** `XsP7xzNPvEHS1m6qfanPUGjNmdnmsLKEoNAnHjdxxyZ`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 10 (antes 0, nuevo) · 24h 10 (antes 0, nuevo)
 - **Amplitud (24h):** 10 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Token de pago:** MC $111.94M · volumen 24h $854.7k · liquidez $879.3k
+- **Token de pago:** MC $111.94M · volumen 24h $853.2k · liquidez $879.3k
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
 - **Riesgos:** concentración: top10 66%, wallet máx 21.0%; liquidez 1% del MC
 - **Descartado por seguridad:** mint authority activa; freeze authority activa; extensiones Token-2022: permanentDelegate,defaultAccountState,scaledUiAmountConfig,pausableConfig,confidentialTransferMint,transferHook
