@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-15 15:52 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-15 15:59 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -9,7 +9,7 @@
 - **Quote:** `DoGEV7LASBkQbibMc5k5vKnTZoMg423GpJ5QtJEGfm7R`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 19 (antes 7, +171%)
 - **Amplitud (24h):** 19 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 46% del volumen
-- **Token de pago:** MC $251 · volumen 24h $632.6k · liquidez $285.8k
+- **Token de pago:** MC $251 · volumen 24h $630.1k · liquidez $285.9k
 - **Líder (más volumen):** shiyo `EwFh54NgWXMHMjYwzRBSWTsEUcq2hDivb9BqGN8xpump` · MC $2.6k · vol 24h $120.8k · 24h -93.91%
 - **Líder (mayor subida 24h):** Corgi `EUsQncnzdFQnupttKPSfM17Re39wz57UQtfJSR9Tpump` · MC $3.1k · vol 24h $3.5k · 24h 1.75%
 - **Catalizador:** META ACCELERATION (pools 24h +171%)
@@ -18,9 +18,9 @@
 - **Quote:** `XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 2 (antes 8, -75%) · 24h 15 (antes 4, +275%)
 - **Amplitud (24h):** 15 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Token de pago:** MC $64.63M · volumen 24h $197.2k · liquidez $2.13M
+- **Token de pago:** MC $64.62M · volumen 24h $197.6k · liquidez $2.13M
 - **Catalizador:** META ACCELERATION (pools 24h +275%)
-- **Riesgos:** concentración: top10 58%, wallet máx 33.1%; liquidez 3% del MC
+- **Riesgos:** concentración: top10 58%, wallet máx 33.0%; liquidez 3% del MC
 - **Descartado por seguridad:** mint authority activa; freeze authority activa; extensiones Token-2022: permanentDelegate,defaultAccountState,scaledUiAmountConfig,pausableConfig,confidentialTransferMint,transferHook
 
 ### ⚪ en observación — PUMP
