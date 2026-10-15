@@ -1,33 +1,31 @@
 # SCAN C — Meta / Flywheel
-**2026-10-15 16:52 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-15 17:00 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
-## Metas por token de pago (2 activándose)
+> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
-### 🟡 META ACTIVÁNDOSE — DOGE
-- **Quote:** `DoGEV7LASBkQbibMc5k5vKnTZoMg423GpJ5QtJEGfm7R`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 18 (antes 8, +125%)
-- **Amplitud (24h):** 18 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 47% del volumen
-- **Token de pago:** MC $250 · volumen 24h $625.6k · liquidez $280.8k
-- **Líder (más volumen):** shiyo `EwFh54NgWXMHMjYwzRBSWTsEUcq2hDivb9BqGN8xpump` · MC $2.6k · vol 24h $120.8k · 24h -93.91%
-- **Líder (mayor subida 24h):** Corgi `EUsQncnzdFQnupttKPSfM17Re39wz57UQtfJSR9Tpump` · MC $3.1k · vol 24h $3.5k · 24h 1.75%
-- **Catalizador:** META ACCELERATION (pools 24h +125%)
+## Metas por token de pago (1 activándose)
 
 ### 🟡 META ACTIVÁNDOSE — SPYx
 - **Quote:** `XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 10, -100%) · 24h 14 (antes 5, +180%)
-- **Amplitud (24h):** 14 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
+- **Amplitud (24h):** 14 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 41% del volumen
 - **Token de pago:** MC $64.58M · volumen 24h $194.2k · liquidez $2.13M
+- **Líder (más volumen):** mm `5axMJVs9wjVRUZRR3DmsUUoA5YrzXKs555nZq99T9kS9` · MC $3.1k · vol 24h $1.4k · 24h -9.7%
+- **Líder (mayor subida 24h):** NTC `FXEZNGtrySV5GxVXrV1J4Ec416fHYUTZr9UFLZdSBe3X` · MC $3.1k · vol 24h $594 · 24h -0.33%
 - **Catalizador:** META ACCELERATION (pools 24h +180%)
-- **Riesgos:** concentración: top10 58%, wallet máx 32.4%; liquidez 3% del MC
-- **Descartado por seguridad:** mint authority activa; freeze authority activa; extensiones Token-2022: permanentDelegate,defaultAccountState,scaledUiAmountConfig,pausableConfig,confidentialTransferMint,transferHook
+- **Riesgos:** liquidez 0% del MC
 
 ### ⚪ en observación — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 2, -50%) · 24h 23 (antes 27, -15%)
+- **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 2, -50%) · 24h 22 (antes 28, -21%)
 
 ### ⚪ en observación — SPCX
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
 - **Pools nuevos:** 1h 2 (antes 0) · 6h 2 (antes 8, -75%) · 24h 18 (antes 38, -53%)
+
+### ⚪ en observación — DOGE
+- **Quote:** `DoGEV7LASBkQbibMc5k5vKnTZoMg423GpJ5QtJEGfm7R`
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 17 (antes 9, +89%)
 
 ### ⚪ en observación — DJT
 - **Quote:** `DJTu7vi8norVzdVAffgvb39VP7wjKeTsgaMBJrzfxvoF`
