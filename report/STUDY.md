@@ -1,17 +1,17 @@
 # ESTUDIO · ¿qué entrada y qué forma de vender dan más 10x–50x cobrados?
-**2026-10-15 10:47 UTC** · fuente: todas las graduadas de pump.fun (PumpSwap)
+**2026-10-15 11:46 UTC** · fuente: todas las graduadas de pump.fun (PumpSwap)
 
-- Monedas revisadas: **26,192 / 206,007** (13%) · con pico ≥ $500k: **5,497**
-- Entradas simuladas: **597 monedas** · **100% con < 180 días de datos después** (⚠️ con tanta censura el estudio todavía no puede afirmar nada sobre 50x)
+- Monedas revisadas: **26,282 / 206,007** (13%) · con pico ≥ $500k: **5,512**
+- Entradas simuladas: **599 monedas** · **100% con < 180 días de datos después** (⚠️ con tanta censura el estudio todavía no puede afirmar nada sobre 50x)
 
 ## Ranking (EV = lo que multiplicas de media por operación, cobrado con esa regla de venta)
 
 | # | Entrada | Venta | Ops | EV | IC 95% EV | EV sin top 3 | Mediana | p90 | Cobró ≥10x | Cobró ≥50x | ROI 10×50€ | Caída máx. |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | TIPO_SOAP_pico200k_dd75_mc50k_72h_ruptura | tuya | 38 | 1.12x | 1.06x–1.57x | 1.04x | 1.06x | 1.58x | 0% | 0% | +22% | -5% |
-| 2 | TIPO_SOAP_pico200k_dd75_mc50k_72h_ruptura | escalonada | 38 | 1.09x | 1.05x–1.47x | 1.01x | 1.05x | 1.39x | 0% | 0% | +25% | -5% |
-| 3 | dd70_mc50k_72h_acum | estructura | 7 | 1.09x | 0.94x–1.20x | 0.96x ⚠️ | 1.02x | 1.27x | 0% | 0% | +6% | -1% |
-| 4 | dd85_mc50k_72h_acum | estructura | 7 | 1.09x | 0.94x–1.20x | 0.96x ⚠️ | 1.02x | 1.27x | 0% | 0% | +6% | -1% |
+| 1 | TIPO_SOAP_pico200k_dd75_mc50k_72h_ruptura | tuya | 39 | 1.11x | 1.06x–1.57x | 1.03x | 1.06x | 1.57x | 0% | 0% | +22% | -5% |
+| 2 | dd70_mc50k_72h_acum | estructura | 7 | 1.09x | 0.94x–1.20x | 0.96x ⚠️ | 1.02x | 1.27x | 0% | 0% | +6% | -1% |
+| 3 | dd85_mc50k_72h_acum | estructura | 7 | 1.09x | 0.94x–1.20x | 0.96x ⚠️ | 1.02x | 1.27x | 0% | 0% | +6% | -1% |
+| 4 | TIPO_SOAP_pico200k_dd75_mc50k_72h_ruptura | escalonada | 39 | 1.09x | 1.05x–1.47x | 1.01x | 1.05x | 1.37x | 0% | 0% | +17% | -6% |
 | 5 | dd70_mc50k_72h_acum | escalonada | 7 | 1.08x | 0.93x–1.20x | 0.95x ⚠️ | 1.02x | 1.27x | 0% | 0% | +6% | -2% |
 | 6 | dd70_mc50k_72h_acum | solo_stop | 7 | 1.08x | 0.93x–1.20x | 0.95x ⚠️ | 1.02x | 1.27x | 0% | 0% | +6% | -2% |
 | 7 | dd70_mc50k_72h_acum | trailing | 7 | 1.08x | 0.93x–1.20x | 0.95x ⚠️ | 1.02x | 1.27x | 0% | 0% | +6% | -2% |
