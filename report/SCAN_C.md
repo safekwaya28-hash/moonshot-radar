@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-15 18:58 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-15 19:06 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -9,7 +9,7 @@
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 1 (antes 0, nuevo) · 24h 22 (antes 26, -15%)
 - **Amplitud (24h):** 22 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 32% del volumen
-- **Token de pago:** MC $2122.29M · volumen 24h $17.44M · liquidez $23.82M
+- **Token de pago:** MC $2136.97M · volumen 24h $17.44M · liquidez $23.90M
 - **Líder (más volumen):** Company `HN66Hefjv69pKUEac1NnBP43NM1jhY1E3V6KG19yij5X` · MC $2.7k · vol 24h $47.5k · 24h -93.31%
 - **Líder (mayor subida 24h):** tailed `CWHcqZaBND2GoUgfvuHynZMjCBsaCBtUPEgcAKg8pump` · MC $4.1k · vol 24h $20.4k · 24h 47.32%
 - **Catalizador:** META ACCELERATION (pools 24h -15%)
@@ -18,8 +18,8 @@
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 2 (antes 0, nuevo) · 24h 18 (antes 37, -51%)
 - **Amplitud (24h):** 18 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 60% del volumen
-- **Token de pago:** MC — · volumen 24h $8.01M · liquidez $1.86M
-- **Líder (más volumen):** Musk `64GXmXjTQmVxc3XwZG5aMZdbmq4UrkedCLyqHFzppump` · MC $48.3k · vol 24h $31.6k · 24h -13.44%
+- **Token de pago:** MC — · volumen 24h $8.06M · liquidez $1.84M
+- **Líder (más volumen):** Musk `64GXmXjTQmVxc3XwZG5aMZdbmq4UrkedCLyqHFzppump` · MC $48.3k · vol 24h $31.5k · 24h -12.26%
 - **Líder (mayor subida 24h):** ELON `7VSUzG5uYYPDLNdnAwFVgsFGSHsz9rZY2yTWhSsJA2D7` · MC $3.1k · vol 24h $662 · 24h 0.01%
 - **Catalizador:** META ACCELERATION (pools 24h -51%)
 
@@ -35,7 +35,7 @@
 - **Quote:** `XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 7, -100%) · 24h 14 (antes 4, +250%)
 - **Amplitud (24h):** 14 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Token de pago:** MC $64.58M · volumen 24h $169.7k · liquidez $2.13M
+- **Token de pago:** MC $64.66M · volumen 24h $174.3k · liquidez $2.13M
 - **Líder (más volumen):** WIENER `81ENZC5cW9Vq1DrMtFMU7nKpufLo8NdvzMPrYpttpump` · MC $3.0k · vol 24h $0 · 24h None%
 - **Líder (mayor subida 24h):** WIENER `81ENZC5cW9Vq1DrMtFMU7nKpufLo8NdvzMPrYpttpump` · MC $3.0k · vol 24h $0 · 24h None%
 - **Catalizador:** META ACCELERATION (pools 24h +250%)
