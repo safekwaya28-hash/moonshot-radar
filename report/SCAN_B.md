@@ -1,19 +1,19 @@
 # SCAN B — Despegues (objetivo 100x+)
-**2026-10-15 14:38 UTC** · 5,000 creaciones recientes revisadas · 1 en la ventana $8k–$40k · 1 con análisis profundo
+**2026-10-15 15:11 UTC** · 5,000 creaciones recientes revisadas · 1 en la ventana $8k–$40k · 1 con análisis profundo
 
 🟢 COMPRA AHORA **0** · 🟡 WATCH **0** · 🔴 DESCARTAR **1** · ⚪ FUERA **0**
 
 ### 🔴 DESCARTAR — $Gyj9Cd
 - **CA:** `Gyj9CdtNiv6CHe47SAfrS4cAjbKxuUC7eVCBQSvkpump`
-- **MC:** $11.8k · curva 68% · edad 18.4 h
+- **MC:** $13.3k · curva 72% · edad 18.9 h · hace 30 min: $11.8k
 - **Smart money:** ninguna de tus wallets
-- **B:** 1/9 · **M:** 1/5
-- **Compradores:** 30m 1 · nuevos 5m 1 (antes 0, BAI ∞) · compradores/vendedores 15m 0.50
-- **Volumen 15m:** $15 (antes $15) · wallet dominante 88% · retención 15m — · compra mediana $15
-- **Seguridad:** snipers 0 · bloque creación 0% · top10 14% · wallet máx 2.8% · dev tiene 2.8% · dev vendió 71% · 5 wallets = 70% del volumen
+- **B:** 0/9 · **M:** 0/5
+- **Compradores:** 30m 5 · nuevos 5m 0 (antes 0, BAI 0.00) · compradores/vendedores 15m 1.00
+- **Volumen 15m:** $19 (antes $66) · wallet dominante 72% · retención 15m 75% · compra mediana $16
+- **Seguridad:** snipers 0 · bloque creación 0% · top10 14% · wallet máx 2.8% · dev tiene 2.8% · dev vendió 71% · 5 wallets = 66% del volumen
 - **Prueba de venta:** 6/3 con financiador verificado y distinto (no-dev, mantuvieron ≥5 min y vendieron; 7 en total, 1 no verificables)
-- **Cobertura de datos:** 177 min observados
-- **Participantes 30m:** nuevos 1 · recompran 0 · compran y venden (flippers) 33% · volumen 15m / liquidez 0.0×
+- **Cobertura de datos:** 187 min observados
+- **Participantes 30m:** nuevos 2 · recompran 0 · compran y venden (flippers) 14% · volumen 15m / liquidez 0.0×
 - **Smart money:** convergencia 0 wallets en 10 min · posición entre los compradores — (entre los compradores observados, no entre todos)
 - **Financiación del top:** sin grupos detectados (1 nivel, wallets nuevas)
 - **Descartada por:** dev vendió/sacó 71% de su compra
