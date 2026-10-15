@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-15 14:05 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-15 14:50 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -9,7 +9,7 @@
 - **Quote:** `DoGEV7LASBkQbibMc5k5vKnTZoMg423GpJ5QtJEGfm7R`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 12, -100%) · 24h 19 (antes 7, +171%)
 - **Amplitud (24h):** 19 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 46% del volumen
-- **Token de pago:** MC $243 · volumen 24h $604.4k · liquidez $278.6k
+- **Token de pago:** MC $245 · volumen 24h $621.4k · liquidez $280.7k
 - **Líder (más volumen):** shiyo `EwFh54NgWXMHMjYwzRBSWTsEUcq2hDivb9BqGN8xpump` · MC $2.5k · vol 24h $120.8k · 24h -93.97%
 - **Líder (mayor subida 24h):** Corgi `EUsQncnzdFQnupttKPSfM17Re39wz57UQtfJSR9Tpump` · MC $3.1k · vol 24h $3.5k · 24h 1.75%
 - **Catalizador:** META ACCELERATION (pools 24h +171%)
@@ -17,10 +17,10 @@
 ### 🟡 META ACTIVÁNDOSE — SPYx
 - **Quote:** `XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 2 (antes 9, -78%) · 24h 16 (antes 3, +433%)
-- **Amplitud (24h):** 16 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 33% del volumen
-- **Token de pago:** MC $64.29M · volumen 24h $177.6k · liquidez $2.13M
+- **Amplitud (24h):** 16 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 100% del volumen ⚠️ una sola moneda domina: puede no ser una moda
+- **Token de pago:** MC $64.48M · volumen 24h $189.1k · liquidez $2.13M
 - **Líder (más volumen):** mm `5axMJVs9wjVRUZRR3DmsUUoA5YrzXKs555nZq99T9kS9` · MC $3.1k · vol 24h $1.4k · 24h -9.7%
-- **Líder (mayor subida 24h):** BOB `5m48P8aRi9tL9QGYRQ4yBrJCF3WbepbjqxwyyA3AfEfR` · MC $3.1k · vol 24h $4 · 24h -0.06%
+- **Líder (mayor subida 24h):** mm `5axMJVs9wjVRUZRR3DmsUUoA5YrzXKs555nZq99T9kS9` · MC $3.1k · vol 24h $1.4k · 24h -9.7%
 - **Catalizador:** META ACCELERATION (pools 24h +433%)
 - **Riesgos:** liquidez 0% del MC
 
