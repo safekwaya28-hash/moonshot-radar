@@ -1,17 +1,17 @@
 # ESTUDIO · ¿qué entrada y qué forma de vender dan más 10x–50x cobrados?
-**2026-10-16 09:45 UTC** · fuente: todas las graduadas de pump.fun (PumpSwap)
+**2026-10-16 10:46 UTC** · fuente: todas las graduadas de pump.fun (PumpSwap)
 
-- Monedas revisadas: **28,225 / 206,007** (14%) · con pico ≥ $500k: **5,909**
-- Entradas simuladas: **633 monedas** · **100% con < 180 días de datos después** (⚠️ con tanta censura el estudio todavía no puede afirmar nada sobre 50x)
+- Monedas revisadas: **28,311 / 206,007** (14%) · con pico ≥ $500k: **5,921**
+- Entradas simuladas: **637 monedas** · **100% con < 180 días de datos después** (⚠️ con tanta censura el estudio todavía no puede afirmar nada sobre 50x)
 
 ## Ranking (EV = lo que multiplicas de media por operación, cobrado con esa regla de venta)
 
 | # | Entrada | Venta | Ops | EV | IC 95% EV | EV sin top 3 | Mediana | p90 | Cobró ≥10x | Cobró ≥50x | ROI 10×50€ | Caída máx. |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | TIPO_SOAP_pico200k_dd75_mc50k_72h_ruptura | tuya | 39 | 1.11x | 1.06x–1.57x | 1.03x | 1.06x | 1.57x | 0% | 0% | +22% | -5% |
+| 1 | TIPO_SOAP_pico200k_dd75_mc50k_72h_ruptura | tuya | 40 | 1.11x | 1.06x–1.44x | 1.03x | 1.05x | 1.55x | 0% | 0% | +22% | -5% |
 | 2 | dd70_mc50k_72h_acum | estructura | 7 | 1.09x | 0.94x–1.20x | 0.96x ⚠️ | 1.02x | 1.27x | 0% | 0% | +6% | -1% |
 | 3 | dd85_mc50k_72h_acum | estructura | 7 | 1.09x | 0.94x–1.20x | 0.96x ⚠️ | 1.02x | 1.27x | 0% | 0% | +6% | -1% |
-| 4 | TIPO_SOAP_pico200k_dd75_mc50k_72h_ruptura | escalonada | 39 | 1.09x | 1.05x–1.47x | 1.01x | 1.05x | 1.37x | 0% | 0% | +17% | -6% |
+| 4 | TIPO_SOAP_pico200k_dd75_mc50k_72h_ruptura | escalonada | 40 | 1.09x | 1.05x–1.35x | 1.01x | 1.05x | 1.35x | 0% | 0% | +25% | -5% |
 | 5 | dd70_mc50k_72h_acum | escalonada | 7 | 1.08x | 0.93x–1.20x | 0.95x ⚠️ | 1.02x | 1.27x | 0% | 0% | +6% | -2% |
 | 6 | dd70_mc50k_72h_acum | solo_stop | 7 | 1.08x | 0.93x–1.20x | 0.95x ⚠️ | 1.02x | 1.27x | 0% | 0% | +6% | -2% |
 | 7 | dd70_mc50k_72h_acum | trailing | 7 | 1.08x | 0.93x–1.20x | 0.95x ⚠️ | 1.02x | 1.27x | 0% | 0% | +6% | -2% |
