@@ -1,18 +1,18 @@
 # SCAN B — Despegues (objetivo 100x+)
-**2026-10-16 11:08 UTC** · 5,000 creaciones recientes revisadas · 1 en la ventana $8k–$40k · 1 con análisis profundo
+**2026-10-16 11:37 UTC** · 5,000 creaciones recientes revisadas · 1 en la ventana $8k–$40k · 1 con análisis profundo
 
 🟢 COMPRA AHORA **0** · 🟡 WATCH **0** · 🔴 DESCARTAR **1** · ⚪ FUERA **0**
 
 ### 🔴 DESCARTAR — $Gyj9Cd
 - **CA:** `Gyj9CdtNiv6CHe47SAfrS4cAjbKxuUC7eVCBQSvkpump`
-- **MC:** $9.0k · curva 57% · edad 38.9 h · hace 30 min: $9.0k
+- **MC:** $9.0k · curva 57% · edad 39.4 h · hace 30 min: $9.0k
 - **Smart money:** ninguna de tus wallets
 - **B:** 0/9 · **M:** 0/5
 - **Compradores:** 30m 0 · nuevos 5m 0 (antes 0, BAI 0.00) · compradores/vendedores 15m 0.00
 - **Volumen 15m:** $0 (antes $0) · wallet dominante 0% · retención 15m — · compra mediana $10
 - **Seguridad:** snipers 0 · bloque creación 0% · top10 10% · wallet máx 3.0% · dev tiene 3.0% · dev vendió 69% · 5 wallets = 61% del volumen
 - **Prueba de venta:** 6/3 con financiador verificado y distinto (no-dev, mantuvieron ≥5 min y vendieron; 8 en total, 2 no verificables)
-- **Cobertura de datos:** 1145 min observados
+- **Cobertura de datos:** 1174 min observados
 - **Participantes 30m:** nuevos 0 · recompran 0 · compran y venden (flippers) — · volumen 15m / liquidez 0.0×
 - **Smart money:** convergencia 0 wallets en 10 min · posición entre los compradores — (entre los compradores observados, no entre todos)
 - **Financiación del top:** sin grupos detectados (1 nivel, wallets nuevas)
