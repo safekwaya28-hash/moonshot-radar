@@ -1,7 +1,7 @@
 # ESTUDIO · distribución por entrada × venta
-**2026-10-16 04:46 UTC** · fuente: todas las graduadas de pump.fun (PumpSwap)
+**2026-10-16 05:44 UTC** · fuente: todas las graduadas de pump.fun (PumpSwap)
 
-- Monedas revisadas: **27,783 / 206,007** (13%) · con pico ≥ $500k: **5,812**
+- Monedas revisadas: **27,869 / 206,007** (14%) · con pico ≥ $500k: **5,834**
 
 | Entrada | Venta | Ops | Censura <180d | EV | Mediana | p75 | p90 | p99 | Cobró ≥10x | Tocó ≥10x | Cobró ≥50x | Tocó ≥50x | Días al pico (med/p90) | Top 3 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
