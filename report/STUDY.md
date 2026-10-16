@@ -1,28 +1,28 @@
 # ESTUDIO · ¿qué entrada y qué forma de vender dan más 10x–50x cobrados?
-**2026-10-16 18:50 UTC** · fuente: todas las graduadas de pump.fun (PumpSwap)
+**2026-10-16 19:42 UTC** · fuente: todas las graduadas de pump.fun (PumpSwap)
 
-- Monedas revisadas: **29,187 / 206,007** (14%) · con pico ≥ $500k: **6,111**
-- Entradas simuladas: **656 monedas** · **100% con < 180 días de datos después** (⚠️ con tanta censura el estudio todavía no puede afirmar nada sobre 50x)
+- Monedas revisadas: **29,275 / 206,007** (14%) · con pico ≥ $500k: **6,126**
+- Entradas simuladas: **657 monedas** · **100% con < 180 días de datos después** (⚠️ con tanta censura el estudio todavía no puede afirmar nada sobre 50x)
 
 ## Ranking (EV = lo que multiplicas de media por operación, cobrado con esa regla de venta)
 
 | # | Entrada | Venta | Ops | EV | IC 95% EV | EV sin top 3 | Mediana | p90 | Cobró ≥10x | Cobró ≥50x | ROI 10×50€ | Caída máx. |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | TIPO_SOAP_pico200k_dd75_mc50k_72h_ruptura | tuya | 40 | 1.11x | 1.06x–1.44x | 1.03x | 1.05x | 1.55x | 0% | 0% | +22% | -5% |
+| 1 | TIPO_SOAP_pico200k_dd75_mc50k_72h_ruptura | tuya | 41 | 1.10x | 1.06x–1.30x | 1.02x | 1.05x | 1.54x | 0% | 0% | +22% | -5% |
 | 2 | dd70_mc50k_72h_acum | estructura | 7 | 1.09x | 0.94x–1.20x | 0.96x ⚠️ | 1.02x | 1.27x | 0% | 0% | +6% | -1% |
 | 3 | dd85_mc50k_72h_acum | estructura | 7 | 1.09x | 0.94x–1.20x | 0.96x ⚠️ | 1.02x | 1.27x | 0% | 0% | +6% | -1% |
-| 4 | TIPO_SOAP_pico200k_dd75_mc50k_72h_ruptura | escalonada | 40 | 1.09x | 1.05x–1.35x | 1.01x | 1.05x | 1.35x | 0% | 0% | +25% | -5% |
-| 5 | dd70_mc50k_72h_acum | escalonada | 7 | 1.08x | 0.93x–1.20x | 0.95x ⚠️ | 1.02x | 1.27x | 0% | 0% | +6% | -2% |
-| 6 | dd70_mc50k_72h_acum | solo_stop | 7 | 1.08x | 0.93x–1.20x | 0.95x ⚠️ | 1.02x | 1.27x | 0% | 0% | +6% | -2% |
-| 7 | dd70_mc50k_72h_acum | trailing | 7 | 1.08x | 0.93x–1.20x | 0.95x ⚠️ | 1.02x | 1.27x | 0% | 0% | +6% | -2% |
-| 8 | dd70_mc50k_72h_acum | tuya | 7 | 1.08x | 0.93x–1.20x | 0.95x ⚠️ | 1.02x | 1.27x | 0% | 0% | +6% | -2% |
-| 9 | dd85_mc50k_72h_acum | escalonada | 7 | 1.08x | 0.93x–1.20x | 0.95x ⚠️ | 1.02x | 1.27x | 0% | 0% | +6% | -2% |
-| 10 | dd85_mc50k_72h_acum | solo_stop | 7 | 1.08x | 0.93x–1.20x | 0.95x ⚠️ | 1.02x | 1.27x | 0% | 0% | +6% | -2% |
-| 11 | dd85_mc50k_72h_acum | trailing | 7 | 1.08x | 0.93x–1.20x | 0.95x ⚠️ | 1.02x | 1.27x | 0% | 0% | +6% | -2% |
-| 12 | dd85_mc50k_72h_acum | tuya | 7 | 1.08x | 0.93x–1.20x | 0.95x ⚠️ | 1.02x | 1.27x | 0% | 0% | +6% | -2% |
-| 13 | dd70_mc150k_168h_ruptura | escalonada | 9 | 1.08x | 0.91x–1.10x | 0.97x ⚠️ | 1.05x | 1.30x | 0% | 0% | +7% | -3% |
-| 14 | dd70_mc150k_168h_ruptura | solo_stop | 9 | 1.08x | 0.91x–1.10x | 0.97x ⚠️ | 1.05x | 1.30x | 0% | 0% | +7% | -3% |
-| 15 | dd70_mc150k_168h_ruptura | trailing | 9 | 1.08x | 0.91x–1.10x | 0.97x ⚠️ | 1.05x | 1.30x | 0% | 0% | +7% | -3% |
+| 4 | dd70_mc50k_72h_acum | escalonada | 7 | 1.08x | 0.93x–1.20x | 0.95x ⚠️ | 1.02x | 1.27x | 0% | 0% | +6% | -2% |
+| 5 | dd70_mc50k_72h_acum | solo_stop | 7 | 1.08x | 0.93x–1.20x | 0.95x ⚠️ | 1.02x | 1.27x | 0% | 0% | +6% | -2% |
+| 6 | dd70_mc50k_72h_acum | trailing | 7 | 1.08x | 0.93x–1.20x | 0.95x ⚠️ | 1.02x | 1.27x | 0% | 0% | +6% | -2% |
+| 7 | dd70_mc50k_72h_acum | tuya | 7 | 1.08x | 0.93x–1.20x | 0.95x ⚠️ | 1.02x | 1.27x | 0% | 0% | +6% | -2% |
+| 8 | dd85_mc50k_72h_acum | escalonada | 7 | 1.08x | 0.93x–1.20x | 0.95x ⚠️ | 1.02x | 1.27x | 0% | 0% | +6% | -2% |
+| 9 | dd85_mc50k_72h_acum | solo_stop | 7 | 1.08x | 0.93x–1.20x | 0.95x ⚠️ | 1.02x | 1.27x | 0% | 0% | +6% | -2% |
+| 10 | dd85_mc50k_72h_acum | trailing | 7 | 1.08x | 0.93x–1.20x | 0.95x ⚠️ | 1.02x | 1.27x | 0% | 0% | +6% | -2% |
+| 11 | dd85_mc50k_72h_acum | tuya | 7 | 1.08x | 0.93x–1.20x | 0.95x ⚠️ | 1.02x | 1.27x | 0% | 0% | +6% | -2% |
+| 12 | dd70_mc150k_168h_ruptura | escalonada | 9 | 1.08x | 0.91x–1.10x | 0.97x ⚠️ | 1.05x | 1.30x | 0% | 0% | +7% | -3% |
+| 13 | dd70_mc150k_168h_ruptura | solo_stop | 9 | 1.08x | 0.91x–1.10x | 0.97x ⚠️ | 1.05x | 1.30x | 0% | 0% | +7% | -3% |
+| 14 | dd70_mc150k_168h_ruptura | trailing | 9 | 1.08x | 0.91x–1.10x | 0.97x ⚠️ | 1.05x | 1.30x | 0% | 0% | +7% | -3% |
+| 15 | dd70_mc150k_168h_ruptura | tuya | 9 | 1.08x | 0.91x–1.10x | 0.97x ⚠️ | 1.05x | 1.30x | 0% | 0% | +7% | -3% |
 | 16 | dd70_mc150k_72h_base ⭐ | tuya | 76 | 0.98x | 0.97x–0.99x | 0.95x | 0.94x | 1.32x | 0% | 0% | -3% | -20% |
 
 ⭐ = tus reglas actuales. ⚠️ = el EV pasa de ganar a perder quitando las 3 mejores: es suerte, no estrategia.
