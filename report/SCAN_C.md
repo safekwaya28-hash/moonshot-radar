@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-17 04:55 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-17 05:11 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -9,7 +9,7 @@
 - **Quote:** `DFMt2FyLpB6ekPNAzVErLXgpSnJ9CRf1VnxBAkTLpump`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 6 (antes 0, nuevo) · 24h 14 (antes 15, -7%)
 - **Amplitud (24h):** 14 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 100% del volumen ⚠️ una sola moneda domina: puede no ser una moda
-- **Token de pago:** MC $3.52M · volumen 24h $4.90M · liquidez $277.8k
+- **Token de pago:** MC $3.69M · volumen 24h $4.86M · liquidez $281.7k
 - **Líder (más volumen):** ROADSTER `TB6QtGti9j2zadAryKYKCm7tX1zVvTH4ZQcoXd9pump` · MC $8.3k · vol 24h $29.5k · 24h -81.06%
 - **Líder (mayor subida 24h):** uıoɔ `7aDgovzTB1kt7UVMiz8wn6gSs1jqkLH1NtpBhAhDpump` · MC $5.8k · vol 24h $2 · 24h -51.74%
 - **Catalizador:** META ACCELERATION (pools 24h -7%)
@@ -54,7 +54,7 @@
 
 ### 🟡 FLYWHEEL ACELERANDO — Bordrless Launchpad (Launchpad)
 - **Ingresos 7d:** $85.1k · 7d anteriores $904 · cambio 94.2×
-- **Ingresos 24h:** $15.0k · 24h anteriores $47.9k · -69% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $14.9k · 24h anteriores $47.9k · -69% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $42.6k
 - **Token:** sin token listado en CoinGecko
 
