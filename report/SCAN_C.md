@@ -1,46 +1,50 @@
 # SCAN C — Meta / Flywheel
-**2026-10-17 05:11 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-17 05:45 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
-> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
+## Metas por token de pago (2 activándose)
 
-## Metas por token de pago (1 activándose)
+### 🟡 META ACTIVÁNDOSE — TSLAx
+- **Quote:** `XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB`
+- **Pools nuevos:** 1h 12 (antes 0) · 6h 13 (antes 5, +160%) · 24h 30 (antes 57, -47%)
+- **Amplitud (24h):** 30 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 23% del volumen
+- **Token de pago:** MC $66.58M · volumen 24h $5.02M · liquidez $2.41M
+- **Líder (más volumen):** CashBack `AxHPwjstZ6VvJfKSTZhvHgC15xLjorsMbcdsbvBspump` · MC $3.1k · vol 24h $16.1k · 24h -33.02%
+- **Líder (mayor subida 24h):** PRIME `G85FSvXwfczEWGX9v5ePAKXTJDX4cgWUQF1QB1sFpump` · MC $3.9k · vol 24h $865 · 24h 20.13%
+- **Catalizador:** META ACCELERATION (pools 24h -47%)
+- **Riesgos:** liquidez 0% del MC
 
 ### 🟡 META ACTIVÁNDOSE — FTR
 - **Quote:** `DFMt2FyLpB6ekPNAzVErLXgpSnJ9CRf1VnxBAkTLpump`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 6 (antes 0, nuevo) · 24h 14 (antes 15, -7%)
-- **Amplitud (24h):** 14 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 100% del volumen ⚠️ una sola moneda domina: puede no ser una moda
-- **Token de pago:** MC $3.69M · volumen 24h $4.86M · liquidez $281.7k
-- **Líder (más volumen):** ROADSTER `TB6QtGti9j2zadAryKYKCm7tX1zVvTH4ZQcoXd9pump` · MC $8.3k · vol 24h $29.5k · 24h -81.06%
-- **Líder (mayor subida 24h):** uıoɔ `7aDgovzTB1kt7UVMiz8wn6gSs1jqkLH1NtpBhAhDpump` · MC $5.8k · vol 24h $2 · 24h -51.74%
+- **Amplitud (24h):** 14 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
+- **Token de pago:** MC $3.67M · volumen 24h $4.75M · liquidez $250.5k
+- **Líder (más volumen):** ROADSTER `TB6QtGti9j2zadAryKYKCm7tX1zVvTH4ZQcoXd9pump` · MC $7.5k · vol 24h $29.5k · 24h -82.87%
+- **Líder (mayor subida 24h):** ROADSTER `TB6QtGti9j2zadAryKYKCm7tX1zVvTH4ZQcoXd9pump` · MC $7.5k · vol 24h $29.5k · 24h -82.87%
 - **Catalizador:** META ACCELERATION (pools 24h -7%)
 
 ### ⚪ en observación — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 7 (antes 50, -86%) · 24h 65 (antes 54, +20%)
-
-### ⚪ en observación — TSLAx
-- **Quote:** `XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 1 (antes 5, -80%) · 24h 18 (antes 57, -68%)
+- **Pools nuevos:** 1h 1 (antes 0) · 6h 8 (antes 50, -84%) · 24h 66 (antes 53, +25%)
 
 ### ⚪ en observación — SPCX
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 2 (antes 6, -67%) · 24h 13 (antes 27, -52%)
+- **Pools nuevos:** 1h 1 (antes 0) · 6h 3 (antes 6, -50%) · 24h 14 (antes 26, -46%)
 
 ### ⚪ en observación — SPYx
 - **Quote:** `XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 8, -100%) · 24h 13 (antes 18, -28%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 8, -100%) · 24h 13 (antes 16, -19%)
 
 ### ⚪ en observación — NVDAx
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 3 (antes 1, +200%) · 24h 8 (antes 3, +167%)
 
+### ⚪ en observación — Fartcoin
+- **Quote:** `9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump`
+- **Pools nuevos:** 1h 1 (antes 0) · 6h 5 (antes 0, nuevo) · 24h 6 (antes 0, nuevo)
+
 ### ⚪ en observación — LMT
 - **Quote:** `LMT3i1BHgixFqPUgcyteJhnEz2dpy9i3cYy4pi9BoeV`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 6, -100%) · 24h 6 (antes 0, nuevo)
-
-### ⚪ en observación — Fartcoin
-- **Quote:** `9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 4 (antes 0, nuevo) · 24h 5 (antes 0, nuevo)
 
 ### ⚪ en observación — NFLX
 - **Quote:** `NFLX7qV57zuVxCoHy3s1jiGZyALraLNwttbxdvmYJLJ`
