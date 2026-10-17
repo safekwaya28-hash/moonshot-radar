@@ -1,5 +1,7 @@
 # SCAN C — Meta / Flywheel
-**2026-10-17 09:09 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-17 09:16 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+
+> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
 ## Metas por token de pago (2 activándose)
 
@@ -7,7 +9,7 @@
 - **Quote:** `XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB`
 - **Pools nuevos:** 1h 1 (antes 0) · 6h 14 (antes 3, +367%) · 24h 30 (antes 58, -48%)
 - **Amplitud (24h):** 30 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 24% del volumen
-- **Token de pago:** MC $66.57M · volumen 24h $4.55M · liquidez $2.44M
+- **Token de pago:** MC $66.55M · volumen 24h $4.51M · liquidez $2.44M
 - **Líder (más volumen):** PRIME `2NaYj4ZPqyRzXuZtMimH2zhDyGKzpxC1qmfaVmVuy3KW` · MC $3.1k · vol 24h $13.7k · 24h -31.17%
 - **Líder (mayor subida 24h):** DFC `5zQaRWQWwHEx34SsPQn9DYHx96aANFGyZ2FH9Jt5pump` · MC $4.0k · vol 24h $3.2k · 24h 18.28%
 - **Catalizador:** META ACCELERATION (pools 24h -48%)
@@ -17,7 +19,7 @@
 - **Quote:** `XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 11 (antes 0, nuevo) · 24h 12 (antes 0, nuevo)
 - **Amplitud (24h):** 12 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 44% del volumen
-- **Token de pago:** MC $344.1k · volumen 24h $2.04M · liquidez $290.6k
+- **Token de pago:** MC $344.0k · volumen 24h $2.04M · liquidez $290.6k
 - **Líder (más volumen):** mac `4ZhvSYMEtmqBtCMqt2vkrDFBsQs5q2C4BRMNiqBXpump` · MC $3.1k · vol 24h $6.1k · 24h -22.17%
 - **Líder (mayor subida 24h):** iShit `AzpcmzpFStXMiB1cuP2YmLn5QSvcfjJfHhZJrBcCpump` · MC $3.1k · vol 24h $160 · 24h -8.48%
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
