@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-17 07:53 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-17 08:07 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -7,9 +7,9 @@
 
 ### 🟡 META ACTIVÁNDOSE — TSLAx
 - **Quote:** `XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 13 (antes 5, +160%) · 24h 31 (antes 56, -45%)
+- **Pools nuevos:** 1h 0 (antes 1) · 6h 13 (antes 5, +160%) · 24h 31 (antes 56, -45%)
 - **Amplitud (24h):** 31 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 22% del volumen
-- **Token de pago:** MC $66.60M · volumen 24h $4.85M · liquidez $2.45M
+- **Token de pago:** MC $66.60M · volumen 24h $4.75M · liquidez $2.45M
 - **Líder (más volumen):** CashBack `AxHPwjstZ6VvJfKSTZhvHgC15xLjorsMbcdsbvBspump` · MC $3.1k · vol 24h $16.1k · 24h -33.02%
 - **Líder (mayor subida 24h):** DFC `5zQaRWQWwHEx34SsPQn9DYHx96aANFGyZ2FH9Jt5pump` · MC $4.0k · vol 24h $3.2k · 24h 18.28%
 - **Catalizador:** META ACCELERATION (pools 24h -45%)
@@ -17,7 +17,7 @@
 
 ### 🟡 META ACTIVÁNDOSE — AAPLx
 - **Quote:** `XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp`
-- **Pools nuevos:** 1h 2 (antes 9) · 6h 11 (antes 0, nuevo) · 24h 12 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 11) · 6h 11 (antes 0, nuevo) · 24h 12 (antes 0, nuevo)
 - **Amplitud (24h):** 12 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 44% del volumen
 - **Token de pago:** MC $344.1k · volumen 24h $2.03M · liquidez $290.6k
 - **Líder (más volumen):** mac `4ZhvSYMEtmqBtCMqt2vkrDFBsQs5q2C4BRMNiqBXpump` · MC $3.1k · vol 24h $6.1k · 24h -22.17%
@@ -27,7 +27,7 @@
 
 ### ⚪ en observación — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 4 (antes 0) · 6h 5 (antes 27, -81%) · 24h 70 (antes 52, +35%)
+- **Pools nuevos:** 1h 3 (antes 1) · 6h 5 (antes 27, -81%) · 24h 70 (antes 52, +35%)
 
 ### ⚪ en observación — SPCX
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
@@ -47,7 +47,7 @@
 
 ### ⚪ en observación — CARDS
 - **Quote:** `CARDSccUMFKoPRZxt5vt3ksUbxEFEcnZ3H2pd3dKxYjp`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 2, -50%) · 24h 6 (antes 4, +50%)
+- **Pools nuevos:** 1h 0 (antes 1) · 6h 1 (antes 2, -50%) · 24h 6 (antes 4, +50%)
 
 ### ⚪ en observación — Fartcoin
 - **Quote:** `9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump`
