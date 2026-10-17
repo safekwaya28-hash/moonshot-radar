@@ -1,17 +1,15 @@
 # SCAN C — Meta / Flywheel
-**2026-10-17 11:48 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
-
-> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
+**2026-10-17 12:05 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 ## Metas por token de pago (3 activándose)
 
 ### 🟡 META ACTIVÁNDOSE — SPCX
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
-- **Pools nuevos:** 1h 0 (antes 1) · 6h 13 (antes 3, +333%) · 24h 24 (antes 22, +9%)
-- **Amplitud (24h):** 24 tokens distintos · 1 superan $100k · 0 superan $1M · el mayor = 73% del volumen
-- **Token de pago:** MC — · volumen 24h $6.37M · liquidez $2.82M
-- **Líder (más volumen):** Gigabite `6tsykNmR3WDqouj9uVUFZRgR2Kpai4F1Qm1gAcirpump` · MC $107.3k · vol 24h $418.1k · 24h 137%
-- **Líder (mayor subida 24h):** Gigabite `6tsykNmR3WDqouj9uVUFZRgR2Kpai4F1Qm1gAcirpump` · MC $107.3k · vol 24h $418.1k · 24h 137%
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 13 (antes 3, +333%) · 24h 24 (antes 22, +9%)
+- **Amplitud (24h):** 24 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 75% del volumen
+- **Token de pago:** MC — · volumen 24h $6.28M · liquidez $2.76M
+- **Líder (más volumen):** Gigabite `6tsykNmR3WDqouj9uVUFZRgR2Kpai4F1Qm1gAcirpump` · MC $90.0k · vol 24h $466.3k · 24h 98.48%
+- **Líder (mayor subida 24h):** Gigabite `6tsykNmR3WDqouj9uVUFZRgR2Kpai4F1Qm1gAcirpump` · MC $90.0k · vol 24h $466.3k · 24h 98.48%
 - **Catalizador:** META ACCELERATION (pools 24h +9%)
 
 ### 🟡 META ACTIVÁNDOSE — SPYx
@@ -36,7 +34,7 @@
 
 ### ⚪ en observación — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 0 (antes 4) · 6h 14 (antes 8, +75%) · 24h 76 (antes 56, +36%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 14 (antes 8, +75%) · 24h 76 (antes 56, +36%)
 
 ### ⚪ en observación — TSLAx
 - **Quote:** `XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB`
@@ -48,7 +46,7 @@
 
 ### ⚪ en observación — GOOGLx
 - **Quote:** `XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN`
-- **Pools nuevos:** 1h 0 (antes 1) · 6h 6 (antes 0, nuevo) · 24h 7 (antes 2, +250%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 6 (antes 0, nuevo) · 24h 7 (antes 2, +250%)
 
 ### ⚪ en observación — Fartcoin
 - **Quote:** `9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump`
@@ -66,7 +64,7 @@
 
 ### 🟡 FLYWHEEL ACELERANDO — Bordrless Launchpad (Launchpad)
 - **Ingresos 7d:** $85.1k · 7d anteriores $904 · cambio 94.2×
-- **Ingresos 24h:** $9.5k · 24h anteriores $47.9k · -80% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $9.4k · 24h anteriores $47.9k · -80% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $42.6k
 - **Token:** sin token listado en CoinGecko
 
