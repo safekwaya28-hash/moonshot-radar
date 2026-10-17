@@ -1,11 +1,11 @@
 # OUTCOMES — qué pasó después de cada decisión (incluidas las descartadas)
-**2026-10-17 14:51 UTC** · 1380 monedas seguidas · la decisión original nunca se cambia
+**2026-10-17 15:05 UTC** · 1381 monedas seguidas · la decisión original nunca se cambia
 
 | Escáner | Decisión | Monedas | con 24h | Mediana MC 24h / inicial | Muertas a 24h (≤ −50%) | Máx. ≥2x | ≥5x | ≥10x | 2x antes de −30% | 5x antes de −50% | 10x antes de −70% |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | A | NO | 1 | 1 | 1.00x | 0% | 0% | 0% | 0% | 0% (n=1) | 0% (n=1) | — |
 | B | DESCARTAR | 751 | 485 | 0.32x | 80% | 26% | 6% | 2% | 6% (n=700) | 4% (n=688) | 3% (n=454) |
-| B | FUERA | 92 | 66 | 0.45x | 74% | 42% | 8% | 1% | 5% (n=73) | 6% (n=67) | 50% (n=2) |
+| B | FUERA | 93 | 66 | 0.45x | 74% | 42% | 8% | 1% | 5% (n=73) | 6% (n=67) | 50% (n=2) |
 | B | WATCH | 379 | 296 | 0.27x | 88% | 36% | 11% | 5% | 12% (n=307) | 9% (n=304) | 7% (n=217) |
 | C-meta | 🟡 META ACTIVÁNDOSE | 157 | 77 | 0.86x | 31% | 22% | 6% | 2% | 47% (n=47) | 26% (n=31) | 16% (n=19) |
 
