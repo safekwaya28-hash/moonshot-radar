@@ -1,16 +1,16 @@
 # ESTUDIO · ¿qué entrada y qué forma de vender dan más 10x–50x cobrados?
-**2026-10-17 08:43 UTC** · fuente: todas las graduadas de pump.fun (PumpSwap)
+**2026-10-17 09:42 UTC** · fuente: todas las graduadas de pump.fun (PumpSwap)
 
-- Monedas revisadas: **30,397 / 206,007** (15%) · con pico ≥ $500k: **6,365**
-- Entradas simuladas: **678 monedas** · **100% con < 180 días de datos después** (⚠️ con tanta censura el estudio todavía no puede afirmar nada sobre 50x)
+- Monedas revisadas: **30,484 / 206,007** (15%) · con pico ≥ $500k: **6,380**
+- Entradas simuladas: **682 monedas** · **100% con < 180 días de datos después** (⚠️ con tanta censura el estudio todavía no puede afirmar nada sobre 50x)
 
 ## Ranking (EV = lo que multiplicas de media por operación, cobrado con esa regla de venta)
 
 | # | Entrada | Venta | Ops | EV | IC 95% EV | EV sin top 3 | Mediana | p90 | Cobró ≥10x | Cobró ≥50x | ROI 10×50€ | Caída máx. |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | TIPO_SOAP_pico200k_dd75_mc50k_72h_ruptura | tuya | 41 | 1.10x | 1.06x–1.30x | 1.02x | 1.05x | 1.54x | 0% | 0% | +22% | -5% |
-| 2 | dd70_mc50k_72h_acum | estructura | 7 | 1.09x | 0.94x–1.20x | 0.96x ⚠️ | 1.02x | 1.27x | 0% | 0% | +6% | -1% |
-| 3 | dd85_mc50k_72h_acum | estructura | 7 | 1.09x | 0.94x–1.20x | 0.96x ⚠️ | 1.02x | 1.27x | 0% | 0% | +6% | -1% |
+| 1 | dd70_mc50k_72h_acum | estructura | 7 | 1.09x | 0.94x–1.20x | 0.96x ⚠️ | 1.02x | 1.27x | 0% | 0% | +6% | -1% |
+| 2 | dd85_mc50k_72h_acum | estructura | 7 | 1.09x | 0.94x–1.20x | 0.96x ⚠️ | 1.02x | 1.27x | 0% | 0% | +6% | -1% |
+| 3 | TIPO_SOAP_pico200k_dd75_mc50k_72h_ruptura | tuya | 42 | 1.09x | 1.06x–1.23x | 1.01x | 1.05x | 1.52x | 0% | 0% | +20% | -5% |
 | 4 | dd70_mc50k_72h_acum | escalonada | 7 | 1.08x | 0.93x–1.20x | 0.95x ⚠️ | 1.02x | 1.27x | 0% | 0% | +6% | -2% |
 | 5 | dd70_mc50k_72h_acum | solo_stop | 7 | 1.08x | 0.93x–1.20x | 0.95x ⚠️ | 1.02x | 1.27x | 0% | 0% | +6% | -2% |
 | 6 | dd70_mc50k_72h_acum | trailing | 7 | 1.08x | 0.93x–1.20x | 0.95x ⚠️ | 1.02x | 1.27x | 0% | 0% | +6% | -2% |
