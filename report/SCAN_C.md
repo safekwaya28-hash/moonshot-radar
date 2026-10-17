@@ -1,5 +1,7 @@
 # SCAN C — Meta / Flywheel
-**2026-10-17 06:58 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-17 07:04 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+
+> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
 ## Metas por token de pago (3 activándose)
 
@@ -7,7 +9,7 @@
 - **Quote:** `XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB`
 - **Pools nuevos:** 1h 1 (antes 12) · 6h 13 (antes 6, +117%) · 24h 31 (antes 56, -45%)
 - **Amplitud (24h):** 31 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 22% del volumen
-- **Token de pago:** MC $66.60M · volumen 24h $4.93M · liquidez $2.44M
+- **Token de pago:** MC $66.60M · volumen 24h $4.92M · liquidez $2.44M
 - **Líder (más volumen):** CashBack `AxHPwjstZ6VvJfKSTZhvHgC15xLjorsMbcdsbvBspump` · MC $3.1k · vol 24h $16.1k · 24h -33.02%
 - **Líder (mayor subida 24h):** DFC `5zQaRWQWwHEx34SsPQn9DYHx96aANFGyZ2FH9Jt5pump` · MC $4.0k · vol 24h $3.2k · 24h 18.28%
 - **Catalizador:** META ACCELERATION (pools 24h -45%)
@@ -17,17 +19,17 @@
 - **Quote:** `DFMt2FyLpB6ekPNAzVErLXgpSnJ9CRf1VnxBAkTLpump`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 5 (antes 1, +400%) · 24h 14 (antes 15, -7%)
 - **Amplitud (24h):** 14 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 100% del volumen ⚠️ una sola moneda domina: puede no ser una moda
-- **Token de pago:** MC $3.34M · volumen 24h $4.46M · liquidez $248.6k
-- **Líder (más volumen):** ROADSTER `TB6QtGti9j2zadAryKYKCm7tX1zVvTH4ZQcoXd9pump` · MC $5.6k · vol 24h $15.3k · 24h -79.7%
+- **Token de pago:** MC $3.31M · volumen 24h $4.45M · liquidez $248.4k
+- **Líder (más volumen):** ROADSTER `TB6QtGti9j2zadAryKYKCm7tX1zVvTH4ZQcoXd9pump` · MC $5.6k · vol 24h $14.6k · 24h -83.14%
 - **Líder (mayor subida 24h):** uıoɔ `7aDgovzTB1kt7UVMiz8wn6gSs1jqkLH1NtpBhAhDpump` · MC $5.8k · vol 24h $2 · 24h -51.74%
 - **Catalizador:** META ACCELERATION (pools 24h -7%)
 
 ### 🟡 META ACTIVÁNDOSE — AAPLx
 - **Quote:** `XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp`
 - **Pools nuevos:** 1h 11 (antes 0) · 6h 11 (antes 0, nuevo) · 24h 12 (antes 0, nuevo)
-- **Amplitud (24h):** 12 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 58% del volumen
+- **Amplitud (24h):** 12 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
 - **Token de pago:** MC $344.1k · volumen 24h $2.03M · liquidez $287.1k
-- **Líder (más volumen):** mac `4ZhvSYMEtmqBtCMqt2vkrDFBsQs5q2C4BRMNiqBXpump` · MC $3.1k · vol 24h $6.1k · 24h -22.17%
+- **Líder (más volumen):** iShit `AzpcmzpFStXMiB1cuP2YmLn5QSvcfjJfHhZJrBcCpump` · MC $3.1k · vol 24h $160 · 24h -8.48%
 - **Líder (mayor subida 24h):** iShit `AzpcmzpFStXMiB1cuP2YmLn5QSvcfjJfHhZJrBcCpump` · MC $3.1k · vol 24h $160 · 24h -8.48%
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
 - **Riesgos:** liquidez 0% del MC
@@ -56,9 +58,9 @@
 - **Quote:** `LMT3i1BHgixFqPUgcyteJhnEz2dpy9i3cYy4pi9BoeV`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 6, -100%) · 24h 6 (antes 0, nuevo)
 
-### ⚪ en observación — NFLX
-- **Quote:** `NFLX7qV57zuVxCoHy3s1jiGZyALraLNwttbxdvmYJLJ`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 5, -100%) · 24h 5 (antes 0, nuevo)
+### ⚪ en observación — CARDS
+- **Quote:** `CARDSccUMFKoPRZxt5vt3ksUbxEFEcnZ3H2pd3dKxYjp`
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 2 (antes 3, -33%) · 24h 5 (antes 4, +25%)
 
 ## Plataformas con ingresos acelerando (DefiLlama)
 
