@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-17 17:42 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-17 17:50 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -15,7 +15,7 @@
 - **Quote:** `XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 11, -100%) · 24h 11 (antes 1, +1000%)
 - **Amplitud (24h):** 11 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 29% del volumen
-- **Token de pago:** MC $344.2k · volumen 24h $485.5k · liquidez $290.7k
+- **Token de pago:** MC $344.2k · volumen 24h $467.7k · liquidez $290.7k
 - **Líder (más volumen):** mac `4ZhvSYMEtmqBtCMqt2vkrDFBsQs5q2C4BRMNiqBXpump` · MC $3.1k · vol 24h $6.1k · 24h -22.17%
 - **Líder (mayor subida 24h):** mac `9QEPaU2ULNyzYQMHzPtSSRMHZDDRyimaBMsbjFgypump` · MC $3.1k · vol 24h $663 · 24h -8.51%
 - **Catalizador:** META ACCELERATION (pools 24h +1000%)
@@ -33,15 +33,15 @@
 
 ### ⚪ en observación — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 3 (antes 4) · 6h 17 (antes 15, +13%) · 24h 89 (antes 59, +51%)
+- **Pools nuevos:** 1h 2 (antes 5) · 6h 17 (antes 14, +21%) · 24h 89 (antes 59, +51%)
 
 ### ⚪ en observación — SPCX
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 2 (antes 14, -86%) · 24h 24 (antes 22, +9%)
+- **Pools nuevos:** 1h 1 (antes 0) · 6h 2 (antes 13, -85%) · 24h 24 (antes 22, +9%)
 
 ### ⚪ en observación — TSLAx
 - **Quote:** `XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 7, -100%) · 24h 21 (antes 65, -68%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 3, -100%) · 24h 21 (antes 65, -68%)
 
 ### ⚪ en observación — SPYx
 - **Quote:** `XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W`
