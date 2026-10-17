@@ -1,5 +1,7 @@
 # SCAN C — Meta / Flywheel
-**2026-10-17 01:45 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-17 01:53 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+
+> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
 ## Metas por token de pago (2 activándose)
 
@@ -7,7 +9,7 @@
 - **Quote:** `XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB`
 - **Pools nuevos:** 1h 1 (antes 0) · 6h 5 (antes 2, +150%) · 24h 40 (antes 35, +14%)
 - **Amplitud (24h):** 40 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 47% del volumen
-- **Token de pago:** MC $66.27M · volumen 24h $8.01M · liquidez $2.34M
+- **Token de pago:** MC $66.25M · volumen 24h $7.90M · liquidez $2.34M
 - **Líder (más volumen):** CYBERCAT `Dv9P641WdBgKJ59WvWdX9AFzPLkKJBcwXnkqCCS7pump` · MC $3.0k · vol 24h $33.6k · 24h -22.71%
 - **Líder (mayor subida 24h):** DFC `5zQaRWQWwHEx34SsPQn9DYHx96aANFGyZ2FH9Jt5pump` · MC $4.0k · vol 24h $3.2k · 24h 18.28%
 - **Catalizador:** META ACCELERATION (pools 24h +14%)
@@ -17,7 +19,7 @@
 - **Quote:** `DFMt2FyLpB6ekPNAzVErLXgpSnJ9CRf1VnxBAkTLpump`
 - **Pools nuevos:** 1h 6 (antes 0) · 6h 6 (antes 0, nuevo) · 24h 28 (antes 1, +2700%)
 - **Amplitud (24h):** 28 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 100% del volumen ⚠️ una sola moneda domina: puede no ser una moda
-- **Token de pago:** MC $3.83M · volumen 24h $6.04M · liquidez $289.9k
+- **Token de pago:** MC $3.85M · volumen 24h $6.05M · liquidez $289.9k
 - **Líder (más volumen):** ROADSTER `TB6QtGti9j2zadAryKYKCm7tX1zVvTH4ZQcoXd9pump` · MC $8.0k · vol 24h $29.4k · 24h -81.83%
 - **Líder (mayor subida 24h):** ROADSTER `TB6QtGti9j2zadAryKYKCm7tX1zVvTH4ZQcoXd9pump` · MC $8.0k · vol 24h $29.4k · 24h -81.83%
 - **Catalizador:** META ACCELERATION (pools 24h +2700%)
@@ -57,9 +59,9 @@
 ## Plataformas con ingresos acelerando (DefiLlama)
 
 ### 🟡 FLYWHEEL ACELERANDO — Bordrless Launchpad (Launchpad)
-- **Ingresos 7d:** $101.7k · 7d anteriores $904 · cambio 112.5×
-- **Ingresos 24h:** $30.8k · 24h anteriores $47.9k · -36% (¿sigue acelerando hoy?)
-- **A holders (recompras/quemas/repartos) 7d:** $50.8k
+- **Ingresos 7d:** $85.1k · 7d anteriores $904 · cambio 94.2×
+- **Ingresos 24h:** $14.3k · 24h anteriores $47.9k · -70% (¿sigue acelerando hoy?)
+- **A holders (recompras/quemas/repartos) 7d:** $42.6k
 - **Token:** sin token listado en CoinGecko
 
 ## Llamadas de Telegram (registro hacia delante)
