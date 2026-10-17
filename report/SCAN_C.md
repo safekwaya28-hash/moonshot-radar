@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-17 02:10 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-17 02:18 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -7,19 +7,19 @@
 
 ### 🟡 META ACTIVÁNDOSE — TSLAx
 - **Quote:** `XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB`
-- **Pools nuevos:** 1h 0 (antes 1) · 6h 5 (antes 2, +150%) · 24h 35 (antes 40, -12%)
-- **Amplitud (24h):** 35 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 47% del volumen
-- **Token de pago:** MC $66.26M · volumen 24h $7.08M · liquidez $2.34M
-- **Líder (más volumen):** CYBERCAT `Dv9P641WdBgKJ59WvWdX9AFzPLkKJBcwXnkqCCS7pump` · MC $3.0k · vol 24h $33.6k · 24h -22.71%
+- **Pools nuevos:** 1h 0 (antes 1) · 6h 5 (antes 2, +150%) · 24h 30 (antes 45, -33%)
+- **Amplitud (24h):** 30 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 48% del volumen
+- **Token de pago:** MC $66.26M · volumen 24h $6.77M · liquidez $2.34M
+- **Líder (más volumen):** CashBack `AxHPwjstZ6VvJfKSTZhvHgC15xLjorsMbcdsbvBspump` · MC $3.1k · vol 24h $16.1k · 24h -33.02%
 - **Líder (mayor subida 24h):** DFC `5zQaRWQWwHEx34SsPQn9DYHx96aANFGyZ2FH9Jt5pump` · MC $4.0k · vol 24h $3.2k · 24h 18.28%
-- **Catalizador:** META ACCELERATION (pools 24h -12%)
+- **Catalizador:** META ACCELERATION (pools 24h -33%)
 - **Riesgos:** liquidez 0% del MC
 
 ### 🟡 META ACTIVÁNDOSE — FTR
 - **Quote:** `DFMt2FyLpB6ekPNAzVErLXgpSnJ9CRf1VnxBAkTLpump`
 - **Pools nuevos:** 1h 5 (antes 1) · 6h 6 (antes 0, nuevo) · 24h 24 (antes 5, +380%)
 - **Amplitud (24h):** 24 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 100% del volumen ⚠️ una sola moneda domina: puede no ser una moda
-- **Token de pago:** MC $3.79M · volumen 24h $5.65M · liquidez $293.2k
+- **Token de pago:** MC $4.11M · volumen 24h $5.62M · liquidez $295.3k
 - **Líder (más volumen):** ROADSTER `TB6QtGti9j2zadAryKYKCm7tX1zVvTH4ZQcoXd9pump` · MC $8.0k · vol 24h $29.4k · 24h -81.83%
 - **Líder (mayor subida 24h):** ROADSTER `TB6QtGti9j2zadAryKYKCm7tX1zVvTH4ZQcoXd9pump` · MC $8.0k · vol 24h $29.4k · 24h -81.83%
 - **Catalizador:** META ACCELERATION (pools 24h +380%)
