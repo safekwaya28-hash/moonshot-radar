@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-17 15:44 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-17 15:51 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -9,16 +9,16 @@
 - **Quote:** `ysPp2Bt2j2UQu2tZwtSJz7JxyrmQ8GJcNJE5NyDoS5a`
 - **Pools nuevos:** 1h 10 (antes 9) · 6h 19 (antes 2, +850%) · 24h 23 (antes 0, nuevo)
 - **Amplitud (24h):** 23 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Token de pago:** MC $3.9k · volumen 24h $1.35M · liquidez $215.6k
+- **Token de pago:** MC $3.9k · volumen 24h $1.35M · liquidez $185.7k
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
-- **Riesgos:** concentración: top10 31%, wallet máx 24.3%
+- **Riesgos:** concentración: top10 31%, wallet máx 24.6%
 - **Descartado por seguridad:** mint authority activa
 
 ### 🟡 META ACTIVÁNDOSE — AAPLx
 - **Quote:** `XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 11, -100%) · 24h 11 (antes 1, +1000%)
 - **Amplitud (24h):** 11 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 29% del volumen
-- **Token de pago:** MC $344.2k · volumen 24h $1.55M · liquidez $290.7k
+- **Token de pago:** MC $344.1k · volumen 24h $1.53M · liquidez $290.7k
 - **Líder (más volumen):** mac `4ZhvSYMEtmqBtCMqt2vkrDFBsQs5q2C4BRMNiqBXpump` · MC $3.1k · vol 24h $6.1k · 24h -22.17%
 - **Líder (mayor subida 24h):** mac `9QEPaU2ULNyzYQMHzPtSSRMHZDDRyimaBMsbjFgypump` · MC $3.1k · vol 24h $663 · 24h -8.51%
 - **Catalizador:** META ACCELERATION (pools 24h +1000%)
@@ -30,7 +30,7 @@
 
 ### ⚪ en observación — SPCX
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 3 (antes 12, -75%) · 24h 23 (antes 24, -4%)
+- **Pools nuevos:** 1h 1 (antes 0) · 6h 2 (antes 13, -85%) · 24h 23 (antes 24, -4%)
 
 ### ⚪ en observación — TSLAx
 - **Quote:** `XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB`
