@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-17 20:44 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-17 20:51 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -9,16 +9,16 @@
 - **Quote:** `ysPp2Bt2j2UQu2tZwtSJz7JxyrmQ8GJcNJE5NyDoS5a`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 11 (antes 10, +10%) · 24h 22 (antes 2, +1000%)
 - **Amplitud (24h):** 22 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Token de pago:** MC $3.9k · volumen 24h $1.53M · liquidez $66.9k
+- **Token de pago:** MC $3.9k · volumen 24h $1.54M · liquidez $71.6k
 - **Catalizador:** META ACCELERATION (pools 24h +1000%)
-- **Riesgos:** concentración: top10 45%, wallet máx 33.6%
+- **Riesgos:** concentración: top10 45%, wallet máx 34.6%
 - **Descartado por seguridad:** mint authority activa
 
 ### 🟡 META ACTIVÁNDOSE — AAPLx
 - **Quote:** `XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 11 (antes 1, +1000%)
 - **Amplitud (24h):** 11 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 29% del volumen
-- **Token de pago:** MC $343.5k · volumen 24h $593.3k · liquidez $320.4k
+- **Token de pago:** MC $343.5k · volumen 24h $593.8k · liquidez $322.9k
 - **Líder (más volumen):** mac `4ZhvSYMEtmqBtCMqt2vkrDFBsQs5q2C4BRMNiqBXpump` · MC $3.1k · vol 24h $6.1k · 24h -22.17%
 - **Líder (mayor subida 24h):** mac `9QEPaU2ULNyzYQMHzPtSSRMHZDDRyimaBMsbjFgypump` · MC $3.1k · vol 24h $663 · 24h -8.51%
 - **Catalizador:** META ACCELERATION (pools 24h +1000%)
@@ -28,7 +28,7 @@
 - **Quote:** `9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 3 (antes 2, +50%) · 24h 10 (antes 1, +900%)
 - **Amplitud (24h):** 10 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 25% del volumen
-- **Token de pago:** MC $150.16M · volumen 24h $1.36M · liquidez $7.63M
+- **Token de pago:** MC $149.31M · volumen 24h $1.35M · liquidez $7.61M
 - **Líder (más volumen):** FARTER `5DFnTviLJp4yLvBqn6eWypWmUf2p3fS3ELKTHnWapump` · MC $3.1k · vol 24h $5.0k · 24h -20.77%
 - **Líder (mayor subida 24h):** Nose `D2DWBkrKfTAqu7WPUYTXzaJKjtscqWCCkV1nuXsJpump` · MC $3.1k · vol 24h $1.8k · 24h -9.51%
 - **Catalizador:** META ACCELERATION (pools 24h +900%)
@@ -36,11 +36,11 @@
 
 ### ⚪ en observación — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 0 (antes 6) · 6h 21 (antes 14, +50%) · 24h 52 (antes 102, -49%)
+- **Pools nuevos:** 1h 0 (antes 6) · 6h 21 (antes 14, +50%) · 24h 52 (antes 97, -46%)
 
 ### ⚪ en observación — SPCX
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
-- **Pools nuevos:** 1h 0 (antes 2) · 6h 4 (antes 9, -56%) · 24h 23 (antes 25, -8%)
+- **Pools nuevos:** 1h 0 (antes 2) · 6h 4 (antes 9, -56%) · 24h 23 (antes 23, +0%)
 
 ### ⚪ en observación — TSLAx
 - **Quote:** `XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB`
