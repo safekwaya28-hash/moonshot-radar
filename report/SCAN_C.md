@@ -1,5 +1,7 @@
 # SCAN C — Meta / Flywheel
-**2026-10-17 07:45 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-17 07:53 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+
+> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
 ## Metas por token de pago (2 activándose)
 
@@ -7,7 +9,7 @@
 - **Quote:** `XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB`
 - **Pools nuevos:** 1h 1 (antes 0) · 6h 13 (antes 5, +160%) · 24h 31 (antes 56, -45%)
 - **Amplitud (24h):** 31 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 22% del volumen
-- **Token de pago:** MC $66.60M · volumen 24h $4.84M · liquidez $2.44M
+- **Token de pago:** MC $66.60M · volumen 24h $4.85M · liquidez $2.45M
 - **Líder (más volumen):** CashBack `AxHPwjstZ6VvJfKSTZhvHgC15xLjorsMbcdsbvBspump` · MC $3.1k · vol 24h $16.1k · 24h -33.02%
 - **Líder (mayor subida 24h):** DFC `5zQaRWQWwHEx34SsPQn9DYHx96aANFGyZ2FH9Jt5pump` · MC $4.0k · vol 24h $3.2k · 24h 18.28%
 - **Catalizador:** META ACCELERATION (pools 24h -45%)
@@ -15,8 +17,8 @@
 
 ### 🟡 META ACTIVÁNDOSE — AAPLx
 - **Quote:** `XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp`
-- **Pools nuevos:** 1h 11 (antes 0) · 6h 11 (antes 0, nuevo) · 24h 12 (antes 0, nuevo)
-- **Amplitud (24h):** 12 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 46% del volumen
+- **Pools nuevos:** 1h 2 (antes 9) · 6h 11 (antes 0, nuevo) · 24h 12 (antes 0, nuevo)
+- **Amplitud (24h):** 12 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 44% del volumen
 - **Token de pago:** MC $344.1k · volumen 24h $2.03M · liquidez $290.6k
 - **Líder (más volumen):** mac `4ZhvSYMEtmqBtCMqt2vkrDFBsQs5q2C4BRMNiqBXpump` · MC $3.1k · vol 24h $6.1k · 24h -22.17%
 - **Líder (mayor subida 24h):** iShit `AzpcmzpFStXMiB1cuP2YmLn5QSvcfjJfHhZJrBcCpump` · MC $3.1k · vol 24h $160 · 24h -8.48%
@@ -37,11 +39,11 @@
 
 ### ⚪ en observación — SPYx
 - **Quote:** `XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 6, -100%) · 24h 13 (antes 14, -7%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 6, -100%) · 24h 13 (antes 10, +30%)
 
 ### ⚪ en observación — NVDAx
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 4, -75%) · 24h 9 (antes 2, +350%)
+- **Pools nuevos:** 1h 0 (antes 1) · 6h 1 (antes 4, -75%) · 24h 9 (antes 1, +800%)
 
 ### ⚪ en observación — CARDS
 - **Quote:** `CARDSccUMFKoPRZxt5vt3ksUbxEFEcnZ3H2pd3dKxYjp`
