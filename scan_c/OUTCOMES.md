@@ -1,19 +1,19 @@
 # OUTCOMES — qué pasó después de cada decisión (incluidas las descartadas)
-**2026-10-18 01:53 UTC** · 1407 monedas seguidas · la decisión original nunca se cambia
+**2026-10-18 02:11 UTC** · 1412 monedas seguidas · la decisión original nunca se cambia
 
 | Escáner | Decisión | Monedas | con 24h | Mediana MC 24h / inicial | Muertas a 24h (≤ −50%) | Máx. ≥2x | ≥5x | ≥10x | 2x antes de −30% | 5x antes de −50% | 10x antes de −70% |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | A | NO | 1 | 1 | 1.00x | 0% | 0% | 0% | 0% | 0% (n=1) | 0% (n=1) | — |
-| B | DESCARTAR | 766 | 491 | 0.32x | 80% | 26% | 6% | 2% | 6% (n=721) | 4% (n=709) | 3% (n=471) |
-| B | FUERA | 94 | 67 | 0.45x | 75% | 41% | 8% | 1% | 5% (n=74) | 6% (n=68) | 50% (n=2) |
-| B | WATCH | 379 | 296 | 0.27x | 88% | 37% | 11% | 5% | 12% (n=310) | 9% (n=307) | 7% (n=220) |
+| B | DESCARTAR | 767 | 493 | 0.32x | 80% | 26% | 6% | 2% | 6% (n=721) | 4% (n=709) | 3% (n=471) |
+| B | FUERA | 95 | 68 | 0.45x | 75% | 41% | 8% | 1% | 5% (n=74) | 6% (n=68) | 50% (n=2) |
+| B | WATCH | 382 | 297 | 0.27x | 88% | 37% | 11% | 5% | 12% (n=310) | 9% (n=307) | 7% (n=220) |
 | C-meta | 🟡 META ACTIVÁNDOSE | 167 | 79 | 0.86x | 30% | 23% | 7% | 2% | 48% (n=54) | 27% (n=33) | 16% (n=19) |
 
 ## ¿Qué filtro mata ganadoras? (descartadas por motivo)
 
 | Motivo del descarte | Monedas | con 24h | Mediana 24h | Muertas a 24h | Máx. ≥5x | ≥10x | 2x antes de −30% | 5x antes de −50% | 10x antes de −70% |
 |---|---|---|---|---|---|---|---|---|---|
-| concentración | 427 | 178 | 0.39x | 60% | 3% | 1% | 3% (n=390) | 2% (n=383) | 1% (n=270) |
+| concentración | 428 | 180 | 0.39x | 60% | 3% | 1% | 3% (n=390) | 2% (n=383) | 1% (n=270) |
 | dev vendió | 190 | 175 | 0.31x | 92% | 9% | 3% | 8% (n=183) | 4% (n=179) | 6% (n=105) |
 | compras en el bloque de creación | 141 | 132 | 0.27x | 89% | 9% | 4% | 9% (n=140) | 6% (n=139) | 6% (n=90) |
 | volumen en bucle | 6 | 4 | 0.12x | 100% | 17% | 17% | 33% (n=6) | 0% (n=6) | 0% (n=4) |
