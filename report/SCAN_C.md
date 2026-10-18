@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-18 02:48 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-18 02:55 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -9,16 +9,16 @@
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
 - **Pools nuevos:** 1h 0 (antes 2) · 6h 54 (antes 21, +157%) · 24h 94 (antes 77, +22%)
 - **Amplitud (24h):** 94 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 38% del volumen
-- **Token de pago:** MC $1995.63M · volumen 24h $3.63M · liquidez $23.13M
-- **Líder (más volumen):** Dip `48hnR1CWtafBumJsJod6Q8yduwDuYyumCJzuBVzvpump` · MC $173.2k · vol 24h $744.1k · 24h 587%
-- **Líder (mayor subida 24h):** Dip `48hnR1CWtafBumJsJod6Q8yduwDuYyumCJzuBVzvpump` · MC $173.2k · vol 24h $744.1k · 24h 587%
+- **Token de pago:** MC $2007.17M · volumen 24h $3.63M · liquidez $23.20M
+- **Líder (más volumen):** Dip `48hnR1CWtafBumJsJod6Q8yduwDuYyumCJzuBVzvpump` · MC $154.7k · vol 24h $745.3k · 24h 564%
+- **Líder (mayor subida 24h):** Dip `48hnR1CWtafBumJsJod6Q8yduwDuYyumCJzuBVzvpump` · MC $154.7k · vol 24h $745.3k · 24h 564%
 - **Catalizador:** META ACCELERATION (pools 24h +22%)
 
 ### 🟡 META ACTIVÁNDOSE — Gato
 - **Quote:** `55A3VxMBfzw6uSe64zms5iMPw9k6kx9WzzusbCU6pump`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 37 (antes 1, +3600%) · 24h 38 (antes 0, nuevo)
 - **Amplitud (24h):** 38 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 100% del volumen ⚠️ una sola moneda domina: puede no ser una moda
-- **Token de pago:** MC $729.3k · volumen 24h $1.35M · liquidez $101.6k
+- **Token de pago:** MC $716.3k · volumen 24h $1.36M · liquidez $96.2k
 - **Líder (más volumen):** elgato `HubQTG7q9BTNLpbMBe85oifohXaRuBAN4Y3fFGUHpump` · MC $2.5k · vol 24h $10 · 24h -77.23%
 - **Líder (mayor subida 24h):** elgato `HubQTG7q9BTNLpbMBe85oifohXaRuBAN4Y3fFGUHpump` · MC $2.5k · vol 24h $10 · 24h -77.23%
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
@@ -28,7 +28,7 @@
 - **Quote:** `7iYM9cjpKKNyLvJfq4pYyjubk83dnqxtPDrRdf77pump`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 29 (antes 0, nuevo) · 24h 29 (antes 0, nuevo)
 - **Amplitud (24h):** 29 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 100% del volumen ⚠️ una sola moneda domina: puede no ser una moda
-- **Token de pago:** MC $53.5k · volumen 24h $1.08M · liquidez $20.3k
+- **Token de pago:** MC $53.4k · volumen 24h $1.08M · liquidez $20.4k
 - **Líder (más volumen):** iDiddy `3MnHvZdr9RUfUojb2RTVPUvBic13QnHB1iXuGxuHpump` · MC $3.6k · vol 24h $8 · 24h -66.15%
 - **Líder (mayor subida 24h):** iDiddy `3MnHvZdr9RUfUojb2RTVPUvBic13QnHB1iXuGxuHpump` · MC $3.6k · vol 24h $8 · 24h -66.15%
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
@@ -38,7 +38,7 @@
 - **Quote:** `XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 15 (antes 0, nuevo) · 24h 26 (antes 1, +2500%)
 - **Amplitud (24h):** 26 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 19% del volumen
-- **Token de pago:** MC $343.5k · volumen 24h $339.2k · liquidez $287.2k
+- **Token de pago:** MC $343.5k · volumen 24h $338.9k · liquidez $287.2k
 - **Líder (más volumen):** iDUO `9qyttA1JJAvbPrqyR3pmVPjQEwBMfsRRemNqMiFbpump` · MC $3.1k · vol 24h $9.3k · 24h -22.38%
 - **Líder (mayor subida 24h):** iJackson `3RZBMvTChqxjAtoFhbF7xPiv7HBpDFwbKbJsgeDKpump` · MC $3.1k · vol 24h $10 · 24h -0.3%
 - **Catalizador:** META ACCELERATION (pools 24h +2500%)
@@ -74,19 +74,19 @@
 
 ### 🟡 FLYWHEEL ACELERANDO — Render Network BME (DePIN)
 - **Ingresos 7d:** $183.1k · 7d anteriores $65.6k · cambio 2.8×
-- **Ingresos 24h:** $66.1k · 24h anteriores $78.0k · -15% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $60.9k · 24h anteriores $78.0k · -22% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $174.0k
 - **Token:** sin token listado en CoinGecko
 
 ### 🟡 FLYWHEEL ACELERANDO — Cardboard Trade (Derivatives)
 - **Ingresos 7d:** $149.8k · 7d anteriores — · cambio nuevo
-- **Ingresos 24h:** $59.2k · 24h anteriores $85.3k · -31% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $58.3k · 24h anteriores $85.3k · -32% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $74.9k
 - **Token:** sin token listado en CoinGecko
 
 ### 🟡 FLYWHEEL ACELERANDO — Bordrless Launchpad (Launchpad)
 - **Ingresos 7d:** $86.5k · 7d anteriores $1.2k · cambio 75.1×
-- **Ingresos 24h:** $1.6k · 24h anteriores $14.3k · -89% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $660 · 24h anteriores $14.3k · -95% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $43.2k
 - **Token:** sin token listado en CoinGecko
 
