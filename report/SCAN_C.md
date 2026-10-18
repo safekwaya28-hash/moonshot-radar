@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-18 02:18 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-18 02:48 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -7,18 +7,18 @@
 
 ### 🟡 META ACTIVÁNDOSE — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 2 (antes 0) · 6h 54 (antes 21, +157%) · 24h 94 (antes 77, +22%)
+- **Pools nuevos:** 1h 0 (antes 2) · 6h 54 (antes 21, +157%) · 24h 94 (antes 77, +22%)
 - **Amplitud (24h):** 94 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 38% del volumen
-- **Token de pago:** MC $1988.57M · volumen 24h $3.65M · liquidez $23.09M
-- **Líder (más volumen):** Dip `48hnR1CWtafBumJsJod6Q8yduwDuYyumCJzuBVzvpump` · MC $188.0k · vol 24h $743.5k · 24h 927%
-- **Líder (mayor subida 24h):** Dip `48hnR1CWtafBumJsJod6Q8yduwDuYyumCJzuBVzvpump` · MC $188.0k · vol 24h $743.5k · 24h 927%
+- **Token de pago:** MC $1995.63M · volumen 24h $3.63M · liquidez $23.13M
+- **Líder (más volumen):** Dip `48hnR1CWtafBumJsJod6Q8yduwDuYyumCJzuBVzvpump` · MC $173.2k · vol 24h $744.1k · 24h 587%
+- **Líder (mayor subida 24h):** Dip `48hnR1CWtafBumJsJod6Q8yduwDuYyumCJzuBVzvpump` · MC $173.2k · vol 24h $744.1k · 24h 587%
 - **Catalizador:** META ACCELERATION (pools 24h +22%)
 
 ### 🟡 META ACTIVÁNDOSE — Gato
 - **Quote:** `55A3VxMBfzw6uSe64zms5iMPw9k6kx9WzzusbCU6pump`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 37 (antes 1, +3600%) · 24h 38 (antes 0, nuevo)
 - **Amplitud (24h):** 38 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 100% del volumen ⚠️ una sola moneda domina: puede no ser una moda
-- **Token de pago:** MC $666.7k · volumen 24h $1.34M · liquidez $103.7k
+- **Token de pago:** MC $729.3k · volumen 24h $1.35M · liquidez $101.6k
 - **Líder (más volumen):** elgato `HubQTG7q9BTNLpbMBe85oifohXaRuBAN4Y3fFGUHpump` · MC $2.5k · vol 24h $10 · 24h -77.23%
 - **Líder (mayor subida 24h):** elgato `HubQTG7q9BTNLpbMBe85oifohXaRuBAN4Y3fFGUHpump` · MC $2.5k · vol 24h $10 · 24h -77.23%
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
@@ -28,7 +28,7 @@
 - **Quote:** `7iYM9cjpKKNyLvJfq4pYyjubk83dnqxtPDrRdf77pump`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 29 (antes 0, nuevo) · 24h 29 (antes 0, nuevo)
 - **Amplitud (24h):** 29 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 100% del volumen ⚠️ una sola moneda domina: puede no ser una moda
-- **Token de pago:** MC $55.1k · volumen 24h $1.07M · liquidez $20.5k
+- **Token de pago:** MC $53.5k · volumen 24h $1.08M · liquidez $20.3k
 - **Líder (más volumen):** iDiddy `3MnHvZdr9RUfUojb2RTVPUvBic13QnHB1iXuGxuHpump` · MC $3.6k · vol 24h $8 · 24h -66.15%
 - **Líder (mayor subida 24h):** iDiddy `3MnHvZdr9RUfUojb2RTVPUvBic13QnHB1iXuGxuHpump` · MC $3.6k · vol 24h $8 · 24h -66.15%
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
@@ -38,7 +38,7 @@
 - **Quote:** `XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 15 (antes 0, nuevo) · 24h 26 (antes 1, +2500%)
 - **Amplitud (24h):** 26 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 19% del volumen
-- **Token de pago:** MC $343.4k · volumen 24h $337.2k · liquidez $287.2k
+- **Token de pago:** MC $343.5k · volumen 24h $339.2k · liquidez $287.2k
 - **Líder (más volumen):** iDUO `9qyttA1JJAvbPrqyR3pmVPjQEwBMfsRRemNqMiFbpump` · MC $3.1k · vol 24h $9.3k · 24h -22.38%
 - **Líder (mayor subida 24h):** iJackson `3RZBMvTChqxjAtoFhbF7xPiv7HBpDFwbKbJsgeDKpump` · MC $3.1k · vol 24h $10 · 24h -0.3%
 - **Catalizador:** META ACCELERATION (pools 24h +2500%)
@@ -68,7 +68,7 @@
 
 ### ⚪ en observación — TSLAx
 - **Quote:** `XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 16 (antes 30, -47%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 16 (antes 24, -33%)
 
 ## Plataformas con ingresos acelerando (DefiLlama)
 
