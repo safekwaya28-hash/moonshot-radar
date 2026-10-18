@@ -1,19 +1,19 @@
 # SCAN B — Despegues (objetivo 100x+)
-**2026-10-18 09:00 UTC** · 5,000 creaciones recientes revisadas · 1 en la ventana $8k–$40k · 1 con análisis profundo
+**2026-10-18 09:30 UTC** · 5,000 creaciones recientes revisadas · 1 en la ventana $8k–$40k · 1 con análisis profundo
 
 🟢 COMPRA AHORA **0** · 🟡 WATCH **0** · 🔴 DESCARTAR **0** · ⚪ FUERA **1**
 
 ### ⚪ FUERA — $2bRKAe
 - **CA:** `2bRKAeXEvzWmKEbxENECLtjYN8XKCZpgHsc2TZgvpump`
-- **MC:** $7.8k · curva 53% · edad 90.0 h
+- **MC:** $7.6k · curva 51% · edad 90.5 h · hace 30 min: $7.8k
 - **Smart money:** ninguna de tus wallets
 - **B:** 2/9 · **M:** 0/5
-- **Compradores:** 30m 4 · nuevos 5m 0 (antes 0, BAI 0.00) · compradores/vendedores 15m 0.00
-- **Volumen 15m:** $27 (antes $284) · wallet dominante 100% · retención 15m 75% · compra mediana $31
-- **Seguridad:** snipers 5 · bloque creación 10% · top10 25% · wallet máx 4.0% · dev tiene 1.6% · dev vendió 0% · 5 wallets = 42% del volumen
+- **Compradores:** 30m 0 · nuevos 5m 0 (antes 0, BAI 0.00) · compradores/vendedores 15m 0.00
+- **Volumen 15m:** $0 (antes $93) · wallet dominante 0% · retención 15m — · compra mediana $30
+- **Seguridad:** snipers 5 · bloque creación 10% · top10 25% · wallet máx 4.0% · dev tiene 1.6% · dev vendió 0% · 5 wallets = 43% del volumen
 - **Prueba de venta:** 6/3 con financiador verificado y distinto (no-dev, mantuvieron ≥5 min y vendieron; 20 en total, 14 no verificables)
-- **Cobertura de datos:** 2958 min observados
-- **Participantes 30m:** nuevos 1 · recompran 0 · compran y venden (flippers) 50% · volumen 15m / liquidez 0.0×
+- **Cobertura de datos:** 2988 min observados
+- **Participantes 30m:** nuevos 0 · recompran 0 · compran y venden (flippers) 0% · volumen 15m / liquidez 0.0×
 - **Smart money:** convergencia 0 wallets en 10 min · posición entre los compradores — (entre los compradores observados, no entre todos)
 - **Financiación del top:** sin grupos detectados (1 nivel, wallets nuevas)
 - **A mano:** origen del dinero de los compradores (bundles/insiders en GMGN); narrativa (X/Telegram)
