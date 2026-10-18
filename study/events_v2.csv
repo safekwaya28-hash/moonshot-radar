@@ -15819,3 +15819,13 @@ FutN7pjfoJjEsfRG8BMtam2jtWdbg2up9HMa7dYwpump,TIPO_SOAP_pico200k_dd75_mc50k_72h_r
 64tUZQBCDKhkxPYNey9PXdV8Hz36ra28FuDhMMULpump,TIPO_SOAP_pico200k_dd75_mc50k_72h_base,trailing,1791244800,3552,12.3,1.423,0.9532,True,1,1.0,0
 64tUZQBCDKhkxPYNey9PXdV8Hz36ra28FuDhMMULpump,TIPO_SOAP_pico200k_dd75_mc50k_72h_base,escalonada,1791244800,3552,12.3,1.423,0.9532,True,1,1.0,0
 64tUZQBCDKhkxPYNey9PXdV8Hz36ra28FuDhMMULpump,TIPO_SOAP_pico200k_dd75_mc50k_72h_base,estructura,1791244800,3552,12.3,1.423,0.8028,False,11,1.423,5
+v46e4ZbjFh33EbUjCd7pB6EAaUsze4GrJMsg7Pjpump,REF_dd70_mc150k_sin_base,tuya,1790352000,2650,22.7,1.006,0.893,True,3,1.006,1
+v46e4ZbjFh33EbUjCd7pB6EAaUsze4GrJMsg7Pjpump,REF_dd70_mc150k_sin_base,solo_stop,1790352000,2650,22.7,1.006,0.893,True,3,1.006,1
+v46e4ZbjFh33EbUjCd7pB6EAaUsze4GrJMsg7Pjpump,REF_dd70_mc150k_sin_base,trailing,1790352000,2650,22.7,1.006,0.893,True,3,1.006,1
+v46e4ZbjFh33EbUjCd7pB6EAaUsze4GrJMsg7Pjpump,REF_dd70_mc150k_sin_base,escalonada,1790352000,2650,22.7,1.006,0.893,True,3,1.006,1
+v46e4ZbjFh33EbUjCd7pB6EAaUsze4GrJMsg7Pjpump,REF_dd70_mc150k_sin_base,estructura,1790352000,2650,22.7,1.006,0.7282,False,23,1.006,1
+v46e4ZbjFh33EbUjCd7pB6EAaUsze4GrJMsg7Pjpump,REF_dd85_mc150k_sin_base,tuya,1790352000,2650,22.7,1.006,0.893,True,3,1.006,1
+v46e4ZbjFh33EbUjCd7pB6EAaUsze4GrJMsg7Pjpump,REF_dd85_mc150k_sin_base,solo_stop,1790352000,2650,22.7,1.006,0.893,True,3,1.006,1
+v46e4ZbjFh33EbUjCd7pB6EAaUsze4GrJMsg7Pjpump,REF_dd85_mc150k_sin_base,trailing,1790352000,2650,22.7,1.006,0.893,True,3,1.006,1
+v46e4ZbjFh33EbUjCd7pB6EAaUsze4GrJMsg7Pjpump,REF_dd85_mc150k_sin_base,escalonada,1790352000,2650,22.7,1.006,0.893,True,3,1.006,1
+v46e4ZbjFh33EbUjCd7pB6EAaUsze4GrJMsg7Pjpump,REF_dd85_mc150k_sin_base,estructura,1790352000,2650,22.7,1.006,0.7282,False,23,1.006,1
