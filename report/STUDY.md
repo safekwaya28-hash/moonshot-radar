@@ -1,8 +1,8 @@
 # ESTUDIO · ¿qué entrada y qué forma de vender dan más 10x–50x cobrados?
-**2026-10-17 23:34 UTC** · fuente: todas las graduadas de pump.fun (PumpSwap)
+**2026-10-18 00:56 UTC** · fuente: todas las graduadas de pump.fun (PumpSwap)
 
-- Monedas revisadas: **31,708 / 206,007** (15%) · con pico ≥ $500k: **6,622**
-- Entradas simuladas: **711 monedas** · **100% con < 180 días de datos después** (⚠️ con tanta censura el estudio todavía no puede afirmar nada sobre 50x)
+- Monedas revisadas: **31,794 / 206,007** (15%) · con pico ≥ $500k: **6,641**
+- Entradas simuladas: **712 monedas** · **100% con < 180 días de datos después** (⚠️ con tanta censura el estudio todavía no puede afirmar nada sobre 50x)
 
 ## Ranking (EV = lo que multiplicas de media por operación, cobrado con esa regla de venta)
 
@@ -19,11 +19,11 @@
 | 9 | dd85_mc50k_72h_acum | solo_stop | 7 | 1.08x | 0.93x–1.20x | 0.95x ⚠️ | 1.02x | 1.27x | 0% | 0% | +6% | -2% |
 | 10 | dd85_mc50k_72h_acum | trailing | 7 | 1.08x | 0.93x–1.20x | 0.95x ⚠️ | 1.02x | 1.27x | 0% | 0% | +6% | -2% |
 | 11 | dd85_mc50k_72h_acum | tuya | 7 | 1.08x | 0.93x–1.20x | 0.95x ⚠️ | 1.02x | 1.27x | 0% | 0% | +6% | -2% |
-| 12 | REF_dd85_mc150k_sin_base | escalonada | 287 | 1.07x | 0.64x–1.13x | 1.01x | 0.98x | 1.32x | 0% | 0% | +25% | -27% |
+| 12 | REF_dd85_mc150k_sin_base | escalonada | 288 | 1.07x | 0.64x–1.13x | 1.01x | 0.98x | 1.32x | 0% | 0% | +14% | -29% |
 | 13 | dd70_mc150k_72h_acum | escalonada | 8 | 1.07x | 0.93x–1.20x | 0.95x ⚠️ | 0.99x | 1.26x | 0% | 0% | +5% | -3% |
 | 14 | dd70_mc150k_72h_acum | solo_stop | 8 | 1.07x | 0.93x–1.20x | 0.95x ⚠️ | 0.99x | 1.26x | 0% | 0% | +5% | -3% |
 | 15 | dd70_mc150k_72h_acum | trailing | 8 | 1.07x | 0.93x–1.20x | 0.95x ⚠️ | 0.99x | 1.26x | 0% | 0% | +5% | -3% |
-| 16 | dd70_mc150k_72h_base ⭐ | tuya | 80 | 0.99x | 0.99x–0.99x | 0.96x | 0.95x | 1.31x | 0% | 0% | -3% | -20% |
+| 16 | dd70_mc150k_72h_base ⭐ | tuya | 81 | 0.99x | 0.99x–0.99x | 0.96x | 0.95x | 1.31x | 0% | 0% | +0% | -17% |
 
 ⭐ = tus reglas actuales. ⚠️ = el EV pasa de ganar a perder quitando las 3 mejores: es suerte, no estrategia.
 EV > 1x = gana de media. Solo filas con ≥ 5 operaciones (con menos de ~30 los números bailan mucho).
