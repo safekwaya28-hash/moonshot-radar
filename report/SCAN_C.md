@@ -1,5 +1,7 @@
 # SCAN C — Meta / Flywheel
-**2026-10-18 22:05 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-18 22:13 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+
+> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
 ## Metas por token de pago (8 activándose)
 
@@ -7,7 +9,7 @@
 - **Quote:** `7iYM9cjpKKNyLvJfq4pYyjubk83dnqxtPDrRdf77pump`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 29 (antes 0, nuevo)
 - **Amplitud (24h):** 29 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 100% del volumen ⚠️ una sola moneda domina: puede no ser una moda
-- **Token de pago:** MC $11.3k · volumen 24h $1.20M · liquidez $8.9k
+- **Token de pago:** MC $11.2k · volumen 24h $1.20M · liquidez $8.8k
 - **Líder (más volumen):** iDiddy `3MnHvZdr9RUfUojb2RTVPUvBic13QnHB1iXuGxuHpump` · MC $201 · vol 24h $8 · 24h -98.1%
 - **Líder (mayor subida 24h):** iDiddy `3MnHvZdr9RUfUojb2RTVPUvBic13QnHB1iXuGxuHpump` · MC $201 · vol 24h $8 · 24h -98.1%
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
@@ -17,8 +19,8 @@
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
 - **Pools nuevos:** 1h 6 (antes 0) · 6h 11 (antes 5, +120%) · 24h 24 (antes 23, +4%)
 - **Amplitud (24h):** 24 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 52% del volumen
-- **Token de pago:** MC — · volumen 24h $4.08M · liquidez $1.86M
-- **Líder (más volumen):** Gigabite `6tsykNmR3WDqouj9uVUFZRgR2Kpai4F1Qm1gAcirpump` · MC $20.6k · vol 24h $199.6k · 24h -81.66%
+- **Token de pago:** MC — · volumen 24h $4.47M · liquidez $1.83M
+- **Líder (más volumen):** Gigabite `6tsykNmR3WDqouj9uVUFZRgR2Kpai4F1Qm1gAcirpump` · MC $20.1k · vol 24h $197.8k · 24h -81.81%
 - **Líder (mayor subida 24h):** cat5 `3Z97VzbBe9F8qGZahC6RSQUZiwFVzktUfvEEpvt9pump` · MC $3.1k · vol 24h $7 · 24h 0.18%
 - **Catalizador:** META ACCELERATION (pools 24h +4%)
 
@@ -26,7 +28,7 @@
 - **Quote:** `5XHR1a82F8YRKuNzbdg1S2fwRgGmHG4Ly1JCJDyPpump`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 14 (antes 0, nuevo)
 - **Amplitud (24h):** 14 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 79% del volumen
-- **Token de pago:** MC $13.4k · volumen 24h $885.8k · liquidez $10.3k
+- **Token de pago:** MC $14.6k · volumen 24h $886.1k · liquidez $10.8k
 - **Líder (más volumen):** ELON `BJABVGv262PhUS45JxR7p3JWNFCuV8hSQq39Q8fWpump` · MC $302 · vol 24h $18.0k · 24h -98.61%
 - **Líder (mayor subida 24h):** ELON `BJABVGv262PhUS45JxR7p3JWNFCuV8hSQq39Q8fWpump` · MC $302 · vol 24h $18.0k · 24h -98.61%
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
@@ -36,7 +38,7 @@
 - **Quote:** `ArpPsesHXKbGeJsHdquM6acT3uNs7BChyetJjiNYpump`
 - **Pools nuevos:** 1h 13 (antes 0) · 6h 13 (antes 0, nuevo) · 24h 13 (antes 0, nuevo)
 - **Amplitud (24h):** 13 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Token de pago:** MC $228.1k · volumen 24h $2.02M · liquidez $45.5k
+- **Token de pago:** MC $282.1k · volumen 24h $2.14M · liquidez $49.2k
 - **Líder (más volumen):** BBS `AbSgUzgcazBNxKjdh4W7BBRJdjdeJYLsvzM5JHxSpump` · MC — · vol 24h $0 · 24h None%
 - **Líder (mayor subida 24h):** BBS `AbSgUzgcazBNxKjdh4W7BBRJdjdeJYLsvzM5JHxSpump` · MC — · vol 24h $0 · 24h None%
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
@@ -45,7 +47,7 @@
 - **Quote:** `5ubruMYpgKqw9ip5J1qrXbVGmMdn2VCsMg421B4bpump`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 3, -100%) · 24h 12 (antes 0, nuevo)
 - **Amplitud (24h):** 12 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Token de pago:** MC $428.0k · volumen 24h $2.26M · liquidez $69.0k
+- **Token de pago:** MC $417.1k · volumen 24h $2.14M · liquidez $68.2k
 - **Líder (más volumen):** pigonboard `u5VZgtuX4fzjdGnqeaKCx3R5tNJszbsS6NAxiGTpump` · MC — · vol 24h $0 · 24h None%
 - **Líder (mayor subida 24h):** pigonboard `u5VZgtuX4fzjdGnqeaKCx3R5tNJszbsS6NAxiGTpump` · MC — · vol 24h $0 · 24h None%
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
