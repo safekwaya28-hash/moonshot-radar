@@ -1,13 +1,13 @@
 # SCAN C — Meta / Flywheel
-**2026-10-18 12:04 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-18 12:08 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
-## Metas por token de pago (7 activándose)
+## Metas por token de pago (8 activándose)
 
 ### 🟡 META ACTIVÁNDOSE — Gato
 - **Quote:** `55A3VxMBfzw6uSe64zms5iMPw9k6kx9WzzusbCU6pump`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 38 (antes 0, nuevo)
 - **Amplitud (24h):** 38 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 100% del volumen ⚠️ una sola moneda domina: puede no ser una moda
-- **Token de pago:** MC $576.3k · volumen 24h $5.87M · liquidez $77.7k
+- **Token de pago:** MC $617.7k · volumen 24h $5.87M · liquidez $80.5k
 - **Líder (más volumen):** elgato `HubQTG7q9BTNLpbMBe85oifohXaRuBAN4Y3fFGUHpump` · MC $2.5k · vol 24h $10 · 24h -77.23%
 - **Líder (mayor subida 24h):** elgato `HubQTG7q9BTNLpbMBe85oifohXaRuBAN4Y3fFGUHpump` · MC $2.5k · vol 24h $10 · 24h -77.23%
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
@@ -17,7 +17,7 @@
 - **Quote:** `7iYM9cjpKKNyLvJfq4pYyjubk83dnqxtPDrRdf77pump`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 29 (antes 0, nuevo)
 - **Amplitud (24h):** 29 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 100% del volumen ⚠️ una sola moneda domina: puede no ser una moda
-- **Token de pago:** MC $44.6k · volumen 24h $1.15M · liquidez $18.9k
+- **Token de pago:** MC $50.7k · volumen 24h $1.15M · liquidez $20.3k
 - **Líder (más volumen):** iDiddy `3MnHvZdr9RUfUojb2RTVPUvBic13QnHB1iXuGxuHpump` · MC $3.6k · vol 24h $8 · 24h -66.15%
 - **Líder (mayor subida 24h):** iDiddy `3MnHvZdr9RUfUojb2RTVPUvBic13QnHB1iXuGxuHpump` · MC $3.6k · vol 24h $8 · 24h -66.15%
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
@@ -32,7 +32,7 @@
 ### 🟡 META ACTIVÁNDOSE — AAPLx
 - **Quote:** `XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp`
 - **Pools nuevos:** 1h 1 (antes 0) · 6h 2 (antes 1, +100%) · 24h 18 (antes 11, +64%)
-- **Amplitud (24h):** 18 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 26% del volumen
+- **Amplitud (24h):** 18 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 29% del volumen
 - **Token de pago:** MC $343.5k · volumen 24h $1.28M · liquidez $296.1k
 - **Líder (más volumen):** iINU `mKcSbVcnx8ym4tE8MYcmMBZmzhGsZfGQmhKhoPXpump` · MC $3.1k · vol 24h $9.7k · 24h -6.04%
 - **Líder (mayor subida 24h):** iMolest `E9csSXLHjQbHAr49CCtDZR9iLL3NTrR15MB5C68tpump` · MC $3.1k · vol 24h $261 · 24h -5.89%
@@ -41,10 +41,14 @@
 
 ### 🟡 META ACTIVÁNDOSE — X
 - **Quote:** `5XHR1a82F8YRKuNzbdg1S2fwRgGmHG4Ly1JCJDyPpump`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 2, -100%) · 24h 14 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 14 (antes 0, nuevo)
 - **Amplitud (24h):** 14 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
 - **Token de pago:** MC $15.8k · volumen 24h $876.6k · liquidez $11.4k
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
+
+### 🟡 META ACTIVÁNDOSE — NVDAx
+- **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
+- **Pools nuevos:** 1h 4 (antes 0) · 6h 4 (antes 0, nuevo) · 24h 12 (antes 9, +33%)
 
 ### 🟡 META ACTIVÁNDOSE — inu
 - **Quote:** `E28eQFoCPndfLUPnxYgEWHhbnEVqSpyNPgAacoAEpump`
@@ -56,15 +60,11 @@
 
 ### ⚪ en observación — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 5 (antes 14, -64%) · 24h 94 (antes 76, +24%)
+- **Pools nuevos:** 1h 1 (antes 0) · 6h 5 (antes 12, -58%) · 24h 94 (antes 76, +24%)
 
 ### ⚪ en observación — SPCX
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 7, -100%) · 24h 15 (antes 24, -38%)
-
-### ⚪ en observación — NVDAx
-- **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 0, nuevo) · 24h 9 (antes 9, +0%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 6, -100%) · 24h 15 (antes 24, -38%)
 
 ## Plataformas con ingresos acelerando (DefiLlama)
 
