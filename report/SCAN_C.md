@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-19 01:02 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-19 01:09 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -9,23 +9,23 @@
 - **Quote:** `ArpPsesHXKbGeJsHdquM6acT3uNs7BChyetJjiNYpump`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 13 (antes 0, nuevo) · 24h 13 (antes 0, nuevo)
 - **Amplitud (24h):** 13 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Token de pago:** MC $126.9k · volumen 24h $2.89M · liquidez $33.5k
+- **Token de pago:** MC $128.2k · volumen 24h $2.89M · liquidez $33.7k
 - **Líder (más volumen):** BBS `AbSgUzgcazBNxKjdh4W7BBRJdjdeJYLsvzM5JHxSpump` · MC — · vol 24h $0 · 24h None%
 - **Líder (mayor subida 24h):** BBS `AbSgUzgcazBNxKjdh4W7BBRJdjdeJYLsvzM5JHxSpump` · MC — · vol 24h $0 · 24h None%
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
 
 ### 🟡 META ACTIVÁNDOSE — MSFTx
 - **Quote:** `XspzcW1PRtgf6Wj92HCiZdjzKCyFekVD8P5Ueh3dRMX`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 4 (antes 0, nuevo) · 24h 10 (antes 1, +900%)
+- **Pools nuevos:** 1h 0 (antes 1) · 6h 4 (antes 0, nuevo) · 24h 10 (antes 1, +900%)
 - **Amplitud (24h):** 9 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 98% del volumen ⚠️ una sola moneda domina: puede no ser una moda
-- **Token de pago:** MC $535.0k · volumen 24h $819.2k · liquidez $385.2k
-- **Líder (más volumen):** REXCOIN `72bBC6JoWu45rMuVrLz8XEybTy4vxQn1ADoAVuYupump` · MC $48.6k · vol 24h $799.7k · 24h 12.59%
-- **Líder (mayor subida 24h):** REXCOIN `72bBC6JoWu45rMuVrLz8XEybTy4vxQn1ADoAVuYupump` · MC $48.6k · vol 24h $799.7k · 24h 12.59%
+- **Token de pago:** MC $535.0k · volumen 24h $816.3k · liquidez $384.6k
+- **Líder (más volumen):** REXCOIN `72bBC6JoWu45rMuVrLz8XEybTy4vxQn1ADoAVuYupump` · MC $48.5k · vol 24h $799.8k · 24h 12.33%
+- **Líder (mayor subida 24h):** REXCOIN `72bBC6JoWu45rMuVrLz8XEybTy4vxQn1ADoAVuYupump` · MC $48.5k · vol 24h $799.8k · 24h 12.33%
 - **Catalizador:** META ACCELERATION (pools 24h +900%)
 
 ### ⚪ en observación — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 12 (antes 11) · 6h 36 (antes 20, +80%) · 24h 75 (antes 93, -19%)
+- **Pools nuevos:** 1h 0 (antes 12) · 6h 36 (antes 20, +80%) · 24h 75 (antes 93, -19%)
 
 ### ⚪ en observación — SPCX
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
@@ -33,11 +33,11 @@
 
 ### ⚪ en observación — WBTC
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 2 (antes 4, -50%) · 24h 9 (antes 4, +125%)
+- **Pools nuevos:** 1h 0 (antes 1) · 6h 2 (antes 4, -50%) · 24h 9 (antes 4, +125%)
 
 ### ⚪ en observación — wXMR
 - **Quote:** `WXMRyRZhsa19ety5erZhHg4N3xj3EVN92u94422teJp`
-- **Pools nuevos:** 1h 0 (antes 3) · 6h 5 (antes 4, +25%) · 24h 9 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 5 (antes 4, +25%) · 24h 9 (antes 0, nuevo)
 
 ### ⚪ en observación — onboard
 - **Quote:** `5ubruMYpgKqw9ip5J1qrXbVGmMdn2VCsMg421B4bpump`
@@ -45,7 +45,7 @@
 
 ### ⚪ en observación — ZEC
 - **Quote:** `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS`
-- **Pools nuevos:** 1h 0 (antes 1) · 6h 4 (antes 3, +33%) · 24h 7 (antes 2, +250%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 4 (antes 3, +33%) · 24h 7 (antes 2, +250%)
 
 ### ⚪ en observación — NVDAx
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
@@ -53,7 +53,7 @@
 
 ### ⚪ en observación — LUKE
 - **Quote:** `Ez7eEs53hQiXgCGmcbhdX5i1jgg2gC3F6MoeosuVpump`
-- **Pools nuevos:** 1h 0 (antes 2) · 6h 2 (antes 5, -60%) · 24h 7 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 2 (antes 5, -60%) · 24h 7 (antes 0, nuevo)
 
 ## Plataformas con ingresos acelerando (DefiLlama)
 
