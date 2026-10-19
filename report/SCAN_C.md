@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-19 01:48 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-19 01:55 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -9,7 +9,7 @@
 - **Quote:** `ArpPsesHXKbGeJsHdquM6acT3uNs7BChyetJjiNYpump`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 13 (antes 0, nuevo) · 24h 13 (antes 0, nuevo)
 - **Amplitud (24h):** 13 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Token de pago:** MC $118.3k · volumen 24h $2.92M · liquidez $32.4k
+- **Token de pago:** MC $135.3k · volumen 24h $2.93M · liquidez $34.8k
 - **Líder (más volumen):** BBS `AbSgUzgcazBNxKjdh4W7BBRJdjdeJYLsvzM5JHxSpump` · MC — · vol 24h $0 · 24h None%
 - **Líder (mayor subida 24h):** BBS `AbSgUzgcazBNxKjdh4W7BBRJdjdeJYLsvzM5JHxSpump` · MC — · vol 24h $0 · 24h None%
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
@@ -19,8 +19,8 @@
 - **Pools nuevos:** 1h 0 (antes 1) · 6h 4 (antes 0, nuevo) · 24h 10 (antes 1, +900%)
 - **Amplitud (24h):** 9 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 98% del volumen ⚠️ una sola moneda domina: puede no ser una moda
 - **Token de pago:** MC $535.0k · volumen 24h $815.8k · liquidez $384.6k
-- **Líder (más volumen):** REXCOIN `72bBC6JoWu45rMuVrLz8XEybTy4vxQn1ADoAVuYupump` · MC $49.0k · vol 24h $806.1k · 24h 13.53%
-- **Líder (mayor subida 24h):** REXCOIN `72bBC6JoWu45rMuVrLz8XEybTy4vxQn1ADoAVuYupump` · MC $49.0k · vol 24h $806.1k · 24h 13.53%
+- **Líder (más volumen):** REXCOIN `72bBC6JoWu45rMuVrLz8XEybTy4vxQn1ADoAVuYupump` · MC $48.4k · vol 24h $806.2k · 24h 12.1%
+- **Líder (mayor subida 24h):** REXCOIN `72bBC6JoWu45rMuVrLz8XEybTy4vxQn1ADoAVuYupump` · MC $48.4k · vol 24h $806.2k · 24h 12.1%
 - **Catalizador:** META ACCELERATION (pools 24h +900%)
 
 ### ⚪ en observación — PUMP
@@ -60,7 +60,7 @@
 ### 🟡 FLYWHEEL ACELERANDO — Render Network BME (DePIN)
 - **Ingresos 7d:** $255.0k · 7d anteriores $59.4k · cambio 4.3×
 - **Ingresos 24h:** $75.1k · 24h anteriores $66.1k · +14% (¿sigue acelerando hoy?)
-- **A holders (recompras/quemas/repartos) 7d:** $242.3k
+- **A holders (recompras/quemas/repartos) 7d:** $247.7k
 - **Token:** sin token listado en CoinGecko
 
 ### 🟡 FLYWHEEL ACELERANDO — Cardboard Trade (Derivatives)
