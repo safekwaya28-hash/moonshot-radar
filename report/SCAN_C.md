@@ -1,5 +1,7 @@
 # SCAN C — Meta / Flywheel
-**2026-10-19 00:08 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-19 01:02 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+
+> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
 ## Metas por token de pago (2 activándose)
 
@@ -7,31 +9,31 @@
 - **Quote:** `ArpPsesHXKbGeJsHdquM6acT3uNs7BChyetJjiNYpump`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 13 (antes 0, nuevo) · 24h 13 (antes 0, nuevo)
 - **Amplitud (24h):** 13 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Token de pago:** MC $163.6k · volumen 24h $2.78M · liquidez $38.1k
+- **Token de pago:** MC $126.9k · volumen 24h $2.89M · liquidez $33.5k
 - **Líder (más volumen):** BBS `AbSgUzgcazBNxKjdh4W7BBRJdjdeJYLsvzM5JHxSpump` · MC — · vol 24h $0 · 24h None%
 - **Líder (mayor subida 24h):** BBS `AbSgUzgcazBNxKjdh4W7BBRJdjdeJYLsvzM5JHxSpump` · MC — · vol 24h $0 · 24h None%
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
 
 ### 🟡 META ACTIVÁNDOSE — MSFTx
 - **Quote:** `XspzcW1PRtgf6Wj92HCiZdjzKCyFekVD8P5Ueh3dRMX`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 4 (antes 1, +300%) · 24h 10 (antes 1, +900%)
+- **Pools nuevos:** 1h 1 (antes 0) · 6h 4 (antes 0, nuevo) · 24h 10 (antes 1, +900%)
 - **Amplitud (24h):** 9 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 98% del volumen ⚠️ una sola moneda domina: puede no ser una moda
-- **Token de pago:** MC $534.7k · volumen 24h $812.8k · liquidez $384.5k
-- **Líder (más volumen):** REXCOIN `72bBC6JoWu45rMuVrLz8XEybTy4vxQn1ADoAVuYupump` · MC $46.4k · vol 24h $796.1k · 24h 7.38%
-- **Líder (mayor subida 24h):** REXCOIN `72bBC6JoWu45rMuVrLz8XEybTy4vxQn1ADoAVuYupump` · MC $46.4k · vol 24h $796.1k · 24h 7.38%
+- **Token de pago:** MC $535.0k · volumen 24h $819.2k · liquidez $385.2k
+- **Líder (más volumen):** REXCOIN `72bBC6JoWu45rMuVrLz8XEybTy4vxQn1ADoAVuYupump` · MC $48.6k · vol 24h $799.7k · 24h 12.59%
+- **Líder (mayor subida 24h):** REXCOIN `72bBC6JoWu45rMuVrLz8XEybTy4vxQn1ADoAVuYupump` · MC $48.6k · vol 24h $799.7k · 24h 12.59%
 - **Catalizador:** META ACCELERATION (pools 24h +900%)
 
 ### ⚪ en observación — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 12 (antes 11) · 6h 38 (antes 20, +90%) · 24h 75 (antes 99, -24%)
+- **Pools nuevos:** 1h 12 (antes 11) · 6h 36 (antes 20, +80%) · 24h 75 (antes 93, -19%)
 
 ### ⚪ en observación — SPCX
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 7 (antes 9, -22%) · 24h 22 (antes 25, -12%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 6 (antes 10, -40%) · 24h 21 (antes 26, -19%)
 
 ### ⚪ en observación — WBTC
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 2 (antes 5, -60%) · 24h 9 (antes 4, +125%)
+- **Pools nuevos:** 1h 1 (antes 0) · 6h 2 (antes 4, -50%) · 24h 9 (antes 4, +125%)
 
 ### ⚪ en observación — wXMR
 - **Quote:** `WXMRyRZhsa19ety5erZhHg4N3xj3EVN92u94422teJp`
@@ -47,7 +49,7 @@
 
 ### ⚪ en observación — NVDAx
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 3, -100%) · 24h 7 (antes 12, -42%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 3, -100%) · 24h 7 (antes 9, -22%)
 
 ### ⚪ en observación — LUKE
 - **Quote:** `Ez7eEs53hQiXgCGmcbhdX5i1jgg2gC3F6MoeosuVpump`
@@ -56,21 +58,21 @@
 ## Plataformas con ingresos acelerando (DefiLlama)
 
 ### 🟡 FLYWHEEL ACELERANDO — Render Network BME (DePIN)
-- **Ingresos 7d:** $183.1k · 7d anteriores $65.6k · cambio 2.8×
-- **Ingresos 24h:** $87.3k · 24h anteriores $78.0k · +12% (¿sigue acelerando hoy?)
-- **A holders (recompras/quemas/repartos) 7d:** $174.0k
+- **Ingresos 7d:** $255.0k · 7d anteriores $59.4k · cambio 4.3×
+- **Ingresos 24h:** $75.1k · 24h anteriores $66.1k · +14% (¿sigue acelerando hoy?)
+- **A holders (recompras/quemas/repartos) 7d:** $242.3k
 - **Token:** sin token listado en CoinGecko
 
 ### 🟡 FLYWHEEL ACELERANDO — Cardboard Trade (Derivatives)
-- **Ingresos 7d:** $149.8k · 7d anteriores — · cambio nuevo
-- **Ingresos 24h:** $77.8k · 24h anteriores $85.3k · -9% (¿sigue acelerando hoy?)
-- **A holders (recompras/quemas/repartos) 7d:** $74.9k
+- **Ingresos 7d:** $226.8k · 7d anteriores — · cambio nuevo
+- **Ingresos 24h:** $77.0k · 24h anteriores $59.2k · +30% (¿sigue acelerando hoy?)
+- **A holders (recompras/quemas/repartos) 7d:** $113.4k
 - **Token:** sin token listado en CoinGecko
 
 ### 🟡 FLYWHEEL ACELERANDO — Bordrless Launchpad (Launchpad)
-- **Ingresos 7d:** $86.5k · 7d anteriores $1.2k · cambio 75.1×
-- **Ingresos 24h:** $273 · 24h anteriores $14.3k · -98% (¿sigue acelerando hoy?)
-- **A holders (recompras/quemas/repartos) 7d:** $43.2k
+- **Ingresos 7d:** $86.7k · 7d anteriores $1.2k · cambio 72.7×
+- **Ingresos 24h:** $229 · 24h anteriores $1.6k · -85% (¿sigue acelerando hoy?)
+- **A holders (recompras/quemas/repartos) 7d:** $43.3k
 - **Token:** sin token listado en CoinGecko
 
 ## Llamadas de Telegram (registro hacia delante)
