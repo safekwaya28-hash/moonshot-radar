@@ -1,13 +1,15 @@
 # SCAN C — Meta / Flywheel
-**2026-10-19 20:50 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-19 20:58 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+
+> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
 ## Metas por token de pago (3 activándose)
 
 ### 🟡 META ACTIVÁNDOSE — WBTC
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
 - **Pools nuevos:** 1h 2 (antes 1) · 6h 4 (antes 1, +300%) · 24h 27 (antes 9, +200%)
-- **Amplitud (24h):** 27 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 50% del volumen
-- **Token de pago:** MC $315.73M · volumen 24h $10.19M · liquidez $1.89M
+- **Amplitud (24h):** 27 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 49% del volumen
+- **Token de pago:** MC $315.42M · volumen 24h $10.22M · liquidez $1.89M
 - **Líder (más volumen):** NET `FjtgJS6Ea8W9qs5G58LtzEhh4JfmYvKZUEyxErzkpump` · MC $3.2k · vol 24h $142.8k · 24h -92.85%
 - **Líder (mayor subida 24h):** CHBT `C2jQTM9FGKhxtrydPoYVynLnuNbVUoBtU7sszpPXpump` · MC $3.1k · vol 24h $246 · 24h 0.38%
 - **Catalizador:** META ACCELERATION (pools 24h +200%)
@@ -25,7 +27,7 @@
 - **Quote:** `ArpPsesHXKbGeJsHdquM6acT3uNs7BChyetJjiNYpump`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 13 (antes 0, nuevo)
 - **Amplitud (24h):** 13 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Token de pago:** MC $42.9k · volumen 24h $3.33M · liquidez $19.4k
+- **Token de pago:** MC $41.5k · volumen 24h $3.33M · liquidez $19.0k
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
 
 ### ⚪ en observación — PUMP
@@ -66,13 +68,13 @@
 
 ### 🟡 FLYWHEEL ACELERANDO — Cardboard Trade (Derivatives)
 - **Ingresos 7d:** $230.4k · 7d anteriores — · cambio nuevo
-- **Ingresos 24h:** $132.5k · 24h anteriores $59.2k · +124% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $133.9k · 24h anteriores $59.2k · +126% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $115.2k
 - **Token:** sin token listado en CoinGecko
 
 ### 🟡 FLYWHEEL ACELERANDO — Bordrless Launchpad (Launchpad)
 - **Ingresos 7d:** $86.7k · 7d anteriores $1.2k · cambio 72.7×
-- **Ingresos 24h:** $299 · 24h anteriores $1.6k · -81% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $420 · 24h anteriores $1.6k · -73% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $43.3k
 - **Token:** sin token listado en CoinGecko
 
