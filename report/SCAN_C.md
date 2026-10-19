@@ -1,44 +1,46 @@
 # SCAN C — Meta / Flywheel
-**2026-10-19 09:54 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
-
-> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
+**2026-10-19 10:01 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 ## Metas por token de pago (3 activándose)
 
 ### 🟡 META ACTIVÁNDOSE — SPCX
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
-- **Pools nuevos:** 1h 0 (antes 18) · 6h 19 (antes 2, +850%) · 24h 35 (antes 16, +119%)
-- **Amplitud (24h):** 35 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 48% del volumen
+- **Pools nuevos:** 1h 2 (antes 0) · 6h 21 (antes 1, +2000%) · 24h 37 (antes 15, +147%)
+- **Amplitud (24h):** 37 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 48% del volumen
 - **Token de pago:** MC — · volumen 24h $6.51M · liquidez $2.16M
 - **Líder (más volumen):** WWM `CEfK3sv9oakzjS8A1auyry6LWYGBw8NF2HNBbc9Dpump` · MC $3.0k · vol 24h $96.8k · 24h -91.01%
-- **Líder (mayor subida 24h):** XKIDS `4pDZycNS8WAhppf7ym2oL5BhEeE2C4hVKX6Ei25qpump` · MC $6.9k · vol 24h $11.3k · 24h 98.56%
-- **Catalizador:** META ACCELERATION (pools 24h +119%)
+- **Líder (mayor subida 24h):** XKIDS `4pDZycNS8WAhppf7ym2oL5BhEeE2C4hVKX6Ei25qpump` · MC $6.2k · vol 24h $11.7k · 24h 79.22%
+- **Catalizador:** META ACCELERATION (pools 24h +147%)
 - **Riesgos:** concentración: top10 6%, wallet máx 5.1%
 
 ### 🟡 META ACTIVÁNDOSE — WBTC
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
-- **Pools nuevos:** 1h 0 (antes 4) · 6h 20 (antes 2, +900%) · 24h 27 (antes 4, +575%)
-- **Amplitud (24h):** 27 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 54% del volumen
-- **Token de pago:** MC $319.07M · volumen 24h $7.32M · liquidez $1.85M
-- **Líder (más volumen):** NET `FjtgJS6Ea8W9qs5G58LtzEhh4JfmYvKZUEyxErzkpump` · MC $7.1k · vol 24h $136.4k · 24h -84.45%
+- **Pools nuevos:** 1h 1 (antes 0) · 6h 21 (antes 2, +950%) · 24h 28 (antes 4, +600%)
+- **Amplitud (24h):** 28 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 64% del volumen
+- **Token de pago:** MC $318.82M · volumen 24h $7.32M · liquidez $1.85M
+- **Líder (más volumen):** NET `FjtgJS6Ea8W9qs5G58LtzEhh4JfmYvKZUEyxErzkpump` · MC $6.5k · vol 24h $136.5k · 24h -85.63%
 - **Líder (mayor subida 24h):** $MTWGA `9ZtTctSMN6e2o6KrLEu4K5D8ZyXn6TyDS9A3zeHVpump` · MC $3.2k · vol 24h $50 · 24h 2.19%
-- **Catalizador:** META ACCELERATION (pools 24h +575%)
+- **Catalizador:** META ACCELERATION (pools 24h +600%)
 - **Riesgos:** concentración: top10 31%, wallet máx 20.2%
 
 ### 🟡 META ACTIVÁNDOSE — godspeed
 - **Quote:** `ArpPsesHXKbGeJsHdquM6acT3uNs7BChyetJjiNYpump`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 3, -100%) · 24h 13 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 13 (antes 0, nuevo)
 - **Amplitud (24h):** 13 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Token de pago:** MC $109.2k · volumen 24h $3.11M · liquidez $31.7k
+- **Token de pago:** MC $143.8k · volumen 24h $3.12M · liquidez $36.6k
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
 
 ### ⚪ en observación — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 0 (antes 3) · 6h 7 (antes 28, -75%) · 24h 66 (antes 97, -32%)
+- **Pools nuevos:** 1h 1 (antes 0) · 6h 8 (antes 24, -67%) · 24h 67 (antes 93, -28%)
 
 ### ⚪ en observación — wXMR
 - **Quote:** `WXMRyRZhsa19ety5erZhHg4N3xj3EVN92u94422teJp`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 4, -100%) · 24h 9 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 3, -100%) · 24h 9 (antes 0, nuevo)
+
+### ⚪ en observación — TTWO
+- **Quote:** `TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo`
+- **Pools nuevos:** 1h 3 (antes 0) · 6h 3 (antes 0, nuevo) · 24h 7 (antes 8, -12%)
 
 ### ⚪ en observación — NVDAx
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
@@ -54,11 +56,7 @@
 
 ### ⚪ en observación — MSFTx
 - **Quote:** `XspzcW1PRtgf6Wj92HCiZdjzKCyFekVD8P5Ueh3dRMX`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 4, -100%) · 24h 6 (antes 5, +20%)
-
-### ⚪ en observación — Poop
-- **Quote:** `FwsmBCm1JjgtCTZHH7aSdZdnvpmokZR5ZF9meXT2pump`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 6, -100%) · 24h 6 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 6 (antes 5, +20%)
 
 ## Plataformas con ingresos acelerando (DefiLlama)
 
