@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-19 11:59 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-19 13:03 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -7,32 +7,32 @@
 
 ### 🟡 META ACTIVÁNDOSE — SPCX
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
-- **Pools nuevos:** 1h 0 (antes 1) · 6h 20 (antes 1, +1900%) · 24h 37 (antes 15, +147%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 20 (antes 1, +1900%) · 24h 37 (antes 15, +147%)
 - **Amplitud (24h):** 37 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 47% del volumen
-- **Token de pago:** MC — · volumen 24h $6.94M · liquidez $2.16M
+- **Token de pago:** MC — · volumen 24h $7.08M · liquidez $2.15M
 - **Líder (más volumen):** WWM `CEfK3sv9oakzjS8A1auyry6LWYGBw8NF2HNBbc9Dpump` · MC $2.8k · vol 24h $97.0k · 24h -91.6%
-- **Líder (mayor subida 24h):** XKIDS `4pDZycNS8WAhppf7ym2oL5BhEeE2C4hVKX6Ei25qpump` · MC $4.1k · vol 24h $14.8k · 24h 16.58%
+- **Líder (mayor subida 24h):** XKIDS `4pDZycNS8WAhppf7ym2oL5BhEeE2C4hVKX6Ei25qpump` · MC $4.2k · vol 24h $14.9k · 24h 21.37%
 - **Catalizador:** META ACCELERATION (pools 24h +147%)
 
 ### 🟡 META ACTIVÁNDOSE — WBTC
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
-- **Pools nuevos:** 1h 0 (antes 1) · 6h 5 (antes 17, -71%) · 24h 28 (antes 4, +600%)
-- **Amplitud (24h):** 28 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 67% del volumen
-- **Token de pago:** MC $316.74M · volumen 24h $7.51M · liquidez $1.83M
-- **Líder (más volumen):** NET `FjtgJS6Ea8W9qs5G58LtzEhh4JfmYvKZUEyxErzkpump` · MC $3.5k · vol 24h $140.0k · 24h -92.37%
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 5 (antes 16, -69%) · 24h 27 (antes 5, +440%)
+- **Amplitud (24h):** 27 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 67% del volumen
+- **Token de pago:** MC $317.49M · volumen 24h $7.84M · liquidez $1.85M
+- **Líder (más volumen):** NET `FjtgJS6Ea8W9qs5G58LtzEhh4JfmYvKZUEyxErzkpump` · MC $3.0k · vol 24h $140.1k · 24h -93.41%
 - **Líder (mayor subida 24h):** $MTWGA `9ZtTctSMN6e2o6KrLEu4K5D8ZyXn6TyDS9A3zeHVpump` · MC $3.2k · vol 24h $50 · 24h 2.19%
-- **Catalizador:** META ACCELERATION (pools 24h +600%)
+- **Catalizador:** META ACCELERATION (pools 24h +440%)
 
 ### 🟡 META ACTIVÁNDOSE — godspeed
 - **Quote:** `ArpPsesHXKbGeJsHdquM6acT3uNs7BChyetJjiNYpump`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 13 (antes 0, nuevo)
 - **Amplitud (24h):** 13 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Token de pago:** MC $127.7k · volumen 24h $3.18M · liquidez $34.4k
+- **Token de pago:** MC $93.4k · volumen 24h $3.20M · liquidez $29.2k
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
 
 ### ⚪ en observación — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 4 (antes 16, -75%) · 24h 67 (antes 93, -28%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 4 (antes 4, +0%) · 24h 64 (antes 94, -32%)
 
 ### ⚪ en observación — wXMR
 - **Quote:** `WXMRyRZhsa19ety5erZhHg4N3xj3EVN92u94422teJp`
@@ -41,10 +41,6 @@
 ### ⚪ en observación — ZEC
 - **Quote:** `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 7 (antes 1, +600%)
-
-### ⚪ en observación — NVDAx
-- **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 7 (antes 8, -12%)
 
 ### ⚪ en observación — TTWO
 - **Quote:** `TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo`
@@ -58,11 +54,15 @@
 - **Quote:** `FwsmBCm1JjgtCTZHH7aSdZdnvpmokZR5ZF9meXT2pump`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 6 (antes 0, nuevo)
 
+### ⚪ en observación — HYPE
+- **Quote:** `98sMhvDwXj1RQi5c5Mndm3vPe9cBqPrbLaufMXFNMh5g`
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 2 (antes 0, nuevo) · 24h 5 (antes 1, +400%)
+
 ## Plataformas con ingresos acelerando (DefiLlama)
 
 ### 🟡 FLYWHEEL ACELERANDO — Render Network BME (DePIN)
 - **Ingresos 7d:** $260.7k · 7d anteriores $59.4k · cambio 4.4×
-- **Ingresos 24h:** $81.1k · 24h anteriores $66.1k · +23% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $55.8k · 24h anteriores $66.1k · -16% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $247.7k
 - **Token:** sin token listado en CoinGecko
 
