@@ -1,15 +1,17 @@
 # SCAN C — Meta / Flywheel
-**2026-10-19 04:52 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-19 05:00 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+
+> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
 ## Metas por token de pago (3 activándose)
 
 ### 🟡 META ACTIVÁNDOSE — WBTC
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
 - **Pools nuevos:** 1h 16 (antes 0) · 6h 17 (antes 3, +467%) · 24h 23 (antes 6, +283%)
-- **Amplitud (24h):** 23 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 32% del volumen
-- **Token de pago:** MC $318.36M · volumen 24h $3.82M · liquidez $1.85M
-- **Líder (más volumen):** lolcat `DaMdwivsPC6A4EjP2L6vS3JqbMx57zB3DzLX7BfYpump` · MC $16.3k · vol 24h $35.5k · 24h 367%
-- **Líder (mayor subida 24h):** lolcat `DaMdwivsPC6A4EjP2L6vS3JqbMx57zB3DzLX7BfYpump` · MC $16.3k · vol 24h $35.5k · 24h 367%
+- **Amplitud (24h):** 23 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 33% del volumen
+- **Token de pago:** MC $318.85M · volumen 24h $4.03M · liquidez $1.85M
+- **Líder (más volumen):** lolcat `DaMdwivsPC6A4EjP2L6vS3JqbMx57zB3DzLX7BfYpump` · MC $9.5k · vol 24h $53.3k · 24h 173%
+- **Líder (mayor subida 24h):** NET `FjtgJS6Ea8W9qs5G58LtzEhh4JfmYvKZUEyxErzkpump` · MC $22.9k · vol 24h $34.1k · 24h 516%
 - **Catalizador:** META ACCELERATION (pools 24h +283%)
 - **Riesgos:** liquidez 0% del MC
 
@@ -17,7 +19,7 @@
 - **Quote:** `ArpPsesHXKbGeJsHdquM6acT3uNs7BChyetJjiNYpump`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 13, -100%) · 24h 13 (antes 0, nuevo)
 - **Amplitud (24h):** 13 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Token de pago:** MC $53.0k · volumen 24h $3.01M · liquidez $21.3k
+- **Token de pago:** MC $50.6k · volumen 24h $3.02M · liquidez $20.8k
 - **Líder (más volumen):** BBS `AbSgUzgcazBNxKjdh4W7BBRJdjdeJYLsvzM5JHxSpump` · MC — · vol 24h $0 · 24h None%
 - **Líder (mayor subida 24h):** BBS `AbSgUzgcazBNxKjdh4W7BBRJdjdeJYLsvzM5JHxSpump` · MC — · vol 24h $0 · 24h None%
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
@@ -26,9 +28,9 @@
 - **Quote:** `XspzcW1PRtgf6Wj92HCiZdjzKCyFekVD8P5Ueh3dRMX`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 1 (antes 3, -67%) · 24h 10 (antes 1, +900%)
 - **Amplitud (24h):** 9 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 100% del volumen ⚠️ una sola moneda domina: puede no ser una moda
-- **Token de pago:** MC $535.9k · volumen 24h $822.6k · liquidez $381.8k
-- **Líder (más volumen):** REXCOIN `72bBC6JoWu45rMuVrLz8XEybTy4vxQn1ADoAVuYupump` · MC $58.5k · vol 24h $834.7k · 24h 35.51%
-- **Líder (mayor subida 24h):** REXCOIN `72bBC6JoWu45rMuVrLz8XEybTy4vxQn1ADoAVuYupump` · MC $58.5k · vol 24h $834.7k · 24h 35.51%
+- **Token de pago:** MC $535.9k · volumen 24h $827.0k · liquidez $381.9k
+- **Líder (más volumen):** REXCOIN `72bBC6JoWu45rMuVrLz8XEybTy4vxQn1ADoAVuYupump` · MC $61.7k · vol 24h $835.0k · 24h 42.79%
+- **Líder (mayor subida 24h):** REXCOIN `72bBC6JoWu45rMuVrLz8XEybTy4vxQn1ADoAVuYupump` · MC $61.7k · vol 24h $835.0k · 24h 42.79%
 - **Catalizador:** META ACCELERATION (pools 24h +900%)
 
 ### ⚪ en observación — PUMP
