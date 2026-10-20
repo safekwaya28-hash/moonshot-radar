@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-20 14:04 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-20 14:52 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -9,7 +9,7 @@
 - **Quote:** `CARDSccUMFKoPRZxt5vt3ksUbxEFEcnZ3H2pd3dKxYjp`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 3, -100%) · 24h 27 (antes 4, +575%)
 - **Amplitud (24h):** 27 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 36% del volumen
-- **Token de pago:** MC $290.23M · volumen 24h $13.73M · liquidez $4.48M
+- **Token de pago:** MC $304.21M · volumen 24h $14.08M · liquidez $4.55M
 - **Líder (más volumen):** Ash `EcxDknBixGzw8Nm8pumvnekG2kMAXrSZkxpXk1C1pump` · MC $3.0k · vol 24h $51.5k · 24h -28.06%
 - **Líder (mayor subida 24h):** GACHACAT `EiaHgc5MFyZX9cUhVBJEmVZqswv67qJX68j9MBkfpump` · MC $3.3k · vol 24h $883 · 24h 7.07%
 - **Catalizador:** META ACCELERATION (pools 24h +575%)
@@ -27,7 +27,7 @@
 - **Quote:** `HiMSSzzwkZkrXJ4PGVJRdtfLaANeAztjjcgk5Dxe7Lwx`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 2, -100%) · 24h 11 (antes 0, nuevo)
 - **Amplitud (24h):** 11 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 52% del volumen
-- **Token de pago:** MC $179.4k · volumen 24h $731.1k · liquidez $181.1k
+- **Token de pago:** MC $184.9k · volumen 24h $743.2k · liquidez $171.4k
 - **Líder (más volumen):** jorkin `FUaPhDoVwrpYwC4N414Sd3T8iBuUp8C8z5GcS4jppump` · MC $3.2k · vol 24h $89.0k · 24h -19.79%
 - **Líder (mayor subida 24h):** jorkin `FUaPhDoVwrpYwC4N414Sd3T8iBuUp8C8z5GcS4jppump` · MC $3.2k · vol 24h $89.0k · 24h -19.79%
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
@@ -40,10 +40,6 @@
 ### ⚪ en observación — SPCX
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 3, -100%) · 24h 7 (antes 40, -82%)
-
-### ⚪ en observación — CATE
-- **Quote:** `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 6 (antes 0, nuevo)
 
 ### ⚪ en observación — WBTC
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
@@ -61,11 +57,15 @@
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 4 (antes 5, -20%)
 
+### ⚪ en observación — Pokémon
+- **Quote:** `D42TjMjz5H7toPu5md5KBXreZkCSdZMEfLQwmBhJXvb1`
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 4, -100%) · 24h 4 (antes 0, nuevo)
+
 ## Plataformas con ingresos acelerando (DefiLlama)
 
 ### 🟡 FLYWHEEL ACELERANDO — Cardboard Trade (Derivatives)
 - **Ingresos 7d:** $336.6k · 7d anteriores — · cambio nuevo
-- **Ingresos 24h:** $103.0k · 24h anteriores $80.6k · +28% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $101.3k · 24h anteriores $80.6k · +26% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $168.3k
 - **Token:** sin token listado en CoinGecko
 
@@ -77,7 +77,7 @@
 
 ### 🟡 FLYWHEEL ACELERANDO — Bordrless Launchpad (Launchpad)
 - **Ingresos 7d:** $74.2k · 7d anteriores $14.1k · cambio 5.3×
-- **Ingresos 24h:** $303 · 24h anteriores $229 · +32% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $298 · 24h anteriores $229 · +30% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $37.1k
 - **Token:** sin token listado en CoinGecko
 
