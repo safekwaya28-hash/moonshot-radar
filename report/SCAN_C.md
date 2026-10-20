@@ -1,7 +1,7 @@
 # SCAN C — Meta / Flywheel
-**2026-10-20 21:49 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-20 21:57 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
-> GeckoTerminal no disponible: HTTPSConnectionPool(host='api.geckoterminal.com', port=443): Read timed out. (read timeout=30)
+> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
 ## Metas por token de pago (2 activándose)
 
@@ -9,7 +9,7 @@
 - **Quote:** `CARDSccUMFKoPRZxt5vt3ksUbxEFEcnZ3H2pd3dKxYjp`
 - **Pools nuevos:** 1h 0 (antes 2) · 6h 11 (antes 1, +1000%) · 24h 32 (antes 9, +256%)
 - **Amplitud (24h):** 32 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 23% del volumen
-- **Token de pago:** MC $318.88M · volumen 24h $13.96M · liquidez $4.66M
+- **Token de pago:** MC $316.42M · volumen 24h $13.96M · liquidez $4.64M
 - **Líder (más volumen):** pullbox `f25Nx6Hpa7V6ufF9DaS3oSoi7cQaCyLMLxT4qpDpuLL` · MC $3.2k · vol 24h $54.7k · 24h -80.05%
 - **Líder (mayor subida 24h):** PSA10 `TvqcvLDQgpGenhUURo6kof7bium2j4oRMP7pH59pump` · MC $3.0k · vol 24h $2.4k · 24h -0.61%
 - **Catalizador:** META ACCELERATION (pools 24h +256%)
@@ -19,9 +19,9 @@
 - **Quote:** `TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 18 (antes 1, +1700%) · 24h 20 (antes 7, +186%)
 - **Amplitud (24h):** 20 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Token de pago:** MC $89 · volumen 24h $5.90M · liquidez $666.3k
-- **Líder (más volumen):** BAWSAQ `DhoMUUkR63UFGnikEWMBh9A3cGHk9DohLzqzNkKqpump` · MC $4.4k · vol 24h $118.2k · 24h -78.58%
-- **Líder (mayor subida 24h):** AU `B9Nbxs1LNWh6gBF3DnMyyuXtpx1zHT3HpM7UvaN1pump` · MC $93.4k · vol 24h $38.3k · 24h 72.27%
+- **Token de pago:** MC $89 · volumen 24h $5.98M · liquidez $675.8k
+- **Líder (más volumen):** BAWSAQ `DhoMUUkR63UFGnikEWMBh9A3cGHk9DohLzqzNkKqpump` · MC $4.4k · vol 24h $111.6k · 24h -67.92%
+- **Líder (mayor subida 24h):** AU `B9Nbxs1LNWh6gBF3DnMyyuXtpx1zHT3HpM7UvaN1pump` · MC $88.5k · vol 24h $38.6k · 24h 63.08%
 - **Catalizador:** META ACCELERATION (pools 24h +186%)
 - **Riesgos:** liquidez 0% del MC
 
@@ -61,7 +61,7 @@
 
 ### 🟡 FLYWHEEL ACELERANDO — Cardboard Trade (Derivatives)
 - **Ingresos 7d:** $336.6k · 7d anteriores — · cambio nuevo
-- **Ingresos 24h:** $112.8k · 24h anteriores $80.6k · +40% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $112.0k · 24h anteriores $80.6k · +39% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $168.3k
 - **Token:** sin token listado en CoinGecko
 
@@ -73,7 +73,7 @@
 
 ### 🟡 FLYWHEEL ACELERANDO — Bordrless Launchpad (Launchpad)
 - **Ingresos 7d:** $74.2k · 7d anteriores $14.1k · cambio 5.3×
-- **Ingresos 24h:** $53 · 24h anteriores $229 · -77% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $50 · 24h anteriores $229 · -78% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $37.1k
 - **Token:** sin token listado en CoinGecko
 
