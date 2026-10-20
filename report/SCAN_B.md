@@ -1,19 +1,19 @@
 # SCAN B — Despegues (objetivo 100x+)
-**2026-10-20 20:35 UTC** · 5,000 creaciones recientes revisadas · 3 en la ventana $8k–$40k · 3 con análisis profundo
+**2026-10-20 21:05 UTC** · 5,000 creaciones recientes revisadas · 3 en la ventana $8k–$40k · 3 con análisis profundo
 
 🟢 COMPRA AHORA **0** · 🟡 WATCH **0** · 🔴 DESCARTAR **1** · ⚪ FUERA **2**
 
 ### 🔴 DESCARTAR — $ChtW16
 - **CA:** `ChtW16CsYLudZXbyCiYYGdQwYPCGydhDLXEgL3ZRREAL`
-- **MC:** $24.5k · curva 88% · edad 30.2 h · hace 30 min: $23.8k
+- **MC:** $23.8k · curva 87% · edad 30.8 h · hace 30 min: $24.5k
 - **Smart money:** ninguna de tus wallets
-- **B:** 2/9 · **M:** 0/5
-- **Compradores:** 30m 1 · nuevos 5m 0 (antes 0, BAI 0.00) · compradores/vendedores 15m 0.00
-- **Volumen 15m:** $48 (antes $84) · wallet dominante 100% · retención 15m 0% · compra mediana $88
+- **B:** 2/9 · **M:** 1/5
+- **Compradores:** 30m 0 · nuevos 5m 0 (antes 0, BAI 0.00) · compradores/vendedores 15m 0.00
+- **Volumen 15m:** $75 (antes $68) · wallet dominante 100% · retención 15m — · compra mediana $88
 - **Seguridad:** snipers — · bloque creación — · top10 27% · wallet máx 3.8% · dev tiene 0.0% · dev vendió 0% · 5 wallets = 80% del volumen
 - **Prueba de venta:** 6/3 con financiador verificado y distinto (no-dev, mantuvieron ≥5 min y vendieron; 8 en total, 2 no verificables)
-- **Cobertura de datos:** 263 min observados
-- **Participantes 30m:** nuevos 0 · recompran 0 · compran y venden (flippers) 50% · volumen 15m / liquidez 0.0×
+- **Cobertura de datos:** 286 min observados
+- **Participantes 30m:** nuevos 0 · recompran 0 · compran y venden (flippers) 0% · volumen 15m / liquidez 0.0×
 - **Smart money:** convergencia 0 wallets en 10 min · posición entre los compradores — (entre los compradores observados, no entre todos)
 - **Financiación del top:** 2 holders ← iGdFcQ… (6%); 2 holders ← 5ndLnE… (5%)
 - **Descartada por:** volumen en bucle: 5 wallets = 80% y 2 compran-venden repetidamente
@@ -22,15 +22,15 @@
 
 ### ⚪ FUERA — $6J5P1H
 - **CA:** `6J5P1H6yLUHuzEio9hQhufQEytar5bRAvMde8V48pump`
-- **MC:** $15.1k · curva 75% · edad 8.5 h · hace 30 min: $15.7k
+- **MC:** $16.3k · curva 77% · edad 9.0 h · hace 30 min: $15.1k
 - **Smart money:** ninguna de tus wallets
-- **B:** 2/9 · **M:** 1/5
-- **Compradores:** 30m 1 · nuevos 5m 0 (antes 0, BAI 0.00) · compradores/vendedores 15m 0.00
-- **Volumen 15m:** $0 (antes $225) · wallet dominante 0% · retención 15m 100% · compra mediana $34
-- **Seguridad:** snipers 3 · bloque creación 9% · top10 26% · wallet máx 3.1% · dev tiene 0.7% · dev vendió 0% · 5 wallets = 47% del volumen
-- **Prueba de venta:** 6/3 con financiador verificado y distinto (no-dev, mantuvieron ≥5 min y vendieron; 9 en total, 3 no verificables)
-- **Cobertura de datos:** 120 min observados
-- **Participantes 30m:** nuevos 1 · recompran 0 · compran y venden (flippers) 0% · volumen 15m / liquidez 0.0×
+- **B:** 2/9 · **M:** 0/5
+- **Compradores:** 30m 6 · nuevos 5m 0 (antes 0, BAI 0.00) · compradores/vendedores 15m 0.00
+- **Volumen 15m:** $140 (antes $227) · wallet dominante 51% · retención 15m 50% · compra mediana $37
+- **Seguridad:** snipers 3 · bloque creación 9% · top10 26% · wallet máx 3.1% · dev tiene 0.7% · dev vendió 0% · 5 wallets = 49% del volumen
+- **Prueba de venta:** 6/3 con financiador verificado y distinto (no-dev, mantuvieron ≥5 min y vendieron; 8 en total, 2 no verificables)
+- **Cobertura de datos:** 134 min observados
+- **Participantes 30m:** nuevos 3 · recompran 0 · compran y venden (flippers) 38% · volumen 15m / liquidez 0.0×
 - **Smart money:** convergencia 0 wallets en 10 min · posición entre los compradores — (entre los compradores observados, no entre todos)
 - **Financiación del top:** 3 holders ← CqTe1E… (8%)
 - **Falta para COMPRA AHORA:** cluster de financiación: 3 holders del top financiados por CqTe1E… (8% del supply)
@@ -39,14 +39,14 @@
 
 ### ⚪ FUERA — $2e5bKR
 - **CA:** `2e5bKRHpAixvgE6zUdTf7rigxCq662zq7xvN8Dympump`
-- **MC:** $9.9k · curva 61% · edad 56.4 h · hace 30 min: $9.8k
+- **MC:** $9.9k · curva 61% · edad 56.9 h · hace 30 min: $9.9k
 - **Smart money:** ninguna de tus wallets
 - **B:** 2/9 · **M:** 0/5
 - **Compradores:** 30m 0 · nuevos 5m 0 (antes 0, BAI 0.00) · compradores/vendedores 15m 0.00
 - **Volumen 15m:** $0 (antes $0) · wallet dominante 0% · retención 15m — · compra mediana $33
 - **Seguridad:** snipers 7 · bloque creación 2% · top10 24% · wallet máx 2.9% · dev tiene 2.9% · dev vendió 0% · 5 wallets = 52% del volumen
 - **Prueba de venta:** 6/3 con financiador verificado y distinto (no-dev, mantuvieron ≥5 min y vendieron; 15 en total, 9 no verificables)
-- **Cobertura de datos:** 561 min observados
+- **Cobertura de datos:** 591 min observados
 - **Participantes 30m:** nuevos 0 · recompran 0 · compran y venden (flippers) — · volumen 15m / liquidez 0.0×
 - **Smart money:** convergencia 0 wallets en 10 min · posición entre los compradores — (entre los compradores observados, no entre todos)
 - **Financiación del top:** sin grupos detectados (1 nivel, wallets nuevas)
