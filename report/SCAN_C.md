@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-20 10:50 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-20 10:57 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -9,7 +9,7 @@
 - **Quote:** `CARDSccUMFKoPRZxt5vt3ksUbxEFEcnZ3H2pd3dKxYjp`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 3 (antes 16, -81%) · 24h 27 (antes 4, +575%)
 - **Amplitud (24h):** 27 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 36% del volumen
-- **Token de pago:** MC $291.95M · volumen 24h $13.62M · liquidez $4.48M
+- **Token de pago:** MC $291.86M · volumen 24h $13.66M · liquidez $4.48M
 - **Líder (más volumen):** Ash `EcxDknBixGzw8Nm8pumvnekG2kMAXrSZkxpXk1C1pump` · MC $3.1k · vol 24h $51.0k · 24h -26.82%
 - **Líder (mayor subida 24h):** GACHACAT `EiaHgc5MFyZX9cUhVBJEmVZqswv67qJX68j9MBkfpump` · MC $3.3k · vol 24h $883 · 24h 7.07%
 - **Catalizador:** META ACCELERATION (pools 24h +575%)
@@ -19,6 +19,7 @@
 - **Quote:** `ABNB56TteaTZG1S3DY2W8VMncQmHMvNCGaZgAba49CLP`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 18 (antes 0, nuevo)
 - **Amplitud (24h):** 18 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
+- **Token de pago:** MC $300.9k · volumen 24h $36.0k · liquidez $50.2k
 - **Líder (más volumen):** DOZER `3jgz9HmsDMB1pjemGz1E2QaLBUby4UCcsZziSpWipump` · MC — · vol 24h $0 · 24h None%
 - **Líder (mayor subida 24h):** DOZER `3jgz9HmsDMB1pjemGz1E2QaLBUby4UCcsZziSpWipump` · MC — · vol 24h $0 · 24h None%
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
@@ -36,10 +37,10 @@
 ### 🟡 META ACTIVÁNDOSE — SPCX
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 3 (antes 0, nuevo) · 24h 10 (antes 37, -73%)
-- **Amplitud (24h):** 10 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 44% del volumen
-- **Token de pago:** MC $9.40M · volumen 24h $4.06M · liquidez $2.47M
-- **Líder (más volumen):** Gigabite `6tsykNmR3WDqouj9uVUFZRgR2Kpai4F1Qm1gAcirpump` · MC $35.9k · vol 24h $41.1k · 24h 129%
-- **Líder (mayor subida 24h):** Gigabite `6tsykNmR3WDqouj9uVUFZRgR2Kpai4F1Qm1gAcirpump` · MC $35.9k · vol 24h $41.1k · 24h 129%
+- **Amplitud (24h):** 10 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 84% del volumen ⚠️ una sola moneda domina: puede no ser una moda
+- **Token de pago:** MC $9.40M · volumen 24h $4.05M · liquidez $2.47M
+- **Líder (más volumen):** Gigabite `6tsykNmR3WDqouj9uVUFZRgR2Kpai4F1Qm1gAcirpump` · MC $36.2k · vol 24h $38.8k · 24h 95.53%
+- **Líder (mayor subida 24h):** Gigabite `6tsykNmR3WDqouj9uVUFZRgR2Kpai4F1Qm1gAcirpump` · MC $36.2k · vol 24h $38.8k · 24h 95.53%
 - **Catalizador:** META ACCELERATION (pools 24h -73%)
 
 ### ⚪ en observación — PUMP
