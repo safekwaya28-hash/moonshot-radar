@@ -17424,3 +17424,8 @@ oDNRXpq9dNWCBPxru3ys59e2rzsmDSfRUPcZQdLpump,REF_dd85_mc150k_sin_base,estructura,
 57N3AfYVXenzCWhYrkEvhkMhmJi8vsaojhuc8fgXpump,REF_dd85_mc150k_sin_base,trailing,1788858000,1976,42.0,1.299,0.9609,True,3,1.023,1
 57N3AfYVXenzCWhYrkEvhkMhmJi8vsaojhuc8fgXpump,REF_dd85_mc150k_sin_base,escalonada,1788858000,1976,42.0,1.299,0.9609,True,3,1.023,1
 57N3AfYVXenzCWhYrkEvhkMhmJi8vsaojhuc8fgXpump,REF_dd85_mc150k_sin_base,estructura,1788858000,1976,42.0,1.299,1.2875,False,22,1.299,20
+6izfUtKzX4sTCAtpWYxHmJFkEAPy3VhGduJpS4VBpump,TIPO_SOAP_pico200k_dd75_mc50k_72h_base,tuya,1788534000,2274,45.8,1.113,0.9744,True,7,1.051,2
+6izfUtKzX4sTCAtpWYxHmJFkEAPy3VhGduJpS4VBpump,TIPO_SOAP_pico200k_dd75_mc50k_72h_base,solo_stop,1788534000,2274,45.8,1.113,0.9744,True,7,1.051,2
+6izfUtKzX4sTCAtpWYxHmJFkEAPy3VhGduJpS4VBpump,TIPO_SOAP_pico200k_dd75_mc50k_72h_base,trailing,1788534000,2274,45.8,1.113,0.9744,True,7,1.051,2
+6izfUtKzX4sTCAtpWYxHmJFkEAPy3VhGduJpS4VBpump,TIPO_SOAP_pico200k_dd75_mc50k_72h_base,escalonada,1788534000,2274,45.8,1.113,0.9744,True,7,1.051,2
+6izfUtKzX4sTCAtpWYxHmJFkEAPy3VhGduJpS4VBpump,TIPO_SOAP_pico200k_dd75_mc50k_72h_base,estructura,1788534000,2274,45.8,1.113,0.9245,True,9,1.051,2
