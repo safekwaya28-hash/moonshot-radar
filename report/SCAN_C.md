@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-20 20:51 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-20 20:56 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -8,8 +8,8 @@
 ### 🟡 META ACTIVÁNDOSE — CARDS
 - **Quote:** `CARDSccUMFKoPRZxt5vt3ksUbxEFEcnZ3H2pd3dKxYjp`
 - **Pools nuevos:** 1h 2 (antes 4) · 6h 12 (antes 0, nuevo) · 24h 32 (antes 9, +256%)
-- **Amplitud (24h):** 32 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 24% del volumen
-- **Token de pago:** MC $321.66M · volumen 24h $14.18M · liquidez $4.67M
+- **Amplitud (24h):** 32 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 23% del volumen
+- **Token de pago:** MC $323.32M · volumen 24h $14.20M · liquidez $4.68M
 - **Líder (más volumen):** pullbox `f25Nx6Hpa7V6ufF9DaS3oSoi7cQaCyLMLxT4qpDpuLL` · MC $3.2k · vol 24h $54.7k · 24h -80.05%
 - **Líder (mayor subida 24h):** PSA10 `TvqcvLDQgpGenhUURo6kof7bium2j4oRMP7pH59pump` · MC $3.0k · vol 24h $2.4k · 24h -0.61%
 - **Catalizador:** META ACCELERATION (pools 24h +256%)
@@ -17,11 +17,11 @@
 
 ### 🟡 META ACTIVÁNDOSE — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 1 (antes 4) · 6h 10 (antes 0, nuevo) · 24h 29 (antes 51, -43%)
+- **Pools nuevos:** 1h 1 (antes 4) · 6h 8 (antes 2, +300%) · 24h 29 (antes 51, -43%)
 - **Amplitud (24h):** 29 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 15% del volumen
-- **Token de pago:** MC $2205.71M · volumen 24h $5.49M · liquidez $24.38M
-- **Líder (más volumen):** Dip `48hnR1CWtafBumJsJod6Q8yduwDuYyumCJzuBVzvpump` · MC $44.5k · vol 24h $135.0k · 24h -50.47%
-- **Líder (mayor subida 24h):** MIM `FigxCgf9tB4AUdBNhnvrnKuzshk4GZtiB3ezXgtzpump` · MC $2.6k · vol 24h $19 · 24h 7.07%
+- **Token de pago:** MC $2218.38M · volumen 24h $5.52M · liquidez $24.45M
+- **Líder (más volumen):** Dip `48hnR1CWtafBumJsJod6Q8yduwDuYyumCJzuBVzvpump` · MC $44.1k · vol 24h $133.4k · 24h -56.44%
+- **Líder (mayor subida 24h):** MIM `FigxCgf9tB4AUdBNhnvrnKuzshk4GZtiB3ezXgtzpump` · MC $2.6k · vol 24h $18 · 24h 6.56%
 - **Catalizador:** META ACCELERATION (pools 24h -43%)
 
 ### 🟡 META ACTIVÁNDOSE — TTWO
@@ -38,7 +38,7 @@
 
 ### ⚪ en observación — Bonk
 - **Quote:** `DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 7 (antes 0, nuevo) · 24h 7 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 1 (antes 6, -83%) · 24h 7 (antes 0, nuevo)
 
 ### ⚪ en observación — MSTRx
 - **Quote:** `XsP7xzNPvEHS1m6qfanPUGjNmdnmsLKEoNAnHjdxxyZ`
@@ -76,7 +76,7 @@
 
 ### 🟡 FLYWHEEL ACELERANDO — Bordrless Launchpad (Launchpad)
 - **Ingresos 7d:** $74.2k · 7d anteriores $14.1k · cambio 5.3×
-- **Ingresos 24h:** $204 · 24h anteriores $229 · -11% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $53 · 24h anteriores $229 · -77% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $37.1k
 - **Token:** sin token listado en CoinGecko
 
