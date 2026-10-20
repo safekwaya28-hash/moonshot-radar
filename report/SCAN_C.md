@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-20 11:51 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-20 11:58 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -9,8 +9,8 @@
 - **Quote:** `CARDSccUMFKoPRZxt5vt3ksUbxEFEcnZ3H2pd3dKxYjp`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 6, -100%) · 24h 27 (antes 4, +575%)
 - **Amplitud (24h):** 27 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 36% del volumen
-- **Token de pago:** MC $289.57M · volumen 24h $13.53M · liquidez $4.47M
-- **Líder (más volumen):** Ash `EcxDknBixGzw8Nm8pumvnekG2kMAXrSZkxpXk1C1pump` · MC $3.1k · vol 24h $51.0k · 24h -26.82%
+- **Token de pago:** MC $289.09M · volumen 24h $13.55M · liquidez $4.47M
+- **Líder (más volumen):** Ash `EcxDknBixGzw8Nm8pumvnekG2kMAXrSZkxpXk1C1pump` · MC $3.5k · vol 24h $51.2k · 24h -15.67%
 - **Líder (mayor subida 24h):** GACHACAT `EiaHgc5MFyZX9cUhVBJEmVZqswv67qJX68j9MBkfpump` · MC $3.3k · vol 24h $883 · 24h 7.07%
 - **Catalizador:** META ACCELERATION (pools 24h +575%)
 - **Riesgos:** liquidez 0% del MC
@@ -65,7 +65,7 @@
 
 ### 🟡 FLYWHEEL ACELERANDO — Cardboard Trade (Derivatives)
 - **Ingresos 7d:** $336.6k · 7d anteriores — · cambio nuevo
-- **Ingresos 24h:** $112.9k · 24h anteriores $80.6k · +40% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $112.0k · 24h anteriores $80.6k · +39% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $168.3k
 - **Token:** sin token listado en CoinGecko
 
