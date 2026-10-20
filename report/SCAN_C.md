@@ -1,34 +1,36 @@
 # SCAN C — Meta / Flywheel
-**2026-10-20 22:14 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-20 22:48 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+
+> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
 ## Metas por token de pago (3 activándose)
 
 ### 🟡 META ACTIVÁNDOSE — CARDS
 - **Quote:** `CARDSccUMFKoPRZxt5vt3ksUbxEFEcnZ3H2pd3dKxYjp`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 12 (antes 1, +1100%) · 24h 33 (antes 7, +371%)
-- **Amplitud (24h):** 33 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 21% del volumen
-- **Token de pago:** MC $312.20M · volumen 24h $14.01M · liquidez $4.62M
+- **Pools nuevos:** 1h 1 (antes 0) · 6h 8 (antes 5, +60%) · 24h 33 (antes 7, +371%)
+- **Amplitud (24h):** 33 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 20% del volumen
+- **Token de pago:** MC $317.00M · volumen 24h $13.73M · liquidez $4.65M
 - **Líder (más volumen):** pullbox `f25Nx6Hpa7V6ufF9DaS3oSoi7cQaCyLMLxT4qpDpuLL` · MC $3.2k · vol 24h $54.7k · 24h -80.05%
-- **Líder (mayor subida 24h):** DITTO `DitouX3yps39jfszNiAewYRY1o4oeAWnkuRnh3FD96D1` · MC $6.2k · vol 24h $20.7k · 24h 60.67%
+- **Líder (mayor subida 24h):** PSA10 `TvqcvLDQgpGenhUURo6kof7bium2j4oRMP7pH59pump` · MC $3.0k · vol 24h $2.4k · 24h -0.61%
 - **Catalizador:** META ACCELERATION (pools 24h +371%)
 - **Riesgos:** liquidez 0% del MC
 
 ### 🟡 META ACTIVÁNDOSE — TTWO
 - **Quote:** `TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 18 (antes 1, +1700%) · 24h 20 (antes 6, +233%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 6 (antes 13, -54%) · 24h 20 (antes 6, +233%)
 - **Amplitud (24h):** 20 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 47% del volumen
-- **Token de pago:** MC $89 · volumen 24h $6.27M · liquidez $714.8k
-- **Líder (más volumen):** GTA6 `2gVNeu8dP7XiLoaWfUvUJXUM5AdXY8418aft8xhUpump` · MC $225.9k · vol 24h $89.1k · 24h 46.47%
-- **Líder (mayor subida 24h):** AU `B9Nbxs1LNWh6gBF3DnMyyuXtpx1zHT3HpM7UvaN1pump` · MC $88.5k · vol 24h $38.6k · 24h 63.08%
+- **Token de pago:** MC $89 · volumen 24h $6.24M · liquidez $685.9k
+- **Líder (más volumen):** GTA6 `2gVNeu8dP7XiLoaWfUvUJXUM5AdXY8418aft8xhUpump` · MC $229.3k · vol 24h $90.5k · 24h 66.53%
+- **Líder (mayor subida 24h):** AU `B9Nbxs1LNWh6gBF3DnMyyuXtpx1zHT3HpM7UvaN1pump` · MC $97.4k · vol 24h $39.9k · 24h 79.6%
 - **Catalizador:** META ACCELERATION (pools 24h +233%)
 
 ### 🟡 META ACTIVÁNDOSE — SPCX
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
 - **Pools nuevos:** 1h 11 (antes 0) · 6h 13 (antes 0, nuevo) · 24h 16 (antes 28, -43%)
-- **Amplitud (24h):** 16 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 46% del volumen
-- **Token de pago:** MC $10.10M · volumen 24h $11.58M · liquidez $2.63M
-- **Líder (más volumen):** 1T `7mQHfGfZ9GHHEgTYexiwkW6rxbXjMJZQzDuyzYyAbAsc` · MC $11.0k · vol 24h $37.7k · 24h 89.48%
-- **Líder (mayor subida 24h):** 1T `7mQHfGfZ9GHHEgTYexiwkW6rxbXjMJZQzDuyzYyAbAsc` · MC $11.0k · vol 24h $37.7k · 24h 89.48%
+- **Amplitud (24h):** 16 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 68% del volumen
+- **Token de pago:** MC $10.19M · volumen 24h $11.80M · liquidez $2.63M
+- **Líder (más volumen):** 1T `7mQHfGfZ9GHHEgTYexiwkW6rxbXjMJZQzDuyzYyAbAsc` · MC $3.2k · vol 24h $44.8k · 24h -44.91%
+- **Líder (mayor subida 24h):** Gigabite `6tsykNmR3WDqouj9uVUFZRgR2Kpai4F1Qm1gAcirpump` · MC $24.8k · vol 24h $32.7k · 24h 18.67%
 - **Catalizador:** META ACCELERATION (pools 24h -43%)
 - **Riesgos:** liquidez 0% del MC
 
