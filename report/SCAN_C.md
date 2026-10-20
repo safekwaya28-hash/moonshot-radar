@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-20 09:00 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-20 09:50 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -9,7 +9,7 @@
 - **Quote:** `CARDSccUMFKoPRZxt5vt3ksUbxEFEcnZ3H2pd3dKxYjp`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 3 (antes 17, -82%) · 24h 27 (antes 4, +575%)
 - **Amplitud (24h):** 27 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 36% del volumen
-- **Token de pago:** MC $287.43M · volumen 24h $13.33M · liquidez $4.44M
+- **Token de pago:** MC $290.73M · volumen 24h $13.50M · liquidez $4.47M
 - **Líder (más volumen):** Ash `EcxDknBixGzw8Nm8pumvnekG2kMAXrSZkxpXk1C1pump` · MC $3.1k · vol 24h $51.0k · 24h -26.82%
 - **Líder (mayor subida 24h):** GACHACAT `EiaHgc5MFyZX9cUhVBJEmVZqswv67qJX68j9MBkfpump` · MC $3.3k · vol 24h $883 · 24h 7.07%
 - **Catalizador:** META ACCELERATION (pools 24h +575%)
@@ -27,16 +27,16 @@
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 3 (antes 0, nuevo) · 24h 12 (antes 35, -66%)
 - **Amplitud (24h):** 12 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 38% del volumen
-- **Token de pago:** MC $9.45M · volumen 24h $4.26M · liquidez $2.50M
-- **Líder (más volumen):** Gigabite `6tsykNmR3WDqouj9uVUFZRgR2Kpai4F1Qm1gAcirpump` · MC $44.6k · vol 24h $39.8k · 24h 167%
-- **Líder (mayor subida 24h):** Gigabite `6tsykNmR3WDqouj9uVUFZRgR2Kpai4F1Qm1gAcirpump` · MC $44.6k · vol 24h $39.8k · 24h 167%
+- **Token de pago:** MC $9.40M · volumen 24h $4.22M · liquidez $2.47M
+- **Líder (más volumen):** Gigabite `6tsykNmR3WDqouj9uVUFZRgR2Kpai4F1Qm1gAcirpump` · MC $35.7k · vol 24h $39.5k · 24h 113%
+- **Líder (mayor subida 24h):** Gigabite `6tsykNmR3WDqouj9uVUFZRgR2Kpai4F1Qm1gAcirpump` · MC $35.7k · vol 24h $39.5k · 24h 113%
 - **Catalizador:** META ACCELERATION (pools 24h -66%)
 
 ### 🟡 META ACTIVÁNDOSE — HIMS
 - **Quote:** `HiMSSzzwkZkrXJ4PGVJRdtfLaANeAztjjcgk5Dxe7Lwx`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 2 (antes 0, nuevo) · 24h 11 (antes 0, nuevo)
-- **Amplitud (24h):** 11 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 64% del volumen
-- **Token de pago:** MC $177.8k · volumen 24h $689.8k · liquidez $179.5k
+- **Amplitud (24h):** 11 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 51% del volumen
+- **Token de pago:** MC $175.7k · volumen 24h $697.4k · liquidez $175.0k
 - **Líder (más volumen):** jorkin `FUaPhDoVwrpYwC4N414Sd3T8iBuUp8C8z5GcS4jppump` · MC $3.2k · vol 24h $89.0k · 24h -19.38%
 - **Líder (mayor subida 24h):** jorkin `DjFYMByGcZEoS47G8aoNfLwzWo1ngP9BPMGHjosjNzFF` · MC $3.1k · vol 24h $10 · 24h -0.3%
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
