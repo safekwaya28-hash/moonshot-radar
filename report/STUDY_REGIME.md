@@ -1,7 +1,7 @@
 # ESTUDIO · por trimestre (¿funciona en todos o solo en uno?)
-**2026-10-21 16:47 UTC** · fuente: todas las graduadas de pump.fun (PumpSwap)
+**2026-10-21 17:43 UTC** · fuente: todas las graduadas de pump.fun (PumpSwap)
 
-- Monedas revisadas: **39,343 / 206,007** (19%) · con pico ≥ $500k: **8,198**
+- Monedas revisadas: **39,431 / 206,007** (19%) · con pico ≥ $500k: **8,215**
 
 EV por trimestre de entrada (entre paréntesis, nº de operaciones y % que cobró ≥10x):
 
@@ -15,6 +15,6 @@ EV por trimestre de entrada (entre paréntesis, nº de operaciones y % que cobr�
 | dd70_mc50k_168h_ruptura | escalonada | — | — | 1.06x (11, 0%) |
 | dd70_mc50k_168h_ruptura | solo_stop | — | — | 1.06x (11, 0%) |
 | dd70_mc50k_168h_ruptura | trailing | — | — | 1.06x (11, 0%) |
-| dd70_mc150k_72h_base | tuya | — | — | 0.97x (99, 0%) |
+| dd70_mc150k_72h_base | tuya | — | — | 0.97x (100, 0%) |
 
 Si todas las ganancias salen de un solo trimestre, se está midiendo el mercado de ese momento, no la estrategia.
