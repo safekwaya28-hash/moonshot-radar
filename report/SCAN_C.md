@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-21 11:51 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-21 11:58 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -9,7 +9,7 @@
 - **Quote:** `CSocnzcRpgSCr1naKcNTieWZUxb6rABe45j844m7pump`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 1 (antes 36, -97%) · 24h 110 (antes 0, nuevo)
 - **Amplitud (24h):** 110 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 100% del volumen ⚠️ una sola moneda domina: puede no ser una moda
-- **Token de pago:** MC $29.74M · volumen 24h $36.19M · liquidez $558.0k
+- **Token de pago:** MC $30.05M · volumen 24h $36.21M · liquidez $560.8k
 - **Líder (más volumen):** Aura `Cj3cJQRAFB6AftJf8qETYE2i8o3V1PcBTr5muDf2fart` · MC $3.0k · vol 24h $3 · 24h -62.53%
 - **Líder (mayor subida 24h):** Aura `Cj3cJQRAFB6AftJf8qETYE2i8o3V1PcBTr5muDf2fart` · MC $3.0k · vol 24h $3 · 24h -62.53%
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
@@ -19,8 +19,8 @@
 - **Quote:** `TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 19 (antes 4, +375%)
 - **Amplitud (24h):** 19 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 51% del volumen
-- **Token de pago:** MC $89 · volumen 24h $4.55M · liquidez $505.6k
-- **Líder (más volumen):** GTA6 `2gVNeu8dP7XiLoaWfUvUJXUM5AdXY8418aft8xhUpump` · MC $166.7k · vol 24h $118.6k · 24h 8.79%
+- **Token de pago:** MC $89 · volumen 24h $4.56M · liquidez $503.8k
+- **Líder (más volumen):** GTA6 `2gVNeu8dP7XiLoaWfUvUJXUM5AdXY8418aft8xhUpump` · MC $167.2k · vol 24h $118.6k · 24h 11.81%
 - **Líder (mayor subida 24h):** MAMES `7YvJBwzah3MF996HgAckG1sR3bKwQ4ufUcaPoDbrpump` · MC $5.4k · vol 24h $17.5k · 24h 37.25%
 - **Catalizador:** META ACCELERATION (pools 24h +375%)
 
@@ -60,7 +60,7 @@
 
 ### 🟡 FLYWHEEL ACELERANDO — Cardboard Trade (Derivatives)
 - **Ingresos 7d:** $444.3k · 7d anteriores — · cambio nuevo
-- **Ingresos 24h:** $76.6k · 24h anteriores $106.2k · -28% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $74.1k · 24h anteriores $106.2k · -30% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $222.1k
 - **Token:** sin token listado en CoinGecko
 
