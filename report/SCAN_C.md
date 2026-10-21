@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-21 16:56 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-21 17:48 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -7,9 +7,9 @@
 
 ### 🟡 META ACTIVÁNDOSE — Kimchi
 - **Quote:** `CSocnzcRpgSCr1naKcNTieWZUxb6rABe45j844m7pump`
-- **Pools nuevos:** 1h 7 (antes 0) · 6h 7 (antes 1, +600%) · 24h 117 (antes 0, nuevo)
+- **Pools nuevos:** 1h 2 (antes 5) · 6h 7 (antes 1, +600%) · 24h 117 (antes 0, nuevo)
 - **Amplitud (24h):** 117 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 100% del volumen ⚠️ una sola moneda domina: puede no ser una moda
-- **Token de pago:** MC $44.93M · volumen 24h $38.89M · liquidez $697.0k
+- **Token de pago:** MC $38.17M · volumen 24h $39.90M · liquidez $645.0k
 - **Líder (más volumen):** Aura `Cj3cJQRAFB6AftJf8qETYE2i8o3V1PcBTr5muDf2fart` · MC $3.0k · vol 24h $3 · 24h -62.53%
 - **Líder (mayor subida 24h):** Aura `Cj3cJQRAFB6AftJf8qETYE2i8o3V1PcBTr5muDf2fart` · MC $3.0k · vol 24h $3 · 24h -62.53%
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
@@ -17,16 +17,16 @@
 
 ### 🟡 META ACTIVÁNDOSE — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 5 (antes 0) · 6h 16 (antes 5, +220%) · 24h 56 (antes 30, +87%)
-- **Amplitud (24h):** 56 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 19% del volumen
-- **Token de pago:** MC $2267.55M · volumen 24h $5.25M · liquidez $24.73M
-- **Líder (más volumen):** Dip `48hnR1CWtafBumJsJod6Q8yduwDuYyumCJzuBVzvpump` · MC $36.3k · vol 24h $105.8k · 24h -43.35%
-- **Líder (mayor subida 24h):** FEE `7cMd2fPzPf9ErTq7LSD2wTPxnUNduZ2whtVVSX8epump` · MC $15.6k · vol 24h $50.2k · 24h 304%
+- **Pools nuevos:** 1h 1 (antes 4) · 6h 16 (antes 5, +220%) · 24h 56 (antes 30, +87%)
+- **Amplitud (24h):** 56 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 23% del volumen
+- **Token de pago:** MC $2316.15M · volumen 24h $5.19M · liquidez $25.00M
+- **Líder (más volumen):** Dip `48hnR1CWtafBumJsJod6Q8yduwDuYyumCJzuBVzvpump` · MC $37.7k · vol 24h $107.2k · 24h -30.27%
+- **Líder (mayor subida 24h):** FEE `7cMd2fPzPf9ErTq7LSD2wTPxnUNduZ2whtVVSX8epump` · MC $7.7k · vol 24h $61.5k · 24h 98.93%
 - **Catalizador:** META ACCELERATION (pools 24h +87%)
 
 ### 🟡 META ACTIVÁNDOSE — DOGE
 - **Quote:** `DoGEV7LASBkQbibMc5k5vKnTZoMg423GpJ5QtJEGfm7R`
-- **Pools nuevos:** 1h 14 (antes 0) · 6h 18 (antes 0, nuevo) · 24h 20 (antes 1, +1900%)
+- **Pools nuevos:** 1h 0 (antes 14) · 6h 18 (antes 0, nuevo) · 24h 20 (antes 1, +1900%)
 - **Amplitud (24h):** 20 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 44% del volumen
 - **Líder (más volumen):** POOCH `4D1SoCNXd9dfjPxt7e7FpDFcF5b5QspraECJhoNmpump` · MC $3.2k · vol 24h $51.8k · 24h -22.19%
 - **Líder (mayor subida 24h):** WILLOW `71CyuavDxWWf98HKJjDd95gt7Ye6mhKrs1EityQm7P4j` · MC $3.1k · vol 24h $981 · 24h -16.77%
@@ -37,18 +37,18 @@
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
 - **Pools nuevos:** 1h 1 (antes 0) · 6h 2 (antes 0, nuevo) · 24h 18 (antes 3, +500%)
 - **Amplitud (24h):** 18 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Token de pago:** MC $10.40M · volumen 24h $13.02M · liquidez $2.32M
-- **Líder (más volumen):** Gigabite `6tsykNmR3WDqouj9uVUFZRgR2Kpai4F1Qm1gAcirpump` · MC $21.4k · vol 24h $10.0k · 24h -1.4%
+- **Token de pago:** MC $10.18M · volumen 24h $12.37M · liquidez $2.33M
+- **Líder (más volumen):** Gigabite `6tsykNmR3WDqouj9uVUFZRgR2Kpai4F1Qm1gAcirpump` · MC $20.5k · vol 24h $9.7k · 24h -13.48%
 - **Líder (mayor subida 24h):** SS `HkcbqqENsyVGrvbfgSnZ1iqUkh3aYXZYtrm2WETmpump` · MC $3.3k · vol 24h $1 · 24h 0.89%
 - **Catalizador:** META ACCELERATION (pools 24h +500%)
 
 ### ⚪ en observación — CARDS
 - **Quote:** `CARDSccUMFKoPRZxt5vt3ksUbxEFEcnZ3H2pd3dKxYjp`
-- **Pools nuevos:** 1h 3 (antes 0) · 6h 4 (antes 5, -20%) · 24h 24 (antes 30, -20%)
+- **Pools nuevos:** 1h 0 (antes 3) · 6h 4 (antes 5, -20%) · 24h 24 (antes 30, -20%)
 
 ### ⚪ en observación — Pokémon
 - **Quote:** `D42TjMjz5H7toPu5md5KBXreZkCSdZMEfLQwmBhJXvb1`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 0, nuevo) · 24h 7 (antes 4, +75%)
+- **Pools nuevos:** 1h 0 (antes 1) · 6h 1 (antes 0, nuevo) · 24h 7 (antes 4, +75%)
 
 ### ⚪ en observación — WBTC
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
@@ -56,11 +56,11 @@
 
 ### ⚪ en observación — AAPLx
 - **Quote:** `XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp`
-- **Pools nuevos:** 1h 3 (antes 0) · 6h 3 (antes 0, nuevo) · 24h 6 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 3) · 6h 3 (antes 0, nuevo) · 24h 6 (antes 0, nuevo)
 
 ### ⚪ en observación — TTWO
 - **Quote:** `TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo`
-- **Pools nuevos:** 1h 2 (antes 0) · 6h 2 (antes 0, nuevo) · 24h 5 (antes 20, -75%)
+- **Pools nuevos:** 1h 1 (antes 1) · 6h 2 (antes 0, nuevo) · 24h 5 (antes 20, -75%)
 
 ### ⚪ en observación — MSTRx
 - **Quote:** `XsP7xzNPvEHS1m6qfanPUGjNmdnmsLKEoNAnHjdxxyZ`
