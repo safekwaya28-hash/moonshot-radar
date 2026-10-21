@@ -1,5 +1,7 @@
 # SCAN C — Meta / Flywheel
-**2026-10-21 07:05 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-21 07:13 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+
+> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
 ## Metas por token de pago (2 activándose)
 
@@ -7,7 +9,7 @@
 - **Quote:** `CSocnzcRpgSCr1naKcNTieWZUxb6rABe45j844m7pump`
 - **Pools nuevos:** 1h 1 (antes 0) · 6h 13 (antes 97, -87%) · 24h 110 (antes 0, nuevo)
 - **Amplitud (24h):** 110 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 100% del volumen ⚠️ una sola moneda domina: puede no ser una moda
-- **Token de pago:** MC $32.12M · volumen 24h $34.43M · liquidez $573.9k
+- **Token de pago:** MC $32.65M · volumen 24h $34.45M · liquidez $578.8k
 - **Líder (más volumen):** Aura `Cj3cJQRAFB6AftJf8qETYE2i8o3V1PcBTr5muDf2fart` · MC $3.0k · vol 24h $3 · 24h -62.53%
 - **Líder (mayor subida 24h):** Aura `Cj3cJQRAFB6AftJf8qETYE2i8o3V1PcBTr5muDf2fart` · MC $3.0k · vol 24h $3 · 24h -62.53%
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
@@ -17,7 +19,7 @@
 - **Quote:** `TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 3, -100%) · 24h 19 (antes 7, +171%)
 - **Amplitud (24h):** 19 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 54% del volumen
-- **Token de pago:** MC $89 · volumen 24h $4.46M · liquidez $490.6k
+- **Token de pago:** MC $89 · volumen 24h $4.43M · liquidez $486.0k
 - **Líder (más volumen):** GTA6 `2gVNeu8dP7XiLoaWfUvUJXUM5AdXY8418aft8xhUpump` · MC $156.4k · vol 24h $109.0k · 24h 15.28%
 - **Líder (mayor subida 24h):** GTA6 `2gVNeu8dP7XiLoaWfUvUJXUM5AdXY8418aft8xhUpump` · MC $156.4k · vol 24h $109.0k · 24h 15.28%
 - **Catalizador:** META ACCELERATION (pools 24h +171%)
