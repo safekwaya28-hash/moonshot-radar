@@ -1,7 +1,7 @@
 # ESTUDIO · ¿qué entrada y qué forma de vender dan más 10x–50x cobrados?
-**2026-10-22 17:43 UTC** · fuente: todas las graduadas de pump.fun (PumpSwap)
+**2026-10-22 18:54 UTC** · fuente: todas las graduadas de pump.fun (PumpSwap)
 
-- Monedas revisadas: **41,530 / 206,007** (20%) · con pico ≥ $500k: **8,644**
+- Monedas revisadas: **41,614 / 206,007** (20%) · con pico ≥ $500k: **8,666**
 - Entradas simuladas: **882 monedas** · **100% con < 180 días de datos después** (⚠️ con tanta censura el estudio todavía no puede afirmar nada sobre 50x)
 
 ## Ranking (EV = lo que multiplicas de media por operación, cobrado con esa regla de venta)
