@@ -1,14 +1,14 @@
 # ESTUDIO · ¿qué entrada y qué forma de vender dan más 10x–50x cobrados?
-**2026-10-22 10:46 UTC** · fuente: todas las graduadas de pump.fun (PumpSwap)
+**2026-10-22 11:46 UTC** · fuente: todas las graduadas de pump.fun (PumpSwap)
 
-- Monedas revisadas: **40,922 / 206,007** (20%) · con pico ≥ $500k: **8,513**
-- Entradas simuladas: **875 monedas** · **100% con < 180 días de datos después** (⚠️ con tanta censura el estudio todavía no puede afirmar nada sobre 50x)
+- Monedas revisadas: **41,007 / 206,007** (20%) · con pico ≥ $500k: **8,531**
+- Entradas simuladas: **877 monedas** · **100% con < 180 días de datos después** (⚠️ con tanta censura el estudio todavía no puede afirmar nada sobre 50x)
 
 ## Ranking (EV = lo que multiplicas de media por operación, cobrado con esa regla de venta)
 
 | # | Entrada | Venta | Ops | EV | IC 95% EV | EV sin top 3 | Mediana | p90 | Cobró ≥10x | Cobró ≥50x | ROI 10×50€ | Caída máx. |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | TIPO_SOAP_pico200k_dd75_mc50k_72h_ruptura | tuya | 50 | 1.07x | 1.05x–1.29x | 1.01x | 1.04x | 1.44x | 0% | 0% | +23% | -5% |
+| 1 | TIPO_SOAP_pico200k_dd75_mc50k_72h_ruptura | tuya | 51 | 1.07x | 1.05x–1.28x | 1.01x | 1.03x | 1.43x | 0% | 0% | +23% | -5% |
 | 2 | dd70_mc150k_168h_ruptura | escalonada | 12 | 1.07x | 1.00x–1.10x | 0.99x ⚠️ | 1.06x | 1.27x | 0% | 0% | +6% | -4% |
 | 3 | dd70_mc150k_168h_ruptura | solo_stop | 12 | 1.07x | 1.00x–1.10x | 0.99x ⚠️ | 1.06x | 1.27x | 0% | 0% | +6% | -4% |
 | 4 | dd70_mc150k_168h_ruptura | trailing | 12 | 1.07x | 1.00x–1.10x | 0.99x ⚠️ | 1.06x | 1.27x | 0% | 0% | +6% | -4% |
