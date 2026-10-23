@@ -1,19 +1,9 @@
 # SCAN C — Meta / Flywheel
-**2026-10-23 03:51 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-23 03:59 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
 ## Metas por token de pago (10 activándose)
-
-### 🟡 META ACTIVÁNDOSE — DJT
-- **Quote:** `DJTu7vi8norVzdVAffgvb39VP7wjKeTsgaMBJrzfxvoF`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 6 (antes 7, -14%) · 24h 28 (antes 2, +1300%)
-- **Amplitud (24h):** 28 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 25% del volumen
-- **Token de pago:** MC $126.2k · volumen 24h $1.80M · liquidez $350.9k
-- **Líder (más volumen):** SHITHOUSE `75LXXXLAeBxMP8s8A9rsdPjKKfiYSrWeixZ9tevkpump` · MC $3.1k · vol 24h $24.2k · 24h -16.81%
-- **Líder (mayor subida 24h):** php.gov `DJ9628m75t3F5ziXSTDDAq963NoW439AvyCA2NCtpump` · MC $3.3k · vol 24h $22.3k · 24h 2.1%
-- **Catalizador:** META ACCELERATION (pools 24h +1300%)
-- **Riesgos:** liquidez 0% del MC
 
 ### 🟡 META ACTIVÁNDOSE — wXMR
 - **Quote:** `WXMRyRZhsa19ety5erZhHg4N3xj3EVN92u94422teJp`
@@ -23,6 +13,16 @@
 - **Líder (más volumen):** BCN `EWtUV4KdBem9pbSDMtiC9tg8xoGU3k1F1Tg3U5CApump` · MC $2.3k · vol 24h $57.4k · 24h -94.55%
 - **Líder (mayor subida 24h):** MONEROCHAN `HnkSYpv2HGzkKwSGfx9DAmZxotKnowRdAKzHdpF7pump` · MC $3.0k · vol 24h $20 · 24h -0.61%
 - **Catalizador:** META ACCELERATION (pools 24h +550%)
+
+### 🟡 META ACTIVÁNDOSE — DJT
+- **Quote:** `DJTu7vi8norVzdVAffgvb39VP7wjKeTsgaMBJrzfxvoF`
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 6 (antes 7, -14%) · 24h 24 (antes 6, +300%)
+- **Amplitud (24h):** 24 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 38% del volumen
+- **Token de pago:** MC $126.2k · volumen 24h $1.77M · liquidez $350.7k
+- **Líder (más volumen):** SHITHOUSE `75LXXXLAeBxMP8s8A9rsdPjKKfiYSrWeixZ9tevkpump` · MC $3.1k · vol 24h $24.2k · 24h -16.81%
+- **Líder (mayor subida 24h):** php.gov `DJ9628m75t3F5ziXSTDDAq963NoW439AvyCA2NCtpump` · MC $3.3k · vol 24h $22.3k · 24h 2.1%
+- **Catalizador:** META ACCELERATION (pools 24h +300%)
+- **Riesgos:** liquidez 0% del MC
 
 ### 🟡 META ACTIVÁNDOSE — TSLAx
 - **Quote:** `XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB`
@@ -38,20 +38,20 @@
 - **Quote:** `TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 11 (antes 1, +1000%) · 24h 18 (antes 35, -49%)
 - **Amplitud (24h):** 18 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 84% del volumen ⚠️ una sola moneda domina: puede no ser una moda
-- **Token de pago:** MC $89 · volumen 24h $4.62M · liquidez $727.1k
+- **Token de pago:** MC $89 · volumen 24h $4.60M · liquidez $727.0k
 - **Líder (más volumen):** CITY `5cZ5jEZmdhJhLgUAV84n6H4v4BmnADPg5TfcNSGqpump` · MC $5.2k · vol 24h $450.8k · 24h -87.81%
-- **Líder (mayor subida 24h):** GTA6 `2gVNeu8dP7XiLoaWfUvUJXUM5AdXY8418aft8xhUpump` · MC $145.9k · vol 24h $38.1k · 24h 18.26%
+- **Líder (mayor subida 24h):** GTA6 `2gVNeu8dP7XiLoaWfUvUJXUM5AdXY8418aft8xhUpump` · MC $150.3k · vol 24h $38.0k · 24h 25.24%
 - **Catalizador:** META ACCELERATION (pools 24h -49%)
 - **Riesgos:** concentración: top10 28%, wallet máx 5.0%
 
 ### 🟡 META ACTIVÁNDOSE — BTC
 - **Quote:** `C5xph2yL6gMdxmuLGxJBkGpmuDFfyi5fqkBNhvL6pump`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 1 (antes 11, -91%) · 24h 18 (antes 4, +350%)
-- **Amplitud (24h):** 18 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Token de pago:** MC $1.23M · volumen 24h $416.1k · liquidez $129.1k
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 1 (antes 11, -91%) · 24h 16 (antes 6, +167%)
+- **Amplitud (24h):** 16 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
+- **Token de pago:** MC $1.23M · volumen 24h $412.7k · liquidez $129.0k
 - **Líder (más volumen):** BCC `2v991Wyp5vK6XYZfnVNcfvoBUSFuAgQC37vYWuc9pump` · MC — · vol 24h $0 · 24h None%
 - **Líder (mayor subida 24h):** BCC `2v991Wyp5vK6XYZfnVNcfvoBUSFuAgQC37vYWuc9pump` · MC — · vol 24h $0 · 24h None%
-- **Catalizador:** META ACCELERATION (pools 24h +350%)
+- **Catalizador:** META ACCELERATION (pools 24h +167%)
 
 ### 🟡 META ACTIVÁNDOSE — STONK
 - **Quote:** `6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx`
