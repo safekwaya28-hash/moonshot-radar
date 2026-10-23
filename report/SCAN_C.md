@@ -1,5 +1,7 @@
 # SCAN C — Meta / Flywheel
-**2026-10-23 07:04 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-23 07:12 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+
+> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
 ## Metas por token de pago (7 activándose)
 
@@ -7,7 +9,7 @@
 - **Quote:** `WXMRyRZhsa19ety5erZhHg4N3xj3EVN92u94422teJp`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 3, -100%) · 24h 26 (antes 4, +550%)
 - **Amplitud (24h):** 26 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 45% del volumen
-- **Token de pago:** MC $1.83M · volumen 24h $688.8k · liquidez $406.0k
+- **Token de pago:** MC $1.83M · volumen 24h $688.2k · liquidez $406.1k
 - **Líder (más volumen):** BCN `EWtUV4KdBem9pbSDMtiC9tg8xoGU3k1F1Tg3U5CApump` · MC $2.3k · vol 24h $57.5k · 24h -94.48%
 - **Líder (mayor subida 24h):** MONEROCHAN `HnkSYpv2HGzkKwSGfx9DAmZxotKnowRdAKzHdpF7pump` · MC $3.0k · vol 24h $20 · 24h -0.61%
 - **Catalizador:** META ACCELERATION (pools 24h +550%)
@@ -16,7 +18,7 @@
 - **Quote:** `XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 19 (antes 3, +533%)
 - **Amplitud (24h):** 19 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 62% del volumen
-- **Token de pago:** MC $71.15M · volumen 24h $2.86M · liquidez $2.42M
+- **Token de pago:** MC $71.13M · volumen 24h $2.86M · liquidez $2.42M
 - **Líder (más volumen):** TOGE `7i3ujZo2PyS2p6TcN2J2MBPyPUU5yLoVKksceLBYfFZW` · MC $3.1k · vol 24h $7.3k · 24h -19.02%
 - **Líder (mayor subida 24h):** BDFC `ChnEJpAfB84a1rTZAdkNLv66Paiynpt2yfFZoYVKpump` · MC $3.3k · vol 24h $137 · 24h 0.13%
 - **Catalizador:** META ACCELERATION (pools 24h +533%)
@@ -36,7 +38,7 @@
 - **Quote:** `6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 13, -100%) · 24h 13 (antes 1, +1200%)
 - **Amplitud (24h):** 13 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Token de pago:** MC $126.66M · volumen 24h $1.53M · liquidez $2.42M
+- **Token de pago:** MC $124.90M · volumen 24h $1.53M · liquidez $2.39M
 - **Líder (más volumen):** PMUP `29qcmLLHvAzUfK1xLrtwdxEX8EvbrQ8uXmkTdksLcuNQ` · MC — · vol 24h $0 · 24h None%
 - **Líder (mayor subida 24h):** PMUP `29qcmLLHvAzUfK1xLrtwdxEX8EvbrQ8uXmkTdksLcuNQ` · MC — · vol 24h $0 · 24h None%
 - **Catalizador:** META ACCELERATION (pools 24h +1200%)
