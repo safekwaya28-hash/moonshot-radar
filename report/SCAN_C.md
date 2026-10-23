@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-23 14:55 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-23 15:03 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -9,7 +9,7 @@
 - **Quote:** `WXMRyRZhsa19ety5erZhHg4N3xj3EVN92u94422teJp`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 2 (antes 0, nuevo) · 24h 13 (antes 19, -32%)
 - **Amplitud (24h):** 13 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 48% del volumen
-- **Token de pago:** MC $1.86M · volumen 24h $83.7k · liquidez $407.1k
+- **Token de pago:** MC $1.85M · volumen 24h $83.7k · liquidez $407.0k
 - **Líder (más volumen):** Monty `A4j9SP6ykB6WuTW9hea1TxUfAZgpxXviKGwNMKFGpump` · MC $3.0k · vol 24h $7.7k · 24h -27.87%
 - **Líder (mayor subida 24h):** GHOSTLINK `GbKogroNUdW96vCiWcS2mawJ2zd6NPPLCgLaKN7Ypump` · MC $3.0k · vol 24h $18 · 24h -5.92%
 - **Catalizador:** META ACCELERATION (pools 24h -32%)
@@ -28,7 +28,7 @@
 - **Quote:** `8idEA8QovsZJka6d9Z35fejE5MbL37BJxvw5k5r6pump`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 12 (antes 0, nuevo)
 - **Amplitud (24h):** 12 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Token de pago:** MC $717.6k · volumen 24h $5.99M · liquidez $89.3k
+- **Token de pago:** MC $680.1k · volumen 24h $6.00M · liquidez $86.8k
 - **Líder (más volumen):** GOYSLOP `338Lie71gKUkZUMw3YLHrQQ2bQQJeQwMrihDbAjcpump` · MC — · vol 24h $0 · 24h None%
 - **Líder (mayor subida 24h):** GOYSLOP `338Lie71gKUkZUMw3YLHrQQ2bQQJeQwMrihDbAjcpump` · MC — · vol 24h $0 · 24h None%
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
@@ -70,7 +70,7 @@
 
 ### 🟡 FLYWHEEL ACELERANDO — Cardboard Trade (Derivatives)
 - **Ingresos 7d:** $470.8k · 7d anteriores $5.2k · cambio 90.2×
-- **Ingresos 24h:** $1.9k · 24h anteriores $28.1k · -93% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $1.8k · 24h anteriores $28.1k · -93% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $235.4k
 - **Token:** sin token listado en CoinGecko
 
