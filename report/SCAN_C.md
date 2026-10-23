@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-23 23:45 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-23 23:50 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -9,7 +9,7 @@
 - **Quote:** `DJTu7vi8norVzdVAffgvb39VP7wjKeTsgaMBJrzfxvoF`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 7 (antes 1, +600%) · 24h 12 (antes 24, -50%)
 - **Amplitud (24h):** 12 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 29% del volumen
-- **Token de pago:** MC $122.7k · volumen 24h $9.64M · liquidez $744.6k
+- **Token de pago:** MC $122.7k · volumen 24h $9.64M · liquidez $734.7k
 - **Líder (más volumen):** TRUMP `AhWLMvMNNYpbN5SgMdfsJcFusqBq19Ye62E5Hdtfpump` · MC $3.1k · vol 24h $7.8k · 24h -16.08%
 - **Líder (mayor subida 24h):** php.gov `DJ9628m75t3F5ziXSTDDAq963NoW439AvyCA2NCtpump` · MC $3.3k · vol 24h $180 · 24h -3.32%
 - **Catalizador:** META ACCELERATION (pools 24h -50%)
@@ -19,7 +19,7 @@
 - **Quote:** `TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 6 (antes 1, +500%) · 24h 12 (antes 25, -52%)
 - **Amplitud (24h):** 12 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 52% del volumen
-- **Token de pago:** MC $88 · volumen 24h $3.79M · liquidez $1.03M
+- **Token de pago:** MC $88 · volumen 24h $3.78M · liquidez $1.03M
 - **Líder (más volumen):** Tiggien `ELdG1Wnqu91eecpeo7q7huzXSc7Wct9mDcWpGkPVpump` · MC $3.1k · vol 24h $33.6k · 24h -14.94%
 - **Líder (mayor subida 24h):** AU `B9Nbxs1LNWh6gBF3DnMyyuXtpx1zHT3HpM7UvaN1pump` · MC $38.3k · vol 24h $5.6k · 24h 15.75%
 - **Catalizador:** META ACCELERATION (pools 24h -52%)
@@ -29,7 +29,7 @@
 - **Quote:** `PresTj4Yc2bAR197Er7wz4UUKSfqt6FryBEdAriBoQB`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 11 (antes 0, nuevo)
 - **Amplitud (24h):** 11 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Token de pago:** MC $1.85M · volumen 24h $48.2k · liquidez $35.1k
+- **Token de pago:** MC $1.85M · volumen 24h $41.2k · liquidez $35.1k
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
 - **Riesgos:** concentración: top10 41%, wallet máx 17.4%; liquidez 2% del MC; impuesto 3% · lo puede cambiar: WV9PJN… · cobra: WV9PJN… → revisar a dónde va y si esa wallet vende
 - **Descartado por seguridad:** mint authority activa; freeze authority activa; impuesto 3% que alguien puede cambiar; extensiones Token-2022: permanentDelegate,defaultAccountState,confidentialTransferMint,confidentialTransferFeeConfig,transferHook,scaledUiAmountConfig,pausableConfig
@@ -38,20 +38,20 @@
 - **Quote:** `8idEA8QovsZJka6d9Z35fejE5MbL37BJxvw5k5r6pump`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 10 (antes 2, +400%)
 - **Amplitud (24h):** 10 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Token de pago:** MC $434.6k · volumen 24h $1.22M · liquidez $84.0k
+- **Token de pago:** MC $447.8k · volumen 24h $1.22M · liquidez $84.6k
 - **Catalizador:** META ACCELERATION (pools 24h +400%)
 
 ### ⚪ en observación — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 0 (antes 5) · 6h 12 (antes 9, +33%) · 24h 31 (antes 156, -80%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 12 (antes 9, +33%) · 24h 31 (antes 154, -80%)
 
 ### ⚪ en observación — ANTHRP
 - **Quote:** `Pren1FvFX6J3E4kXhJuCiAD5aDmGEb7qJRncwA8Lkhw`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 8 (antes 14, -43%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 8 (antes 13, -38%)
 
 ### ⚪ en observación — NVDAx
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 5 (antes 1, +400%) · 24h 7 (antes 7, +0%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 5 (antes 1, +400%) · 24h 7 (antes 5, +40%)
 
 ### ⚪ en observación — PUMP
 - **Quote:** `HffH5YB6YhTWinZYzbqJowpDbKzqALGMX1NFAHYdpump`
@@ -59,7 +59,7 @@
 
 ### ⚪ en observación — SPCX
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
-- **Pools nuevos:** 1h 0 (antes 2) · 6h 6 (antes 0, nuevo) · 24h 6 (antes 33, -82%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 6 (antes 0, nuevo) · 24h 6 (antes 33, -82%)
 
 ### ⚪ en observación — GOOGLx
 - **Quote:** `XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN`
