@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-23 04:50 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-23 04:57 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -18,7 +18,7 @@
 - **Quote:** `DJTu7vi8norVzdVAffgvb39VP7wjKeTsgaMBJrzfxvoF`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 5 (antes 8, -38%) · 24h 24 (antes 6, +300%)
 - **Amplitud (24h):** 24 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 38% del volumen
-- **Token de pago:** MC $126.2k · volumen 24h $1.77M · liquidez $351.1k
+- **Token de pago:** MC $126.1k · volumen 24h $1.77M · liquidez $351.1k
 - **Líder (más volumen):** php.gov `DJ9628m75t3F5ziXSTDDAq963NoW439AvyCA2NCtpump` · MC $3.3k · vol 24h $22.3k · 24h 2.1%
 - **Líder (mayor subida 24h):** php.gov `DJ9628m75t3F5ziXSTDDAq963NoW439AvyCA2NCtpump` · MC $3.3k · vol 24h $22.3k · 24h 2.1%
 - **Catalizador:** META ACCELERATION (pools 24h +300%)
@@ -38,7 +38,7 @@
 - **Quote:** `6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 1 (antes 12, -92%) · 24h 13 (antes 1, +1200%)
 - **Amplitud (24h):** 13 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Token de pago:** MC $116.41M · volumen 24h $1.28M · liquidez $2.26M
+- **Token de pago:** MC $114.42M · volumen 24h $1.29M · liquidez $2.23M
 - **Líder (más volumen):** PMUP `29qcmLLHvAzUfK1xLrtwdxEX8EvbrQ8uXmkTdksLcuNQ` · MC — · vol 24h $0 · 24h None%
 - **Líder (mayor subida 24h):** PMUP `29qcmLLHvAzUfK1xLrtwdxEX8EvbrQ8uXmkTdksLcuNQ` · MC — · vol 24h $0 · 24h None%
 - **Catalizador:** META ACCELERATION (pools 24h +1200%)
@@ -47,7 +47,7 @@
 - **Quote:** `CARDSccUMFKoPRZxt5vt3ksUbxEFEcnZ3H2pd3dKxYjp`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 1 (antes 0, nuevo) · 24h 12 (antes 17, -29%)
 - **Amplitud (24h):** 12 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Token de pago:** MC $306.45M · volumen 24h $2.64M · liquidez $4.58M
+- **Token de pago:** MC $304.73M · volumen 24h $2.68M · liquidez $4.58M
 - **Líder (más volumen):** Ash `EcxDknBixGzw8Nm8pumvnekG2kMAXrSZkxpXk1C1pump` · MC $3.3k · vol 24h $243 · 24h -1.22%
 - **Líder (mayor subida 24h):** POKE6900 `4bWNjXPCS3pj9hxDQpM9VZwGmomxgvrENT39vNRJpump` · MC $2.6k · vol 24h $23 · 24h 3.54%
 - **Catalizador:** META ACCELERATION (pools 24h -29%)
