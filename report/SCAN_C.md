@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-23 13:56 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-23 14:03 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -7,36 +7,36 @@
 
 ### 🟡 META ACTIVÁNDOSE — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 0 (antes 8) · 6h 12 (antes 4, +200%) · 24h 93 (antes 163, -43%)
-- **Amplitud (24h):** 93 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 58% del volumen
-- **Token de pago:** MC $2126.50M · volumen 24h $4.67M · liquidez $23.98M
+- **Pools nuevos:** 1h 0 (antes 8) · 6h 12 (antes 4, +200%) · 24h 90 (antes 166, -46%)
+- **Amplitud (24h):** 90 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 58% del volumen
+- **Token de pago:** MC $2156.77M · volumen 24h $4.68M · liquidez $24.15M
 - **Líder (más volumen):** fun `7nRtEVneLhdc4L4dHyiExoSZoSMJx9VEBTr7wbmDpump` · MC $4.6k · vol 24h $700.2k · 24h -89.58%
 - **Líder (mayor subida 24h):** GOY `E24UWNn1EWdeawTpmqUUswFLabf4z93a7asofDHUpump` · MC $3.0k · vol 24h $0 · 24h 2.06%
-- **Catalizador:** META ACCELERATION (pools 24h -43%)
+- **Catalizador:** META ACCELERATION (pools 24h -46%)
 
 ### 🟡 META ACTIVÁNDOSE — TTWO
 - **Quote:** `TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 2 (antes 0, nuevo) · 24h 17 (antes 38, -55%)
 - **Amplitud (24h):** 17 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 84% del volumen ⚠️ una sola moneda domina: puede no ser una moda
 - **Líder (más volumen):** CITY `5cZ5jEZmdhJhLgUAV84n6H4v4BmnADPg5TfcNSGqpump` · MC $3.0k · vol 24h $451.8k · 24h -92.93%
-- **Líder (mayor subida 24h):** GTA6 `2gVNeu8dP7XiLoaWfUvUJXUM5AdXY8418aft8xhUpump` · MC $165.9k · vol 24h $26.9k · 24h 56.95%
+- **Líder (mayor subida 24h):** GTA6 `2gVNeu8dP7XiLoaWfUvUJXUM5AdXY8418aft8xhUpump` · MC $159.1k · vol 24h $26.6k · 24h 47.49%
 - **Catalizador:** META ACCELERATION (pools 24h -55%)
 
 ### 🟡 META ACTIVÁNDOSE — wXMR
 - **Quote:** `WXMRyRZhsa19ety5erZhHg4N3xj3EVN92u94422teJp`
-- **Pools nuevos:** 1h 0 (antes 2) · 6h 2 (antes 0, nuevo) · 24h 14 (antes 18, -22%)
-- **Amplitud (24h):** 14 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 51% del volumen
-- **Token de pago:** MC $1.87M · volumen 24h $98.6k · liquidez $408.2k
-- **Líder (más volumen):** GHOSTLINK `GbKogroNUdW96vCiWcS2mawJ2zd6NPPLCgLaKN7Ypump` · MC $3.0k · vol 24h $16.9k · 24h -49.13%
+- **Pools nuevos:** 1h 0 (antes 2) · 6h 2 (antes 0, nuevo) · 24h 13 (antes 19, -32%)
+- **Amplitud (24h):** 13 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 48% del volumen
+- **Token de pago:** MC $1.87M · volumen 24h $98.4k · liquidez $408.2k
+- **Líder (más volumen):** GHOSTLINK `GbKogroNUdW96vCiWcS2mawJ2zd6NPPLCgLaKN7Ypump` · MC $3.0k · vol 24h $7.7k · 24h -60.52%
 - **Líder (mayor subida 24h):** WXMN `3hnmRYcymKgck4N5BzxMGR6S91dLhWurCorXAzbCpump` · MC $3.1k · vol 24h $543 · 24h -6.02%
-- **Catalizador:** META ACCELERATION (pools 24h -22%)
+- **Catalizador:** META ACCELERATION (pools 24h -32%)
 - **Riesgos:** liquidez 0% del MC
 
 ### 🟡 META ACTIVÁNDOSE — STONK
 - **Quote:** `6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 13 (antes 1, +1200%)
 - **Amplitud (24h):** 13 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Token de pago:** MC $125.11M · volumen 24h $1.22M · liquidez $2.40M
+- **Token de pago:** MC $125.28M · volumen 24h $1.21M · liquidez $2.40M
 - **Líder (más volumen):** PMUP `29qcmLLHvAzUfK1xLrtwdxEX8EvbrQ8uXmkTdksLcuNQ` · MC — · vol 24h $0 · 24h None%
 - **Líder (mayor subida 24h):** PMUP `29qcmLLHvAzUfK1xLrtwdxEX8EvbrQ8uXmkTdksLcuNQ` · MC — · vol 24h $0 · 24h None%
 - **Catalizador:** META ACCELERATION (pools 24h +1200%)
@@ -45,7 +45,7 @@
 - **Quote:** `8idEA8QovsZJka6d9Z35fejE5MbL37BJxvw5k5r6pump`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 1 (antes 0, nuevo) · 24h 12 (antes 0, nuevo)
 - **Amplitud (24h):** 12 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Token de pago:** MC $667.8k · volumen 24h $971.3k · liquidez $94.9k
+- **Token de pago:** MC $756.1k · volumen 24h $979.5k · liquidez $92.0k
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
 
 ### 🟡 META ACTIVÁNDOSE — ANDURL
@@ -66,7 +66,7 @@
 
 ### ⚪ en observación — WBTC
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 10 (antes 7, +43%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 9 (antes 8, +12%)
 
 ## Plataformas con ingresos acelerando (DefiLlama)
 
