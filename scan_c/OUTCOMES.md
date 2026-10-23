@@ -1,12 +1,12 @@
 # OUTCOMES — qué pasó después de cada decisión (incluidas las descartadas)
-**2026-10-23 02:51 UTC** · 1861 monedas seguidas · la decisión original nunca se cambia
+**2026-10-23 02:58 UTC** · 1861 monedas seguidas · la decisión original nunca se cambia
 
 | Escáner | Decisión | Monedas | con 24h | Mediana MC 24h / inicial | Muertas a 24h (≤ −50%) | Máx. ≥2x | ≥5x | ≥10x | 2x antes de −30% | 5x antes de −50% | 10x antes de −70% |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | A | NO | 1 | 1 | 1.00x | 0% | 0% | 0% | 0% | 0% (n=1) | 0% (n=1) | — |
-| B | DESCARTAR | 1004 | 631 | 0.32x | 79% | 24% | 5% | 2% | 5% (n=932) | 3% (n=919) | 3% (n=622) |
-| B | FUERA | 132 | 99 | 0.44x | 77% | 46% | 7% | 1% | 6% (n=106) | 6% (n=100) | 33% (n=3) |
-| B | WATCH | 499 | 397 | 0.26x | 90% | 37% | 12% | 5% | 13% (n=405) | 9% (n=402) | 6% (n=294) |
+| B | DESCARTAR | 1004 | 631 | 0.32x | 79% | 24% | 5% | 2% | 5% (n=933) | 3% (n=920) | 3% (n=623) |
+| B | FUERA | 132 | 99 | 0.44x | 77% | 46% | 7% | 1% | 6% (n=107) | 6% (n=101) | 33% (n=3) |
+| B | WATCH | 499 | 397 | 0.26x | 90% | 38% | 12% | 5% | 13% (n=406) | 9% (n=403) | 6% (n=294) |
 | C-meta | 🟡 META ACTIVÁNDOSE | 224 | 119 | 0.86x | 30% | 23% | 6% | 2% | 42% (n=71) | 25% (n=44) | 12% (n=26) |
 | C-meta | 🟢 CANDIDATA | 1 | 1 | 0.03x | 100% | 0% | 0% | 0% | 0% (n=1) | 0% (n=1) | 0% (n=1) |
 
@@ -14,7 +14,7 @@
 
 | Motivo del descarte | Monedas | con 24h | Mediana 24h | Muertas a 24h | Máx. ≥5x | ≥10x | 2x antes de −30% | 5x antes de −50% | 10x antes de −70% |
 |---|---|---|---|---|---|---|---|---|---|
-| concentración | 589 | 252 | 0.39x | 59% | 4% | 1% | 3% (n=535) | 2% (n=529) | 1% (n=377) |
+| concentración | 589 | 252 | 0.39x | 59% | 4% | 1% | 3% (n=536) | 2% (n=530) | 1% (n=378) |
 | dev vendió | 222 | 200 | 0.30x | 92% | 8% | 3% | 7% (n=210) | 4% (n=206) | 6% (n=125) |
 | compras en el bloque de creación | 181 | 167 | 0.28x | 91% | 8% | 3% | 9% (n=175) | 6% (n=172) | 4% (n=113) |
 | volumen en bucle | 10 | 10 | 0.29x | 90% | 10% | 10% | 20% (n=10) | 0% (n=10) | 0% (n=5) |
