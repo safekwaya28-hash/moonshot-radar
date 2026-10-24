@@ -1,39 +1,29 @@
 # SCAN C — Meta / Flywheel
-**2026-10-24 01:16 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-24 01:53 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
-> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
-
-## Metas por token de pago (2 activándose)
+## Metas por token de pago (1 activándose)
 
 ### 🟡 META ACTIVÁNDOSE — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 9 (antes 4, +125%) · 24h 29 (antes 151, -81%)
-- **Amplitud (24h):** 29 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 34% del volumen
-- **Token de pago:** MC $1964.24M · volumen 24h $5.38M · liquidez $23.06M
-- **Líder (más volumen):** RETAIL `86j9yoVzuuCjLAq4hFyaX1cphRc9SJhWhSN4h9Hh79Be` · MC $5.6k · vol 24h $38.1k · 24h -57.32%
-- **Líder (mayor subida 24h):** P `9pfN7UZRx6uQ25RJ3cz767nxL3nKZ9sdRNUnKzAFpump` · MC $3.1k · vol 24h $0 · 24h 1.15%
-- **Catalizador:** META ACCELERATION (pools 24h -81%)
-
-### 🟡 META ACTIVÁNDOSE — McRib
-- **Quote:** `8idEA8QovsZJka6d9Z35fejE5MbL37BJxvw5k5r6pump`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 10 (antes 2, +400%)
-- **Amplitud (24h):** 10 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Token de pago:** MC $399.6k · volumen 24h $1.12M · liquidez $80.7k
-- **Líder (más volumen):** GOYSLOP `338Lie71gKUkZUMw3YLHrQQ2bQQJeQwMrihDbAjcpump` · MC — · vol 24h $0 · 24h None%
-- **Líder (mayor subida 24h):** GOYSLOP `338Lie71gKUkZUMw3YLHrQQ2bQQJeQwMrihDbAjcpump` · MC — · vol 24h $0 · 24h None%
-- **Catalizador:** META ACCELERATION (pools 24h +400%)
-
-### ⚪ en observación — DJT
-- **Quote:** `DJTu7vi8norVzdVAffgvb39VP7wjKeTsgaMBJrzfxvoF`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 3 (antes 5, -40%) · 24h 12 (antes 24, -50%)
+- **Pools nuevos:** 1h 14 (antes 0) · 6h 23 (antes 4, +475%) · 24h 43 (antes 148, -71%)
+- **Amplitud (24h):** 43 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 44% del volumen
+- **Token de pago:** MC $1939.72M · volumen 24h $5.33M · liquidez $22.92M
+- **Líder (más volumen):** NETANYAHU `FJEaEU2hcqrjTwctWdjhgKyJjLpnMmcp1psSnRjh27Au` · MC $19.9k · vol 24h $80.1k · 24h 391%
+- **Líder (mayor subida 24h):** NETANYAHU `FJEaEU2hcqrjTwctWdjhgKyJjLpnMmcp1psSnRjh27Au` · MC $19.9k · vol 24h $80.1k · 24h 391%
+- **Catalizador:** META ACCELERATION (pools 24h -71%)
+- **Riesgos:** liquidez 0% del MC
 
 ### ⚪ en observación — TTWO
 - **Quote:** `TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 1 (antes 6, -83%) · 24h 9 (antes 18, -50%)
 
+### ⚪ en observación — DJT
+- **Quote:** `DJTu7vi8norVzdVAffgvb39VP7wjKeTsgaMBJrzfxvoF`
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 3 (antes 5, -40%) · 24h 8 (antes 28, -71%)
+
 ### ⚪ en observación — ANTHRP
 - **Quote:** `Pren1FvFX6J3E4kXhJuCiAD5aDmGEb7qJRncwA8Lkhw`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 8 (antes 11, -27%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 8 (antes 10, -20%)
 
 ### ⚪ en observación — NVDAx
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
@@ -45,7 +35,7 @@
 
 ### ⚪ en observación — SPCX
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 6 (antes 0, nuevo) · 24h 6 (antes 33, -82%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 6 (antes 0, nuevo) · 24h 6 (antes 28, -79%)
 
 ### ⚪ en observación — GOOGLx
 - **Quote:** `XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN`
@@ -54,6 +44,10 @@
 ### ⚪ en observación — NVDA
 - **Quote:** `NVDAVuiB7hwd3m5Wa1JuHNovPaPG6BH1QNztbKFxNjv`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 6, -100%) · 24h 6 (antes 0, nuevo)
+
+### ⚪ en observación — wXMR
+- **Quote:** `WXMRyRZhsa19ety5erZhHg4N3xj3EVN92u94422teJp`
+- **Pools nuevos:** 1h 1 (antes 0) · 6h 2 (antes 1, +100%) · 24h 5 (antes 28, -82%)
 
 ## Plataformas con ingresos acelerando (DefiLlama)
 
@@ -69,16 +63,16 @@
 - **A holders (recompras/quemas/repartos) 7d:** $261.7k
 - **Token:** sin token listado en CoinGecko
 
-### 🟡 FLYWHEEL ACELERANDO — Veil (Privacy)
-- **Ingresos 7d:** $51.7k · 7d anteriores $407 · cambio 127.1×
-- **Ingresos 24h:** $14.8k · 24h anteriores $11.4k · +30% (¿sigue acelerando hoy?)
-- **A holders (recompras/quemas/repartos) 7d:** $10.5k
+### 🟡 FLYWHEEL ACELERANDO — Jupiter YOLO (Derivatives)
+- **Ingresos 7d:** $52.0k · 7d anteriores $6.7k · cambio 7.7×
+- **Ingresos 24h:** $7.2k · 24h anteriores $7.9k · -9% (¿sigue acelerando hoy?)
+- **A holders (recompras/quemas/repartos) 7d:** $26.0k
 - **Token:** sin token listado en CoinGecko
 
-### 🟡 FLYWHEEL ACELERANDO — Jupiter YOLO (Derivatives)
-- **Ingresos 7d:** $51.5k · 7d anteriores $6.7k · cambio 7.6×
-- **Ingresos 24h:** $6.7k · 24h anteriores $7.9k · -16% (¿sigue acelerando hoy?)
-- **A holders (recompras/quemas/repartos) 7d:** $25.7k
+### 🟡 FLYWHEEL ACELERANDO — Veil (Privacy)
+- **Ingresos 7d:** $51.9k · 7d anteriores $407 · cambio 127.4×
+- **Ingresos 24h:** $14.9k · 24h anteriores $11.4k · +31% (¿sigue acelerando hoy?)
+- **A holders (recompras/quemas/repartos) 7d:** $10.7k
 - **Token:** sin token listado en CoinGecko
 
 ## Llamadas de Telegram (registro hacia delante)
