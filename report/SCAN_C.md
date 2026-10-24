@@ -1,31 +1,33 @@
 # SCAN C — Meta / Flywheel
-**2026-10-24 05:48 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-24 05:54 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+
+> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
 ## Metas por token de pago (2 activándose)
 
 ### 🟡 META ACTIVÁNDOSE — SPCX
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
-- **Pools nuevos:** 1h 16 (antes 1) · 6h 17 (antes 6, +183%) · 24h 23 (antes 20, +15%)
+- **Pools nuevos:** 1h 16 (antes 1) · 6h 17 (antes 6, +183%) · 24h 23 (antes 19, +21%)
 - **Amplitud (24h):** 23 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 59% del volumen
-- **Token de pago:** MC $9.45M · volumen 24h $3.69M · liquidez $2.76M
+- **Token de pago:** MC $9.45M · volumen 24h $3.72M · liquidez $2.76M
 - **Líder (más volumen):** Chicken `3AEDKWfGYnTsrgVvSBhPh3qdNQyuBKBnQ3iZ7v2apump` · MC $3.3k · vol 24h $70.4k · 24h -10.68%
 - **Líder (mayor subida 24h):** Gigabite `6tsykNmR3WDqouj9uVUFZRgR2Kpai4F1Qm1gAcirpump` · MC $15.0k · vol 24h $3.1k · 24h 29%
-- **Catalizador:** META ACCELERATION (pools 24h +15%)
+- **Catalizador:** META ACCELERATION (pools 24h +21%)
 - **Riesgos:** liquidez 0% del MC
 
 ### 🟡 META ACTIVÁNDOSE — wXMR
 - **Quote:** `WXMRyRZhsa19ety5erZhHg4N3xj3EVN92u94422teJp`
 - **Pools nuevos:** 1h 6 (antes 1) · 6h 8 (antes 2, +300%) · 24h 12 (antes 26, -54%)
-- **Amplitud (24h):** 12 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 30% del volumen
+- **Amplitud (24h):** 12 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 25% del volumen
 - **Token de pago:** MC $1.77M · volumen 24h $58.1k · liquidez $398.0k
-- **Líder (más volumen):** MOONERO `2GDFLoFUzZJeDkrcPFCSSuYYGPbW5W7wbkutpejHpump` · MC $3.0k · vol 24h $17.0k · 24h -24.18%
-- **Líder (mayor subida 24h):** BMR `DqxwASXwqiqzgFwf5sztQ8WMa96orCEQcdqE6hZBpump` · MC $2.3k · vol 24h $0 · 24h 0.6%
+- **Líder (más volumen):** BMR `6uQyEosMHk72PeiYP47GVM2KjqhhT4hcv733aADopump` · MC $3.5k · vol 24h $10.2k · 24h -23.58%
+- **Líder (mayor subida 24h):** MOONERO `2GDFLoFUzZJeDkrcPFCSSuYYGPbW5W7wbkutpejHpump` · MC $37.1k · vol 24h $362 · 24h 441%
 - **Catalizador:** META ACCELERATION (pools 24h -54%)
 - **Riesgos:** liquidez 0% del MC
 
 ### ⚪ en observación — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 4 (antes 5) · 6h 23 (antes 12, +92%) · 24h 52 (antes 123, -58%)
+- **Pools nuevos:** 1h 1 (antes 8) · 6h 23 (antes 12, +92%) · 24h 52 (antes 116, -55%)
 
 ### ⚪ en observación — TTWO
 - **Quote:** `TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo`
@@ -33,7 +35,7 @@
 
 ### ⚪ en observación — DJT
 - **Quote:** `DJTu7vi8norVzdVAffgvb39VP7wjKeTsgaMBJrzfxvoF`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 7, -100%) · 24h 8 (antes 24, -67%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 7, -100%) · 24h 8 (antes 20, -60%)
 
 ### ⚪ en observación — ANTHRP
 - **Quote:** `Pren1FvFX6J3E4kXhJuCiAD5aDmGEb7qJRncwA8Lkhw`
@@ -53,7 +55,7 @@
 
 ### ⚪ en observación — WBTC
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
-- **Pools nuevos:** 1h 1 (antes 1) · 6h 4 (antes 2, +100%) · 24h 6 (antes 10, -40%)
+- **Pools nuevos:** 1h 0 (antes 2) · 6h 4 (antes 2, +100%) · 24h 6 (antes 10, -40%)
 
 ## Plataformas con ingresos acelerando (DefiLlama)
 
