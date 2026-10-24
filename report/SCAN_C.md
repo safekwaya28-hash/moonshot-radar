@@ -1,33 +1,37 @@
 # SCAN C — Meta / Flywheel
-**2026-10-24 13:49 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-24 14:08 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
-> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
+## Metas por token de pago (1 activándose)
 
-## Metas por token de pago (0 activándose)
+### 🟡 META ACTIVÁNDOSE — SPCX
+- **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
+- **Pools nuevos:** 1h 1 (antes 3) · 6h 4 (antes 18, -78%) · 24h 28 (antes 14, +100%)
+- **Amplitud (24h):** 28 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 55% del volumen
+- **Token de pago:** MC $9.43M · volumen 24h $2.20M · liquidez $2.94M
+- **Líder (más volumen):** Chicken `3AEDKWfGYnTsrgVvSBhPh3qdNQyuBKBnQ3iZ7v2apump` · MC $3.1k · vol 24h $70.5k · 24h -15.39%
+- **Líder (mayor subida 24h):** trilly `DCqpFSPpFPfxT1eUE7XAsL2QZZcZ1nY3nBqhKbC9pump` · MC $2.3k · vol 24h $5 · 24h -1.08%
+- **Catalizador:** META ACCELERATION (pools 24h +100%)
+- **Riesgos:** liquidez 0% del MC
 
 ### ⚪ en observación — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 4 (antes 0) · 6h 12 (antes 18, -33%) · 24h 53 (antes 97, -45%)
-
-### ⚪ en observación — SPCX
-- **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
-- **Pools nuevos:** 1h 3 (antes 0) · 6h 3 (antes 18, -83%) · 24h 27 (antes 15, +80%)
+- **Pools nuevos:** 1h 1 (antes 4) · 6h 13 (antes 14, -7%) · 24h 54 (antes 90, -40%)
 
 ### ⚪ en observación — TTWO
 - **Quote:** `TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo`
-- **Pools nuevos:** 1h 1 (antes 3) · 6h 4 (antes 7, -43%) · 24h 18 (antes 17, +6%)
+- **Pools nuevos:** 1h 3 (antes 2) · 6h 7 (antes 7, +0%) · 24h 21 (antes 17, +24%)
 
 ### ⚪ en observación — wXMR
 - **Quote:** `WXMRyRZhsa19ety5erZhHg4N3xj3EVN92u94422teJp`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 3 (antes 8, -62%) · 24h 13 (antes 14, -7%)
-
-### ⚪ en observación — WBTC
-- **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
-- **Pools nuevos:** 1h 1 (antes 1) · 6h 3 (antes 4, -25%) · 24h 9 (antes 10, -10%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 3 (antes 7, -57%) · 24h 13 (antes 13, +0%)
 
 ### ⚪ en observación — DJT
 - **Quote:** `DJTu7vi8norVzdVAffgvb39VP7wjKeTsgaMBJrzfxvoF`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 8 (antes 17, -53%)
+- **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 0, nuevo) · 24h 9 (antes 17, -47%)
+
+### ⚪ en observación — WBTC
+- **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
+- **Pools nuevos:** 1h 0 (antes 1) · 6h 3 (antes 2, +50%) · 24h 9 (antes 9, +0%)
 
 ### ⚪ en observación — GOOGLx
 - **Quote:** `XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN`
@@ -39,17 +43,17 @@
 
 ### ⚪ en observación — BTC
 - **Quote:** `C5xph2yL6gMdxmuLGxJBkGpmuDFfyi5fqkBNhvL6pump`
-- **Pools nuevos:** 1h 0 (antes 1) · 6h 2 (antes 3, -33%) · 24h 7 (antes 13, -46%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 2 (antes 2, +0%) · 24h 7 (antes 13, -46%)
 
 ### ⚪ en observación — NVDAx
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
-- **Pools nuevos:** 1h 0 (antes 1) · 6h 1 (antes 0, nuevo) · 24h 6 (antes 3, +100%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 1 (antes 0, nuevo) · 24h 6 (antes 3, +100%)
 
 ## Plataformas con ingresos acelerando (DefiLlama)
 
 ### 🟡 FLYWHEEL ACELERANDO — Cardboard Trade (Derivatives)
 - **Ingresos 7d:** $386.9k · 7d anteriores $90.5k · cambio 4.3×
-- **Ingresos 24h:** $752 · 24h anteriores $3.6k · -79% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $688 · 24h anteriores $3.6k · -81% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $193.4k
 - **Token:** sin token listado en CoinGecko
 
