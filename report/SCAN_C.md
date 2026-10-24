@@ -1,11 +1,13 @@
 # SCAN C — Meta / Flywheel
-**2026-10-24 13:04 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-24 13:45 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+
+> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
 ## Metas por token de pago (0 activándose)
 
 ### ⚪ en observación — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 4 (antes 3) · 6h 12 (antes 28, -57%) · 24h 53 (antes 97, -45%)
+- **Pools nuevos:** 1h 4 (antes 0) · 6h 12 (antes 28, -57%) · 24h 53 (antes 97, -45%)
 
 ### ⚪ en observación — SPCX
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
@@ -13,7 +15,7 @@
 
 ### ⚪ en observación — TTWO
 - **Quote:** `TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo`
-- **Pools nuevos:** 1h 4 (antes 0) · 6h 4 (antes 7, -43%) · 24h 18 (antes 17, +6%)
+- **Pools nuevos:** 1h 1 (antes 3) · 6h 4 (antes 7, -43%) · 24h 18 (antes 17, +6%)
 
 ### ⚪ en observación — wXMR
 - **Quote:** `WXMRyRZhsa19ety5erZhHg4N3xj3EVN92u94422teJp`
@@ -21,11 +23,11 @@
 
 ### ⚪ en observación — WBTC
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
-- **Pools nuevos:** 1h 2 (antes 0) · 6h 3 (antes 4, -25%) · 24h 9 (antes 10, -10%)
+- **Pools nuevos:** 1h 1 (antes 1) · 6h 3 (antes 4, -25%) · 24h 9 (antes 10, -10%)
 
 ### ⚪ en observación — DJT
 - **Quote:** `DJTu7vi8norVzdVAffgvb39VP7wjKeTsgaMBJrzfxvoF`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 8 (antes 18, -56%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 8 (antes 17, -53%)
 
 ### ⚪ en observación — GOOGLx
 - **Quote:** `XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN`
@@ -37,11 +39,11 @@
 
 ### ⚪ en observación — BTC
 - **Quote:** `C5xph2yL6gMdxmuLGxJBkGpmuDFfyi5fqkBNhvL6pump`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 2 (antes 3, -33%) · 24h 7 (antes 13, -46%)
+- **Pools nuevos:** 1h 0 (antes 1) · 6h 2 (antes 3, -33%) · 24h 7 (antes 13, -46%)
 
 ### ⚪ en observación — NVDAx
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 0, nuevo) · 24h 6 (antes 3, +100%)
+- **Pools nuevos:** 1h 0 (antes 1) · 6h 1 (antes 0, nuevo) · 24h 6 (antes 3, +100%)
 
 ## Plataformas con ingresos acelerando (DefiLlama)
 
@@ -59,13 +61,13 @@
 
 ### 🟡 FLYWHEEL ACELERANDO — Jupiter YOLO (Derivatives)
 - **Ingresos 7d:** $52.0k · 7d anteriores $6.7k · cambio 7.7×
-- **Ingresos 24h:** $6.3k · 24h anteriores $7.9k · -21% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $6.1k · 24h anteriores $7.9k · -24% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $26.0k
 - **Token:** sin token listado en CoinGecko
 
 ### 🟡 FLYWHEEL ACELERANDO — Veil (Privacy)
 - **Ingresos 7d:** $51.9k · 7d anteriores $407 · cambio 127.4×
-- **Ingresos 24h:** $13.0k · 24h anteriores $11.4k · +14% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $12.9k · 24h anteriores $11.4k · +13% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $10.7k
 - **Token:** sin token listado en CoinGecko
 
