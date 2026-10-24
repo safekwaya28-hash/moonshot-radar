@@ -1,27 +1,25 @@
 # SCAN C — Meta / Flywheel
-**2026-10-24 14:46 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
-
-> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
+**2026-10-24 14:49 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 ## Metas por token de pago (1 activándose)
 
 ### 🟡 META ACTIVÁNDOSE — SPCX
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
-- **Pools nuevos:** 1h 1 (antes 3) · 6h 4 (antes 18, -78%) · 24h 28 (antes 14, +100%)
+- **Pools nuevos:** 1h 1 (antes 3) · 6h 4 (antes 18, -78%) · 24h 28 (antes 13, +115%)
 - **Amplitud (24h):** 28 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 55% del volumen
 - **Token de pago:** MC $9.38M · volumen 24h $2.37M · liquidez $2.93M
 - **Líder (más volumen):** Chicken `3AEDKWfGYnTsrgVvSBhPh3qdNQyuBKBnQ3iZ7v2apump` · MC $3.1k · vol 24h $70.5k · 24h -16.07%
 - **Líder (mayor subida 24h):** trilly `DCqpFSPpFPfxT1eUE7XAsL2QZZcZ1nY3nBqhKbC9pump` · MC $2.3k · vol 24h $5 · 24h -1.08%
-- **Catalizador:** META ACCELERATION (pools 24h +100%)
+- **Catalizador:** META ACCELERATION (pools 24h +115%)
 - **Riesgos:** liquidez 0% del MC
 
 ### ⚪ en observación — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 1 (antes 4) · 6h 13 (antes 14, -7%) · 24h 54 (antes 90, -40%)
+- **Pools nuevos:** 1h 2 (antes 4) · 6h 14 (antes 14, +0%) · 24h 55 (antes 87, -37%)
 
 ### ⚪ en observación — TTWO
 - **Quote:** `TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo`
-- **Pools nuevos:** 1h 3 (antes 1) · 6h 7 (antes 7, +0%) · 24h 21 (antes 16, +31%)
+- **Pools nuevos:** 1h 3 (antes 1) · 6h 7 (antes 7, +0%) · 24h 21 (antes 15, +40%)
 
 ### ⚪ en observación — wXMR
 - **Quote:** `WXMRyRZhsa19ety5erZhHg4N3xj3EVN92u94422teJp`
@@ -29,7 +27,7 @@
 
 ### ⚪ en observación — DJT
 - **Quote:** `DJTu7vi8norVzdVAffgvb39VP7wjKeTsgaMBJrzfxvoF`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 0, nuevo) · 24h 9 (antes 14, -36%)
+- **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 0, nuevo) · 24h 9 (antes 13, -31%)
 
 ### ⚪ en observación — WBTC
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
@@ -45,7 +43,7 @@
 
 ### ⚪ en observación — BTC
 - **Quote:** `C5xph2yL6gMdxmuLGxJBkGpmuDFfyi5fqkBNhvL6pump`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 2 (antes 2, +0%) · 24h 7 (antes 13, -46%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 2 (antes 2, +0%) · 24h 7 (antes 12, -42%)
 
 ### ⚪ en observación — NVDAx
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
@@ -73,7 +71,7 @@
 
 ### 🟡 FLYWHEEL ACELERANDO — Veil (Privacy)
 - **Ingresos 7d:** $51.9k · 7d anteriores $407 · cambio 127.4×
-- **Ingresos 24h:** $12.9k · 24h anteriores $11.4k · +13% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $12.4k · 24h anteriores $11.4k · +9% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $10.7k
 - **Token:** sin token listado en CoinGecko
 
