@@ -1,15 +1,15 @@
 # SCAN C — Meta / Flywheel
-**2026-10-24 04:48 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-24 04:55 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 ## Metas por token de pago (0 activándose)
 
 ### ⚪ en observación — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 5 (antes 0) · 6h 19 (antes 12, +58%) · 24h 48 (antes 138, -65%)
+- **Pools nuevos:** 1h 8 (antes 0) · 6h 22 (antes 12, +83%) · 24h 51 (antes 138, -63%)
 
 ### ⚪ en observación — TTWO
 - **Quote:** `TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 6, -83%) · 24h 10 (antes 17, -41%)
+- **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 6, -83%) · 24h 10 (antes 16, -38%)
 
 ### ⚪ en observación — DJT
 - **Quote:** `DJTu7vi8norVzdVAffgvb39VP7wjKeTsgaMBJrzfxvoF`
@@ -17,7 +17,7 @@
 
 ### ⚪ en observación — ANTHRP
 - **Quote:** `Pren1FvFX6J3E4kXhJuCiAD5aDmGEb7qJRncwA8Lkhw`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 8 (antes 4, +100%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 8 (antes 2, +300%)
 
 ### ⚪ en observación — SPCX
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
@@ -35,25 +35,25 @@
 - **Quote:** `XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 6 (antes 0, nuevo)
 
+### ⚪ en observación — WBTC
+- **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
+- **Pools nuevos:** 1h 2 (antes 0) · 6h 4 (antes 2, +100%) · 24h 6 (antes 10, -40%)
+
 ### ⚪ en observación — wXMR
 - **Quote:** `WXMRyRZhsa19ety5erZhHg4N3xj3EVN92u94422teJp`
 - **Pools nuevos:** 1h 1 (antes 0) · 6h 2 (antes 2, +0%) · 24h 6 (antes 26, -77%)
-
-### ⚪ en observación — NVDA
-- **Quote:** `NVDAVuiB7hwd3m5Wa1JuHNovPaPG6BH1QNztbKFxNjv`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 6, -100%) · 24h 6 (antes 0, nuevo)
 
 ## Plataformas con ingresos acelerando (DefiLlama)
 
 ### 🟡 FLYWHEEL ACELERANDO — Cardboard Trade (Derivatives)
 - **Ingresos 7d:** $386.9k · 7d anteriores $90.5k · cambio 4.3×
-- **Ingresos 24h:** $1.0k · 24h anteriores $3.6k · -72% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $911 · 24h anteriores $3.6k · -74% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $193.4k
 - **Token:** sin token listado en CoinGecko
 
 ### 🟡 FLYWHEEL ACELERANDO — Render Network BME (DePIN)
 - **Ingresos 7d:** $275.5k · 7d anteriores $122.2k · cambio 2.3×
-- **Ingresos 24h:** $13.2k · 24h anteriores $31.9k · -59% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $13.4k · 24h anteriores $31.9k · -58% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $261.7k
 - **Token:** sin token listado en CoinGecko
 
