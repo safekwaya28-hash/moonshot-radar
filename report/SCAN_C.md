@@ -1,15 +1,17 @@
 # SCAN C — Meta / Flywheel
-**2026-10-24 01:53 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-24 02:01 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+
+> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
 ## Metas por token de pago (1 activándose)
 
 ### 🟡 META ACTIVÁNDOSE — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 14 (antes 0) · 6h 23 (antes 4, +475%) · 24h 43 (antes 148, -71%)
-- **Amplitud (24h):** 43 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 44% del volumen
-- **Token de pago:** MC $1939.72M · volumen 24h $5.33M · liquidez $22.92M
-- **Líder (más volumen):** NETANYAHU `FJEaEU2hcqrjTwctWdjhgKyJjLpnMmcp1psSnRjh27Au` · MC $19.9k · vol 24h $80.1k · 24h 391%
-- **Líder (mayor subida 24h):** NETANYAHU `FJEaEU2hcqrjTwctWdjhgKyJjLpnMmcp1psSnRjh27Au` · MC $19.9k · vol 24h $80.1k · 24h 391%
+- **Pools nuevos:** 1h 14 (antes 0) · 6h 22 (antes 5, +340%) · 24h 43 (antes 148, -71%)
+- **Amplitud (24h):** 43 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 53% del volumen
+- **Token de pago:** MC $1952.48M · volumen 24h $5.31M · liquidez $22.99M
+- **Líder (más volumen):** NETANYAHU `FJEaEU2hcqrjTwctWdjhgKyJjLpnMmcp1psSnRjh27Au` · MC $6.5k · vol 24h $114.9k · 24h 59.87%
+- **Líder (mayor subida 24h):** NETANYAHU `FJEaEU2hcqrjTwctWdjhgKyJjLpnMmcp1psSnRjh27Au` · MC $6.5k · vol 24h $114.9k · 24h 59.87%
 - **Catalizador:** META ACCELERATION (pools 24h -71%)
 - **Riesgos:** liquidez 0% del MC
 
@@ -35,7 +37,7 @@
 
 ### ⚪ en observación — SPCX
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 6 (antes 0, nuevo) · 24h 6 (antes 28, -79%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 5 (antes 1, +400%) · 24h 6 (antes 28, -79%)
 
 ### ⚪ en observación — GOOGLx
 - **Quote:** `XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN`
