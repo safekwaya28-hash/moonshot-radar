@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-24 03:51 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-24 03:58 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -7,23 +7,23 @@
 
 ### ⚪ en observación — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 14 (antes 12, +17%) · 24h 43 (antes 143, -70%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 14 (antes 12, +17%) · 24h 43 (antes 142, -70%)
 
 ### ⚪ en observación — TTWO
 - **Quote:** `TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 7, -100%) · 24h 9 (antes 18, -50%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 6, -100%) · 24h 9 (antes 18, -50%)
 
 ### ⚪ en observación — DJT
 - **Quote:** `DJTu7vi8norVzdVAffgvb39VP7wjKeTsgaMBJrzfxvoF`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 8, -100%) · 24h 8 (antes 28, -71%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 7, -100%) · 24h 8 (antes 26, -69%)
 
 ### ⚪ en observación — ANTHRP
 - **Quote:** `Pren1FvFX6J3E4kXhJuCiAD5aDmGEb7qJRncwA8Lkhw`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 8 (antes 10, -20%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 8 (antes 10, -20%)
 
 ### ⚪ en observación — NVDAx
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 5, -100%) · 24h 7 (antes 5, +40%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 5, -100%) · 24h 7 (antes 3, +133%)
 
 ### ⚪ en observación — PUMP
 - **Quote:** `HffH5YB6YhTWinZYzbqJowpDbKzqALGMX1NFAHYdpump`
@@ -35,7 +35,7 @@
 
 ### ⚪ en observación — GOOGLx
 - **Quote:** `XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 5, -100%) · 24h 6 (antes 1, +500%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 6 (antes 0, nuevo)
 
 ### ⚪ en observación — NVDA
 - **Quote:** `NVDAVuiB7hwd3m5Wa1JuHNovPaPG6BH1QNztbKFxNjv`
@@ -43,7 +43,7 @@
 
 ### ⚪ en observación — wXMR
 - **Quote:** `WXMRyRZhsa19ety5erZhHg4N3xj3EVN92u94422teJp`
-- **Pools nuevos:** 1h 0 (antes 1) · 6h 1 (antes 2, -50%) · 24h 5 (antes 28, -82%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 1 (antes 2, -50%) · 24h 5 (antes 26, -81%)
 
 ## Plataformas con ingresos acelerando (DefiLlama)
 
