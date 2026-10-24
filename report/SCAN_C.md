@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-24 08:50 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-24 08:57 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -17,9 +17,9 @@
 
 ### 🟡 META ACTIVÁNDOSE — TTWO
 - **Quote:** `TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo`
-- **Pools nuevos:** 1h 0 (antes 5) · 6h 7 (antes 0, nuevo) · 24h 15 (antes 16, -6%)
+- **Pools nuevos:** 1h 0 (antes 1) · 6h 7 (antes 0, nuevo) · 24h 15 (antes 16, -6%)
 - **Amplitud (24h):** 15 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 44% del volumen
-- **Token de pago:** MC $88 · volumen 24h $3.92M · liquidez $1.28M
+- **Token de pago:** MC $88 · volumen 24h $3.93M · liquidez $1.28M
 - **Líder (más volumen):** GTA6 `2gVNeu8dP7XiLoaWfUvUJXUM5AdXY8418aft8xhUpump` · MC $129.7k · vol 24h $33.8k · 24h -20.39%
 - **Líder (mayor subida 24h):** AU `B9Nbxs1LNWh6gBF3DnMyyuXtpx1zHT3HpM7UvaN1pump` · MC $49.5k · vol 24h $4.8k · 24h 21.42%
 - **Catalizador:** META ACCELERATION (pools 24h -6%)
@@ -28,7 +28,7 @@
 - **Quote:** `WXMRyRZhsa19ety5erZhHg4N3xj3EVN92u94422teJp`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 7 (antes 2, +250%) · 24h 12 (antes 22, -45%)
 - **Amplitud (24h):** 12 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 25% del volumen
-- **Token de pago:** MC $1.79M · volumen 24h $55.2k · liquidez $400.0k
+- **Token de pago:** MC $1.79M · volumen 24h $55.1k · liquidez $400.1k
 - **Líder (más volumen):** BMR `6uQyEosMHk72PeiYP47GVM2KjqhhT4hcv733aADopump` · MC $3.5k · vol 24h $10.0k · 24h -14.16%
 - **Líder (mayor subida 24h):** MOONERO `2GDFLoFUzZJeDkrcPFCSSuYYGPbW5W7wbkutpejHpump` · MC $37.1k · vol 24h $362 · 24h 441%
 - **Catalizador:** META ACCELERATION (pools 24h -45%)
@@ -36,7 +36,7 @@
 
 ### ⚪ en observación — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 0 (antes 5) · 6h 14 (antes 19, -26%) · 24h 51 (antes 120, -57%)
+- **Pools nuevos:** 1h 0 (antes 1) · 6h 14 (antes 19, -26%) · 24h 51 (antes 120, -57%)
 
 ### ⚪ en observación — DJT
 - **Quote:** `DJTu7vi8norVzdVAffgvb39VP7wjKeTsgaMBJrzfxvoF`
@@ -66,7 +66,7 @@
 
 ### 🟡 FLYWHEEL ACELERANDO — Cardboard Trade (Derivatives)
 - **Ingresos 7d:** $386.9k · 7d anteriores $90.5k · cambio 4.3×
-- **Ingresos 24h:** $877 · 24h anteriores $3.6k · -75% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $848 · 24h anteriores $3.6k · -76% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $193.4k
 - **Token:** sin token listado en CoinGecko
 
@@ -78,7 +78,7 @@
 
 ### 🟡 FLYWHEEL ACELERANDO — Jupiter YOLO (Derivatives)
 - **Ingresos 7d:** $52.0k · 7d anteriores $6.7k · cambio 7.7×
-- **Ingresos 24h:** $6.9k · 24h anteriores $7.9k · -13% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $6.9k · 24h anteriores $7.9k · -14% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $26.0k
 - **Token:** sin token listado en CoinGecko
 
