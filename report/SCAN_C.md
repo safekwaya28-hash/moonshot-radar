@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-24 20:49 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-24 21:07 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -19,7 +19,7 @@
 - **Quote:** `DJTu7vi8norVzdVAffgvb39VP7wjKeTsgaMBJrzfxvoF`
 - **Pools nuevos:** 1h 1 (antes 0) · 6h 17 (antes 1, +1600%) · 24h 18 (antes 14, +29%)
 - **Amplitud (24h):** 18 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 18% del volumen
-- **Token de pago:** MC $121.5k · volumen 24h $2.83M · liquidez $908.3k
+- **Token de pago:** MC $121.5k · volumen 24h $2.47M · liquidez $907.3k
 - **Líder (más volumen):** SS `8Y3zbmmg8ZJjcihEZPwKfnraxFADh4YKtMHkxtTBpump` · MC $3.2k · vol 24h $13.3k · 24h -29.66%
 - **Líder (mayor subida 24h):** HOME `3K7pm2LiSr7BPPnQQVWckATWVKoaaWXqMZJYWprnpump` · MC $3.0k · vol 24h $4 · 24h 0.08%
 - **Catalizador:** META ACCELERATION (pools 24h +29%)
@@ -29,7 +29,7 @@
 - **Quote:** `XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB`
 - **Pools nuevos:** 1h 0 (antes 3) · 6h 13 (antes 0, nuevo) · 24h 14 (antes 1, +1300%)
 - **Amplitud (24h):** 14 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 48% del volumen
-- **Token de pago:** MC $70.01M · volumen 24h $318.0k · liquidez $2.38M
+- **Token de pago:** MC $69.99M · volumen 24h $315.7k · liquidez $2.38M
 - **Líder (más volumen):** STARS `KX8MbTKRCGmg5JJKNC95GGjmXsidrLucBUrebebpump` · MC $3.1k · vol 24h $4.1k · 24h -31.63%
 - **Líder (mayor subida 24h):** READ `EnQLzkSXWSqEmeDappMtPYAJrRg7oR4PCehAhMmjd3io` · MC $3.1k · vol 24h $0 · 24h 0.14%
 - **Catalizador:** META ACCELERATION (pools 24h +1300%)
@@ -37,9 +37,9 @@
 
 ### 🟡 META ACTIVÁNDOSE — wXMR
 - **Quote:** `WXMRyRZhsa19ety5erZhHg4N3xj3EVN92u94422teJp`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 1 (antes 3, -67%) · 24h 13 (antes 6, +117%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 4, -100%) · 24h 13 (antes 6, +117%)
 - **Amplitud (24h):** 13 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 32% del volumen
-- **Token de pago:** MC $1.85M · volumen 24h $49.3k · liquidez $407.3k
+- **Token de pago:** MC $1.85M · volumen 24h $52.0k · liquidez $408.0k
 - **Líder (más volumen):** XINU `8G5yzMyWwLBTsSA53MFnGNbpDT2YevzjF6Xdketjpump` · MC $3.2k · vol 24h $10.0k · 24h 1.11%
 - **Líder (mayor subida 24h):** MOONERO `2GDFLoFUzZJeDkrcPFCSSuYYGPbW5W7wbkutpejHpump` · MC $37.1k · vol 24h $362 · 24h 441%
 - **Catalizador:** META ACCELERATION (pools 24h +117%)
@@ -49,19 +49,19 @@
 - **Quote:** `C5xph2yL6gMdxmuLGxJBkGpmuDFfyi5fqkBNhvL6pump`
 - **Pools nuevos:** 1h 2 (antes 1) · 6h 4 (antes 2, +100%) · 24h 10 (antes 2, +400%)
 - **Amplitud (24h):** 10 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Token de pago:** MC $4.10M · volumen 24h $230.8k · liquidez $236.3k
-- **Líder (más volumen):** SOL `3zPjPxhp7tGFCmSq4x14ZTwttWUeoJevXESC7Xvrpump` · MC $196.4k · vol 24h $16.2k · 24h 276%
-- **Líder (mayor subida 24h):** SOL `3zPjPxhp7tGFCmSq4x14ZTwttWUeoJevXESC7Xvrpump` · MC $196.4k · vol 24h $16.2k · 24h 276%
+- **Token de pago:** MC $4.04M · volumen 24h $233.3k · liquidez $234.6k
+- **Líder (más volumen):** SOL `3zPjPxhp7tGFCmSq4x14ZTwttWUeoJevXESC7Xvrpump` · MC $168.9k · vol 24h $20.3k · 24h 224%
+- **Líder (mayor subida 24h):** SOL `3zPjPxhp7tGFCmSq4x14ZTwttWUeoJevXESC7Xvrpump` · MC $168.9k · vol 24h $20.3k · 24h 224%
 - **Catalizador:** META ACCELERATION (pools 24h +400%)
-- **Riesgos:** concentración: top10 57%, wallet máx 36.1%
+- **Riesgos:** concentración: top10 56%, wallet máx 36.1%
 
 ### ⚪ en observación — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 7 (antes 2) · 6h 19 (antes 14, +36%) · 24h 66 (antes 34, +94%)
+- **Pools nuevos:** 1h 7 (antes 2) · 6h 18 (antes 15, +20%) · 24h 66 (antes 34, +94%)
 
 ### ⚪ en observación — TTWO
 - **Quote:** `TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo`
-- **Pools nuevos:** 1h 1 (antes 1) · 6h 8 (antes 7, +14%) · 24h 22 (antes 20, +10%)
+- **Pools nuevos:** 1h 1 (antes 1) · 6h 6 (antes 9, -33%) · 24h 22 (antes 20, +10%)
 
 ### ⚪ en observación — WBTC
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
