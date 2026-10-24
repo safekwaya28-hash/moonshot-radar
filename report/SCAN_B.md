@@ -1,36 +1,36 @@
 # SCAN B — Despegues (objetivo 100x+)
-**2026-10-24 17:30 UTC** · 5,000 creaciones recientes revisadas · 2 en la ventana $8k–$40k · 2 con análisis profundo
+**2026-10-24 17:58 UTC** · 5,000 creaciones recientes revisadas · 2 en la ventana $8k–$40k · 2 con análisis profundo
 
 🟢 COMPRA AHORA **0** · 🟡 WATCH **0** · 🔴 DESCARTAR **2** · ⚪ FUERA **0**
 
 ### 🔴 DESCARTAR — $2e5bKR
 - **CA:** `2e5bKRHpAixvgE6zUdTf7rigxCq662zq7xvN8Dympump`
-- **MC:** $16.2k · curva 79% · edad 149.3 h · hace 30 min: $16.2k
+- **MC:** $16.0k · curva 79% · edad 149.8 h · hace 30 min: $16.2k
 - **Smart money:** ninguna de tus wallets
-- **B:** 2/9 · **M:** 0/5
-- **Compradores:** 30m 0 · nuevos 5m 0 (antes 0, BAI 0.00) · compradores/vendedores 15m 0.00
-- **Volumen 15m:** $0 (antes $0) · wallet dominante 0% · retención 15m — · compra mediana $36
-- **Seguridad:** snipers 7 · bloque creación 2% · top10 22% · wallet máx 2.9% · dev tiene 2.9% · dev vendió 0% · 5 wallets = 62% del volumen
+- **B:** 3/9 · **M:** 2/5
+- **Compradores:** 30m 1 · nuevos 5m 0 (antes 0, BAI 0.00) · compradores/vendedores 15m ∞
+- **Volumen 15m:** $23 (antes $108) · wallet dominante 100% · retención 15m 100% · compra mediana $36
+- **Seguridad:** snipers 7 · bloque creación 2% · top10 22% · wallet máx 2.9% · dev tiene 2.9% · dev vendió 0% · 5 wallets = 63% del volumen
 - **Prueba de venta:** 6/3 con financiador verificado y distinto (no-dev, mantuvieron ≥5 min y vendieron; 10 en total, 4 no verificables)
-- **Cobertura de datos:** 1532 min observados
-- **Participantes 30m:** nuevos 0 · recompran 0 · compran y venden (flippers) — · volumen 15m / liquidez 0.0×
+- **Cobertura de datos:** 1524 min observados
+- **Participantes 30m:** nuevos 1 · recompran 1 · compran y venden (flippers) 0% · volumen 15m / liquidez 0.0×
 - **Smart money:** convergencia 0 wallets en 10 min · posición entre los compradores — (entre los compradores observados, no entre todos)
 - **Financiación del top:** 2 holders ← 7RmkMN… (5%)
-- **Descartada por:** volumen en bucle: 5 wallets = 62% y 2 compran-venden repetidamente
+- **Descartada por:** volumen en bucle: 5 wallets = 63% y 2 compran-venden repetidamente
 - **A mano:** origen del dinero de los compradores (bundles/insiders en GMGN); narrativa (X/Telegram)
 - [GMGN](https://gmgn.ai/sol/token/2e5bKRHpAixvgE6zUdTf7rigxCq662zq7xvN8Dympump) · [pump.fun](https://pump.fun/coin/2e5bKRHpAixvgE6zUdTf7rigxCq662zq7xvN8Dympump) · [DexScreener](https://dexscreener.com/solana/2e5bKRHpAixvgE6zUdTf7rigxCq662zq7xvN8Dympump) · [Solscan](https://solscan.io/token/2e5bKRHpAixvgE6zUdTf7rigxCq662zq7xvN8Dympump)
 
 ### 🔴 DESCARTAR — $DSMLRD
 - **CA:** `DSMLRDWPDKWDLx4mTGaAYXYfiAD5D9oXg5fhsbPPpump`
-- **MC:** $16.3k · curva 79% · edad 17.4 h · hace 30 min: $17.3k
+- **MC:** $15.5k · curva 78% · edad 17.8 h · hace 30 min: $16.3k
 - **Smart money:** ninguna de tus wallets
-- **B:** 0/9 · **M:** 0/5
-- **Compradores:** 30m 4 · nuevos 5m 0 (antes 0, BAI 0.00) · compradores/vendedores 15m 0.00
-- **Volumen 15m:** $99 (antes $237) · wallet dominante 100% · retención 15m 75% · compra mediana $5
-- **Seguridad:** snipers 4 · bloque creación 5% · top10 25% · wallet máx 3.7% · dev tiene 0.0% · dev vendió 100% · 5 wallets = 61% del volumen
+- **B:** 0/9 · **M:** 1/5
+- **Compradores:** 30m 1 · nuevos 5m 0 (antes 0, BAI 0.00) · compradores/vendedores 15m 0.00
+- **Volumen 15m:** $0 (antes $2) · wallet dominante 0% · retención 15m 100% · compra mediana $5
+- **Seguridad:** snipers 4 · bloque creación 5% · top10 25% · wallet máx 3.7% · dev tiene 0.0% · dev vendió 100% · 5 wallets = 62% del volumen
 - **Prueba de venta:** 6/3 con financiador verificado y distinto (no-dev, mantuvieron ≥5 min y vendieron; 7 en total, 1 no verificables)
-- **Cobertura de datos:** 176 min observados
-- **Participantes 30m:** nuevos 4 · recompran 1 · compran y venden (flippers) 11% · volumen 15m / liquidez 0.0×
+- **Cobertura de datos:** 190 min observados
+- **Participantes 30m:** nuevos 0 · recompran 0 · compran y venden (flippers) 0% · volumen 15m / liquidez 0.0×
 - **Smart money:** convergencia 0 wallets en 10 min · posición entre los compradores — (entre los compradores observados, no entre todos)
 - **Financiación del top:** sin grupos detectados (1 nivel, wallets nuevas)
 - **Descartada por:** dev vendió/sacó 100% de su compra
