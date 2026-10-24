@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-24 15:17 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-24 15:47 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -9,7 +9,7 @@
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
 - **Pools nuevos:** 1h 0 (antes 1) · 6h 4 (antes 18, -78%) · 24h 28 (antes 13, +115%)
 - **Amplitud (24h):** 28 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 55% del volumen
-- **Token de pago:** MC $9.35M · volumen 24h $2.32M · liquidez $2.52M
+- **Token de pago:** MC $9.33M · volumen 24h $2.19M · liquidez $2.54M
 - **Líder (más volumen):** Chicken `3AEDKWfGYnTsrgVvSBhPh3qdNQyuBKBnQ3iZ7v2apump` · MC $3.1k · vol 24h $70.5k · 24h -16.07%
 - **Líder (mayor subida 24h):** trilly `DCqpFSPpFPfxT1eUE7XAsL2QZZcZ1nY3nBqhKbC9pump` · MC $2.3k · vol 24h $5 · 24h -1.08%
 - **Catalizador:** META ACCELERATION (pools 24h +115%)
@@ -17,11 +17,11 @@
 
 ### ⚪ en observación — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 3 (antes 1) · 6h 16 (antes 14, +14%) · 24h 57 (antes 86, -34%)
+- **Pools nuevos:** 1h 2 (antes 2) · 6h 16 (antes 14, +14%) · 24h 57 (antes 85, -33%)
 
 ### ⚪ en observación — TTWO
 - **Quote:** `TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo`
-- **Pools nuevos:** 1h 2 (antes 3) · 6h 9 (antes 7, +29%) · 24h 23 (antes 15, +53%)
+- **Pools nuevos:** 1h 2 (antes 3) · 6h 9 (antes 7, +29%) · 24h 23 (antes 14, +64%)
 
 ### ⚪ en observación — wXMR
 - **Quote:** `WXMRyRZhsa19ety5erZhHg4N3xj3EVN92u94422teJp`
