@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-24 18:13 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-24 18:50 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -9,7 +9,7 @@
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 4 (antes 1, +300%) · 24h 28 (antes 11, +155%)
 - **Amplitud (24h):** 28 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 55% del volumen
-- **Token de pago:** MC $9.35M · volumen 24h $1.95M · liquidez $2.95M
+- **Token de pago:** MC $9.37M · volumen 24h $1.89M · liquidez $2.95M
 - **Líder (más volumen):** Chicken `3AEDKWfGYnTsrgVvSBhPh3qdNQyuBKBnQ3iZ7v2apump` · MC $3.1k · vol 24h $70.5k · 24h -16.07%
 - **Líder (mayor subida 24h):** GTA `qVkGqpZrRP27HGxG3okH99Vw4wZdLK3n9NiCfZJpump` · MC $3.1k · vol 24h $10 · 24h -0.84%
 - **Catalizador:** META ACCELERATION (pools 24h +155%)
@@ -19,7 +19,7 @@
 - **Quote:** `DJTu7vi8norVzdVAffgvb39VP7wjKeTsgaMBJrzfxvoF`
 - **Pools nuevos:** 1h 0 (antes 15) · 6h 17 (antes 0, nuevo) · 24h 20 (antes 15, +33%)
 - **Amplitud (24h):** 20 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 18% del volumen
-- **Token de pago:** MC $121.4k · volumen 24h $9.04M · liquidez $779.4k
+- **Token de pago:** MC $122.2k · volumen 24h $9.46M · liquidez $917.1k
 - **Líder (más volumen):** SS `8Y3zbmmg8ZJjcihEZPwKfnraxFADh4YKtMHkxtTBpump` · MC $3.2k · vol 24h $13.3k · 24h -29.66%
 - **Líder (mayor subida 24h):** HOME `3K7pm2LiSr7BPPnQQVWckATWVKoaaWXqMZJYWprnpump` · MC $3.0k · vol 24h $14 · 24h 0.09%
 - **Catalizador:** META ACCELERATION (pools 24h +33%)
@@ -29,7 +29,7 @@
 - **Quote:** `XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 10 (antes 1, +900%) · 24h 11 (antes 1, +1000%)
 - **Amplitud (24h):** 11 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 72% del volumen
-- **Token de pago:** MC $69.79M · volumen 24h $375.0k · liquidez $2.39M
+- **Token de pago:** MC $69.81M · volumen 24h $360.1k · liquidez $2.39M
 - **Líder (más volumen):** ROADSTER `87aHjhRwVNV5SADpzdbcm7C1HXytq2EWvNHP6GM2pump` · MC $3.1k · vol 24h $758 · 24h -14.46%
 - **Líder (mayor subida 24h):** READ `EnQLzkSXWSqEmeDappMtPYAJrRg7oR4PCehAhMmjd3io` · MC $3.1k · vol 24h $0 · 24h 0.14%
 - **Catalizador:** META ACCELERATION (pools 24h +1000%)
@@ -37,7 +37,7 @@
 
 ### ⚪ en observación — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 4 (antes 1) · 6h 16 (antes 13, +23%) · 24h 61 (antes 73, -16%)
+- **Pools nuevos:** 1h 0 (antes 5) · 6h 16 (antes 12, +33%) · 24h 61 (antes 73, -16%)
 
 ### ⚪ en observación — TTWO
 - **Quote:** `TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo`
@@ -57,7 +57,7 @@
 
 ### ⚪ en observación — swordcat
 - **Quote:** `5tCju6YNxHq5zrA6tGndr6F7TK42mpUFmeE31cSFpump`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 7 (antes 0, nuevo) · 24h 7 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 1) · 6h 7 (antes 0, nuevo) · 24h 7 (antes 0, nuevo)
 
 ### ⚪ en observación — BTC
 - **Quote:** `C5xph2yL6gMdxmuLGxJBkGpmuDFfyi5fqkBNhvL6pump`
@@ -85,7 +85,7 @@
 
 ### 🟡 FLYWHEEL ACELERANDO — Veil (Privacy)
 - **Ingresos 7d:** $51.9k · 7d anteriores $407 · cambio 127.4×
-- **Ingresos 24h:** $11.1k · 24h anteriores $11.4k · -2% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $11.0k · 24h anteriores $11.4k · -3% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $10.7k
 - **Token:** sin token listado en CoinGecko
 
