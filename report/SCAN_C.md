@@ -1,5 +1,7 @@
 # SCAN C — Meta / Flywheel
-**2026-10-24 15:09 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-24 15:17 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+
+> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
 ## Metas por token de pago (1 activándose)
 
@@ -7,7 +9,7 @@
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
 - **Pools nuevos:** 1h 0 (antes 1) · 6h 4 (antes 18, -78%) · 24h 28 (antes 13, +115%)
 - **Amplitud (24h):** 28 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 55% del volumen
-- **Token de pago:** MC $9.37M · volumen 24h $2.30M · liquidez $2.54M
+- **Token de pago:** MC $9.35M · volumen 24h $2.32M · liquidez $2.52M
 - **Líder (más volumen):** Chicken `3AEDKWfGYnTsrgVvSBhPh3qdNQyuBKBnQ3iZ7v2apump` · MC $3.1k · vol 24h $70.5k · 24h -16.07%
 - **Líder (mayor subida 24h):** trilly `DCqpFSPpFPfxT1eUE7XAsL2QZZcZ1nY3nBqhKbC9pump` · MC $2.3k · vol 24h $5 · 24h -1.08%
 - **Catalizador:** META ACCELERATION (pools 24h +115%)
@@ -53,7 +55,7 @@
 
 ### 🟡 FLYWHEEL ACELERANDO — Cardboard Trade (Derivatives)
 - **Ingresos 7d:** $386.9k · 7d anteriores $90.5k · cambio 4.3×
-- **Ingresos 24h:** $688 · 24h anteriores $3.6k · -81% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $685 · 24h anteriores $3.6k · -81% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $193.4k
 - **Token:** sin token listado en CoinGecko
 
@@ -65,7 +67,7 @@
 
 ### 🟡 FLYWHEEL ACELERANDO — Jupiter YOLO (Derivatives)
 - **Ingresos 7d:** $52.0k · 7d anteriores $6.7k · cambio 7.7×
-- **Ingresos 24h:** $6.1k · 24h anteriores $7.9k · -24% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $5.8k · 24h anteriores $7.9k · -27% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $26.0k
 - **Token:** sin token listado en CoinGecko
 
