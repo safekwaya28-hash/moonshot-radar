@@ -1,13 +1,13 @@
 # SCAN C — Meta / Flywheel
-**2026-10-24 14:49 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-24 15:09 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 ## Metas por token de pago (1 activándose)
 
 ### 🟡 META ACTIVÁNDOSE — SPCX
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
-- **Pools nuevos:** 1h 1 (antes 3) · 6h 4 (antes 18, -78%) · 24h 28 (antes 13, +115%)
+- **Pools nuevos:** 1h 0 (antes 1) · 6h 4 (antes 18, -78%) · 24h 28 (antes 13, +115%)
 - **Amplitud (24h):** 28 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 55% del volumen
-- **Token de pago:** MC $9.38M · volumen 24h $2.37M · liquidez $2.93M
+- **Token de pago:** MC $9.37M · volumen 24h $2.30M · liquidez $2.54M
 - **Líder (más volumen):** Chicken `3AEDKWfGYnTsrgVvSBhPh3qdNQyuBKBnQ3iZ7v2apump` · MC $3.1k · vol 24h $70.5k · 24h -16.07%
 - **Líder (mayor subida 24h):** trilly `DCqpFSPpFPfxT1eUE7XAsL2QZZcZ1nY3nBqhKbC9pump` · MC $2.3k · vol 24h $5 · 24h -1.08%
 - **Catalizador:** META ACCELERATION (pools 24h +115%)
@@ -15,23 +15,23 @@
 
 ### ⚪ en observación — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 2 (antes 4) · 6h 14 (antes 14, +0%) · 24h 55 (antes 87, -37%)
+- **Pools nuevos:** 1h 3 (antes 1) · 6h 16 (antes 14, +14%) · 24h 57 (antes 86, -34%)
 
 ### ⚪ en observación — TTWO
 - **Quote:** `TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo`
-- **Pools nuevos:** 1h 3 (antes 1) · 6h 7 (antes 7, +0%) · 24h 21 (antes 15, +40%)
+- **Pools nuevos:** 1h 2 (antes 3) · 6h 9 (antes 7, +29%) · 24h 23 (antes 15, +53%)
 
 ### ⚪ en observación — wXMR
 - **Quote:** `WXMRyRZhsa19ety5erZhHg4N3xj3EVN92u94422teJp`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 3 (antes 7, -57%) · 24h 13 (antes 13, +0%)
+- **Pools nuevos:** 1h 1 (antes 0) · 6h 4 (antes 7, -43%) · 24h 14 (antes 13, +8%)
 
 ### ⚪ en observación — DJT
 - **Quote:** `DJTu7vi8norVzdVAffgvb39VP7wjKeTsgaMBJrzfxvoF`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 0, nuevo) · 24h 9 (antes 13, -31%)
+- **Pools nuevos:** 1h 0 (antes 1) · 6h 1 (antes 0, nuevo) · 24h 9 (antes 13, -31%)
 
 ### ⚪ en observación — WBTC
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
-- **Pools nuevos:** 1h 0 (antes 1) · 6h 3 (antes 2, +50%) · 24h 9 (antes 9, +0%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 3 (antes 2, +50%) · 24h 9 (antes 9, +0%)
 
 ### ⚪ en observación — GOOGLx
 - **Quote:** `XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN`
