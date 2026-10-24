@@ -1,23 +1,27 @@
 # SCAN C — Meta / Flywheel
-**2026-10-24 12:57 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-24 13:04 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 ## Metas por token de pago (0 activándose)
 
 ### ⚪ en observación — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 2 (antes 3) · 6h 10 (antes 28, -64%) · 24h 51 (antes 97, -47%)
+- **Pools nuevos:** 1h 4 (antes 3) · 6h 12 (antes 28, -57%) · 24h 53 (antes 97, -45%)
 
 ### ⚪ en observación — SPCX
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 2 (antes 17, -88%) · 24h 25 (antes 15, +67%)
+- **Pools nuevos:** 1h 3 (antes 0) · 6h 3 (antes 18, -83%) · 24h 27 (antes 15, +80%)
 
 ### ⚪ en observación — TTWO
 - **Quote:** `TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo`
-- **Pools nuevos:** 1h 3 (antes 0) · 6h 4 (antes 6, -33%) · 24h 17 (antes 17, +0%)
+- **Pools nuevos:** 1h 4 (antes 0) · 6h 4 (antes 7, -43%) · 24h 18 (antes 17, +6%)
 
 ### ⚪ en observación — wXMR
 - **Quote:** `WXMRyRZhsa19ety5erZhHg4N3xj3EVN92u94422teJp`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 3 (antes 8, -62%) · 24h 13 (antes 15, -13%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 3 (antes 8, -62%) · 24h 13 (antes 14, -7%)
+
+### ⚪ en observación — WBTC
+- **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
+- **Pools nuevos:** 1h 2 (antes 0) · 6h 3 (antes 4, -25%) · 24h 9 (antes 10, -10%)
 
 ### ⚪ en observación — DJT
 - **Quote:** `DJTu7vi8norVzdVAffgvb39VP7wjKeTsgaMBJrzfxvoF`
@@ -26,10 +30,6 @@
 ### ⚪ en observación — GOOGLx
 - **Quote:** `XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 2 (antes 0, nuevo) · 24h 8 (antes 0, nuevo)
-
-### ⚪ en observación — WBTC
-- **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 2 (antes 4, -50%) · 24h 8 (antes 10, -20%)
 
 ### ⚪ en observación — COIL
 - **Quote:** `Bdmz1BAj5B2YbYVdMyZexWbjX33kfhNonHGDtQjipump`
