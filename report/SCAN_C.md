@@ -1,15 +1,25 @@
 # SCAN C — Meta / Flywheel
-**2026-10-24 04:55 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-24 05:13 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
-## Metas por token de pago (0 activándose)
+## Metas por token de pago (1 activándose)
+
+### 🟡 META ACTIVÁNDOSE — wXMR
+- **Quote:** `WXMRyRZhsa19ety5erZhHg4N3xj3EVN92u94422teJp`
+- **Pools nuevos:** 1h 5 (antes 0) · 6h 6 (antes 2, +200%) · 24h 10 (antes 26, -62%)
+- **Amplitud (24h):** 10 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 23% del volumen
+- **Token de pago:** MC $1.77M · volumen 24h $58.6k · liquidez $398.2k
+- **Líder (más volumen):** BMR `6uQyEosMHk72PeiYP47GVM2KjqhhT4hcv733aADopump` · MC $3.5k · vol 24h $10.2k · 24h -23.58%
+- **Líder (mayor subida 24h):** MOONERO `2GDFLoFUzZJeDkrcPFCSSuYYGPbW5W7wbkutpejHpump` · MC $37.1k · vol 24h $362 · 24h 441%
+- **Catalizador:** META ACCELERATION (pools 24h -62%)
+- **Riesgos:** liquidez 0% del MC
 
 ### ⚪ en observación — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 8 (antes 0) · 6h 22 (antes 12, +83%) · 24h 51 (antes 138, -63%)
+- **Pools nuevos:** 1h 9 (antes 0) · 6h 23 (antes 12, +92%) · 24h 52 (antes 138, -62%)
 
 ### ⚪ en observación — TTWO
 - **Quote:** `TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 6, -83%) · 24h 10 (antes 16, -38%)
+- **Pools nuevos:** 1h 2 (antes 0) · 6h 2 (antes 6, -67%) · 24h 11 (antes 16, -31%)
 
 ### ⚪ en observación — DJT
 - **Quote:** `DJTu7vi8norVzdVAffgvb39VP7wjKeTsgaMBJrzfxvoF`
@@ -38,10 +48,6 @@
 ### ⚪ en observación — WBTC
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
 - **Pools nuevos:** 1h 2 (antes 0) · 6h 4 (antes 2, +100%) · 24h 6 (antes 10, -40%)
-
-### ⚪ en observación — wXMR
-- **Quote:** `WXMRyRZhsa19ety5erZhHg4N3xj3EVN92u94422teJp`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 2 (antes 2, +0%) · 24h 6 (antes 26, -77%)
 
 ## Plataformas con ingresos acelerando (DefiLlama)
 
