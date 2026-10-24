@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-24 16:48 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-24 16:52 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -19,24 +19,24 @@
 - **Quote:** `TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo`
 - **Pools nuevos:** 1h 3 (antes 2) · 6h 12 (antes 6, +100%) · 24h 25 (antes 15, +67%)
 - **Amplitud (24h):** 25 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 28% del volumen
-- **Token de pago:** MC $88 · volumen 24h $5.17M · liquidez $1.81M
+- **Token de pago:** MC $88 · volumen 24h $5.17M · liquidez $1.82M
 - **Líder (más volumen):** GTA6 `2gVNeu8dP7XiLoaWfUvUJXUM5AdXY8418aft8xhUpump` · MC $128.2k · vol 24h $43.7k · 24h -17.68%
-- **Líder (mayor subida 24h):** AU `B9Nbxs1LNWh6gBF3DnMyyuXtpx1zHT3HpM7UvaN1pump` · MC $55.2k · vol 24h $3.5k · 24h 40.23%
+- **Líder (mayor subida 24h):** AU `B9Nbxs1LNWh6gBF3DnMyyuXtpx1zHT3HpM7UvaN1pump` · MC $55.2k · vol 24h $3.3k · 24h 41.68%
 - **Catalizador:** META ACCELERATION (pools 24h +67%)
 
 ### 🟡 META ACTIVÁNDOSE — TSLAx
 - **Quote:** `XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB`
 - **Pools nuevos:** 1h 10 (antes 0) · 6h 10 (antes 1, +900%) · 24h 11 (antes 2, +450%)
 - **Amplitud (24h):** 11 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 72% del volumen
-- **Token de pago:** MC $69.68M · volumen 24h $436.6k · liquidez $2.38M
+- **Token de pago:** MC $69.78M · volumen 24h $441.9k · liquidez $2.39M
 - **Líder (más volumen):** ROADSTER `87aHjhRwVNV5SADpzdbcm7C1HXytq2EWvNHP6GM2pump` · MC $3.1k · vol 24h $758 · 24h -14.46%
-- **Líder (mayor subida 24h):** READ `Bh96Hm6Xj4MGoeRJFN582qJTj9o8nnmz2uzS78sM1HnN` · MC $3.1k · vol 24h $0 · 24h 0.11%
+- **Líder (mayor subida 24h):** READ `BEHK8aa6DSU2qHrGoJynEfx35kdsmBy1AAX5NadovtzQ` · MC $3.1k · vol 24h $0 · 24h 0.12%
 - **Catalizador:** META ACCELERATION (pools 24h +450%)
 - **Riesgos:** liquidez 0% del MC
 
 ### ⚪ en observación — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 3 (antes 2) · 6h 14 (antes 14, +0%) · 24h 59 (antes 83, -29%)
+- **Pools nuevos:** 1h 3 (antes 2) · 6h 14 (antes 11, +27%) · 24h 59 (antes 83, -29%)
 
 ### ⚪ en observación — wXMR
 - **Quote:** `WXMRyRZhsa19ety5erZhHg4N3xj3EVN92u94422teJp`
@@ -48,7 +48,7 @@
 
 ### ⚪ en observación — WBTC
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 2 (antes 2, +0%) · 24h 9 (antes 8, +12%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 2 (antes 1, +100%) · 24h 9 (antes 8, +12%)
 
 ### ⚪ en observación — NVDAx
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
