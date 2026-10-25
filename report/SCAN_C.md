@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-25 07:02 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-25 07:07 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -19,9 +19,9 @@
 - **Quote:** `C5xph2yL6gMdxmuLGxJBkGpmuDFfyi5fqkBNhvL6pump`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 25 (antes 7, +257%) · 24h 35 (antes 5, +600%)
 - **Amplitud (24h):** 35 tokens distintos · 1 superan $100k · 0 superan $1M · el mayor = 100% del volumen ⚠️ una sola moneda domina: puede no ser una moda
-- **Token de pago:** MC $11.11M · volumen 24h $641.4k · liquidez $391.9k
-- **Líder (más volumen):** PUMP `4hHnD2qM6XXx5iHSS1JkkEgWw9yGCM3Pj497DFjppump` · MC $154.0k · vol 24h $203.2k · 24h 221%
-- **Líder (mayor subida 24h):** PUMP `4hHnD2qM6XXx5iHSS1JkkEgWw9yGCM3Pj497DFjppump` · MC $154.0k · vol 24h $203.2k · 24h 221%
+- **Token de pago:** MC $10.39M · volumen 24h $641.7k · liquidez $379.0k
+- **Líder (más volumen):** PUMP `4hHnD2qM6XXx5iHSS1JkkEgWw9yGCM3Pj497DFjppump` · MC $175.6k · vol 24h $204.2k · 24h 266%
+- **Líder (mayor subida 24h):** PUMP `4hHnD2qM6XXx5iHSS1JkkEgWw9yGCM3Pj497DFjppump` · MC $175.6k · vol 24h $204.2k · 24h 266%
 - **Catalizador:** META ACCELERATION (pools 24h +600%)
 - **Riesgos:** concentración: top10 42%, wallet máx 20.3%
 
@@ -29,7 +29,7 @@
 - **Quote:** `DJTu7vi8norVzdVAffgvb39VP7wjKeTsgaMBJrzfxvoF`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 3 (antes 8, -62%) · 24h 28 (antes 8, +250%)
 - **Amplitud (24h):** 28 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 16% del volumen
-- **Token de pago:** MC $122.3k · volumen 24h $2.21M · liquidez $855.8k
+- **Token de pago:** MC $121.5k · volumen 24h $2.21M · liquidez $854.2k
 - **Líder (más volumen):** SS `8Y3zbmmg8ZJjcihEZPwKfnraxFADh4YKtMHkxtTBpump` · MC $3.2k · vol 24h $13.3k · 24h -29.66%
 - **Líder (mayor subida 24h):** BUS `2yVmgDRzcBzVTrrABdvwbC3t9fdHxBoqfCgkHfKQpump` · MC $3.1k · vol 24h $1 · 24h 0.01%
 - **Catalizador:** META ACCELERATION (pools 24h +250%)
@@ -45,9 +45,9 @@
 - **Quote:** `6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 3 (antes 16, -81%) · 24h 19 (antes 2, +850%)
 - **Amplitud (24h):** 18 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 100% del volumen ⚠️ una sola moneda domina: puede no ser una moda
-- **Token de pago:** MC $114.02M · volumen 24h $1.23M · liquidez $2.18M
-- **Líder (más volumen):** BOYCOTT `4b7hUYrtSjndqRwbc6PxMuXvSKZd8s7rkm66xSTshvCR` · MC $69.3k · vol 24h $1.51M · 24h 62.93%
-- **Líder (mayor subida 24h):** BOYCOTT `4b7hUYrtSjndqRwbc6PxMuXvSKZd8s7rkm66xSTshvCR` · MC $69.3k · vol 24h $1.51M · 24h 62.93%
+- **Token de pago:** MC $115.55M · volumen 24h $1.24M · liquidez $2.20M
+- **Líder (más volumen):** BOYCOTT `4b7hUYrtSjndqRwbc6PxMuXvSKZd8s7rkm66xSTshvCR` · MC $69.6k · vol 24h $1.52M · 24h 63.63%
+- **Líder (mayor subida 24h):** BOYCOTT `4b7hUYrtSjndqRwbc6PxMuXvSKZd8s7rkm66xSTshvCR` · MC $69.6k · vol 24h $1.52M · 24h 63.63%
 - **Catalizador:** META ACCELERATION (pools 24h +850%)
 - **Riesgos:** concentración: top10 40%, wallet máx 19.0%; impuesto 1% · lo puede cambiar: 5KXDF6… · cobra: 5KXDF6… → revisar a dónde va y si esa wallet vende
 - **Descartado por seguridad:** impuesto 1% que alguien puede cambiar
@@ -82,13 +82,13 @@
 
 ### 🟡 FLYWHEEL ACELERANDO — Veil (Privacy)
 - **Ingresos 7d:** $61.5k · 7d anteriores $409 · cambio 150.5×
-- **Ingresos 24h:** $8.7k · 24h anteriores $14.9k · -42% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $8.8k · 24h anteriores $14.9k · -41% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $12.6k
 - **Token:** sin token listado en CoinGecko
 
 ### 🟡 FLYWHEEL ACELERANDO — Jupiter YOLO (Derivatives)
 - **Ingresos 7d:** $54.7k · 7d anteriores $9.2k · cambio 5.9×
-- **Ingresos 24h:** $5.8k · 24h anteriores $7.2k · -19% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $5.9k · 24h anteriores $7.2k · -18% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $27.4k
 - **Token:** sin token listado en CoinGecko
 
