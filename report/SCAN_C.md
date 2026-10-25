@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-25 07:57 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-25 08:11 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -9,7 +9,7 @@
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
 - **Pools nuevos:** 1h 1 (antes 0) · 6h 32 (antes 8, +300%) · 24h 44 (antes 24, +83%)
 - **Amplitud (24h):** 44 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 25% del volumen
-- **Token de pago:** MC $9.47M · volumen 24h $4.28M · liquidez $2.87M
+- **Token de pago:** MC $9.47M · volumen 24h $4.27M · liquidez $2.87M
 - **Líder (más volumen):** TOMI `4U3aC1dRj9qqikpgtW7ded5osJaSvmbaAXDzKrxApump` · MC $3.1k · vol 24h $50.9k · 24h -48%
 - **Líder (mayor subida 24h):** trilly `DCqpFSPpFPfxT1eUE7XAsL2QZZcZ1nY3nBqhKbC9pump` · MC $2.3k · vol 24h $1 · 24h 0.34%
 - **Catalizador:** META ACCELERATION (pools 24h +83%)
@@ -19,9 +19,9 @@
 - **Quote:** `C5xph2yL6gMdxmuLGxJBkGpmuDFfyi5fqkBNhvL6pump`
 - **Pools nuevos:** 1h 1 (antes 0) · 6h 20 (antes 12, +67%) · 24h 36 (antes 5, +620%)
 - **Amplitud (24h):** 36 tokens distintos · 1 superan $100k · 0 superan $1M · el mayor = 100% del volumen ⚠️ una sola moneda domina: puede no ser una moda
-- **Token de pago:** MC $10.74M · volumen 24h $649.1k · liquidez $385.7k
-- **Líder (más volumen):** PUMP `4hHnD2qM6XXx5iHSS1JkkEgWw9yGCM3Pj497DFjppump` · MC $116.9k · vol 24h $214.4k · 24h 144%
-- **Líder (mayor subida 24h):** PUMP `4hHnD2qM6XXx5iHSS1JkkEgWw9yGCM3Pj497DFjppump` · MC $116.9k · vol 24h $214.4k · 24h 144%
+- **Token de pago:** MC $10.52M · volumen 24h $656.7k · liquidez $381.6k
+- **Líder (más volumen):** PUMP `4hHnD2qM6XXx5iHSS1JkkEgWw9yGCM3Pj497DFjppump` · MC $109.1k · vol 24h $216.9k · 24h 127%
+- **Líder (mayor subida 24h):** SOL `3zPjPxhp7tGFCmSq4x14ZTwttWUeoJevXESC7Xvrpump` · MC $326.5k · vol 24h $36.3k · 24h 137%
 - **Catalizador:** META ACCELERATION (pools 24h +620%)
 - **Riesgos:** concentración: top10 40%, wallet máx 20.3%
 
@@ -29,7 +29,7 @@
 - **Quote:** `DJTu7vi8norVzdVAffgvb39VP7wjKeTsgaMBJrzfxvoF`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 1 (antes 10, -90%) · 24h 28 (antes 8, +250%)
 - **Amplitud (24h):** 28 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 16% del volumen
-- **Token de pago:** MC $121.5k · volumen 24h $2.22M · liquidez $794.6k
+- **Token de pago:** MC $121.5k · volumen 24h $2.22M · liquidez $839.7k
 - **Líder (más volumen):** SS `8Y3zbmmg8ZJjcihEZPwKfnraxFADh4YKtMHkxtTBpump` · MC $3.2k · vol 24h $13.3k · 24h -29.66%
 - **Líder (mayor subida 24h):** BUS `2yVmgDRzcBzVTrrABdvwbC3t9fdHxBoqfCgkHfKQpump` · MC $3.1k · vol 24h $1 · 24h 0.01%
 - **Catalizador:** META ACCELERATION (pools 24h +250%)
@@ -44,12 +44,12 @@
 ### 🟡 META ACTIVÁNDOSE — STONK
 - **Quote:** `6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx`
 - **Pools nuevos:** 1h 2 (antes 0) · 6h 4 (antes 17, -76%) · 24h 21 (antes 2, +950%)
-- **Amplitud (24h):** 20 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 100% del volumen ⚠️ una sola moneda domina: puede no ser una moda
-- **Token de pago:** MC $119.30M · volumen 24h $1.31M · liquidez $2.26M
-- **Líder (más volumen):** BOYCOTT `4b7hUYrtSjndqRwbc6PxMuXvSKZd8s7rkm66xSTshvCR` · MC $72.0k · vol 24h $1.53M · 24h 69.32%
-- **Líder (mayor subida 24h):** BOYCOTT `4b7hUYrtSjndqRwbc6PxMuXvSKZd8s7rkm66xSTshvCR` · MC $72.0k · vol 24h $1.53M · 24h 69.32%
+- **Amplitud (24h):** 20 tokens distintos · 1 superan $100k · 0 superan $1M · el mayor = 100% del volumen ⚠️ una sola moneda domina: puede no ser una moda
+- **Token de pago:** MC $117.56M · volumen 24h $1.30M · liquidez $2.23M
+- **Líder (más volumen):** BOYCOTT `4b7hUYrtSjndqRwbc6PxMuXvSKZd8s7rkm66xSTshvCR` · MC $148.2k · vol 24h $1.56M · 24h 249%
+- **Líder (mayor subida 24h):** BOYCOTT `4b7hUYrtSjndqRwbc6PxMuXvSKZd8s7rkm66xSTshvCR` · MC $148.2k · vol 24h $1.56M · 24h 249%
 - **Catalizador:** META ACCELERATION (pools 24h +950%)
-- **Riesgos:** concentración: top10 37%, wallet máx 18.1%; impuesto 1% · lo puede cambiar: 5KXDF6… · cobra: 5KXDF6… → revisar a dónde va y si esa wallet vende
+- **Riesgos:** concentración: top10 31%, wallet máx 11.5%; impuesto 1% · lo puede cambiar: 5KXDF6… · cobra: 5KXDF6… → revisar a dónde va y si esa wallet vende
 - **Descartado por seguridad:** impuesto 1% que alguien puede cambiar
 
 ### 🟡 META ACTIVÁNDOSE — TSLAx
