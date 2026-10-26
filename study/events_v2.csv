@@ -20919,3 +20919,13 @@ DdSWN7sLXoJ3Bi4F6uW3SnBMYCp6FBE1WjVKjXLTpump,TIPO_SOAP_pico200k_dd75_mc50k_72h_b
 DdSWN7sLXoJ3Bi4F6uW3SnBMYCp6FBE1WjVKjXLTpump,TIPO_SOAP_pico200k_dd75_mc50k_72h_base,trailing,1790359200,4943,30.0,1.005,0.889,True,1,1.0,0
 DdSWN7sLXoJ3Bi4F6uW3SnBMYCp6FBE1WjVKjXLTpump,TIPO_SOAP_pico200k_dd75_mc50k_72h_base,escalonada,1790359200,4943,30.0,1.005,0.889,True,1,1.0,0
 DdSWN7sLXoJ3Bi4F6uW3SnBMYCp6FBE1WjVKjXLTpump,TIPO_SOAP_pico200k_dd75_mc50k_72h_base,estructura,1790359200,4943,30.0,1.005,0.5329,False,29,1.005,4
+DaFCvHhyYyTicYWSdw4t1udB7xg9rCiBkn4ggkPpump,REF_dd70_mc150k_sin_base,tuya,1790582400,2085,27.7,1.0,1.0,False,0,1.0,0
+DaFCvHhyYyTicYWSdw4t1udB7xg9rCiBkn4ggkPpump,REF_dd70_mc150k_sin_base,solo_stop,1790582400,2085,27.7,1.0,1.0,False,0,1.0,0
+DaFCvHhyYyTicYWSdw4t1udB7xg9rCiBkn4ggkPpump,REF_dd70_mc150k_sin_base,trailing,1790582400,2085,27.7,1.0,1.0,False,0,1.0,0
+DaFCvHhyYyTicYWSdw4t1udB7xg9rCiBkn4ggkPpump,REF_dd70_mc150k_sin_base,escalonada,1790582400,2085,27.7,1.0,1.0,False,0,1.0,0
+DaFCvHhyYyTicYWSdw4t1udB7xg9rCiBkn4ggkPpump,REF_dd70_mc150k_sin_base,estructura,1790582400,2085,27.7,1.0,1.0,False,0,1.0,0
+DaFCvHhyYyTicYWSdw4t1udB7xg9rCiBkn4ggkPpump,REF_dd85_mc150k_sin_base,tuya,1790582400,2085,27.7,1.0,1.0,False,0,1.0,0
+DaFCvHhyYyTicYWSdw4t1udB7xg9rCiBkn4ggkPpump,REF_dd85_mc150k_sin_base,solo_stop,1790582400,2085,27.7,1.0,1.0,False,0,1.0,0
+DaFCvHhyYyTicYWSdw4t1udB7xg9rCiBkn4ggkPpump,REF_dd85_mc150k_sin_base,trailing,1790582400,2085,27.7,1.0,1.0,False,0,1.0,0
+DaFCvHhyYyTicYWSdw4t1udB7xg9rCiBkn4ggkPpump,REF_dd85_mc150k_sin_base,escalonada,1790582400,2085,27.7,1.0,1.0,False,0,1.0,0
+DaFCvHhyYyTicYWSdw4t1udB7xg9rCiBkn4ggkPpump,REF_dd85_mc150k_sin_base,estructura,1790582400,2085,27.7,1.0,1.0,False,0,1.0,0
