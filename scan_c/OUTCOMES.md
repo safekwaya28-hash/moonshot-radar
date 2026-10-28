@@ -1,20 +1,20 @@
 # OUTCOMES — qué pasó después de cada decisión (incluidas las descartadas)
-**2026-10-28 00:04 UTC** · 2012 monedas seguidas · la decisión original nunca se cambia
+**2026-10-28 02:24 UTC** · 2018 monedas seguidas · la decisión original nunca se cambia
 
 | Escáner | Decisión | Monedas | con 24h | Mediana MC 24h / inicial | Muertas a 24h (≤ −50%) | Máx. ≥2x | ≥5x | ≥10x | 2x antes de −30% | 5x antes de −50% | 10x antes de −70% |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | A | NO | 1 | 1 | 1.00x | 0% | 0% | 0% | 0% | 0% (n=1) | 0% (n=1) | — |
-| B | DESCARTAR | 1066 | 688 | 0.33x | 77% | 25% | 6% | 2% | 5% (n=989) | 3% (n=978) | 2% (n=662) |
+| B | DESCARTAR | 1069 | 688 | 0.33x | 77% | 25% | 6% | 2% | 5% (n=991) | 3% (n=980) | 2% (n=664) |
 | B | FUERA | 145 | 112 | 0.44x | 77% | 47% | 9% | 1% | 6% (n=113) | 7% (n=107) | 33% (n=3) |
-| B | WATCH | 534 | 423 | 0.26x | 90% | 38% | 11% | 5% | 12% (n=426) | 8% (n=422) | 6% (n=315) |
-| C-meta | 🟡 META ACTIVÁNDOSE | 265 | 150 | 0.86x | 29% | 24% | 7% | 2% | 41% (n=83) | 25% (n=55) | 13% (n=31) |
+| B | WATCH | 536 | 423 | 0.26x | 90% | 37% | 11% | 5% | 12% (n=428) | 8% (n=424) | 6% (n=317) |
+| C-meta | 🟡 META ACTIVÁNDOSE | 266 | 151 | 0.85x | 28% | 24% | 7% | 2% | 41% (n=83) | 25% (n=55) | 13% (n=31) |
 | C-meta | 🟢 CANDIDATA | 1 | 1 | 0.03x | 100% | 0% | 0% | 0% | 0% (n=1) | 0% (n=1) | 0% (n=1) |
 
 ## ¿Qué filtro mata ganadoras? (descartadas por motivo)
 
 | Motivo del descarte | Monedas | con 24h | Mediana 24h | Muertas a 24h | Máx. ≥5x | ≥10x | 2x antes de −30% | 5x antes de −50% | 10x antes de −70% |
 |---|---|---|---|---|---|---|---|---|---|
-| concentración | 630 | 285 | 0.42x | 55% | 4% | 1% | 3% (n=572) | 2% (n=566) | 1% (n=403) |
+| concentración | 633 | 285 | 0.42x | 55% | 4% | 1% | 3% (n=574) | 2% (n=568) | 1% (n=405) |
 | dev vendió | 234 | 213 | 0.29x | 92% | 9% | 3% | 7% (n=221) | 5% (n=217) | 5% (n=132) |
 | compras en el bloque de creación | 189 | 177 | 0.28x | 91% | 8% | 3% | 8% (n=183) | 5% (n=182) | 4% (n=119) |
 | volumen en bucle | 11 | 11 | 0.34x | 91% | 9% | 9% | 18% (n=11) | 0% (n=11) | 0% (n=6) |
