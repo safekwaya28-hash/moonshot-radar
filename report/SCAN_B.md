@@ -1,91 +1,90 @@
 # SCAN B — Despegues (objetivo 100x+)
-**2026-10-29 19:12 UTC** · 300 creaciones recientes revisadas · 15 en la ventana $8k–$40k · 5 con análisis profundo
+**2026-10-29 23:33 UTC** · 300 creaciones recientes revisadas · 11 en la ventana $8k–$40k · 5 con análisis profundo
 
-🟢 COMPRA AHORA **0** · 🟡 WATCH **2** · 🔴 DESCARTAR **2** · ⚪ FUERA **1**
+🟢 COMPRA AHORA **0** · 🟡 WATCH **2** · 🔴 DESCARTAR **1** · ⚪ FUERA **2**
 
-### 🟡 WATCH — $Hypers
-- **CA:** `7Pti8RvCmszyyEU5CFUb3n8siQAFFq5KyoDytXZ8pump`
-- **MC:** $12.6k · curva 67% · edad 0.1 h
+### 🟡 WATCH — $ZCAT
+- **CA:** `A6cmGqUaoS1VWkU4Q8dUeRideS8sjbdHTcPQ6WKBpump`
+- **MC:** $16.7k · curva 81% · edad 0.0 h
 - **Smart money:** ninguna de tus wallets
-- **B:** 4/9 · **M:** 3/5
-- **Compradores:** 30m 15 · nuevos 5m 15 (antes 8, BAI 1.88) · compradores/vendedores 15m 1.88
-- **Volumen 15m:** $1,698 (antes $0) · wallet dominante 23% · retención 15m — · compra mediana $50
-- **Seguridad:** snipers 2 · bloque creación 0% · top10 27% · wallet máx 3.8% · dev tiene 0.0% · dev vendió 0% · 5 wallets = 35% del volumen
-- **Prueba de venta:** 1/3 con financiador verificado y distinto (no-dev, mantuvieron ≥5 min y vendieron; 1 en total, 0 no verificables)
+- **B:** 2/9 · **M:** 1/5
+- **Compradores:** 30m 0 · nuevos 5m 7 (antes 0, BAI ∞) · compradores/vendedores 15m 0.00
+- **Volumen 15m:** $0 (antes $0) · wallet dominante 0% · retención 15m — · compra mediana $15
+- **Seguridad:** snipers 2 · bloque creación 0% · top10 17% · wallet máx 3.0% · dev tiene 0.0% · dev vendió 0% · 5 wallets = 40% del volumen
+- **Prueba de venta:** 0/3 con financiador verificado y distinto (no-dev, mantuvieron ≥5 min y vendieron; 0 en total, 0 no verificables)
+- **Cobertura de datos:** -5 min observados ⚠️ insuficiente
+- **Participantes 30m:** nuevos 0 · recompran 0 · compran y venden (flippers) — · volumen 15m / liquidez 0.0×
+- **Smart money:** convergencia 0 wallets en 10 min · posición entre los compradores — (entre los compradores observados, no entre todos)
+- **Financiación del top:** sin grupos detectados (1 nivel, wallets nuevas)
+- **Falta para COMPRA AHORA:** sin smart money; prueba de venta 0/3; B 2/6; M 1/4; datos incompletos: solo -5 min observados (las métricas de 30 min no son fiables)
+- **A mano:** origen del dinero de los compradores (bundles/insiders en GMGN); narrativa (X/Telegram)
+- [GMGN](https://gmgn.ai/sol/token/A6cmGqUaoS1VWkU4Q8dUeRideS8sjbdHTcPQ6WKBpump) · [pump.fun](https://pump.fun/coin/A6cmGqUaoS1VWkU4Q8dUeRideS8sjbdHTcPQ6WKBpump) · [DexScreener](https://dexscreener.com/solana/A6cmGqUaoS1VWkU4Q8dUeRideS8sjbdHTcPQ6WKBpump) · [Solscan](https://solscan.io/token/A6cmGqUaoS1VWkU4Q8dUeRideS8sjbdHTcPQ6WKBpump)
+
+### 🟡 WATCH — $cat
+- **CA:** `5iYfPUpKnJttPXapMM4yPzUo7ZVB9sP29ZDP5Uoipump`
+- **MC:** $9.0k · curva 61% · edad 0.1 h
+- **Smart money:** ninguna de tus wallets
+- **B:** 2/9 · **M:** 0/5
+- **Compradores:** 30m 0 · nuevos 5m 0 (antes 12, BAI 0.00) · compradores/vendedores 15m 0.00
+- **Volumen 15m:** $0 (antes $0) · wallet dominante 0% · retención 15m — · compra mediana $68
+- **Seguridad:** snipers 2 · bloque creación 13% · top10 27% · wallet máx 3.4% · dev tiene 0.0% · dev vendió 0% · 5 wallets = 30% del volumen
+- **Prueba de venta:** 2/3 con financiador verificado y distinto (no-dev, mantuvieron ≥5 min y vendieron; 2 en total, 0 no verificables)
+- **Cobertura de datos:** -2 min observados ⚠️ insuficiente
+- **Participantes 30m:** nuevos 0 · recompran 0 · compran y venden (flippers) — · volumen 15m / liquidez 0.0×
+- **Smart money:** convergencia 0 wallets en 10 min · posición entre los compradores — (entre los compradores observados, no entre todos)
+- **Financiación del top:** sin grupos detectados (1 nivel, wallets nuevas)
+- **Falta para COMPRA AHORA:** sin smart money; prueba de venta 2/3; B 2/6; M 0/4; datos incompletos: solo -2 min observados (las métricas de 30 min no son fiables)
+- **A mano:** origen del dinero de los compradores (bundles/insiders en GMGN); narrativa (X/Telegram)
+- [GMGN](https://gmgn.ai/sol/token/5iYfPUpKnJttPXapMM4yPzUo7ZVB9sP29ZDP5Uoipump) · [pump.fun](https://pump.fun/coin/5iYfPUpKnJttPXapMM4yPzUo7ZVB9sP29ZDP5Uoipump) · [DexScreener](https://dexscreener.com/solana/5iYfPUpKnJttPXapMM4yPzUo7ZVB9sP29ZDP5Uoipump) · [Solscan](https://solscan.io/token/5iYfPUpKnJttPXapMM4yPzUo7ZVB9sP29ZDP5Uoipump)
+
+### 🔴 DESCARTAR — $$RENT
+- **CA:** `Fo84Lhv6Fy7cayMA7CQqrDwbSVeQ5HoTepx34JZApump`
+- **MC:** $6.6k · curva 19% · edad 0.1 h
+- **Smart money:** ninguna de tus wallets
+- **B:** 1/9 · **M:** 2/5
+- **Compradores:** 30m 1 · nuevos 5m 3 (antes 0, BAI ∞) · compradores/vendedores 15m 0.50
+- **Volumen 15m:** $12 (antes $0) · wallet dominante 71% · retención 15m — · compra mediana $1
+- **Seguridad:** snipers 0 · bloque creación 0% · top10 115% · wallet máx 115.2% · dev tiene 0.0% · dev vendió 100% · 5 wallets = 100% del volumen
+- **Prueba de venta:** 0/3 con financiador verificado y distinto (no-dev, mantuvieron ≥5 min y vendieron; 0 en total, 0 no verificables)
+- **Cobertura de datos:** 3 min observados ⚠️ insuficiente
+- **Participantes 30m:** nuevos 1 · recompran 0 · compran y venden (flippers) 50% · volumen 15m / liquidez 12.2×
+- **Smart money:** convergencia 0 wallets en 10 min · posición entre los compradores — (entre los compradores observados, no entre todos)
+- **Financiación del top:** sin grupos detectados (1 nivel, wallets nuevas)
+- **Descartada por:** concentración: top10 115%, wallet máx 115.2%; dev vendió/sacó 100% de su compra
+- **A mano:** origen del dinero de los compradores (bundles/insiders en GMGN); narrativa (X/Telegram)
+- [GMGN](https://gmgn.ai/sol/token/Fo84Lhv6Fy7cayMA7CQqrDwbSVeQ5HoTepx34JZApump) · [pump.fun](https://pump.fun/coin/Fo84Lhv6Fy7cayMA7CQqrDwbSVeQ5HoTepx34JZApump) · [DexScreener](https://dexscreener.com/solana/Fo84Lhv6Fy7cayMA7CQqrDwbSVeQ5HoTepx34JZApump) · [Solscan](https://solscan.io/token/Fo84Lhv6Fy7cayMA7CQqrDwbSVeQ5HoTepx34JZApump)
+
+### ⚪ FUERA — $NEKO
+- **CA:** `6R2vbe2m7ScL9NYB9pjDgxfYeSupveLqtcovuv1bpump`
+- **MC:** $7.2k · curva 0% · edad 0.0 h
+- **Smart money:** ninguna de tus wallets
+- **B:** 3/9 · **M:** 2/5
+- **Compradores:** 30m 13 · nuevos 5m 13 (antes 0, BAI ∞) · compradores/vendedores 15m 1.08
+- **Volumen 15m:** $1,397 (antes $0) · wallet dominante 28% · retención 15m — · compra mediana $39
+- **Seguridad:** snipers 4 · bloque creación 6% · top10 0% · wallet máx 0.0% · dev tiene 0.0% · dev vendió 0% · 5 wallets = 79% del volumen
+- **Prueba de venta:** 0/3 con financiador verificado y distinto (no-dev, mantuvieron ≥5 min y vendieron; 0 en total, 0 no verificables)
 - **Cobertura de datos:** 2 min observados ⚠️ insuficiente
-- **Participantes 30m:** nuevos 15 · recompran 2 · compran y venden (flippers) 21% · volumen 15m / liquidez 0.5×
+- **Participantes 30m:** nuevos 13 · recompran 0 · compran y venden (flippers) 92% · volumen 15m / liquidez 1839.9×
 - **Smart money:** convergencia 0 wallets en 10 min · posición entre los compradores — (entre los compradores observados, no entre todos)
 - **Financiación del top:** sin grupos detectados (1 nivel, wallets nuevas)
-- **Falta para COMPRA AHORA:** sin smart money; prueba de venta 1/3; B 4/6; M 3/4; una wallet = 23% del volumen 15m; datos incompletos: solo 2 min observados (las métricas de 30 min no son fiables)
 - **A mano:** origen del dinero de los compradores (bundles/insiders en GMGN); narrativa (X/Telegram)
-- [GMGN](https://gmgn.ai/sol/token/7Pti8RvCmszyyEU5CFUb3n8siQAFFq5KyoDytXZ8pump) · [pump.fun](https://pump.fun/coin/7Pti8RvCmszyyEU5CFUb3n8siQAFFq5KyoDytXZ8pump) · [DexScreener](https://dexscreener.com/solana/7Pti8RvCmszyyEU5CFUb3n8siQAFFq5KyoDytXZ8pump) · [Solscan](https://solscan.io/token/7Pti8RvCmszyyEU5CFUb3n8siQAFFq5KyoDytXZ8pump)
+- [GMGN](https://gmgn.ai/sol/token/6R2vbe2m7ScL9NYB9pjDgxfYeSupveLqtcovuv1bpump) · [pump.fun](https://pump.fun/coin/6R2vbe2m7ScL9NYB9pjDgxfYeSupveLqtcovuv1bpump) · [DexScreener](https://dexscreener.com/solana/6R2vbe2m7ScL9NYB9pjDgxfYeSupveLqtcovuv1bpump) · [Solscan](https://solscan.io/token/6R2vbe2m7ScL9NYB9pjDgxfYeSupveLqtcovuv1bpump)
 
-### 🟡 WATCH — $HN
-- **CA:** `5qMMAE5Jjm1inPA32VXdjEG8MJM6n6RSqh1VXj2Gpump`
-- **MC:** $12.9k · curva 67% · edad -0.0 h
+### ⚪ FUERA — $beans
+- **CA:** `3QKWDZdHBtGNE3jQXKQfWUCgPVGggMtm6xmkUPeC2UQT`
+- **MC:** $7.0k · curva 51% · edad -0.1 h
 - **Smart money:** ninguna de tus wallets
-- **B:** 1/9 · **M:** 0/5
+- **B:** 2/9 · **M:** 0/5
 - **Compradores:** 30m 0 · nuevos 5m 0 (antes 0, BAI 0.00) · compradores/vendedores 15m 0.00
-- **Volumen 15m:** $0 (antes $0) · wallet dominante 0% · retención 15m — · compra mediana $8
-- **Seguridad:** snipers 1 · bloque creación 1% · top10 27% · wallet máx 3.4% · dev tiene 0.0% · dev vendió 0% · 5 wallets = 49% del volumen
+- **Volumen 15m:** $0 (antes $0) · wallet dominante 0% · retención 15m — · compra mediana $24
+- **Seguridad:** snipers 0 · bloque creación 0% · top10 21% · wallet máx 2.9% · dev tiene 0.0% · dev vendió 0% · 5 wallets = 39% del volumen
 - **Prueba de venta:** 0/3 con financiador verificado y distinto (no-dev, mantuvieron ≥5 min y vendieron; 0 en total, 0 no verificables)
-- **Cobertura de datos:** -3 min observados ⚠️ insuficiente
+- **Cobertura de datos:** -5 min observados ⚠️ insuficiente
 - **Participantes 30m:** nuevos 0 · recompran 0 · compran y venden (flippers) — · volumen 15m / liquidez 0.0×
 - **Smart money:** convergencia 0 wallets en 10 min · posición entre los compradores — (entre los compradores observados, no entre todos)
 - **Financiación del top:** sin grupos detectados (1 nivel, wallets nuevas)
-- **Falta para COMPRA AHORA:** sin smart money; prueba de venta 0/3; B 1/6; M 0/4; datos incompletos: solo -3 min observados (las métricas de 30 min no son fiables)
 - **A mano:** origen del dinero de los compradores (bundles/insiders en GMGN); narrativa (X/Telegram)
-- [GMGN](https://gmgn.ai/sol/token/5qMMAE5Jjm1inPA32VXdjEG8MJM6n6RSqh1VXj2Gpump) · [pump.fun](https://pump.fun/coin/5qMMAE5Jjm1inPA32VXdjEG8MJM6n6RSqh1VXj2Gpump) · [DexScreener](https://dexscreener.com/solana/5qMMAE5Jjm1inPA32VXdjEG8MJM6n6RSqh1VXj2Gpump) · [Solscan](https://solscan.io/token/5qMMAE5Jjm1inPA32VXdjEG8MJM6n6RSqh1VXj2Gpump)
-
-### 🔴 DESCARTAR — $Rise
-- **CA:** `ZMBTWe9y4EBXiyRXLDZth255ANLRoB6CNAcWADipump`
-- **MC:** $9.5k · curva 62% · edad 0.0 h
-- **Smart money:** ninguna de tus wallets
-- **B:** 2/9 · **M:** 3/5
-- **Compradores:** 30m 21 · nuevos 5m 21 (antes 0, BAI ∞) · compradores/vendedores 15m 3.50
-- **Volumen 15m:** $2,395 (antes $0) · wallet dominante 67% · retención 15m — · compra mediana $10
-- **Seguridad:** snipers 2 · bloque creación 0% · top10 51% · wallet máx 47.3% · dev tiene 47.3% · dev vendió 0% · 5 wallets = 95% del volumen
-- **Prueba de venta:** 0/3 con financiador verificado y distinto (no-dev, mantuvieron ≥5 min y vendieron; 0 en total, 0 no verificables)
-- **Cobertura de datos:** 1 min observados ⚠️ insuficiente
-- **Participantes 30m:** nuevos 21 · recompran 1 · compran y venden (flippers) 29% · volumen 15m / liquidez 0.9×
-- **Smart money:** convergencia 0 wallets en 10 min · posición entre los compradores — (entre los compradores observados, no entre todos)
-- **Financiación del top:** sin grupos detectados (1 nivel, wallets nuevas)
-- **Descartada por:** concentración: top10 51%, wallet máx 47.3%; dev tiene 47%
-- **A mano:** origen del dinero de los compradores (bundles/insiders en GMGN); narrativa (X/Telegram)
-- [GMGN](https://gmgn.ai/sol/token/ZMBTWe9y4EBXiyRXLDZth255ANLRoB6CNAcWADipump) · [pump.fun](https://pump.fun/coin/ZMBTWe9y4EBXiyRXLDZth255ANLRoB6CNAcWADipump) · [DexScreener](https://dexscreener.com/solana/ZMBTWe9y4EBXiyRXLDZth255ANLRoB6CNAcWADipump) · [Solscan](https://solscan.io/token/ZMBTWe9y4EBXiyRXLDZth255ANLRoB6CNAcWADipump)
-
-### 🔴 DESCARTAR — $Devin
-- **CA:** `6XSJvgaq8gPnuK7duC239e1G9z4ZsGnNUpKdpLdXpump`
-- **MC:** $6.8k · curva 42% · edad 0.0 h
-- **Smart money:** ninguna de tus wallets
-- **B:** 3/9 · **M:** 1/5
-- **Compradores:** 30m 0 · nuevos 5m 6 (antes 0, BAI ∞) · compradores/vendedores 15m 0.00
-- **Volumen 15m:** $0 (antes $0) · wallet dominante 0% · retención 15m — · compra mediana $49
-- **Seguridad:** snipers 0 · bloque creación 0% · top10 5% · wallet máx 4.6% · dev tiene 0.0% · dev vendió 0% · 5 wallets = 54% del volumen
-- **Prueba de venta:** 1/3 con financiador verificado y distinto (no-dev, mantuvieron ≥5 min y vendieron; 1 en total, 0 no verificables)
-- **Cobertura de datos:** -1 min observados ⚠️ insuficiente
-- **Participantes 30m:** nuevos 0 · recompran 0 · compran y venden (flippers) — · volumen 15m / liquidez 0.0×
-- **Smart money:** convergencia 0 wallets en 10 min · posición entre los compradores — (entre los compradores observados, no entre todos)
-- **Financiación del top:** sin grupos detectados (1 nivel, wallets nuevas)
-- **Descartada por:** volumen en bucle: 5 wallets = 54% y 2 compran-venden repetidamente
-- **A mano:** origen del dinero de los compradores (bundles/insiders en GMGN); narrativa (X/Telegram)
-- [GMGN](https://gmgn.ai/sol/token/6XSJvgaq8gPnuK7duC239e1G9z4ZsGnNUpKdpLdXpump) · [pump.fun](https://pump.fun/coin/6XSJvgaq8gPnuK7duC239e1G9z4ZsGnNUpKdpLdXpump) · [DexScreener](https://dexscreener.com/solana/6XSJvgaq8gPnuK7duC239e1G9z4ZsGnNUpKdpLdXpump) · [Solscan](https://solscan.io/token/6XSJvgaq8gPnuK7duC239e1G9z4ZsGnNUpKdpLdXpump)
-
-### ⚪ FUERA — $bugcat
-- **CA:** `7rGDchWx52YvvEcuTizvcjNyph3dM2qERhvejgcwpump`
-- **MC:** $6.9k · curva 42% · edad 0.1 h
-- **Smart money:** ninguna de tus wallets
-- **B:** 4/9 · **M:** 3/5
-- **Compradores:** 30m 6 · nuevos 5m 6 (antes 0, BAI ∞) · compradores/vendedores 15m 6.00
-- **Volumen 15m:** $563 (antes $0) · wallet dominante 23% · retención 15m — · compra mediana $55
-- **Seguridad:** snipers 0 · bloque creación 0% · top10 24% · wallet máx 3.0% · dev tiene 0.0% · dev vendió 0% · 5 wallets = 30% del volumen
-- **Prueba de venta:** 0/3 con financiador verificado y distinto (no-dev, mantuvieron ≥5 min y vendieron; 0 en total, 0 no verificables)
-- **Cobertura de datos:** 4 min observados ⚠️ insuficiente
-- **Participantes 30m:** nuevos 6 · recompran 1 · compran y venden (flippers) 0% · volumen 15m / liquidez 0.4×
-- **Smart money:** convergencia 0 wallets en 10 min · posición entre los compradores — (entre los compradores observados, no entre todos)
-- **Financiación del top:** sin grupos detectados (1 nivel, wallets nuevas)
-- **A mano:** origen del dinero de los compradores (bundles/insiders en GMGN); narrativa (X/Telegram)
-- [GMGN](https://gmgn.ai/sol/token/7rGDchWx52YvvEcuTizvcjNyph3dM2qERhvejgcwpump) · [pump.fun](https://pump.fun/coin/7rGDchWx52YvvEcuTizvcjNyph3dM2qERhvejgcwpump) · [DexScreener](https://dexscreener.com/solana/7rGDchWx52YvvEcuTizvcjNyph3dM2qERhvejgcwpump) · [Solscan](https://solscan.io/token/7rGDchWx52YvvEcuTizvcjNyph3dM2qERhvejgcwpump)
+- [GMGN](https://gmgn.ai/sol/token/3QKWDZdHBtGNE3jQXKQfWUCgPVGggMtm6xmkUPeC2UQT) · [pump.fun](https://pump.fun/coin/3QKWDZdHBtGNE3jQXKQfWUCgPVGggMtm6xmkUPeC2UQT) · [DexScreener](https://dexscreener.com/solana/3QKWDZdHBtGNE3jQXKQfWUCgPVGggMtm6xmkUPeC2UQT) · [Solscan](https://solscan.io/token/3QKWDZdHBtGNE3jQXKQfWUCgPVGggMtm6xmkUPeC2UQT)
 
 ---
 **COMPRA AHORA** = seguridad OK + MC $8k–40k + edad < 6 h + B ≥ 6 + M ≥ 4 + smart money + prueba de venta ≥ 3 + ninguna wallet > 20% del volumen 15m. **WATCH** = pasa seguridad y ventana, falta algo (se indica). Umbrales provisionales: se calibran con `scan_b_log.jsonl`.
