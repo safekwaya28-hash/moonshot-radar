@@ -1,24 +1,24 @@
 # OUTCOMES — qué pasó después de cada decisión (incluidas las descartadas)
-**2026-10-29 16:13 UTC** · 2050 monedas seguidas · la decisión original nunca se cambia
+**2026-10-29 19:54 UTC** · 2056 monedas seguidas · la decisión original nunca se cambia
 
 | Escáner | Decisión | Monedas | con 24h | Mediana MC 24h / inicial | Muertas a 24h (≤ −50%) | Máx. ≥2x | ≥5x | ≥10x | 2x antes de −30% | 5x antes de −50% | 10x antes de −70% |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | A | NO | 1 | 1 | 1.00x | 0% | 0% | 0% | 0% | 0% (n=1) | 0% (n=1) | — |
-| B | DESCARTAR | 1090 | 697 | 0.33x | 77% | 25% | 6% | 2% | 5% (n=1007) | 3% (n=996) | 2% (n=675) |
-| B | FUERA | 145 | 113 | 0.44x | 77% | 47% | 9% | 1% | 6% (n=113) | 7% (n=107) | 33% (n=3) |
-| B | WATCH | 541 | 427 | 0.26x | 90% | 37% | 11% | 5% | 12% (n=431) | 8% (n=428) | 6% (n=320) |
-| C-meta | 🟡 META ACTIVÁNDOSE | 272 | 154 | 0.86x | 28% | 23% | 7% | 2% | 42% (n=84) | 25% (n=56) | 12% (n=32) |
+| B | DESCARTAR | 1092 | 698 | 0.33x | 77% | 25% | 6% | 2% | 5% (n=1014) | 3% (n=1003) | 2% (n=680) |
+| B | FUERA | 146 | 113 | 0.44x | 77% | 47% | 9% | 1% | 6% (n=114) | 7% (n=107) | 33% (n=3) |
+| B | WATCH | 543 | 428 | 0.26x | 90% | 37% | 11% | 5% | 12% (n=433) | 8% (n=430) | 6% (n=322) |
+| C-meta | 🟡 META ACTIVÁNDOSE | 273 | 154 | 0.86x | 28% | 24% | 7% | 2% | 42% (n=88) | 24% (n=58) | 12% (n=34) |
 | C-meta | 🟢 CANDIDATA | 1 | 1 | 0.03x | 100% | 0% | 0% | 0% | 0% (n=1) | 0% (n=1) | 0% (n=1) |
 
 ## ¿Qué filtro mata ganadoras? (descartadas por motivo)
 
 | Motivo del descarte | Monedas | con 24h | Mediana 24h | Muertas a 24h | Máx. ≥5x | ≥10x | 2x antes de −30% | 5x antes de −50% | 10x antes de −70% |
 |---|---|---|---|---|---|---|---|---|---|
-| concentración | 648 | 289 | 0.42x | 56% | 4% | 1% | 3% (n=585) | 2% (n=579) | 1% (n=412) |
+| concentración | 649 | 290 | 0.42x | 56% | 4% | 1% | 3% (n=591) | 2% (n=585) | 1% (n=417) |
 | dev vendió | 237 | 216 | 0.28x | 92% | 8% | 3% | 7% (n=223) | 5% (n=219) | 5% (n=134) |
 | compras en el bloque de creación | 192 | 179 | 0.28x | 91% | 8% | 3% | 8% (n=186) | 5% (n=185) | 4% (n=121) |
-| volumen en bucle | 11 | 11 | 0.34x | 91% | 9% | 9% | 18% (n=11) | 0% (n=11) | 0% (n=6) |
-| impuesto modificable | 6 | 5 | 0.77x | 20% | 0% | 0% | 20% (n=5) | 0% (n=3) | 0% (n=3) |
+| volumen en bucle | 12 | 11 | 0.34x | 91% | 8% | 8% | 17% (n=12) | 0% (n=12) | 0% (n=6) |
+| impuesto modificable | 6 | 5 | 0.77x | 20% | 0% | 0% | 17% (n=6) | 0% (n=4) | 0% (n=4) |
 | snipers | 2 | 2 | 0.16x | 100% | 0% | 0% | 0% (n=2) | 0% (n=2) | 0% (n=2) |
 | extensión peligrosa | 1 | 1 | 1.00x | 0% | 0% | 0% | 0% (n=1) | 0% (n=1) | — |
 | puede crear tokens | 1 | 1 | 0.95x | 0% | 0% | 0% | — | — | — |
