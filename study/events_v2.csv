@@ -21389,3 +21389,13 @@ EfzQM5Lmh67umxFJqS67VQWybVhajo8m259NqNqppump,TIPO_SOAP_pico200k_dd75_mc50k_72h_b
 8oMvxgcBJtDGNSc8kogCEEFxSvvi7x6jHRfSWaiWpump,TIPO_SOAP_pico200k_dd75_mc50k_72h_base,trailing,1791820800,31627,16.2,1.0,0.677,True,1,1.0,0
 8oMvxgcBJtDGNSc8kogCEEFxSvvi7x6jHRfSWaiWpump,TIPO_SOAP_pico200k_dd75_mc50k_72h_base,escalonada,1791820800,31627,16.2,1.0,0.677,True,1,1.0,0
 8oMvxgcBJtDGNSc8kogCEEFxSvvi7x6jHRfSWaiWpump,TIPO_SOAP_pico200k_dd75_mc50k_72h_base,estructura,1791820800,31627,16.2,1.0,0.2544,True,10,1.0,0
+H1KTt1AaHYHNQs2RnJryuG2Bsj8g4EedqF5xFerrpump,REF_dd70_mc150k_sin_base,tuya,1789725600,1911,40.9,1.135,0.999,True,2,1.068,1
+H1KTt1AaHYHNQs2RnJryuG2Bsj8g4EedqF5xFerrpump,REF_dd70_mc150k_sin_base,solo_stop,1789725600,1911,40.9,1.135,0.999,True,2,1.068,1
+H1KTt1AaHYHNQs2RnJryuG2Bsj8g4EedqF5xFerrpump,REF_dd70_mc150k_sin_base,trailing,1789725600,1911,40.9,1.135,0.999,True,2,1.068,1
+H1KTt1AaHYHNQs2RnJryuG2Bsj8g4EedqF5xFerrpump,REF_dd70_mc150k_sin_base,escalonada,1789725600,1911,40.9,1.135,0.999,True,2,1.068,1
+H1KTt1AaHYHNQs2RnJryuG2Bsj8g4EedqF5xFerrpump,REF_dd70_mc150k_sin_base,estructura,1789725600,1911,40.9,1.135,0.9566,False,29,1.135,9
+H1KTt1AaHYHNQs2RnJryuG2Bsj8g4EedqF5xFerrpump,REF_dd85_mc150k_sin_base,tuya,1789725600,1911,40.9,1.135,0.999,True,2,1.068,1
+H1KTt1AaHYHNQs2RnJryuG2Bsj8g4EedqF5xFerrpump,REF_dd85_mc150k_sin_base,solo_stop,1789725600,1911,40.9,1.135,0.999,True,2,1.068,1
+H1KTt1AaHYHNQs2RnJryuG2Bsj8g4EedqF5xFerrpump,REF_dd85_mc150k_sin_base,trailing,1789725600,1911,40.9,1.135,0.999,True,2,1.068,1
+H1KTt1AaHYHNQs2RnJryuG2Bsj8g4EedqF5xFerrpump,REF_dd85_mc150k_sin_base,escalonada,1789725600,1911,40.9,1.135,0.999,True,2,1.068,1
+H1KTt1AaHYHNQs2RnJryuG2Bsj8g4EedqF5xFerrpump,REF_dd85_mc150k_sin_base,estructura,1789725600,1911,40.9,1.135,0.9566,False,29,1.135,9
