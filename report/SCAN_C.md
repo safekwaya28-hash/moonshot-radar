@@ -1,39 +1,43 @@
 # SCAN C — Meta / Flywheel
-**2026-10-29 21:12 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-29 23:59 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 ## Metas por token de pago (3 activándose)
 
-### 🟡 META ACTIVÁNDOSE — HYPE
-- **Quote:** `98sMhvDwXj1RQi5c5Mndm3vPe9cBqPrbLaufMXFNMh5g`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 10 (antes 2, +400%) · 24h 12 (antes 0, nuevo)
-- **Amplitud (24h):** 12 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 80% del volumen
-- **Token de pago:** MC $102.5k · volumen 24h $16.81M · liquidez $4.00M
-- **Líder (más volumen):** hyper `6PrGQt7iBSup9jkakVwDUYoZ2vUUqNM8HbZgYQ4Mpump` · MC $3.8k · vol 24h $82.0k · 24h 12.24%
-- **Líder (mayor subida 24h):** hyper `6PrGQt7iBSup9jkakVwDUYoZ2vUUqNM8HbZgYQ4Mpump` · MC $3.8k · vol 24h $82.0k · 24h 12.24%
-- **Catalizador:** META ACCELERATION (pools 24h nuevo)
-- **Riesgos:** liquidez 0% del MC
-
 ### 🟡 META ACTIVÁNDOSE — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 4 (antes 0) · 6h 5 (antes 2, +150%) · 24h 11 (antes 12, -8%)
-- **Amplitud (24h):** 11 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 60% del volumen
-- **Token de pago:** MC $1906.34M · volumen 24h $5.99M · liquidez $22.80M
-- **Líder (más volumen):** WEEN `HYZauE8s626LGco6h65TVK3Z44hrHx46ARx6FmVZpump` · MC $3.1k · vol 24h $987 · 24h -5.46%
-- **Líder (mayor subida 24h):** Maple `GNnHUUTPzmHXyfxcs4qE6xXf2knxKDguNAqgWbPZWSEZ` · MC $3.1k · vol 24h $1 · 24h 0.88%
-- **Catalizador:** META ACCELERATION (pools 24h -8%)
+- **Pools nuevos:** 1h 4 (antes 0) · 6h 8 (antes 3, +167%) · 24h 15 (antes 12, +25%)
+- **Amplitud (24h):** 15 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 50% del volumen
+- **Token de pago:** MC $1819.33M · volumen 24h $6.81M · liquidez $22.28M
+- **Líder (más volumen):** SA `A6KHnhZqroBr9QQ1qB7TFer4PaUQZpMNdi4zmphhpump` · MC $2.9k · vol 24h $5.1k · 24h -13.31%
+- **Líder (mayor subida 24h):** FOOLS `9YdBLHwPoBZvEcvvp2or9b2AHbHX5u31P7MLrWGKsPUe` · MC $2.9k · vol 24h $8 · 24h 1.68%
+- **Catalizador:** META ACCELERATION (pools 24h +25%)
+- **Riesgos:** liquidez 0% del MC
+
+### 🟡 META ACTIVÁNDOSE — HYPE
+- **Quote:** `98sMhvDwXj1RQi5c5Mndm3vPe9cBqPrbLaufMXFNMh5g`
+- **Pools nuevos:** 1h 2 (antes 0) · 6h 2 (antes 12, -83%) · 24h 14 (antes 0, nuevo)
+- **Amplitud (24h):** 14 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 73% del volumen
+- **Token de pago:** MC $98.2k · volumen 24h $17.54M · liquidez $3.96M
+- **Líder (más volumen):** hyper `6PrGQt7iBSup9jkakVwDUYoZ2vUUqNM8HbZgYQ4Mpump` · MC $3.3k · vol 24h $82.2k · 24h -2.13%
+- **Líder (mayor subida 24h):** HyperPump `3ZHoeWGsfck6tzxhVFnYyStV8YBdB6AjKX46qrumpump` · MC $4.6k · vol 24h $16.5k · 24h 48.82%
+- **Catalizador:** META ACCELERATION (pools 24h nuevo)
 - **Riesgos:** liquidez 0% del MC
 
 ### 🟡 META ACTIVÁNDOSE — GTA6
 - **Quote:** `4kjruqGHDsSqkMdFfCjV7Vb62HPFhtXyWc2t6JpQzDnz`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 10, -100%) · 24h 11 (antes 1, +1000%)
 - **Amplitud (24h):** 11 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Token de pago:** MC $12.57M · volumen 24h $2.81M · liquidez $425.1k
+- **Token de pago:** MC $10.71M · volumen 24h $2.91M · liquidez $393.9k
 - **Catalizador:** META ACCELERATION (pools 24h +1000%)
-- **Riesgos:** liquidez 3% del MC
+- **Riesgos:** liquidez 4% del MC
 
 ### ⚪ en observación — SPCX
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 6, -83%) · 24h 8 (antes 7, +14%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 1 (antes 6, -83%) · 24h 8 (antes 7, +14%)
+
+### ⚪ en observación — wXMR
+- **Quote:** `WXMRyRZhsa19ety5erZhHg4N3xj3EVN92u94422teJp`
+- **Pools nuevos:** 1h 4 (antes 0) · 6h 6 (antes 0, nuevo) · 24h 6 (antes 0, nuevo)
 
 ### ⚪ en observación — NVDAx
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
@@ -41,11 +45,7 @@
 
 ### ⚪ en observación — SQQQ
 - **Quote:** `SQQQAa3gUxgnqcEsdjPA4RQNQBgB97TnG2hJhk2WaGE`
-- **Pools nuevos:** 1h 3 (antes 0) · 6h 3 (antes 0, nuevo) · 24h 3 (antes 0, nuevo)
-
-### ⚪ en observación — wXMR
-- **Quote:** `WXMRyRZhsa19ety5erZhHg4N3xj3EVN92u94422teJp`
-- **Pools nuevos:** 1h 2 (antes 0) · 6h 2 (antes 0, nuevo) · 24h 2 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 3 (antes 0, nuevo) · 24h 3 (antes 0, nuevo)
 
 ### ⚪ en observación — GOOGLx
 - **Quote:** `XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN`
@@ -55,22 +55,28 @@
 - **Quote:** `PFER6ENqP8r8NF3CqVt4mFowxsin3V5MLidBNQFCC3x`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 2 (antes 0, nuevo)
 
-### ⚪ en observación — STONK
-- **Quote:** `6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 1 (antes 0, nuevo) · 24h 1 (antes 5, -80%)
+### ⚪ en observación — 1029
+- **Quote:** `4vfDwu14Z6rzX5M95TyaRJn5V3VfT6WmBcd3VNAhfDPs`
+- **Pools nuevos:** 1h 2 (antes 0) · 6h 2 (antes 0, nuevo) · 24h 2 (antes 0, nuevo)
 
 ## Plataformas con ingresos acelerando (DefiLlama)
 
 ### 🟡 FLYWHEEL ACELERANDO — BONK.fun Launchpad (Launchpad)
 - **Ingresos 7d:** $439.4k · 7d anteriores $151.2k · cambio 2.9×
-- **Ingresos 24h:** $136.9k · 24h anteriores $70.3k · +95% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $126.9k · 24h anteriores $70.3k · +81% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $424.8k
 - **Token:** sin token listado en CoinGecko
 
 ### 🟡 FLYWHEEL ACELERANDO — Graphite Protocol (Launchpad)
 - **Ingresos 7d:** $292.6k · 7d anteriores $100.8k · cambio 2.9×
-- **Ingresos 24h:** $85.1k · 24h anteriores $46.9k · +81% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $84.6k · 24h anteriores $46.9k · +81% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $0
+- **Token:** sin token listado en CoinGecko
+
+### 🟡 FLYWHEEL ACELERANDO — OTC (Launchpad)
+- **Ingresos 7d:** $176.6k · 7d anteriores $60.6k · cambio 2.9×
+- **Ingresos 24h:** $14.8k · 24h anteriores $27.0k · -45% (¿sigue acelerando hoy?)
+- **A holders (recompras/quemas/repartos) 7d:** $76.5k
 - **Token:** sin token listado en CoinGecko
 
 ### 🟡 FLYWHEEL ACELERANDO — LaunchLab (Launchpad)
@@ -87,13 +93,13 @@
 
 ### 🟡 FLYWHEEL ACELERANDO — Sapling (Launchpad)
 - **Ingresos 7d:** $64.1k · 7d anteriores $26.4k · cambio 2.4×
-- **Ingresos 24h:** $7.4k · 24h anteriores $919 · +702% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $6.7k · 24h anteriores $919 · +628% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $53.4k
 - **Token:** sin token listado en CoinGecko
 
 ### 🟡 FLYWHEEL ACELERANDO — Veil (Privacy)
 - **Ingresos 7d:** $56.3k · 7d anteriores $25.9k · cambio 2.2×
-- **Ingresos 24h:** $4.1k · 24h anteriores $4.0k · +2% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $3.8k · 24h anteriores $4.0k · -5% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $11.3k
 - **Token:** sin token listado en CoinGecko
 
