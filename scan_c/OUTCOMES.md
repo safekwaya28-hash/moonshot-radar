@@ -1,13 +1,13 @@
 # OUTCOMES — qué pasó después de cada decisión (incluidas las descartadas)
-**2026-10-31 19:34 UTC** · 2103 monedas seguidas · la decisión original nunca se cambia
+**2026-10-31 22:51 UTC** · 2104 monedas seguidas · la decisión original nunca se cambia
 
 | Escáner | Decisión | Monedas | con 24h | Mediana MC 24h / inicial | Muertas a 24h (≤ −50%) | Máx. ≥2x | ≥5x | ≥10x | 2x antes de −30% | 5x antes de −50% | 10x antes de −70% |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | A | NO | 1 | 1 | 1.00x | 0% | 0% | 0% | 0% | 0% (n=1) | 0% (n=1) | — |
-| B | DESCARTAR | 1113 | 710 | 0.33x | 76% | 25% | 5% | 2% | 5% (n=1035) | 3% (n=1024) | 2% (n=697) |
+| B | DESCARTAR | 1113 | 711 | 0.33x | 76% | 25% | 5% | 2% | 5% (n=1035) | 3% (n=1024) | 2% (n=697) |
 | B | FUERA | 150 | 115 | 0.44x | 77% | 48% | 9% | 1% | 6% (n=117) | 6% (n=111) | 33% (n=3) |
-| B | WATCH | 558 | 440 | 0.26x | 90% | 37% | 11% | 5% | 12% (n=447) | 8% (n=444) | 6% (n=333) |
-| C-meta | 🟡 META ACTIVÁNDOSE | 280 | 160 | 0.86x | 28% | 23% | 6% | 2% | 41% (n=91) | 23% (n=61) | 11% (n=37) |
+| B | WATCH | 558 | 442 | 0.26x | 90% | 37% | 11% | 5% | 12% (n=447) | 8% (n=444) | 6% (n=333) |
+| C-meta | 🟡 META ACTIVÁNDOSE | 281 | 160 | 0.86x | 28% | 23% | 6% | 2% | 41% (n=91) | 23% (n=61) | 11% (n=37) |
 | C-meta | 🟢 CANDIDATA | 1 | 1 | 0.03x | 100% | 0% | 0% | 0% | 0% (n=1) | 0% (n=1) | 0% (n=1) |
 
 ## ¿Qué filtro mata ganadoras? (descartadas por motivo)
@@ -15,7 +15,7 @@
 | Motivo del descarte | Monedas | con 24h | Mediana 24h | Muertas a 24h | Máx. ≥5x | ≥10x | 2x antes de −30% | 5x antes de −50% | 10x antes de −70% |
 |---|---|---|---|---|---|---|---|---|---|
 | concentración | 667 | 298 | 0.42x | 55% | 4% | 1% | 2% (n=609) | 2% (n=603) | 1% (n=432) |
-| dev vendió | 239 | 218 | 0.28x | 92% | 8% | 3% | 7% (n=225) | 5% (n=221) | 5% (n=135) |
+| dev vendió | 239 | 219 | 0.28x | 92% | 8% | 3% | 7% (n=225) | 5% (n=221) | 5% (n=135) |
 | compras en el bloque de creación | 193 | 180 | 0.27x | 91% | 8% | 3% | 8% (n=187) | 5% (n=186) | 4% (n=122) |
 | volumen en bucle | 12 | 12 | 0.34x | 92% | 8% | 8% | 17% (n=12) | 0% (n=12) | 0% (n=6) |
 | impuesto modificable | 7 | 7 | 0.64x | 29% | 0% | 0% | 14% (n=7) | 0% (n=5) | 0% (n=5) |

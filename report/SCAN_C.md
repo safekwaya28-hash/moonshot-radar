@@ -1,59 +1,58 @@
 # SCAN C — Meta / Flywheel
-**2026-10-31 19:34 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
-
-> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
+**2026-10-31 22:51 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 ## Metas por token de pago (2 activándose)
 
 ### 🟡 META ACTIVÁNDOSE — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 33 (antes 0) · 6h 40 (antes 1, +3900%) · 24h 52 (antes 15, +247%)
-- **Amplitud (24h):** 52 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 72% del volumen
-- **Token de pago:** MC $1945.22M · volumen 24h $2.88M · liquidez $23.07M
-- **Líder (más volumen):** billy `DUTxGHL2LmpfjQaoK6LdZp8WQPoDiwvtDHVDf4fMpump` · MC $2.9k · vol 24h $616.4k · 24h -93.26%
-- **Líder (mayor subida 24h):** BAH `BtgzH9kmjv4WNaTiL3ZDUtuKx919T1KmypUyuzLGpump` · MC $20.0k · vol 24h $74.4k · 24h 477%
-- **Catalizador:** META ACCELERATION (pools 24h +247%)
+- **Pools nuevos:** 1h 3 (antes 0) · 6h 36 (antes 7, +414%) · 24h 55 (antes 11, +400%)
+- **Amplitud (24h):** 55 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 70% del volumen
+- **Token de pago:** MC $1926.53M · volumen 24h $2.07M · liquidez $22.96M
+- **Líder (más volumen):** billy `DUTxGHL2LmpfjQaoK6LdZp8WQPoDiwvtDHVDf4fMpump` · MC $3.6k · vol 24h $617.2k · 24h -91.72%
+- **Líder (mayor subida 24h):** bob `CKVVnMyxMC6Lf8BeLSzcV4J76e2E7VHZx4HxDnpkpump` · MC $3.4k · vol 24h $10.9k · 24h 11.63%
+- **Catalizador:** META ACCELERATION (pools 24h +400%)
 
 ### 🟡 META ACTIVÁNDOSE — WBTC
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
-- **Pools nuevos:** 1h 2 (antes 0) · 6h 11 (antes 0, nuevo) · 24h 11 (antes 4, +175%)
-- **Amplitud (24h):** 11 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Token de pago:** MC $298.66M · volumen 24h $3.58M · liquidez $1.77M
-- **Catalizador:** META ACCELERATION (pools 24h +175%)
-- **Riesgos:** liquidez 1% del MC
-- **Descartado por seguridad:** mint authority activa
-
-### ⚪ en observación — DOGE
-- **Quote:** `DoGEV7LASBkQbibMc5k5vKnTZoMg423GpJ5QtJEGfm7R`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 4 (antes 1, +300%) · 24h 5 (antes 0, nuevo)
-
-### ⚪ en observación — AAPLx
-- **Quote:** `XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 5 (antes 0, nuevo)
-
-### ⚪ en observación — BTC
-- **Quote:** `C5xph2yL6gMdxmuLGxJBkGpmuDFfyi5fqkBNhvL6pump`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 4 (antes 0, nuevo) · 24h 4 (antes 0, nuevo)
-
-### ⚪ en observación — HIMS
-- **Quote:** `HiMSSzzwkZkrXJ4PGVJRdtfLaANeAztjjcgk5Dxe7Lwx`
-- **Pools nuevos:** 1h 2 (antes 0) · 6h 3 (antes 1, +200%) · 24h 4 (antes 0, nuevo)
-
-### ⚪ en observación — SPCX
-- **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 4 (antes 0, nuevo) · 24h 4 (antes 1, +300%)
+- **Pools nuevos:** 1h 2 (antes 0) · 6h 4 (antes 9, -56%) · 24h 13 (antes 4, +225%)
+- **Amplitud (24h):** 13 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 100% del volumen ⚠️ una sola moneda domina: puede no ser una moda
+- **Token de pago:** MC $303.59M · volumen 24h $3.89M · liquidez $1.78M
+- **Líder (más volumen):** MEMECOIN `C1jgh4J3KpMoFKE5AjXpYcUR81WFi57okL64k7nFpump` · MC $7.2k · vol 24h $44.2k · 24h 99.13%
+- **Líder (mayor subida 24h):** MEMECOIN `C1jgh4J3KpMoFKE5AjXpYcUR81WFi57okL64k7nFpump` · MC $7.2k · vol 24h $44.2k · 24h 99.13%
+- **Catalizador:** META ACCELERATION (pools 24h +225%)
+- **Riesgos:** liquidez 0% del MC
 
 ### ⚪ en observación — DJT
 - **Quote:** `DJTu7vi8norVzdVAffgvb39VP7wjKeTsgaMBJrzfxvoF`
-- **Pools nuevos:** 1h 3 (antes 0) · 6h 3 (antes 0, nuevo) · 24h 3 (antes 1, +200%)
+- **Pools nuevos:** 1h 5 (antes 0) · 6h 8 (antes 0, nuevo) · 24h 8 (antes 1, +700%)
 
-### ⚪ en observación — SPX
-- **Quote:** `J3NKxxXZcnNiMjKw9hYb2K4LUxgwB6t1FtPtQVsv3KFr`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 3 (antes 1, +200%)
+### ⚪ en observación — BTC
+- **Quote:** `C5xph2yL6gMdxmuLGxJBkGpmuDFfyi5fqkBNhvL6pump`
+- **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 4, -75%) · 24h 5 (antes 0, nuevo)
 
-### ⚪ en observación — BABA
-- **Quote:** `BABANGA4JE7Kkam4nTrALAwAVgsNJUuFJnnkF7S16BZp`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 2 (antes 1, +100%) · 24h 3 (antes 1, +200%)
+### ⚪ en observación — DOGE
+- **Quote:** `DoGEV7LASBkQbibMc5k5vKnTZoMg423GpJ5QtJEGfm7R`
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 4, -100%) · 24h 5 (antes 0, nuevo)
+
+### ⚪ en observación — AAPLx
+- **Quote:** `XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp`
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 5 (antes 0, nuevo)
+
+### ⚪ en observación — HIMS
+- **Quote:** `HiMSSzzwkZkrXJ4PGVJRdtfLaANeAztjjcgk5Dxe7Lwx`
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 2 (antes 1, +100%) · 24h 4 (antes 0, nuevo)
+
+### ⚪ en observación — wXMR
+- **Quote:** `WXMRyRZhsa19ety5erZhHg4N3xj3EVN92u94422teJp`
+- **Pools nuevos:** 1h 3 (antes 0) · 6h 3 (antes 0, nuevo) · 24h 4 (antes 4, +0%)
+
+### ⚪ en observación — SPCX
+- **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 1 (antes 3, -67%) · 24h 4 (antes 0, nuevo)
+
+### ⚪ en observación — KIM
+- **Quote:** `8pjfN5Ayb4rucGpYE3tZWN6v3EysizjPx1v62zx1pump`
+- **Pools nuevos:** 1h 4 (antes 0) · 6h 4 (antes 0, nuevo) · 24h 4 (antes 0, nuevo)
 
 ## Plataformas con ingresos acelerando (DefiLlama)
 
@@ -65,7 +64,7 @@
 
 ### 🟡 FLYWHEEL ACELERANDO — Sapling (Launchpad)
 - **Ingresos 7d:** $69.9k · 7d anteriores $31.8k · cambio 2.2×
-- **Ingresos 24h:** $2.4k · 24h anteriores $7.0k · -66% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $1.9k · 24h anteriores $7.0k · -72% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $58.2k
 - **Token:** sin token listado en CoinGecko
 
