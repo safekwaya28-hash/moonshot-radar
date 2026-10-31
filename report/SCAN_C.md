@@ -1,5 +1,7 @@
 # SCAN C — Meta / Flywheel
-**2026-10-31 22:51 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-31 22:59 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+
+> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
 ## Metas por token de pago (2 activándose)
 
@@ -7,18 +9,18 @@
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
 - **Pools nuevos:** 1h 3 (antes 0) · 6h 36 (antes 7, +414%) · 24h 55 (antes 11, +400%)
 - **Amplitud (24h):** 55 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 70% del volumen
-- **Token de pago:** MC $1926.53M · volumen 24h $2.07M · liquidez $22.96M
+- **Token de pago:** MC $1926.51M · volumen 24h $2.06M · liquidez $22.96M
 - **Líder (más volumen):** billy `DUTxGHL2LmpfjQaoK6LdZp8WQPoDiwvtDHVDf4fMpump` · MC $3.6k · vol 24h $617.2k · 24h -91.72%
-- **Líder (mayor subida 24h):** bob `CKVVnMyxMC6Lf8BeLSzcV4J76e2E7VHZx4HxDnpkpump` · MC $3.4k · vol 24h $10.9k · 24h 11.63%
+- **Líder (mayor subida 24h):** bob `CKVVnMyxMC6Lf8BeLSzcV4J76e2E7VHZx4HxDnpkpump` · MC $3.5k · vol 24h $11.3k · 24h 14.44%
 - **Catalizador:** META ACCELERATION (pools 24h +400%)
 
 ### 🟡 META ACTIVÁNDOSE — WBTC
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
 - **Pools nuevos:** 1h 2 (antes 0) · 6h 4 (antes 9, -56%) · 24h 13 (antes 4, +225%)
-- **Amplitud (24h):** 13 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 100% del volumen ⚠️ una sola moneda domina: puede no ser una moda
-- **Token de pago:** MC $303.59M · volumen 24h $3.89M · liquidez $1.78M
-- **Líder (más volumen):** MEMECOIN `C1jgh4J3KpMoFKE5AjXpYcUR81WFi57okL64k7nFpump` · MC $7.2k · vol 24h $44.2k · 24h 99.13%
-- **Líder (mayor subida 24h):** MEMECOIN `C1jgh4J3KpMoFKE5AjXpYcUR81WFi57okL64k7nFpump` · MC $7.2k · vol 24h $44.2k · 24h 99.13%
+- **Amplitud (24h):** 13 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
+- **Token de pago:** MC $298.34M · volumen 24h $3.94M · liquidez $1.77M
+- **Líder (más volumen):** HACKOOR `DjEM3ve2F2AjBMAaHUCjfJBKApK3b8QvwVpMuxKZpump` · MC $3.0k · vol 24h $1 · 24h None%
+- **Líder (mayor subida 24h):** HACKOOR `DjEM3ve2F2AjBMAaHUCjfJBKApK3b8QvwVpMuxKZpump` · MC $3.0k · vol 24h $1 · 24h None%
 - **Catalizador:** META ACCELERATION (pools 24h +225%)
 - **Riesgos:** liquidez 0% del MC
 
@@ -64,7 +66,7 @@
 
 ### 🟡 FLYWHEEL ACELERANDO — Sapling (Launchpad)
 - **Ingresos 7d:** $69.9k · 7d anteriores $31.8k · cambio 2.2×
-- **Ingresos 24h:** $1.9k · 24h anteriores $7.0k · -72% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $1.9k · 24h anteriores $7.0k · -73% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $58.2k
 - **Token:** sin token listado en CoinGecko
 
