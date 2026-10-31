@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-10-31 01:54 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-31 02:30 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -9,7 +9,7 @@
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 11 (antes 1, +1000%) · 24h 17 (antes 16, +6%)
 - **Amplitud (24h):** 17 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Token de pago:** MC $1912.75M · volumen 24h $4.91M · liquidez $22.87M
+- **Token de pago:** MC $1899.85M · volumen 24h $4.75M · liquidez $22.79M
 - **Líder (más volumen):** 5% `EWQ4fvN23dmYLMR2uzRuzrbKhZmuiPRzJNGZbrsqyR8K` · MC $3.2k · vol 24h $57 · 24h None%
 - **Líder (mayor subida 24h):** WILL `GbxzJkP8TKD77ufvbEAzDg87GX9Rw3QHZFuHEN5rpump` · MC $3.0k · vol 24h $19 · 24h 2.39%
 - **Catalizador:** META ACCELERATION (pools 24h +6%)
@@ -61,7 +61,7 @@
 
 ### 🟡 FLYWHEEL ACELERANDO — Sapling (Launchpad)
 - **Ingresos 7d:** $69.9k · 7d anteriores $31.8k · cambio 2.2×
-- **Ingresos 24h:** $2.9k · 24h anteriores $7.0k · -59% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $2.8k · 24h anteriores $7.0k · -60% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $58.2k
 - **Token:** sin token listado en CoinGecko
 
