@@ -1,27 +1,27 @@
 # SCAN C — Meta / Flywheel
-**2026-10-31 14:50 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-31 15:22 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 ## Metas por token de pago (2 activándose)
 
 ### 🟡 META ACTIVÁNDOSE — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 3 (antes 0) · 6h 3 (antes 1, +200%) · 24h 16 (antes 15, +7%)
-- **Amplitud (24h):** 16 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 34% del volumen
-- **Token de pago:** MC $1917.27M · volumen 24h $3.42M · liquidez $22.89M
-- **Líder (más volumen):** buni `3iwQC56X4s6J2NtBiJXv6pyf2qbAmUGWT2ranBVxpump` · MC $3.1k · vol 24h $2.9k · 24h -10.1%
-- **Líder (mayor subida 24h):** WILL `GbxzJkP8TKD77ufvbEAzDg87GX9Rw3QHZFuHEN5rpump` · MC $3.0k · vol 24h $7 · 24h 1.55%
-- **Catalizador:** META ACCELERATION (pools 24h +7%)
+- **Pools nuevos:** 1h 7 (antes 0) · 6h 7 (antes 1, +600%) · 24h 20 (antes 15, +33%)
+- **Amplitud (24h):** 20 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 85% del volumen ⚠️ una sola moneda domina: puede no ser una moda
+- **Token de pago:** MC $1915.44M · volumen 24h $3.17M · liquidez $22.88M
+- **Líder (más volumen):** billy `DUTxGHL2LmpfjQaoK6LdZp8WQPoDiwvtDHVDf4fMpump` · MC $25.1k · vol 24h $81.5k · 24h 677%
+- **Líder (mayor subida 24h):** billy `DUTxGHL2LmpfjQaoK6LdZp8WQPoDiwvtDHVDf4fMpump` · MC $25.1k · vol 24h $81.5k · 24h 677%
+- **Catalizador:** META ACCELERATION (pools 24h +33%)
 - **Riesgos:** liquidez 0% del MC
 
 ### 🟡 META ACTIVÁNDOSE — WBTC
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
 - **Pools nuevos:** 1h 9 (antes 0) · 6h 9 (antes 0, nuevo) · 24h 10 (antes 3, +233%)
-- **Amplitud (24h):** 10 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 72% del volumen
-- **Token de pago:** MC $298.70M · volumen 24h $2.94M · liquidez $1.78M
-- **Líder (más volumen):** whitepaper `GWrqxq51KmFFbvj7qFSZ6897dncgh7jn9qtGEmwuHstX` · MC $15.4k · vol 24h $46.0k · 24h 244%
-- **Líder (mayor subida 24h):** whitepaper `GWrqxq51KmFFbvj7qFSZ6897dncgh7jn9qtGEmwuHstX` · MC $15.4k · vol 24h $46.0k · 24h 244%
+- **Amplitud (24h):** 10 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 74% del volumen
+- **Token de pago:** MC $298.37M · volumen 24h $2.89M · liquidez $1.78M
+- **Líder (más volumen):** whitepaper `GWrqxq51KmFFbvj7qFSZ6897dncgh7jn9qtGEmwuHstX` · MC $4.1k · vol 24h $100.2k · 24h -8.33%
+- **Líder (mayor subida 24h):** $CAT `HcFgUqiXrvt9FnEV5b3vYazznqaDBikoVtYVeQyzpump` · MC $3.1k · vol 24h $1.7k · 24h 0.1%
 - **Catalizador:** META ACCELERATION (pools 24h +233%)
-- **Riesgos:** liquidez 0% del MC
+- **Riesgos:** concentración: top10 13%, wallet máx 5.4%; liquidez 0% del MC
 
 ### ⚪ en observación — DOGE
 - **Quote:** `DoGEV7LASBkQbibMc5k5vKnTZoMg423GpJ5QtJEGfm7R`
@@ -30,6 +30,14 @@
 ### ⚪ en observación — AAPLx
 - **Quote:** `XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 5 (antes 0, nuevo)
+
+### ⚪ en observación — BTC
+- **Quote:** `C5xph2yL6gMdxmuLGxJBkGpmuDFfyi5fqkBNhvL6pump`
+- **Pools nuevos:** 1h 4 (antes 0) · 6h 4 (antes 0, nuevo) · 24h 4 (antes 0, nuevo)
+
+### ⚪ en observación — SPCX
+- **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
+- **Pools nuevos:** 1h 3 (antes 0) · 6h 3 (antes 0, nuevo) · 24h 3 (antes 1, +200%)
 
 ### ⚪ en observación — SPX
 - **Quote:** `J3NKxxXZcnNiMjKw9hYb2K4LUxgwB6t1FtPtQVsv3KFr`
@@ -43,17 +51,9 @@
 - **Quote:** `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 2 (antes 0, nuevo)
 
-### ⚪ en observación — PSOL
-- **Quote:** `pSo1f9nQXWgXibFtKf7NWYxb5enAM4qfP6UJSiXRQfL`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 2 (antes 0, nuevo)
-
-### ⚪ en observación — Pikmin
-- **Quote:** `2MXhpKgHBREgYYj3bSdorqbuJjkPAve1LTNHtk8Lpump`
-- **Pools nuevos:** 1h 2 (antes 0) · 6h 2 (antes 0, nuevo) · 24h 2 (antes 0, nuevo)
-
-### ⚪ en observación — wXMR
-- **Quote:** `WXMRyRZhsa19ety5erZhHg4N3xj3EVN92u94422teJp`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 1 (antes 0, nuevo) · 24h 1 (antes 6, -83%)
+### ⚪ en observación — HIMS
+- **Quote:** `HiMSSzzwkZkrXJ4PGVJRdtfLaANeAztjjcgk5Dxe7Lwx`
+- **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 1, +0%) · 24h 2 (antes 0, nuevo)
 
 ## Plataformas con ingresos acelerando (DefiLlama)
 
