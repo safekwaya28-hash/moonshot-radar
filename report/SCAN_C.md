@@ -1,22 +1,24 @@
 # SCAN C — Meta / Flywheel
-**2026-10-31 19:22 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-10-31 19:34 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+
+> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
 ## Metas por token de pago (2 activándose)
 
 ### 🟡 META ACTIVÁNDOSE — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
 - **Pools nuevos:** 1h 33 (antes 0) · 6h 40 (antes 1, +3900%) · 24h 52 (antes 15, +247%)
-- **Amplitud (24h):** 52 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 76% del volumen
-- **Token de pago:** MC $1947.29M · volumen 24h $2.88M · liquidez $23.08M
+- **Amplitud (24h):** 52 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 72% del volumen
+- **Token de pago:** MC $1945.22M · volumen 24h $2.88M · liquidez $23.07M
 - **Líder (más volumen):** billy `DUTxGHL2LmpfjQaoK6LdZp8WQPoDiwvtDHVDf4fMpump` · MC $2.9k · vol 24h $616.4k · 24h -93.26%
-- **Líder (mayor subida 24h):** BAH `BtgzH9kmjv4WNaTiL3ZDUtuKx919T1KmypUyuzLGpump` · MC $31.5k · vol 24h $42.4k · 24h 812%
+- **Líder (mayor subida 24h):** BAH `BtgzH9kmjv4WNaTiL3ZDUtuKx919T1KmypUyuzLGpump` · MC $20.0k · vol 24h $74.4k · 24h 477%
 - **Catalizador:** META ACCELERATION (pools 24h +247%)
 
 ### 🟡 META ACTIVÁNDOSE — WBTC
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
 - **Pools nuevos:** 1h 2 (antes 0) · 6h 11 (antes 0, nuevo) · 24h 11 (antes 4, +175%)
 - **Amplitud (24h):** 11 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Token de pago:** MC $298.92M · volumen 24h $3.56M · liquidez $1.77M
+- **Token de pago:** MC $298.66M · volumen 24h $3.58M · liquidez $1.77M
 - **Catalizador:** META ACCELERATION (pools 24h +175%)
 - **Riesgos:** liquidez 1% del MC
 - **Descartado por seguridad:** mint authority activa
