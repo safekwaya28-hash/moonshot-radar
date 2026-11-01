@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-11-01 20:52 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-11-01 20:55 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -49,13 +49,13 @@
 
 ### 🟡 FLYWHEEL ACELERANDO — BONK.fun Launchpad (Launchpad)
 - **Ingresos 7d:** $471.4k · 7d anteriores $230.0k · cambio 2.0×
-- **Ingresos 24h:** $26.1k · 24h anteriores $45.0k · -42% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $29.3k · 24h anteriores $45.0k · -35% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $455.7k
 - **Token:** sin token listado en CoinGecko
 
 ### 🟡 FLYWHEEL ACELERANDO — Graphite Protocol (Launchpad)
 - **Ingresos 7d:** $313.9k · 7d anteriores $153.3k · cambio 2.0×
-- **Ingresos 24h:** $17.4k · 24h anteriores $30.0k · -42% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $19.5k · 24h anteriores $30.0k · -35% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $0
 - **Token:** sin token listado en CoinGecko
 
