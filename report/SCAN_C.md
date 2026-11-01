@@ -1,15 +1,17 @@
 # SCAN C — Meta / Flywheel
-**2026-11-01 16:26 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-11-01 16:34 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+
+> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
 ## Metas por token de pago (1 activándose)
 
 ### 🟡 META ACTIVÁNDOSE — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
 - **Pools nuevos:** 1h 3 (antes 0) · 6h 3 (antes 0, nuevo) · 24h 39 (antes 20, +95%)
-- **Amplitud (24h):** 39 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 58% del volumen
-- **Token de pago:** MC $1945.58M · volumen 24h $1.48M · liquidez $23.07M
+- **Amplitud (24h):** 39 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 59% del volumen
+- **Token de pago:** MC $1934.49M · volumen 24h $1.46M · liquidez $23.01M
 - **Líder (más volumen):** BAH `BtgzH9kmjv4WNaTiL3ZDUtuKx919T1KmypUyuzLGpump` · MC $3.1k · vol 24h $90.8k · 24h -11.73%
-- **Líder (mayor subida 24h):** pip `EQFX7DDt4GvFgomrXYE4cfDYAv6BExEQe21eaSmcpump` · MC $3.9k · vol 24h $1.3k · 24h 20.63%
+- **Líder (mayor subida 24h):** pip `EQFX7DDt4GvFgomrXYE4cfDYAv6BExEQe21eaSmcpump` · MC $3.7k · vol 24h $2.5k · 24h 14.86%
 - **Catalizador:** META ACCELERATION (pools 24h +95%)
 - **Riesgos:** liquidez 0% del MC
 
