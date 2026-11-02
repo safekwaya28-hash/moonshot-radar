@@ -21824,3 +21824,8 @@ riQTKqwKdfttcZxa3kLc4dNPg8TkZyBTJcvNxyPpump,REF_dd85_mc150k_sin_base,solo_stop,1
 riQTKqwKdfttcZxa3kLc4dNPg8TkZyBTJcvNxyPpump,REF_dd85_mc150k_sin_base,trailing,1789830000,2409,43.6,1.462,0.9036,True,22,1.462,2
 riQTKqwKdfttcZxa3kLc4dNPg8TkZyBTJcvNxyPpump,REF_dd85_mc150k_sin_base,escalonada,1789830000,2409,43.6,1.462,0.9036,True,22,1.462,2
 riQTKqwKdfttcZxa3kLc4dNPg8TkZyBTJcvNxyPpump,REF_dd85_mc150k_sin_base,estructura,1789830000,2409,43.6,1.462,0.8132,False,42,1.462,2
+9hgfNMGiZAKTHbLudccqsMDLXay8MuLqTpPbYp5ppump,TIPO_SOAP_pico200k_dd75_mc50k_72h_base,tuya,1790935200,2694,31.2,1.01,0.8544,True,18,1.01,2
+9hgfNMGiZAKTHbLudccqsMDLXay8MuLqTpPbYp5ppump,TIPO_SOAP_pico200k_dd75_mc50k_72h_base,solo_stop,1790935200,2694,31.2,1.01,0.8544,True,18,1.01,2
+9hgfNMGiZAKTHbLudccqsMDLXay8MuLqTpPbYp5ppump,TIPO_SOAP_pico200k_dd75_mc50k_72h_base,trailing,1790935200,2694,31.2,1.01,0.8544,True,18,1.01,2
+9hgfNMGiZAKTHbLudccqsMDLXay8MuLqTpPbYp5ppump,TIPO_SOAP_pico200k_dd75_mc50k_72h_base,escalonada,1790935200,2694,31.2,1.01,0.8544,True,18,1.01,2
+9hgfNMGiZAKTHbLudccqsMDLXay8MuLqTpPbYp5ppump,TIPO_SOAP_pico200k_dd75_mc50k_72h_base,estructura,1790935200,2694,31.2,1.01,0.8544,False,18,1.01,2
