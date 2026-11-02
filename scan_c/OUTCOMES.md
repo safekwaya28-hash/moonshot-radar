@@ -1,22 +1,22 @@
 # OUTCOMES — qué pasó después de cada decisión (incluidas las descartadas)
-**2026-11-02 07:46 UTC** · 2126 monedas seguidas · la decisión original nunca se cambia
+**2026-11-02 17:09 UTC** · 2131 monedas seguidas · la decisión original nunca se cambia
 
 | Escáner | Decisión | Monedas | con 24h | Mediana MC 24h / inicial | Muertas a 24h (≤ −50%) | Máx. ≥2x | ≥5x | ≥10x | 2x antes de −30% | 5x antes de −50% | 10x antes de −70% |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | A | NO | 1 | 1 | 1.00x | 0% | 0% | 0% | 0% | 0% (n=1) | 0% (n=1) | — |
-| B | DESCARTAR | 1127 | 720 | 0.33x | 76% | 25% | 5% | 2% | 5% (n=1049) | 3% (n=1038) | 2% (n=709) |
+| B | DESCARTAR | 1131 | 720 | 0.33x | 76% | 25% | 5% | 2% | 5% (n=1050) | 3% (n=1039) | 2% (n=710) |
 | B | FUERA | 151 | 116 | 0.44x | 78% | 48% | 9% | 2% | 7% (n=118) | 7% (n=112) | 50% (n=4) |
-| B | WATCH | 563 | 446 | 0.26x | 91% | 37% | 11% | 5% | 12% (n=449) | 8% (n=446) | 6% (n=336) |
-| C-meta | 🟡 META ACTIVÁNDOSE | 283 | 165 | 0.86x | 29% | 24% | 7% | 2% | 40% (n=92) | 24% (n=62) | 11% (n=37) |
+| B | WATCH | 564 | 446 | 0.26x | 91% | 36% | 11% | 5% | 12% (n=449) | 8% (n=446) | 6% (n=336) |
+| C-meta | 🟡 META ACTIVÁNDOSE | 283 | 166 | 0.86x | 29% | 24% | 7% | 2% | 40% (n=92) | 24% (n=62) | 11% (n=37) |
 | C-meta | 🟢 CANDIDATA | 1 | 1 | 0.03x | 100% | 0% | 0% | 0% | 0% (n=1) | 0% (n=1) | 0% (n=1) |
 
 ## ¿Qué filtro mata ganadoras? (descartadas por motivo)
 
 | Motivo del descarte | Monedas | con 24h | Mediana 24h | Muertas a 24h | Máx. ≥5x | ≥10x | 2x antes de −30% | 5x antes de −50% | 10x antes de −70% |
 |---|---|---|---|---|---|---|---|---|---|
-| concentración | 677 | 304 | 0.43x | 55% | 4% | 1% | 2% (n=619) | 2% (n=613) | 1% (n=442) |
+| concentración | 680 | 304 | 0.43x | 55% | 3% | 1% | 2% (n=620) | 2% (n=614) | 1% (n=443) |
 | dev vendió | 242 | 221 | 0.29x | 92% | 8% | 3% | 7% (n=228) | 4% (n=224) | 5% (n=136) |
-| compras en el bloque de creación | 194 | 181 | 0.27x | 91% | 8% | 3% | 9% (n=188) | 5% (n=187) | 4% (n=123) |
+| compras en el bloque de creación | 195 | 181 | 0.27x | 91% | 8% | 3% | 9% (n=188) | 5% (n=187) | 4% (n=123) |
 | volumen en bucle | 12 | 12 | 0.34x | 92% | 8% | 8% | 17% (n=12) | 0% (n=12) | 0% (n=6) |
 | impuesto modificable | 7 | 7 | 0.64x | 29% | 0% | 0% | 14% (n=7) | 0% (n=5) | 0% (n=5) |
 | snipers | 2 | 2 | 0.16x | 100% | 0% | 0% | 0% (n=2) | 0% (n=2) | 0% (n=2) |
