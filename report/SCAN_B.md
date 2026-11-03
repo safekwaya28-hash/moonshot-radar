@@ -1,19 +1,19 @@
 # SCAN B — Despegues (objetivo 100x+)
-**2026-11-03 02:37 UTC** · 5,000 creaciones recientes revisadas · 1 en la ventana $8k–$40k · 1 con análisis profundo
+**2026-11-03 10:01 UTC** · 5,000 creaciones recientes revisadas · 1 en la ventana $8k–$40k · 1 con análisis profundo
 
 🟢 COMPRA AHORA **0** · 🟡 WATCH **0** · 🔴 DESCARTAR **1** · ⚪ FUERA **0**
 
 ### 🔴 DESCARTAR — $AVZX1L
 - **CA:** `AVZX1LxvYTjocfxWoxCzP1WYAyapvDE1hTRgVkMHpump`
-- **MC:** $10.2k · curva 67% · edad 5.4 h
+- **MC:** $10.8k · curva 69% · edad 12.8 h · hace 30 min: $10.2k
 - **Smart money:** ninguna de tus wallets
-- **B:** 0/9 · **M:** 0/5
-- **Compradores:** 30m 4 · nuevos 5m 0 (antes 0, BAI 0.00) · compradores/vendedores 15m 0.00
-- **Volumen 15m:** $88 (antes $225) · wallet dominante 100% · retención 15m 75% · compra mediana $17
-- **Seguridad:** snipers 1 · bloque creación 2% · top10 28% · wallet máx 4.9% · dev tiene 0.0% · dev vendió 100% · 5 wallets = 46% del volumen
-- **Prueba de venta:** 6/3 con financiador verificado y distinto (no-dev, mantuvieron ≥5 min y vendieron; 11 en total, 5 no verificables)
-- **Cobertura de datos:** 134 min observados
-- **Participantes 30m:** nuevos 2 · recompran 0 · compran y venden (flippers) 40% · volumen 15m / liquidez 0.0×
+- **B:** 0/9 · **M:** 1/5
+- **Compradores:** 30m 1 · nuevos 5m 0 (antes 0, BAI 0.00) · compradores/vendedores 15m 0.00
+- **Volumen 15m:** $27 (antes $116) · wallet dominante 87% · retención 15m 100% · compra mediana $9
+- **Seguridad:** snipers 0 · bloque creación 0% · top10 28% · wallet máx 4.9% · dev tiene 0.0% · dev vendió 100% · 5 wallets = 56% del volumen
+- **Prueba de venta:** 6/3 con financiador verificado y distinto (no-dev, mantuvieron ≥5 min y vendieron; 18 en total, 12 no verificables)
+- **Cobertura de datos:** 238 min observados
+- **Participantes 30m:** nuevos 1 · recompran 1 · compran y venden (flippers) 0% · volumen 15m / liquidez 0.0×
 - **Smart money:** convergencia 0 wallets en 10 min · posición entre los compradores — (entre los compradores observados, no entre todos)
 - **Financiación del top:** sin grupos detectados (1 nivel, wallets nuevas)
 - **Descartada por:** dev vendió/sacó 100% de su compra
