@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-11-04 22:15 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-11-04 22:17 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -11,7 +11,7 @@
 
 ### ⚪ en observación — DJT
 - **Quote:** `DJTu7vi8norVzdVAffgvb39VP7wjKeTsgaMBJrzfxvoF`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 5 (antes 0, nuevo) · 24h 5 (antes 5, +0%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 2 (antes 3, -33%) · 24h 5 (antes 5, +0%)
 
 ### ⚪ en observación — BTC
 - **Quote:** `C5xph2yL6gMdxmuLGxJBkGpmuDFfyi5fqkBNhvL6pump`
@@ -23,7 +23,7 @@
 
 ### ⚪ en observación — AIB
 - **Quote:** `EwHV6XfuMmBirGSiDVSypVkHcw7jD7Mho1s5xGwjpump`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 3 (antes 0, nuevo) · 24h 3 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 3, -100%) · 24h 3 (antes 0, nuevo)
 
 ### ⚪ en observación — GMEx
 - **Quote:** `Xsf9mBktVB9BSU5kf4nHxPq5hCBJ2j2ui3ecFGxPRGc`
@@ -35,7 +35,7 @@
 
 ### ⚪ en observación — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 1 (antes 0, nuevo) · 24h 1 (antes 2, -50%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 1 (antes 2, -50%)
 
 ### ⚪ en observación — WBTC
 - **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
