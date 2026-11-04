@@ -1,47 +1,47 @@
 # SCAN C — Meta / Flywheel
-**2026-11-04 16:22 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-11-04 16:29 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 ## Metas por token de pago (0 activándose)
 
+### ⚪ en observación — WEN
+- **Quote:** `WENAZ2WyPbmgvUcKfQ8hyMDfBQP9bZ65hsZ5KTFrRGZ`
+- **Pools nuevos:** 1h 6 (antes 0) · 6h 6 (antes 0, nuevo) · 24h 6 (antes 0, nuevo)
+
 ### ⚪ en observación — DJT
 - **Quote:** `DJTu7vi8norVzdVAffgvb39VP7wjKeTsgaMBJrzfxvoF`
-- **Pools nuevos:** 1h 3 (antes 0) · 6h 3 (antes 0, nuevo) · 24h 3 (antes 5, -40%)
+- **Pools nuevos:** 1h 5 (antes 0) · 6h 5 (antes 0, nuevo) · 24h 5 (antes 5, +0%)
+
+### ⚪ en observación — BTC
+- **Quote:** `C5xph2yL6gMdxmuLGxJBkGpmuDFfyi5fqkBNhvL6pump`
+- **Pools nuevos:** 1h 3 (antes 0) · 6h 3 (antes 0, nuevo) · 24h 3 (antes 0, nuevo)
+
+### ⚪ en observación — AMD
+- **Quote:** `HjiBij1BcEwjcgPEb22K8y7imdgaf1kHGMHuEgcDpump`
+- **Pools nuevos:** 1h 3 (antes 0) · 6h 3 (antes 0, nuevo) · 24h 3 (antes 0, nuevo)
 
 ### ⚪ en observación — AIB
 - **Quote:** `EwHV6XfuMmBirGSiDVSypVkHcw7jD7Mho1s5xGwjpump`
 - **Pools nuevos:** 1h 3 (antes 0) · 6h 3 (antes 0, nuevo) · 24h 3 (antes 0, nuevo)
 
-### ⚪ en observación — BTC
-- **Quote:** `C5xph2yL6gMdxmuLGxJBkGpmuDFfyi5fqkBNhvL6pump`
+### ⚪ en observación — GMEx
+- **Quote:** `Xsf9mBktVB9BSU5kf4nHxPq5hCBJ2j2ui3ecFGxPRGc`
 - **Pools nuevos:** 1h 2 (antes 0) · 6h 2 (antes 0, nuevo) · 24h 2 (antes 0, nuevo)
 
-### ⚪ en observación — AMD
-- **Quote:** `HjiBij1BcEwjcgPEb22K8y7imdgaf1kHGMHuEgcDpump`
+### ⚪ en observación — DOGE
+- **Quote:** `DoGEV7LASBkQbibMc5k5vKnTZoMg423GpJ5QtJEGfm7R`
 - **Pools nuevos:** 1h 2 (antes 0) · 6h 2 (antes 0, nuevo) · 24h 2 (antes 0, nuevo)
 
 ### ⚪ en observación — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
 - **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 0, nuevo) · 24h 1 (antes 2, -50%)
 
-### ⚪ en observación — DOGE
-- **Quote:** `DoGEV7LASBkQbibMc5k5vKnTZoMg423GpJ5QtJEGfm7R`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 0, nuevo) · 24h 1 (antes 0, nuevo)
+### ⚪ en observación — WBTC
+- **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
+- **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 0, nuevo) · 24h 1 (antes 1, +0%)
 
 ### ⚪ en observación — SPYx
 - **Quote:** `XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W`
 - **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 0, nuevo) · 24h 1 (antes 0, nuevo)
-
-### ⚪ en observación — House
-- **Quote:** `DitHyRMQiSDhn5cnKMJV2CDDt6sVct96YrECiM49pump`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 0, nuevo) · 24h 1 (antes 0, nuevo)
-
-### ⚪ en observación — HTZ
-- **Quote:** `HTZsLG4zqaNvWMwXSLHH3GG5KyJpKwpBRsKVdMG6hvzP`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 0, nuevo) · 24h 1 (antes 0, nuevo)
-
-### ⚪ en observación — HOUSECOIN
-- **Quote:** `DUKEjskPBoszW4xEowcSWptekuUZpwLFv6nTt5Cmpump`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 0 (antes 0, —)
 
 ## Plataformas con ingresos acelerando (DefiLlama)
 
