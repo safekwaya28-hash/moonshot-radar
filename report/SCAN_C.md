@@ -1,52 +1,54 @@
 # SCAN C — Meta / Flywheel
-**2026-11-05 09:58 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-11-05 18:05 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+
+> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
 ## Metas por token de pago (1 activándose)
 
 ### 🟡 META ACTIVÁNDOSE — OPENAI
 - **Quote:** `PreweJYECqtQwBtpxHL171nL2K6umo692gTm7Q3rpgF`
-- **Pools nuevos:** 1h 2 (antes 0) · 6h 2 (antes 21, -90%) · 24h 23 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 2, -100%) · 24h 23 (antes 0, nuevo)
 - **Amplitud (24h):** 23 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Token de pago:** MC $2.27M · volumen 24h $708.9k · liquidez $1.23M
+- **Token de pago:** MC $1.79M · volumen 24h $912.4k · liquidez $700.8k
 - **Líder (más volumen):** .gif.gif `2e9BZDA6tvSpFDreHhKpCQTBpVofAotBtKuu2Exvpump` · MC — · vol 24h $0 · 24h None%
 - **Líder (mayor subida 24h):** .gif.gif `2e9BZDA6tvSpFDreHhKpCQTBpVofAotBtKuu2Exvpump` · MC — · vol 24h $0 · 24h None%
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
 
-### ⚪ en observación — DJT
-- **Quote:** `DJTu7vi8norVzdVAffgvb39VP7wjKeTsgaMBJrzfxvoF`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 2, -100%) · 24h 7 (antes 5, +40%)
-
-### ⚪ en observación — WEN
-- **Quote:** `WENAZ2WyPbmgvUcKfQ8hyMDfBQP9bZ65hsZ5KTFrRGZ`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 6 (antes 0, nuevo)
-
 ### ⚪ en observación — SPCX
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 5, -100%) · 24h 5 (antes 0, nuevo)
-
-### ⚪ en observación — BTC
-- **Quote:** `C5xph2yL6gMdxmuLGxJBkGpmuDFfyi5fqkBNhvL6pump`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 4 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 5 (antes 0, nuevo)
 
 ### ⚪ en observación — MSFTx
 - **Quote:** `XspzcW1PRtgf6Wj92HCiZdjzKCyFekVD8P5Ueh3dRMX`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 4, -100%) · 24h 4 (antes 0, nuevo)
-
-### ⚪ en observación — WBTC
-- **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 1, +0%) · 24h 3 (antes 1, +200%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 4 (antes 0, nuevo)
 
 ### ⚪ en observación — ZEC
 - **Quote:** `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 3, -100%) · 24h 3 (antes 0, nuevo)
-
-### ⚪ en observación — DOGE
-- **Quote:** `DoGEV7LASBkQbibMc5k5vKnTZoMg423GpJ5QtJEGfm7R`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 3 (antes 0, nuevo)
-
-### ⚪ en observación — AMD
-- **Quote:** `HjiBij1BcEwjcgPEb22K8y7imdgaf1kHGMHuEgcDpump`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 3 (antes 0, nuevo)
+
+### ⚪ en observación — PEPE
+- **Quote:** `PEPEqnuuCDbBC89p1u9vpnP1KQ2oj1xTcQBsjt9X55m`
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 2 (antes 0, nuevo)
+
+### ⚪ en observación — WBTC
+- **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 2 (antes 1, +100%)
+
+### ⚪ en observación — SPX
+- **Quote:** `J3NKxxXZcnNiMjKw9hYb2K4LUxgwB6t1FtPtQVsv3KFr`
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 2 (antes 0, nuevo)
+
+### ⚪ en observación — ANSEM
+- **Quote:** `9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump`
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 2 (antes 0, nuevo)
+
+### ⚪ en observación — DJT
+- **Quote:** `DJTu7vi8norVzdVAffgvb39VP7wjKeTsgaMBJrzfxvoF`
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 2 (antes 5, -60%)
+
+### ⚪ en observación — ABTC
+- **Quote:** `ERs7y4nMGLFVmHcXyDxiS7iDKpp4jWHz2VUuE2gxpump`
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 2 (antes 0, nuevo)
 
 ## Plataformas con ingresos acelerando (DefiLlama)
 
@@ -64,7 +66,7 @@
 
 ### 🟡 FLYWHEEL ACELERANDO — Meteora DAMM V2 (Dexs)
 - **Ingresos 7d:** $366.5k · 7d anteriores $175.0k · cambio 2.1×
-- **Ingresos 24h:** $21.7k · 24h anteriores $25.2k · -14% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $22.9k · 24h anteriores $25.2k · -9% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $0
 - **Token:** sin token listado en CoinGecko
 
@@ -76,7 +78,7 @@
 
 ### 🟡 FLYWHEEL ACELERANDO — Jupiter YOLO (Derivatives)
 - **Ingresos 7d:** $95.7k · 7d anteriores $46.9k · cambio 2.0×
-- **Ingresos 24h:** $29.2k · 24h anteriores $8.8k · +233% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $27.5k · 24h anteriores $8.8k · +214% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $47.8k
 - **Token:** sin token listado en CoinGecko
 
