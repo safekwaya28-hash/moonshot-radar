@@ -1,15 +1,13 @@
 # SCAN C — Meta / Flywheel
-**2026-11-05 09:53 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
-
-> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
+**2026-11-05 09:58 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 ## Metas por token de pago (1 activándose)
 
 ### 🟡 META ACTIVÁNDOSE — OPENAI
 - **Quote:** `PreweJYECqtQwBtpxHL171nL2K6umo692gTm7Q3rpgF`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 21, -100%) · 24h 21 (antes 0, nuevo)
-- **Amplitud (24h):** 21 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Token de pago:** MC $2.28M · volumen 24h $700.4k · liquidez $1.23M
+- **Pools nuevos:** 1h 2 (antes 0) · 6h 2 (antes 21, -90%) · 24h 23 (antes 0, nuevo)
+- **Amplitud (24h):** 23 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
+- **Token de pago:** MC $2.27M · volumen 24h $708.9k · liquidez $1.23M
 - **Líder (más volumen):** .gif.gif `2e9BZDA6tvSpFDreHhKpCQTBpVofAotBtKuu2Exvpump` · MC — · vol 24h $0 · 24h None%
 - **Líder (mayor subida 24h):** .gif.gif `2e9BZDA6tvSpFDreHhKpCQTBpVofAotBtKuu2Exvpump` · MC — · vol 24h $0 · 24h None%
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
@@ -34,6 +32,10 @@
 - **Quote:** `XspzcW1PRtgf6Wj92HCiZdjzKCyFekVD8P5Ueh3dRMX`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 4, -100%) · 24h 4 (antes 0, nuevo)
 
+### ⚪ en observación — WBTC
+- **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
+- **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 1, +0%) · 24h 3 (antes 1, +200%)
+
 ### ⚪ en observación — ZEC
 - **Quote:** `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 3, -100%) · 24h 3 (antes 0, nuevo)
@@ -44,10 +46,6 @@
 
 ### ⚪ en observación — AMD
 - **Quote:** `HjiBij1BcEwjcgPEb22K8y7imdgaf1kHGMHuEgcDpump`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 3 (antes 0, nuevo)
-
-### ⚪ en observación — AIB
-- **Quote:** `EwHV6XfuMmBirGSiDVSypVkHcw7jD7Mho1s5xGwjpump`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 3 (antes 0, nuevo)
 
 ## Plataformas con ingresos acelerando (DefiLlama)
