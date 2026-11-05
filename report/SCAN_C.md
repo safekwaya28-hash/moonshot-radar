@@ -1,27 +1,44 @@
 # SCAN C — Meta / Flywheel
-**2026-11-05 02:31 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-11-05 02:37 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
-## Metas por token de pago (0 activándose)
+## Metas por token de pago (1 activándose)
 
-### ⚪ en observación — OPENAI
+### 🟡 META ACTIVÁNDOSE — OPENAI
 - **Quote:** `PreweJYECqtQwBtpxHL171nL2K6umo692gTm7Q3rpgF`
-- **Pools nuevos:** 1h 9 (antes 0) · 6h 9 (antes 0, nuevo) · 24h 9 (antes 0, nuevo)
+- **Pools nuevos:** 1h 21 (antes 0) · 6h 21 (antes 0, nuevo) · 24h 21 (antes 0, nuevo)
+- **Amplitud (24h):** 21 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
+- **Token de pago:** MC $2.55M · volumen 24h $564.4k · liquidez $1.34M
+- **Líder (más volumen):** .gif.gif `2e9BZDA6tvSpFDreHhKpCQTBpVofAotBtKuu2Exvpump` · MC — · vol 24h $0 · 24h None%
+- **Líder (mayor subida 24h):** .gif.gif `2e9BZDA6tvSpFDreHhKpCQTBpVofAotBtKuu2Exvpump` · MC — · vol 24h $0 · 24h None%
+- **Catalizador:** META ACCELERATION (pools 24h nuevo)
 
 ### ⚪ en observación — DJT
 - **Quote:** `DJTu7vi8norVzdVAffgvb39VP7wjKeTsgaMBJrzfxvoF`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 5, -80%) · 24h 6 (antes 5, +20%)
+- **Pools nuevos:** 1h 2 (antes 0) · 6h 2 (antes 5, -60%) · 24h 7 (antes 5, +40%)
 
 ### ⚪ en observación — WEN
 - **Quote:** `WENAZ2WyPbmgvUcKfQ8hyMDfBQP9bZ65hsZ5KTFrRGZ`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 6, -100%) · 24h 6 (antes 0, nuevo)
 
-### ⚪ en observación — DOGE
-- **Quote:** `DoGEV7LASBkQbibMc5k5vKnTZoMg423GpJ5QtJEGfm7R`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 2, -50%) · 24h 3 (antes 0, nuevo)
+### ⚪ en observación — SPCX
+- **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
+- **Pools nuevos:** 1h 5 (antes 0) · 6h 5 (antes 0, nuevo) · 24h 5 (antes 0, nuevo)
 
 ### ⚪ en observación — BTC
 - **Quote:** `C5xph2yL6gMdxmuLGxJBkGpmuDFfyi5fqkBNhvL6pump`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 3, -100%) · 24h 3 (antes 0, nuevo)
+- **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 3, -67%) · 24h 4 (antes 0, nuevo)
+
+### ⚪ en observación — MSFTx
+- **Quote:** `XspzcW1PRtgf6Wj92HCiZdjzKCyFekVD8P5Ueh3dRMX`
+- **Pools nuevos:** 1h 4 (antes 0) · 6h 4 (antes 0, nuevo) · 24h 4 (antes 0, nuevo)
+
+### ⚪ en observación — ZEC
+- **Quote:** `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS`
+- **Pools nuevos:** 1h 3 (antes 0) · 6h 3 (antes 0, nuevo) · 24h 3 (antes 0, nuevo)
+
+### ⚪ en observación — DOGE
+- **Quote:** `DoGEV7LASBkQbibMc5k5vKnTZoMg423GpJ5QtJEGfm7R`
+- **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 2, -50%) · 24h 3 (antes 0, nuevo)
 
 ### ⚪ en observación — AMD
 - **Quote:** `HjiBij1BcEwjcgPEb22K8y7imdgaf1kHGMHuEgcDpump`
@@ -30,18 +47,6 @@
 ### ⚪ en observación — AIB
 - **Quote:** `EwHV6XfuMmBirGSiDVSypVkHcw7jD7Mho1s5xGwjpump`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 3, -100%) · 24h 3 (antes 0, nuevo)
-
-### ⚪ en observación — MSFTx
-- **Quote:** `XspzcW1PRtgf6Wj92HCiZdjzKCyFekVD8P5Ueh3dRMX`
-- **Pools nuevos:** 1h 3 (antes 0) · 6h 3 (antes 0, nuevo) · 24h 3 (antes 0, nuevo)
-
-### ⚪ en observación — SPX
-- **Quote:** `J3NKxxXZcnNiMjKw9hYb2K4LUxgwB6t1FtPtQVsv3KFr`
-- **Pools nuevos:** 1h 2 (antes 0) · 6h 2 (antes 0, nuevo) · 24h 2 (antes 0, nuevo)
-
-### ⚪ en observación — GMEx
-- **Quote:** `Xsf9mBktVB9BSU5kf4nHxPq5hCBJ2j2ui3ecFGxPRGc`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 2, -100%) · 24h 2 (antes 0, nuevo)
 
 ## Plataformas con ingresos acelerando (DefiLlama)
 
