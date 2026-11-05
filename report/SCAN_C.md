@@ -1,7 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-11-05 18:05 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
-
-> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
+**2026-11-05 18:10 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 ## Metas por token de pago (1 activándose)
 
@@ -9,18 +7,30 @@
 - **Quote:** `PreweJYECqtQwBtpxHL171nL2K6umo692gTm7Q3rpgF`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 2, -100%) · 24h 23 (antes 0, nuevo)
 - **Amplitud (24h):** 23 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Token de pago:** MC $1.79M · volumen 24h $912.4k · liquidez $700.8k
+- **Token de pago:** MC $1.79M · volumen 24h $912.2k · liquidez $700.7k
 - **Líder (más volumen):** .gif.gif `2e9BZDA6tvSpFDreHhKpCQTBpVofAotBtKuu2Exvpump` · MC — · vol 24h $0 · 24h None%
 - **Líder (mayor subida 24h):** .gif.gif `2e9BZDA6tvSpFDreHhKpCQTBpVofAotBtKuu2Exvpump` · MC — · vol 24h $0 · 24h None%
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
 
 ### ⚪ en observación — SPCX
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 5 (antes 0, nuevo)
+- **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 0, nuevo) · 24h 6 (antes 0, nuevo)
+
+### ⚪ en observación — SQQQ
+- **Quote:** `SQQQAa3gUxgnqcEsdjPA4RQNQBgB97TnG2hJhk2WaGE`
+- **Pools nuevos:** 1h 4 (antes 0) · 6h 4 (antes 0, nuevo) · 24h 4 (antes 0, nuevo)
 
 ### ⚪ en observación — MSFTx
 - **Quote:** `XspzcW1PRtgf6Wj92HCiZdjzKCyFekVD8P5Ueh3dRMX`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 4 (antes 0, nuevo)
+
+### ⚪ en observación — PUMP
+- **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
+- **Pools nuevos:** 1h 2 (antes 0) · 6h 2 (antes 0, nuevo) · 24h 3 (antes 1, +200%)
+
+### ⚪ en observación — DJT
+- **Quote:** `DJTu7vi8norVzdVAffgvb39VP7wjKeTsgaMBJrzfxvoF`
+- **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 0, nuevo) · 24h 3 (antes 5, -40%)
 
 ### ⚪ en observación — ZEC
 - **Quote:** `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS`
@@ -36,18 +46,6 @@
 
 ### ⚪ en observación — SPX
 - **Quote:** `J3NKxxXZcnNiMjKw9hYb2K4LUxgwB6t1FtPtQVsv3KFr`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 2 (antes 0, nuevo)
-
-### ⚪ en observación — ANSEM
-- **Quote:** `9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 2 (antes 0, nuevo)
-
-### ⚪ en observación — DJT
-- **Quote:** `DJTu7vi8norVzdVAffgvb39VP7wjKeTsgaMBJrzfxvoF`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 2 (antes 5, -60%)
-
-### ⚪ en observación — ABTC
-- **Quote:** `ERs7y4nMGLFVmHcXyDxiS7iDKpp4jWHz2VUuE2gxpump`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 2 (antes 0, nuevo)
 
 ## Plataformas con ingresos acelerando (DefiLlama)
