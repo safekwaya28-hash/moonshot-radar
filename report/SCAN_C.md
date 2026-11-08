@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-11-08 13:34 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-11-08 13:41 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 ## Metas por token de pago (1 activándose)
 
@@ -7,22 +7,22 @@
 - **Quote:** `8N6Xy7SAh7gW4bZDT7kwyYUMANKCwAVEooXC96Lipump`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 11, -100%) · 24h 11 (antes 0, nuevo)
 - **Amplitud (24h):** 11 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Token de pago:** MC $21.2k · volumen 24h $1.91M · liquidez $11.5k
+- **Token de pago:** MC $21.0k · volumen 24h $1.91M · liquidez $11.4k
 - **Líder (más volumen):** Elonmars `CXEUXs9zqjrwM13Faii55BTHxTwcFQeoBauudz3mpump` · MC — · vol 24h $0 · 24h None%
 - **Líder (mayor subida 24h):** Elonmars `CXEUXs9zqjrwM13Faii55BTHxTwcFQeoBauudz3mpump` · MC — · vol 24h $0 · 24h None%
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
 
 ### ⚪ en observación — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 4 (antes 0) · 6h 4 (antes 0, nuevo) · 24h 7 (antes 5, +40%)
+- **Pools nuevos:** 1h 5 (antes 0) · 6h 5 (antes 0, nuevo) · 24h 8 (antes 5, +60%)
 
 ### ⚪ en observación — SPCX
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
-- **Pools nuevos:** 1h 3 (antes 0) · 6h 3 (antes 2, +50%) · 24h 5 (antes 6, -17%)
+- **Pools nuevos:** 1h 5 (antes 0) · 6h 5 (antes 2, +150%) · 24h 7 (antes 6, +17%)
 
 ### ⚪ en observación — DOGE
 - **Quote:** `DoGEV7LASBkQbibMc5k5vKnTZoMg423GpJ5QtJEGfm7R`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 5 (antes 4, +25%)
+- **Pools nuevos:** 1h 2 (antes 0) · 6h 2 (antes 0, nuevo) · 24h 7 (antes 4, +75%)
 
 ### ⚪ en observación — ANSEM
 - **Quote:** `9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump`
@@ -31,6 +31,10 @@
 ### ⚪ en observación — TSLAx
 - **Quote:** `XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 4 (antes 1, +300%)
+
+### ⚪ en observación — wXMR
+- **Quote:** `WXMRyRZhsa19ety5erZhHg4N3xj3EVN92u94422teJp`
+- **Pools nuevos:** 1h 3 (antes 0) · 6h 3 (antes 0, nuevo) · 24h 3 (antes 0, nuevo)
 
 ### ⚪ en observación — ANTHRP
 - **Quote:** `Pren1FvFX6J3E4kXhJuCiAD5aDmGEb7qJRncwA8Lkhw`
@@ -43,10 +47,6 @@
 ### ⚪ en observación — SPCXx
 - **Quote:** `Xs3oZwbHvqis4NYcf4YKWmEia2eC84wSiVrcYcTqpH8`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 2 (antes 0, nuevo)
-
-### ⚪ en observación — OTC
-- **Quote:** `MukLDtJ8Cx9DxLbeyLRSWPSposTMWuwHANbuaudpump`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 2, -100%) · 24h 2 (antes 0, nuevo)
 
 ## Plataformas con ingresos acelerando (DefiLlama)
 
