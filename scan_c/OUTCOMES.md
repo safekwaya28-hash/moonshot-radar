@@ -1,20 +1,20 @@
 # OUTCOMES — qué pasó después de cada decisión (incluidas las descartadas)
-**2026-11-08 13:41 UTC** · 2179 monedas seguidas · la decisión original nunca se cambia
+**2026-11-08 18:31 UTC** · 2185 monedas seguidas · la decisión original nunca se cambia
 
 | Escáner | Decisión | Monedas | con 24h | Mediana MC 24h / inicial | Muertas a 24h (≤ −50%) | Máx. ≥2x | ≥5x | ≥10x | 2x antes de −30% | 5x antes de −50% | 10x antes de −70% |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | A | NO | 1 | 1 | 1.00x | 0% | 0% | 0% | 0% | 0% (n=1) | 0% (n=1) | — |
-| B | DESCARTAR | 1161 | 735 | 0.33x | 76% | 24% | 5% | 2% | 5% (n=1081) | 3% (n=1070) | 2% (n=737) |
+| B | DESCARTAR | 1162 | 736 | 0.33x | 76% | 24% | 5% | 2% | 5% (n=1081) | 3% (n=1070) | 2% (n=737) |
 | B | FUERA | 151 | 117 | 0.44x | 78% | 48% | 9% | 2% | 7% (n=118) | 7% (n=112) | 50% (n=4) |
-| B | WATCH | 580 | 451 | 0.26x | 91% | 37% | 11% | 5% | 11% (n=455) | 8% (n=452) | 6% (n=340) |
-| C-meta | 🟡 META ACTIVÁNDOSE | 285 | 166 | 0.86x | 29% | 24% | 7% | 2% | 40% (n=92) | 24% (n=62) | 11% (n=37) |
+| B | WATCH | 584 | 451 | 0.26x | 91% | 37% | 11% | 5% | 11% (n=456) | 8% (n=452) | 6% (n=340) |
+| C-meta | 🟡 META ACTIVÁNDOSE | 286 | 166 | 0.86x | 29% | 24% | 7% | 2% | 40% (n=92) | 24% (n=62) | 11% (n=37) |
 | C-meta | 🟢 CANDIDATA | 1 | 1 | 0.03x | 100% | 0% | 0% | 0% | 0% (n=1) | 0% (n=1) | 0% (n=1) |
 
 ## ¿Qué filtro mata ganadoras? (descartadas por motivo)
 
 | Motivo del descarte | Monedas | con 24h | Mediana 24h | Muertas a 24h | Máx. ≥5x | ≥10x | 2x antes de −30% | 5x antes de −50% | 10x antes de −70% |
 |---|---|---|---|---|---|---|---|---|---|
-| concentración | 703 | 311 | 0.45x | 54% | 4% | 1% | 2% (n=644) | 2% (n=638) | 1% (n=464) |
+| concentración | 704 | 312 | 0.45x | 54% | 4% | 1% | 2% (n=644) | 2% (n=638) | 1% (n=464) |
 | dev vendió | 247 | 225 | 0.29x | 92% | 8% | 3% | 7% (n=232) | 4% (n=228) | 5% (n=139) |
 | compras en el bloque de creación | 197 | 185 | 0.27x | 91% | 8% | 3% | 9% (n=191) | 5% (n=190) | 4% (n=126) |
 | volumen en bucle | 12 | 12 | 0.34x | 92% | 8% | 8% | 17% (n=12) | 0% (n=12) | 0% (n=6) |
