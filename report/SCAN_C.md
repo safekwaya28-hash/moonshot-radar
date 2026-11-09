@@ -1,5 +1,7 @@
 # SCAN C — Meta / Flywheel
-**2026-11-09 20:48 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-11-09 20:54 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+
+> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
 ## Metas por token de pago (1 activándose)
 
@@ -7,9 +9,9 @@
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
 - **Pools nuevos:** 1h 8 (antes 0) · 6h 8 (antes 0, nuevo) · 24h 11 (antes 8, +38%)
 - **Amplitud (24h):** 11 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 38% del volumen
-- **Token de pago:** MC $1671.47M · volumen 24h $4.44M · liquidez $21.48M
+- **Token de pago:** MC $1679.04M · volumen 24h $4.45M · liquidez $21.53M
 - **Líder (más volumen):** CRYING `DxfNvkH5GiznUNU9VYt3rbB5koVNGQiRFDruVZMt2Lr4` · MC $3.1k · vol 24h $578 · 24h -15.21%
-- **Líder (mayor subida 24h):** 中国 `349zUXVdNfhK9wbu3d8Cidr9G3ReRRyLwx3uqZwdpump` · MC $3.1k · vol 24h $301 · 24h -5.7%
+- **Líder (mayor subida 24h):** cashcat `Get3XfZV3uSUCy7iX9XoJKX4K4CGrGg69R4DC4fG2FHC` · MC $3.1k · vol 24h $21 · 24h -0.06%
 - **Catalizador:** META ACCELERATION (pools 24h +38%)
 - **Riesgos:** liquidez 0% del MC
 
