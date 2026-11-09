@@ -1,60 +1,53 @@
 # SCAN C — Meta / Flywheel
-**2026-11-09 10:00 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-11-09 20:48 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
-> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
-
-## Metas por token de pago (2 activándose)
-
-### 🟡 META ACTIVÁNDOSE — SPCX
-- **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 9, -100%) · 24h 14 (antes 3, +367%)
-- **Amplitud (24h):** 14 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 41% del volumen
-- **Token de pago:** MC — · volumen 24h $2.27M · liquidez $2.48M
-- **Líder (más volumen):** CASINO `AKtAf3nYBZwHk3cWfgnp4J4nKyXR6XvuEDh58PZv2iYk` · MC $3.1k · vol 24h $28.0k · 24h -42.66%
-- **Líder (mayor subida 24h):** Space `2c9wZ1XBuF1my1oCc42PiNiUUVWcadRe1y8FNgW1SkgL` · MC $3.1k · vol 24h $2 · 24h -0.06%
-- **Catalizador:** META ACCELERATION (pools 24h +367%)
-- **Riesgos:** liquidez 0% del MC
+## Metas por token de pago (1 activándose)
 
 ### 🟡 META ACTIVÁNDOSE — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 3, -100%) · 24h 10 (antes 5, +100%)
-- **Amplitud (24h):** 10 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Token de pago:** MC $1634.47M · volumen 24h $3.95M · liquidez $21.24M
-- **Catalizador:** META ACCELERATION (pools 24h +100%)
-- **Riesgos:** concentración: top10 59%, wallet máx 27.8%; liquidez 1% del MC
-- **Descartado por seguridad:** extensiones Token-2022: transferHook
+- **Pools nuevos:** 1h 8 (antes 0) · 6h 8 (antes 0, nuevo) · 24h 11 (antes 8, +38%)
+- **Amplitud (24h):** 11 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 38% del volumen
+- **Token de pago:** MC $1671.47M · volumen 24h $4.44M · liquidez $21.48M
+- **Líder (más volumen):** CRYING `DxfNvkH5GiznUNU9VYt3rbB5koVNGQiRFDruVZMt2Lr4` · MC $3.1k · vol 24h $578 · 24h -15.21%
+- **Líder (mayor subida 24h):** 中国 `349zUXVdNfhK9wbu3d8Cidr9G3ReRRyLwx3uqZwdpump` · MC $3.1k · vol 24h $301 · 24h -5.7%
+- **Catalizador:** META ACCELERATION (pools 24h +38%)
+- **Riesgos:** liquidez 0% del MC
 
-### ⚪ en observación — NVDAx
-- **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
-- **Pools nuevos:** 1h 3 (antes 0) · 6h 3 (antes 0, nuevo) · 24h 4 (antes 0, nuevo)
+### ⚪ en observación — SPCX
+- **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 9 (antes 7, +29%)
 
 ### ⚪ en observación — DKNG
 - **Quote:** `DKNGQFNGQmoBdXSRGKJ8tTu7uPDasw5JDcfMmWniNfow`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 4, -100%) · 24h 4 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 4 (antes 0, nuevo)
 
 ### ⚪ en observación — SPY
 - **Quote:** `SPYBo66VJPFjh1pXMb9Le53kDYWTK1zzYVDeVRWtsbi`
-- **Pools nuevos:** 1h 4 (antes 0) · 6h 4 (antes 0, nuevo) · 24h 4 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 4, -100%) · 24h 4 (antes 0, nuevo)
 
-### ⚪ en observación — WBTC
-- **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 3 (antes 1, +200%)
+### ⚪ en observación — NVDAx
+- **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 3, -100%) · 24h 3 (antes 1, +200%)
 
-### ⚪ en observación — wXMR
-- **Quote:** `WXMRyRZhsa19ety5erZhHg4N3xj3EVN92u94422teJp`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 3 (antes 0, nuevo)
+### ⚪ en observación — DJT
+- **Quote:** `DJTu7vi8norVzdVAffgvb39VP7wjKeTsgaMBJrzfxvoF`
+- **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 1, +0%) · 24h 2 (antes 0, nuevo)
+
+### ⚪ en observación — AAPLx
+- **Quote:** `XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp`
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 2 (antes 0, nuevo)
+
+### ⚪ en observación — SPCXx
+- **Quote:** `Xs3oZwbHvqis4NYcf4YKWmEia2eC84wSiVrcYcTqpH8`
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 2 (antes 1, +100%)
+
+### ⚪ en observación — MCDx
+- **Quote:** `XsqE9cRRpzxcGKDXj1BJ7Xmg4GRhZoyY1KpmGSxAWT2`
+- **Pools nuevos:** 1h 2 (antes 0) · 6h 2 (antes 0, nuevo) · 24h 2 (antes 0, nuevo)
 
 ### ⚪ en observación — STONK
 - **Quote:** `6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx`
-- **Pools nuevos:** 1h 2 (antes 0) · 6h 2 (antes 0, nuevo) · 24h 3 (antes 0, nuevo)
-
-### ⚪ en observación — HYPE
-- **Quote:** `98sMhvDwXj1RQi5c5Mndm3vPe9cBqPrbLaufMXFNMh5g`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 2 (antes 0, nuevo)
-
-### ⚪ en observación — DOGE
-- **Quote:** `DoGEV7LASBkQbibMc5k5vKnTZoMg423GpJ5QtJEGfm7R`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 2 (antes 9, -78%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 2, -100%) · 24h 2 (antes 1, +100%)
 
 ## Plataformas con ingresos acelerando (DefiLlama)
 
@@ -66,7 +59,7 @@
 
 ### 🟡 FLYWHEEL ACELERANDO — Meteora DAMM V2 (Dexs)
 - **Ingresos 7d:** $372.5k · 7d anteriores $162.0k · cambio 2.3×
-- **Ingresos 24h:** $16.7k · 24h anteriores $13.5k · +24% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $17.6k · 24h anteriores $13.5k · +31% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $0
 - **Token:** sin token listado en CoinGecko
 
@@ -84,13 +77,13 @@
 
 ### 🟡 FLYWHEEL ACELERANDO — Phygitals (Physical TCG)
 - **Ingresos 7d:** $75.0k · 7d anteriores $32.2k · cambio 2.3×
-- **Ingresos 24h:** $40.7k · 24h anteriores $12.7k · +220% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $0 · 24h anteriores $12.7k · -100% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $0
 - **Token:** sin token listado en CoinGecko
 
 ### 🟡 FLYWHEEL ACELERANDO — PagCrypto (Payments)
 - **Ingresos 7d:** $50.9k · 7d anteriores $13.7k · cambio 3.7×
-- **Ingresos 24h:** $3 · 24h anteriores $7.2k · -100% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $7.6k · 24h anteriores $7.2k · +5% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** —
 - **Token:** sin token listado en CoinGecko
 
