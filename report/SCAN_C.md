@@ -1,36 +1,44 @@
 # SCAN C — Meta / Flywheel
-**2026-11-10 11:51 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-11-10 18:53 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
-## Metas por token de pago (1 activándose)
+> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
+
+## Metas por token de pago (2 activándose)
 
 ### 🟡 META ACTIVÁNDOSE — wNEAR
 - **Quote:** `3ZLekZYq2qkZiSpnSvabjit34tUkjSwD1JFuW9as9wBG`
-- **Pools nuevos:** 1h 17 (antes 0) · 6h 17 (antes 0, nuevo) · 24h 17 (antes 0, nuevo)
-- **Amplitud (24h):** 17 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Token de pago:** MC $4610.95M · volumen 24h $3.06M · liquidez $1.16M
-- **Líder (más volumen):** MEILI `59sioC7h6yaTu14j3a2b3uvraLnjyaNwrMHK389jP4ZJ` · MC — · vol 24h $0 · 24h None%
-- **Líder (mayor subida 24h):** MEILI `59sioC7h6yaTu14j3a2b3uvraLnjyaNwrMHK389jP4ZJ` · MC — · vol 24h $0 · 24h None%
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 17, -100%) · 24h 17 (antes 0, nuevo)
+- **Amplitud (24h):** 17 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 100% del volumen ⚠️ una sola moneda domina: puede no ser una moda
+- **Token de pago:** MC $4629.45M · volumen 24h $1.57M · liquidez $1.15M
+- **Líder (más volumen):** MMLI `BeY1ZWoE78JdyTHjikNdA4HaDgKFDktN2jCyYdxQpump` · MC $15.8k · vol 24h $3 · 24h -42.95%
+- **Líder (mayor subida 24h):** MMLI `BeY1ZWoE78JdyTHjikNdA4HaDgKFDktN2jCyYdxQpump` · MC $15.8k · vol 24h $3 · 24h -42.95%
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
+- **Riesgos:** liquidez 0% del MC
 
-### ⚪ en observación — PUMP
+### 🟡 META ACTIVÁNDOSE — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 3 (antes 0) · 6h 3 (antes 2, +50%) · 24h 13 (antes 10, +30%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 3, -100%) · 24h 13 (antes 3, +333%)
+- **Amplitud (24h):** 13 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
+- **Token de pago:** MC $1590.92M · volumen 24h $3.00M · liquidez $20.97M
+- **Catalizador:** META ACCELERATION (pools 24h +333%)
+- **Riesgos:** concentración: top10 59%, wallet máx 27.8%; liquidez 1% del MC
+- **Descartado por seguridad:** extensiones Token-2022: transferHook
 
 ### ⚪ en observación — SPCX
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
-- **Pools nuevos:** 1h 2 (antes 0) · 6h 2 (antes 3, -33%) · 24h 5 (antes 14, -64%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 2, -100%) · 24h 5 (antes 9, -44%)
 
 ### ⚪ en observación — mihao
 - **Quote:** `4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump`
-- **Pools nuevos:** 1h 5 (antes 0) · 6h 5 (antes 0, nuevo) · 24h 5 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 5, -100%) · 24h 5 (antes 0, nuevo)
 
 ### ⚪ en observación — NVDAx
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 4, -100%) · 24h 4 (antes 4, +0%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 4 (antes 3, +33%)
 
 ### ⚪ en observación — AMC
 - **Quote:** `AMC1qwR9KhiyrQBRPrxnfo4JfMeMZqEBvt5tgTytNNoc`
-- **Pools nuevos:** 1h 2 (antes 0) · 6h 2 (antes 0, nuevo) · 24h 2 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 2, -100%) · 24h 2 (antes 0, nuevo)
 
 ### ⚪ en observación — MCDx
 - **Quote:** `XsqE9cRRpzxcGKDXj1BJ7Xmg4GRhZoyY1KpmGSxAWT2`
@@ -42,11 +50,11 @@
 
 ### ⚪ en observación — OPENAI
 - **Quote:** `PreweJYECqtQwBtpxHL171nL2K6umo692gTm7Q3rpgF`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 1 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 1 (antes 0, nuevo)
 
 ### ⚪ en observación — ZEC
 - **Quote:** `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 1 (antes 1, +0%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 1 (antes 0, nuevo)
 
 ## Plataformas con ingresos acelerando (DefiLlama)
 
