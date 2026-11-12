@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-11-12 10:22 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-11-12 11:30 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -9,9 +9,9 @@
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 27, -100%) · 24h 28 (antes 5, +460%)
 - **Amplitud (24h):** 28 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 21% del volumen
-- **Token de pago:** MC — · volumen 24h $12.80M · liquidez $3.04M
+- **Token de pago:** MC — · volumen 24h $12.94M · liquidez $3.06M
 - **Líder (más volumen):** ElonSan `HF3r6eEDiYtv5HZoERzMQv58pWtZgNJ2zcrsndurpump` · MC $3.1k · vol 24h $21.6k · 24h -20.88%
-- **Líder (mayor subida 24h):** Elon San `ER6sz4BLAGxBVWwWCtDw8vhSnUgoST8ca22h8S2xpump` · MC $3.1k · vol 24h $10.5k · 24h -10.68%
+- **Líder (mayor subida 24h):** Elon San `ER6sz4BLAGxBVWwWCtDw8vhSnUgoST8ca22h8S2xpump` · MC $3.1k · vol 24h $10.5k · 24h -10.01%
 - **Catalizador:** META ACCELERATION (pools 24h +460%)
 - **Riesgos:** liquidez 0% del MC
 
