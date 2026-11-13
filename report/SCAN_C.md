@@ -1,13 +1,15 @@
 # SCAN C — Meta / Flywheel
-**2026-11-12 23:53 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-11-13 00:34 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+
+> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
 ## Metas por token de pago (2 activándose)
 
 ### 🟡 META ACTIVÁNDOSE — SPCX
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
 - **Pools nuevos:** 1h 4 (antes 0) · 6h 5 (antes 0, nuevo) · 24h 32 (antes 2, +1500%)
-- **Amplitud (24h):** 32 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 20% del volumen
-- **Token de pago:** MC — · volumen 24h $9.03M · liquidez $2.65M
+- **Amplitud (24h):** 32 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 19% del volumen
+- **Token de pago:** MC — · volumen 24h $9.07M · liquidez $2.69M
 - **Líder (más volumen):** ElonSan `HF3r6eEDiYtv5HZoERzMQv58pWtZgNJ2zcrsndurpump` · MC $3.1k · vol 24h $21.6k · 24h -20.88%
 - **Líder (mayor subida 24h):** HERO `CS2bobk8VbRbHkyuMJh85bNsSR8qYoC99ZC3eYc4pump` · MC $3.3k · vol 24h $126 · 24h 5.59%
 - **Catalizador:** META ACCELERATION (pools 24h +1500%)
@@ -17,9 +19,9 @@
 - **Quote:** `FTu55MyigXns96jz4nTCDDiTCjYJjyrHSceCgG9Upump`
 - **Pools nuevos:** 1h 12 (antes 0) · 6h 12 (antes 0, nuevo) · 24h 12 (antes 0, nuevo)
 - **Amplitud (24h):** 12 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = — del volumen
-- **Token de pago:** MC $312.8k · volumen 24h $614.6k · liquidez $43.8k
-- **Líder (más volumen):** CHEF `4pMnKEZoTbX1XbH2vc18oixPToeyEGQUjJNYhtSwpump` · MC — · vol 24h $0 · 24h None%
-- **Líder (mayor subida 24h):** CHEF `4pMnKEZoTbX1XbH2vc18oixPToeyEGQUjJNYhtSwpump` · MC — · vol 24h $0 · 24h None%
+- **Token de pago:** MC $393.6k · volumen 24h $1.76M · liquidez $51.2k
+- **Líder (más volumen):** CHAIRMAN `EPD9t23jahS7RjmhAdb4XnHCGyvPGCdvWgCqnV65pump` · MC — · vol 24h $0 · 24h None%
+- **Líder (mayor subida 24h):** CHAIRMAN `EPD9t23jahS7RjmhAdb4XnHCGyvPGCdvWgCqnV65pump` · MC — · vol 24h $0 · 24h None%
 - **Catalizador:** META ACCELERATION (pools 24h nuevo)
 
 ### ⚪ en observación — PUMP
@@ -57,15 +59,21 @@
 ## Plataformas con ingresos acelerando (DefiLlama)
 
 ### 🟡 FLYWHEEL ACELERANDO — Bags (Launchpad)
-- **Ingresos 7d:** $130.7k · 7d anteriores $14.2k · cambio 9.2×
-- **Ingresos 24h:** $6.3k · 24h anteriores $7.1k · -11% (¿sigue acelerando hoy?)
+- **Ingresos 7d:** $123.4k · 7d anteriores $20.5k · cambio 6.0×
+- **Ingresos 24h:** $6.3k · 24h anteriores $6.3k · +0% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** —
 - **Token:** sin token listado en CoinGecko
 
 ### 🟡 FLYWHEEL ACELERANDO — MetaMask Wallet (Wallets)
-- **Ingresos 7d:** $60.1k · 7d anteriores $0 · cambio nuevo
-- **Ingresos 24h:** $7.7k · 24h anteriores $11.2k · -31% (¿sigue acelerando hoy?)
+- **Ingresos 7d:** $59.9k · 7d anteriores $8.1k · cambio 7.4×
+- **Ingresos 24h:** $7.9k · 24h anteriores $9.2k · -14% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** —
+- **Token:** sin token listado en CoinGecko
+
+### 🟡 FLYWHEEL ACELERANDO — Render Network BME (DePIN)
+- **Ingresos 7d:** $51.4k · 7d anteriores $25.5k · cambio 2.0×
+- **Ingresos 24h:** $4.9k · 24h anteriores $5.4k · -8% (¿sigue acelerando hoy?)
+- **A holders (recompras/quemas/repartos) 7d:** $48.8k
 - **Token:** sin token listado en CoinGecko
 
 ## Llamadas de Telegram (registro hacia delante)
