@@ -1,5 +1,7 @@
 # SCAN C — Meta / Flywheel
-**2026-11-14 01:51 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-11-14 01:54 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+
+> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
 ## Metas por token de pago (0 activándose)
 
@@ -52,8 +54,8 @@
 - **Token:** sin token listado en CoinGecko
 
 ### 🟡 FLYWHEEL ACELERANDO — MetaMask Wallet (Wallets)
-- **Ingresos 7d:** $62.9k · 7d anteriores $17.0k · cambio 3.7×
-- **Ingresos 24h:** $12.1k · 24h anteriores $7.7k · +57% (¿sigue acelerando hoy?)
+- **Ingresos 7d:** $62.8k · 7d anteriores $17.0k · cambio 3.7×
+- **Ingresos 24h:** $11.9k · 24h anteriores $7.7k · +56% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** —
 - **Token:** sin token listado en CoinGecko
 
