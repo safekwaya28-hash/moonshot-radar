@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-11-15 00:30 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-11-15 07:15 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -7,49 +7,49 @@
 
 ### ⚪ en observación — Snoopy
 - **Quote:** `7mEhH5gsuwPeBC9n9C2XQJdXinWhKGfNhrt4r8db47Cn`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 4, -100%) · 24h 4 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 4 (antes 0, nuevo)
 
 ### ⚪ en observación — loco
 - **Quote:** `6vtfL1Zi8YQqQrsxwLqguFNFCvwmER5SnYSBYDTRpump`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 4 (antes 0, nuevo) · 24h 4 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 4, -100%) · 24h 4 (antes 0, nuevo)
 
 ### ⚪ en observación — SPCX
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 2, -100%) · 24h 2 (antes 1, +100%)
-
-### ⚪ en observación — GLDx
-- **Quote:** `Xsv9hRk1z5ystj9MhnA7Lq4vjSsLwzL2nxrwmwtD3re`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 1 (antes 0, nuevo) · 24h 2 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 2 (antes 1, +100%)
 
 ### ⚪ en observación — OPENAI
 - **Quote:** `PreweJYECqtQwBtpxHL171nL2K6umo692gTm7Q3rpgF`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 2, -100%) · 24h 2 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 2 (antes 0, nuevo)
 
 ### ⚪ en observación — TTWO
 - **Quote:** `TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 2, -100%) · 24h 2 (antes 1, +100%)
-
-### ⚪ en observación — WBTC
-- **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 1 (antes 0, nuevo)
-
-### ⚪ en observación — PUMP
-- **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 1 (antes 2, -50%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 2 (antes 1, +100%)
 
 ### ⚪ en observación — NVDAx
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 1 (antes 0, nuevo) · 24h 1 (antes 2, -50%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 1 (antes 2, -50%)
 
-### ⚪ en observación — STONK
-- **Quote:** `6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx`
+### ⚪ en observación — GLDx
+- **Quote:** `Xsv9hRk1z5ystj9MhnA7Lq4vjSsLwzL2nxrwmwtD3re`
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 1 (antes 1, +0%)
+
+### ⚪ en observación — FUNZ
+- **Quote:** `12XbVdAszAGw6rviPP1P7q3rxhpbUJUcrnZNfP8Qfunz`
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 1 (antes 0, nuevo)
+
+### ⚪ en observación — YoungBull
+- **Quote:** `FBwLNTQwVwZK4jQak7aGVYiLe7WPg7JCsJfKSADKpump`
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 1 (antes 0, nuevo)
+
+### ⚪ en observación — BABA
+- **Quote:** `BABANGA4JE7Kkam4nTrALAwAVgsNJUuFJnnkF7S16BZp`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 1 (antes 0, nuevo)
 
 ## Plataformas con ingresos acelerando (DefiLlama)
 
 ### 🟡 FLYWHEEL ACELERANDO — MetaMask Wallet (Wallets)
-- **Ingresos 7d:** $66.6k · 7d anteriores $23.1k · cambio 2.9×
-- **Ingresos 24h:** $9.8k · 24h anteriores $12.1k · -19% (¿sigue acelerando hoy?)
+- **Ingresos 7d:** $68.5k · 7d anteriores $23.1k · cambio 3.0×
+- **Ingresos 24h:** $11.7k · 24h anteriores $12.1k · -3% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** —
 - **Token:** sin token listado en CoinGecko
 
