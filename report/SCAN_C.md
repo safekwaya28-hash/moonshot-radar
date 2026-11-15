@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-11-15 07:22 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-11-15 14:49 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -11,7 +11,7 @@
 
 ### ⚪ en observación — loco
 - **Quote:** `6vtfL1Zi8YQqQrsxwLqguFNFCvwmER5SnYSBYDTRpump`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 4, -100%) · 24h 4 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 4 (antes 0, nuevo)
 
 ### ⚪ en observación — SPCX
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
@@ -27,11 +27,11 @@
 
 ### ⚪ en observación — NVDAx
 - **Quote:** `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 1 (antes 2, -50%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 1 (antes 1, +0%)
 
 ### ⚪ en observación — GLDx
 - **Quote:** `Xsv9hRk1z5ystj9MhnA7Lq4vjSsLwzL2nxrwmwtD3re`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 1 (antes 1, +0%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 1 (antes 1, +0%)
 
 ### ⚪ en observación — FUNZ
 - **Quote:** `12XbVdAszAGw6rviPP1P7q3rxhpbUJUcrnZNfP8Qfunz`
@@ -49,7 +49,7 @@
 
 ### 🟡 FLYWHEEL ACELERANDO — MetaMask Wallet (Wallets)
 - **Ingresos 7d:** $68.5k · 7d anteriores $23.1k · cambio 3.0×
-- **Ingresos 24h:** $11.7k · 24h anteriores $12.1k · -3% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $11.1k · 24h anteriores $12.1k · -8% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** —
 - **Token:** sin token listado en CoinGecko
 
