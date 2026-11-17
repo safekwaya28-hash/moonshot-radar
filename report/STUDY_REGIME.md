@@ -1,20 +1,20 @@
 # ESTUDIO · por trimestre (¿funciona en todos o solo en uno?)
-**2026-11-17 04:30 UTC** · fuente: todas las graduadas de pump.fun (PumpSwap)
+**2026-11-17 14:27 UTC** · fuente: todas las graduadas de pump.fun (PumpSwap)
 
-- Monedas revisadas: **55,426 / 206,007** (27%) · con pico ≥ $500k: **11,408**
+- Monedas revisadas: **55,513 / 206,007** (27%) · con pico ≥ $500k: **11,425**
 
 EV por trimestre de entrada (entre paréntesis, nº de operaciones y % que cobró ≥10x):
 
 | Entrada | Venta | 2026Q1 | 2026Q2 | 2026Q3 | 2026Q4 |
 |---|---|---|---|---|---|
-| dd70_mc50k_72h_base | trailing | — | — | 2.59x (123, 1%) | 0.81x (6, 0%) |
-| dd85_mc50k_72h_base | trailing | — | — | 2.59x (123, 1%) | 0.81x (6, 0%) |
-| dd85_mc150k_72h_base | trailing | — | — | 2.51x (129, 1%) | 0.82x (5, 0%) |
-| dd70_mc150k_72h_base | trailing | — | — | 2.48x (131, 1%) | 0.82x (5, 0%) |
-| dd70_mc50k_72h_base | escalonada | — | — | 1.92x (123, 1%) | 0.81x (6, 0%) |
-| dd85_mc50k_72h_base | escalonada | — | — | 1.92x (123, 1%) | 0.81x (6, 0%) |
-| dd85_mc150k_72h_base | escalonada | — | — | 1.86x (129, 1%) | 0.82x (5, 0%) |
-| dd70_mc150k_72h_base | escalonada | — | — | 1.85x (131, 1%) | 0.82x (5, 0%) |
-| dd70_mc150k_72h_base | tuya | — | — | 0.99x (131, 0%) | 0.82x (5, 0%) |
+| dd70_mc50k_72h_base | trailing | — | — | 2.58x (124, 1%) | 0.81x (6, 0%) |
+| dd85_mc50k_72h_base | trailing | — | — | 2.58x (124, 1%) | 0.81x (6, 0%) |
+| dd85_mc150k_72h_base | trailing | — | — | 2.50x (130, 1%) | 0.82x (5, 0%) |
+| dd70_mc150k_72h_base | trailing | — | — | 2.47x (132, 1%) | 0.82x (5, 0%) |
+| dd70_mc50k_72h_base | escalonada | — | — | 1.91x (124, 1%) | 0.81x (6, 0%) |
+| dd85_mc50k_72h_base | escalonada | — | — | 1.91x (124, 1%) | 0.81x (6, 0%) |
+| dd85_mc150k_72h_base | escalonada | — | — | 1.86x (130, 1%) | 0.82x (5, 0%) |
+| dd70_mc150k_72h_base | escalonada | — | — | 1.84x (132, 1%) | 0.82x (5, 0%) |
+| dd70_mc150k_72h_base | tuya | — | — | 0.99x (132, 0%) | 0.82x (5, 0%) |
 
 Si todas las ganancias salen de un solo trimestre, se está midiendo el mercado de ese momento, no la estrategia.
