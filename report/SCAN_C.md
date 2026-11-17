@@ -1,5 +1,7 @@
 # SCAN C — Meta / Flywheel
-**2026-11-17 00:30 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-11-17 01:07 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+
+> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
 ## Metas por token de pago (0 activándose)
 
@@ -45,12 +47,7 @@
 
 ## Plataformas con ingresos acelerando (DefiLlama)
 
-### 🟡 FLYWHEEL ACELERANDO — MetaMask Wallet (Wallets)
-- **Ingresos 7d:** $67.3k · 7d anteriores $30.1k · cambio 2.2×
-- **Ingresos 24h:** $21.7k · 24h anteriores $11.6k · +87% (¿sigue acelerando hoy?)
-- **A holders (recompras/quemas/repartos) 7d:** —
-- **Token:** sin token listado en CoinGecko
-
+_Ninguna plataforma con ingresos 7d ≥ $50k que se hayan multiplicado ×2 o más._
 ## Llamadas de Telegram (registro hacia delante)
 
 _Aún sin llamadas registradas (o el canal no tiene vista pública)._
