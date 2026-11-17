@@ -1,47 +1,49 @@
 # SCAN C — Meta / Flywheel
-**2026-11-17 09:18 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-11-17 17:55 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+
+> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
 ## Metas por token de pago (0 activándose)
 
 ### ⚪ en observación — TTWO
 - **Quote:** `TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo`
-- **Pools nuevos:** 1h 8 (antes 0) · 6h 8 (antes 0, nuevo) · 24h 8 (antes 8, +0%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 8, -100%) · 24h 8 (antes 8, +0%)
 
 ### ⚪ en observación — ANTHRP
 - **Quote:** `Pren1FvFX6J3E4kXhJuCiAD5aDmGEb7qJRncwA8Lkhw`
-- **Pools nuevos:** 1h 4 (antes 0) · 6h 4 (antes 1, +300%) · 24h 5 (antes 1, +400%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 4, -100%) · 24h 5 (antes 1, +400%)
 
 ### ⚪ en observación — NEURALINK
 - **Quote:** `PrekqLJvJ3qVdXmBGDiexvwUTF4rLFDa6HWS4HJbw9S`
-- **Pools nuevos:** 1h 3 (antes 0) · 6h 3 (antes 0, nuevo) · 24h 3 (antes 0, nuevo)
-
-### ⚪ en observación — PUMP
-- **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 1, +0%) · 24h 2 (antes 5, -60%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 3, -100%) · 24h 3 (antes 0, nuevo)
 
 ### ⚪ en observación — SPCX
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
-- **Pools nuevos:** 1h 2 (antes 0) · 6h 2 (antes 0, nuevo) · 24h 2 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 2, -100%) · 24h 2 (antes 0, nuevo)
+
+### ⚪ en observación — PUMP
+- **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 2 (antes 5, -60%)
 
 ### ⚪ en observación — WISHMAS
 - **Quote:** `9cmXfuC26anZtH9AUWVzpUxU1UJ7PPogYxftYTepump`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 1, +0%) · 24h 2 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 2 (antes 0, nuevo)
 
 ### ⚪ en observación — ANSEM
 - **Quote:** `9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 1 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 1 (antes 0, nuevo)
 
 ### ⚪ en observación — WETH
 - **Quote:** `7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 0, nuevo) · 24h 1 (antes 1, +0%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 1 (antes 1, +0%)
 
 ### ⚪ en observación — PAID
 - **Quote:** `98kfF7rmsg1QDUEoCqNE7g7M1FdrTt92TEp2CLzypump`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 1 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 1 (antes 0, nuevo)
 
 ### ⚪ en observación — BAWSAQ
 - **Quote:** `4La95NEVJdYK9kr375SfKPXnLA8ef8GtsjfVfW27pump`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 1 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 1 (antes 0, nuevo)
 
 ## Plataformas con ingresos acelerando (DefiLlama)
 
