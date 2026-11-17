@@ -1,8 +1,8 @@
 # ESTUDIO · ¿qué entrada y qué forma de vender dan más 10x–50x cobrados?
-**2026-11-16 22:05 UTC** · fuente: todas las graduadas de pump.fun (PumpSwap)
+**2026-11-17 04:30 UTC** · fuente: todas las graduadas de pump.fun (PumpSwap)
 
-- Monedas revisadas: **55,336 / 206,007** (27%) · con pico ≥ $500k: **11,391**
-- Entradas simuladas: **1,056 monedas** · **100% con < 180 días de datos después** (⚠️ con tanta censura el estudio todavía no puede afirmar nada sobre 50x)
+- Monedas revisadas: **55,426 / 206,007** (27%) · con pico ≥ $500k: **11,408**
+- Entradas simuladas: **1,057 monedas** · **100% con < 180 días de datos después** (⚠️ con tanta censura el estudio todavía no puede afirmar nada sobre 50x)
 
 ## Ranking (EV = lo que multiplicas de media por operación, cobrado con esa regla de venta)
 
@@ -17,11 +17,11 @@
 | 7 | dd85_mc150k_72h_base | escalonada | 134 | 1.82x | 0.75x–2.56x | 0.95x ⚠️ | 0.95x | 1.22x | 1% | 1% | +1136% | -22% |
 | 8 | dd70_mc150k_72h_base | escalonada | 136 | 1.81x | 0.75x–2.54x | 0.95x ⚠️ | 0.95x | 1.22x | 1% | 1% | +1136% | -22% |
 | 9 | TIPO_SOAP_pico200k_dd75_mc50k_72h_base | trailing | 287 | 1.66x | 0.88x–2.25x | 0.95x ⚠️ | 0.95x | 1.19x | 0% | 0% | +2% | -21% |
-| 10 | REF_dd85_mc150k_sin_base | trailing | 476 | 1.46x | 0.82x–1.99x | 1.00x ⚠️ | 0.98x | 1.27x | 0% | 0% | +79% | -27% |
-| 11 | REF_dd70_mc150k_sin_base | trailing | 482 | 1.44x | 0.79x–1.97x | 0.99x ⚠️ | 0.98x | 1.27x | 0% | 0% | -19% | -28% |
+| 10 | REF_dd85_mc150k_sin_base | trailing | 477 | 1.46x | 0.82x–1.98x | 1.00x ⚠️ | 0.98x | 1.27x | 0% | 0% | +60% | -28% |
+| 11 | REF_dd70_mc150k_sin_base | trailing | 483 | 1.44x | 0.79x–1.97x | 0.99x ⚠️ | 0.98x | 1.27x | 0% | 0% | -10% | -28% |
 | 12 | TIPO_SOAP_pico200k_dd75_mc50k_72h_base | escalonada | 287 | 1.39x | 0.90x–1.73x | 0.97x ⚠️ | 0.96x | 1.22x | 0% | 0% | +7% | -18% |
-| 13 | REF_dd85_mc150k_sin_base | escalonada | 476 | 1.29x | 0.87x–1.59x | 1.01x | 0.98x | 1.28x | 0% | 0% | +94% | -23% |
-| 14 | REF_dd70_mc150k_sin_base | escalonada | 482 | 1.28x | 0.79x–1.58x | 1.00x | 0.98x | 1.28x | 0% | 0% | -8% | -23% |
+| 13 | REF_dd85_mc150k_sin_base | escalonada | 477 | 1.29x | 0.87x–1.59x | 1.01x | 0.98x | 1.28x | 0% | 0% | +75% | -23% |
+| 14 | REF_dd70_mc150k_sin_base | escalonada | 483 | 1.28x | 0.79x–1.57x | 1.00x | 0.98x | 1.28x | 0% | 0% | +2% | -23% |
 | 15 | dd70_mc50k_72h_acum | tuya | 18 | 1.06x | 0.70x–1.12x | 0.96x ⚠️ | 0.95x | 1.26x | 0% | 0% | +13% | -3% |
 | 16 | dd70_mc150k_72h_base ⭐ | tuya | 136 | 0.98x | 0.75x–0.99x | 0.96x | 0.95x | 1.27x | 0% | 0% | -6% | -20% |
 
