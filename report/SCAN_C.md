@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-11-19 13:57 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-11-19 17:26 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -9,9 +9,9 @@
 - **Quote:** `TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 14 (antes 4, +250%)
 - **Amplitud (24h):** 14 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 52% del volumen
-- **Token de pago:** MC $90 · volumen 24h $12.08M · liquidez $645.5k
-- **Líder (más volumen):** BJ `BG3U5XcUYZ3MyeCTUTSMd1sgHFAcmeg2Unvvfx1spump` · MC $3.1k · vol 24h $37.9k · 24h -45.76%
-- **Líder (mayor subida 24h):** FAILED `CDMbeCvHyAiypmiqHN6a1N59MeXizQooKfEJMPZzpump` · MC $6.4k · vol 24h $30.8k · 24h 9.28%
+- **Token de pago:** MC $92 · volumen 24h $7.77M · liquidez $543.0k
+- **Líder (más volumen):** BJ `BG3U5XcUYZ3MyeCTUTSMd1sgHFAcmeg2Unvvfx1spump` · MC $3.0k · vol 24h $38.0k · 24h -46.81%
+- **Líder (mayor subida 24h):** FAILED `CDMbeCvHyAiypmiqHN6a1N59MeXizQooKfEJMPZzpump` · MC $6.4k · vol 24h $7.2k · 24h 20.85%
 - **Catalizador:** META ACCELERATION (pools 24h +250%)
 - **Riesgos:** liquidez 0% del MC
 
@@ -61,7 +61,7 @@
 
 ### 🟡 FLYWHEEL ACELERANDO — Render Network BME (DePIN)
 - **Ingresos 7d:** $105.6k · 7d anteriores $49.5k · cambio 2.1×
-- **Ingresos 24h:** $8.5k · 24h anteriores $34.4k · -75% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $8.1k · 24h anteriores $34.4k · -76% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $100.3k
 - **Token:** sin token listado en CoinGecko
 
