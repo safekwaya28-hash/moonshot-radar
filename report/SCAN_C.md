@@ -1,30 +1,25 @@
 # SCAN C — Meta / Flywheel
-**2026-11-19 04:34 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-11-19 08:00 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
-## Metas por token de pago (1 activándose)
+## Metas por token de pago (0 activándose)
 
-### 🟡 META ACTIVÁNDOSE — TTWO
+### ⚪ en observación — TTWO
 - **Quote:** `TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 14 (antes 0, nuevo) · 24h 14 (antes 12, +17%)
-- **Amplitud (24h):** 14 tokens distintos · 0 superan $100k · 0 superan $1M · el mayor = 52% del volumen
-- **Token de pago:** MC $95 · volumen 24h $65.30M · liquidez $769.6k
-- **Líder (más volumen):** FAILED `CDMbeCvHyAiypmiqHN6a1N59MeXizQooKfEJMPZzpump` · MC $5.5k · vol 24h $53.6k · 24h -42.49%
-- **Líder (mayor subida 24h):** GTA6 `85TYuK72Fc25HggnMhY1Hh7GymJDJnfAy3KD4PoKpump` · MC $3.1k · vol 24h $145 · 24h -4.2%
-- **Catalizador:** META ACCELERATION (pools 24h +17%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 14, -100%) · 24h 14 (antes 12, +17%)
 
 ### ⚪ en observación — DCTY
 - **Quote:** `9hjBLBrc7WZW2H8UQvBAvG5WiTZotXUv2Bdcn4f4pump`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 4 (antes 0, nuevo) · 24h 4 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 4, -100%) · 24h 4 (antes 0, nuevo)
 
 ### ⚪ en observación — NTRNDM
 - **Quote:** `NTRNDMqQSiwEC2jJs3wJiZS6bpGYQJtMNQJgiX3WyV6`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 1 (antes 0, nuevo) · 24h 1 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 1 (antes 0, nuevo)
 
 ### ⚪ en observación — SPCXx
 - **Quote:** `Xs3oZwbHvqis4NYcf4YKWmEia2eC84wSiVrcYcTqpH8`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 1 (antes 0, nuevo) · 24h 1 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 1 (antes 0, nuevo)
 
 ### ⚪ en observación — DJT
 - **Quote:** `DJTu7vi8norVzdVAffgvb39VP7wjKeTsgaMBJrzfxvoF`
@@ -60,7 +55,7 @@
 
 ### 🟡 FLYWHEEL ACELERANDO — Render Network BME (DePIN)
 - **Ingresos 7d:** $105.6k · 7d anteriores $49.5k · cambio 2.1×
-- **Ingresos 24h:** $47.5k · 24h anteriores $34.4k · +38% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $40.5k · 24h anteriores $34.4k · +18% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $100.3k
 - **Token:** sin token listado en CoinGecko
 
