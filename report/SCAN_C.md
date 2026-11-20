@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-11-20 20:28 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-11-20 22:51 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -61,7 +61,7 @@
 
 ### 🟡 FLYWHEEL ACELERANDO — Render Network BME (DePIN)
 - **Ingresos 7d:** $106.1k · 7d anteriores $51.6k · cambio 2.1×
-- **Ingresos 24h:** $6.1k · 24h anteriores $47.5k · -87% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $5.7k · 24h anteriores $47.5k · -88% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $100.8k
 - **Token:** sin token listado en CoinGecko
 
