@@ -1,11 +1,13 @@
 # SCAN C — Meta / Flywheel
-**2026-11-21 19:52 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-11-21 21:56 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+
+> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
 ## Metas por token de pago (0 activándose)
 
 ### ⚪ en observación — :3
 - **Quote:** `FSkyjfqB26u6c2GSgpACrjbxp9yQAR8rutxprVNppump`
-- **Pools nuevos:** 1h 7 (antes 0) · 6h 7 (antes 0, nuevo) · 24h 7 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 7 (antes 0, nuevo) · 24h 7 (antes 0, nuevo)
 
 ### ⚪ en observación — TRUMP
 - **Quote:** `6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN`
@@ -13,11 +15,11 @@
 
 ### ⚪ en observación — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 3 (antes 0) · 6h 4 (antes 0, nuevo) · 24h 4 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 4 (antes 0, nuevo) · 24h 4 (antes 0, nuevo)
 
 ### ⚪ en observación — cbBTC
 - **Quote:** `cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij`
-- **Pools nuevos:** 1h 4 (antes 0) · 6h 4 (antes 0, nuevo) · 24h 4 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 4 (antes 0, nuevo) · 24h 4 (antes 0, nuevo)
 
 ### ⚪ en observación — TTWO
 - **Quote:** `TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo`
@@ -33,7 +35,7 @@
 
 ### ⚪ en observación — WISHMAS
 - **Quote:** `9cmXfuC26anZtH9AUWVzpUxU1UJ7PPogYxftYTepump`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 2 (antes 0, nuevo) · 24h 2 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 2 (antes 0, nuevo) · 24h 2 (antes 0, nuevo)
 
 ### ⚪ en observación — banana
 - **Quote:** `2sa5buf3chqMbKUtZGx9GdYLiax9asPHBAsaUZ4vpump`
@@ -53,7 +55,7 @@
 
 ### 🟡 FLYWHEEL ACELERANDO — Render Network BME (DePIN)
 - **Ingresos 7d:** $107.2k · 7d anteriores $27.4k · cambio 3.9×
-- **Ingresos 24h:** $2.8k · 24h anteriores $5.6k · -50% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $2.9k · 24h anteriores $5.6k · -48% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $101.8k
 - **Token:** sin token listado en CoinGecko
 
