@@ -1,23 +1,25 @@
 # SCAN C — Meta / Flywheel
-**2026-11-21 01:47 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-11-21 04:03 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+
+> GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
 ## Metas por token de pago (0 activándose)
 
 ### ⚪ en observación — TTWO
 - **Quote:** `TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo`
-- **Pools nuevos:** 1h 3 (antes 0) · 6h 3 (antes 0, nuevo) · 24h 4 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 3 (antes 0, nuevo) · 24h 4 (antes 0, nuevo)
 
 ### ⚪ en observación — NFLX
 - **Quote:** `NFLX7qV57zuVxCoHy3s1jiGZyALraLNwttbxdvmYJLJ`
-- **Pools nuevos:** 1h 3 (antes 0) · 6h 3 (antes 0, nuevo) · 24h 3 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 3 (antes 0, nuevo) · 24h 3 (antes 0, nuevo)
 
 ### ⚪ en observación — hSOL
 - **Quote:** `he1iusmfkpAdwvxLNGV8Y1iSbj4rUy6yMhEA3fotn9A`
-- **Pools nuevos:** 1h 2 (antes 0) · 6h 2 (antes 0, nuevo) · 24h 2 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 2 (antes 0, nuevo) · 24h 2 (antes 0, nuevo)
 
 ### ⚪ en observación — SPCX
 - **Quote:** `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 0, nuevo) · 24h 1 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 1 (antes 0, nuevo) · 24h 1 (antes 0, nuevo)
 
 ### ⚪ en observación — DJT
 - **Quote:** `DJTu7vi8norVzdVAffgvb39VP7wjKeTsgaMBJrzfxvoF`
@@ -33,28 +35,34 @@
 
 ### ⚪ en observación — SBF
 - **Quote:** `SBFfiiCTiBDdkw6zbFsG7iEe2GJLxkN5h1u55b1mxjY`
-- **Pools nuevos:** 1h 1 (antes 0) · 6h 1 (antes 0, nuevo) · 24h 1 (antes 0, nuevo)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 1 (antes 0, nuevo) · 24h 1 (antes 0, nuevo)
 
-### ⚪ en observación — WBTC
-- **Quote:** `3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh`
+### ⚪ en observación — FUNZ
+- **Quote:** `12XbVdAszAGw6rviPP1P7q3rxhpbUJUcrnZNfP8Qfunz`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 0 (antes 0, —)
 
-### ⚪ en observación — GLDx
-- **Quote:** `Xsv9hRk1z5ystj9MhnA7Lq4vjSsLwzL2nxrwmwtD3re`
+### ⚪ en observación — OPENAI
+- **Quote:** `PreweJYECqtQwBtpxHL171nL2K6umo692gTm7Q3rpgF`
 - **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 0 (antes 0, —)
 
 ## Plataformas con ingresos acelerando (DefiLlama)
 
 ### 🟡 FLYWHEEL ACELERANDO — sendfun Launchpad (Launchpad)
 - **Ingresos 7d:** $191.9k · 7d anteriores $9 · cambio 21680.9×
-- **Ingresos 24h:** $484 · 24h anteriores $484 · +0% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $0 · 24h anteriores $484 · -100% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $191.9k
 - **Token:** sin token listado en CoinGecko
 
 ### 🟡 FLYWHEEL ACELERANDO — Render Network BME (DePIN)
 - **Ingresos 7d:** $107.2k · 7d anteriores $27.4k · cambio 3.9×
-- **Ingresos 24h:** $5.2k · 24h anteriores $5.6k · -7% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $4.3k · 24h anteriores $5.6k · -23% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** $101.8k
+- **Token:** sin token listado en CoinGecko
+
+### 🟡 FLYWHEEL ACELERANDO — OnRe (RWA)
+- **Ingresos 7d:** $53.7k · 7d anteriores $3.5k · cambio 15.4×
+- **Ingresos 24h:** $6.4k · 24h anteriores $3.2k · +97% (¿sigue acelerando hoy?)
+- **A holders (recompras/quemas/repartos) 7d:** —
 - **Token:** sin token listado en CoinGecko
 
 ## Llamadas de Telegram (registro hacia delante)
