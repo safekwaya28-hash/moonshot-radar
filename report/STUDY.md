@@ -1,7 +1,7 @@
 # ESTUDIO · ¿qué entrada y qué forma de vender dan más 10x–50x cobrados?
-**2026-11-24 00:53 UTC** · fuente: todas las graduadas de pump.fun (PumpSwap)
+**2026-11-24 10:57 UTC** · fuente: todas las graduadas de pump.fun (PumpSwap)
 
-- Monedas revisadas: **57,242 / 206,007** (28%) · con pico ≥ $500k: **11,788**
+- Monedas revisadas: **57,324 / 206,007** (28%) · con pico ≥ $500k: **11,806**
 - Entradas simuladas: **1,068 monedas** · **100% con < 180 días de datos después** (⚠️ con tanta censura el estudio todavía no puede afirmar nada sobre 50x)
 
 ## Ranking (EV = lo que multiplicas de media por operación, cobrado con esa regla de venta)
@@ -16,13 +16,13 @@
 | 6 | dd85_mc50k_72h_base | escalonada | 132 | 1.84x | 0.75x–2.59x | 0.96x ⚠️ | 0.95x | 1.23x | 1% | 1% | -19% | -22% |
 | 7 | dd85_mc150k_72h_base | escalonada | 138 | 1.80x | 0.80x–2.51x | 0.95x ⚠️ | 0.95x | 1.22x | 1% | 1% | +1135% | -22% |
 | 8 | dd70_mc150k_72h_base | escalonada | 140 | 1.78x | 0.80x–2.49x | 0.95x ⚠️ | 0.95x | 1.22x | 1% | 1% | +1135% | -22% |
-| 9 | TIPO_SOAP_pico200k_dd75_mc50k_72h_base | trailing | 291 | 1.65x | 0.88x–2.22x | 0.95x ⚠️ | 0.95x | 1.19x | 0% | 0% | +1% | -21% |
-| 10 | REF_dd85_mc150k_sin_base | trailing | 486 | 1.46x | 1.03x–1.96x | 1.00x | 0.98x | 1.27x | 0% | 0% | +94% | -28% |
-| 11 | REF_dd70_mc150k_sin_base | trailing | 492 | 1.44x | 1.01x–1.95x | 0.99x ⚠️ | 0.98x | 1.27x | 0% | 0% | +83% | -29% |
+| 9 | TIPO_SOAP_pico200k_dd75_mc50k_72h_base | trailing | 291 | 1.65x | 0.88x–2.22x | 0.95x ⚠️ | 0.95x | 1.19x | 0% | 0% | +0% | -21% |
+| 10 | REF_dd85_mc150k_sin_base | trailing | 486 | 1.46x | 1.03x–1.96x | 1.00x | 0.98x | 1.27x | 0% | 0% | +93% | -28% |
+| 11 | REF_dd70_mc150k_sin_base | trailing | 492 | 1.44x | 1.01x–1.95x | 0.99x ⚠️ | 0.98x | 1.27x | 0% | 0% | +71% | -31% |
 | 12 | TIPO_SOAP_pico200k_dd75_mc50k_72h_base | escalonada | 291 | 1.38x | 0.90x–1.72x | 0.97x ⚠️ | 0.96x | 1.21x | 0% | 0% | +5% | -18% |
-| 13 | REF_dd85_mc150k_sin_base | escalonada | 486 | 1.29x | 1.04x–1.59x | 1.02x | 0.98x | 1.28x | 0% | 0% | +114% | -23% |
-| 14 | REF_dd70_mc150k_sin_base | escalonada | 492 | 1.28x | 1.03x–1.58x | 1.01x | 0.98x | 1.28x | 0% | 0% | +95% | -22% |
-| 15 | REF_dd85_mc150k_sin_base | tuya | 486 | 1.04x | 1.03x–1.24x | 1.02x | 0.98x | 1.31x | 0% | 0% | +80% | -18% |
+| 13 | REF_dd85_mc150k_sin_base | escalonada | 486 | 1.29x | 1.04x–1.59x | 1.02x | 0.98x | 1.28x | 0% | 0% | +113% | -23% |
+| 14 | REF_dd70_mc150k_sin_base | escalonada | 492 | 1.28x | 1.03x–1.58x | 1.01x | 0.98x | 1.28x | 0% | 0% | +84% | -24% |
+| 15 | REF_dd85_mc150k_sin_base | tuya | 486 | 1.04x | 1.03x–1.24x | 1.02x | 0.98x | 1.31x | 0% | 0% | +79% | -18% |
 | 16 | dd70_mc150k_72h_base ⭐ | tuya | 140 | 0.98x | 0.80x–0.98x | 0.96x | 0.95x | 1.23x | 0% | 0% | -7% | -20% |
 
 ⭐ = tus reglas actuales. ⚠️ = el EV pasa de ganar a perder quitando las 3 mejores: es suerte, no estrategia.
