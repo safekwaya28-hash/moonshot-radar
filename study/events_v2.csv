@@ -23474,3 +23474,13 @@ vcdrpzteorE1GytNRZPNLHpoX8ekC4nMjekpinnpump,REF_dd85_mc150k_sin_base,solo_stop,1
 vcdrpzteorE1GytNRZPNLHpoX8ekC4nMjekpinnpump,REF_dd85_mc150k_sin_base,trailing,1790571600,2109,58.8,1.0,1.0,False,0,1.0,0
 vcdrpzteorE1GytNRZPNLHpoX8ekC4nMjekpinnpump,REF_dd85_mc150k_sin_base,escalonada,1790571600,2109,58.8,1.0,1.0,False,0,1.0,0
 vcdrpzteorE1GytNRZPNLHpoX8ekC4nMjekpinnpump,REF_dd85_mc150k_sin_base,estructura,1790571600,2109,58.8,1.0,1.0,False,0,1.0,0
+RFH6Crn4136CzR8q4JKvkzXmqCkeTp6cPM2mmevpump,REF_dd70_mc150k_sin_base,tuya,1791122400,3566,53.5,3.267,1.342,True,41,3.267,10
+RFH6Crn4136CzR8q4JKvkzXmqCkeTp6cPM2mmevpump,REF_dd70_mc150k_sin_base,solo_stop,1791122400,3566,53.5,3.267,0.513,True,41,3.267,10
+RFH6Crn4136CzR8q4JKvkzXmqCkeTp6cPM2mmevpump,REF_dd70_mc150k_sin_base,trailing,1791122400,3566,53.5,3.267,0.513,True,41,3.267,10
+RFH6Crn4136CzR8q4JKvkzXmqCkeTp6cPM2mmevpump,REF_dd70_mc150k_sin_base,escalonada,1791122400,3566,53.5,3.267,0.886,True,41,3.267,10
+RFH6Crn4136CzR8q4JKvkzXmqCkeTp6cPM2mmevpump,REF_dd70_mc150k_sin_base,estructura,1791122400,3566,53.5,3.267,0.4682,False,48,3.267,10
+RFH6Crn4136CzR8q4JKvkzXmqCkeTp6cPM2mmevpump,REF_dd85_mc150k_sin_base,tuya,1791122400,3566,53.5,3.267,1.342,True,41,3.267,10
+RFH6Crn4136CzR8q4JKvkzXmqCkeTp6cPM2mmevpump,REF_dd85_mc150k_sin_base,solo_stop,1791122400,3566,53.5,3.267,0.513,True,41,3.267,10
+RFH6Crn4136CzR8q4JKvkzXmqCkeTp6cPM2mmevpump,REF_dd85_mc150k_sin_base,trailing,1791122400,3566,53.5,3.267,0.513,True,41,3.267,10
+RFH6Crn4136CzR8q4JKvkzXmqCkeTp6cPM2mmevpump,REF_dd85_mc150k_sin_base,escalonada,1791122400,3566,53.5,3.267,0.886,True,41,3.267,10
+RFH6Crn4136CzR8q4JKvkzXmqCkeTp6cPM2mmevpump,REF_dd85_mc150k_sin_base,estructura,1791122400,3566,53.5,3.267,0.4682,False,48,3.267,10
