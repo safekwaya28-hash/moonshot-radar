@@ -1,5 +1,5 @@
 # SCAN C — Meta / Flywheel
-**2026-11-28 01:41 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
+**2026-11-28 05:01 UTC** · cambios estructurales de días/semanas · nunca es orden de compra: la entrada la decides tú
 
 > GeckoTerminal no disponible: no responde: https://api.geckoterminal.com/api/v2/networks/solana/new_pools
 
@@ -7,15 +7,15 @@
 
 ### ⚪ en observación — ZEC
 - **Quote:** `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 2, -100%) · 24h 2 (antes 0, nuevo)
-
-### ⚪ en observación — hSOL
-- **Quote:** `he1iusmfkpAdwvxLNGV8Y1iSbj4rUy6yMhEA3fotn9A`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 1 (antes 1, +0%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 2 (antes 0, nuevo)
 
 ### ⚪ en observación — PUMP
 - **Quote:** `pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn`
-- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 1 (antes 4, -75%)
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 1, -100%) · 24h 1 (antes 1, +0%)
+
+### ⚪ en observación — hSOL
+- **Quote:** `he1iusmfkpAdwvxLNGV8Y1iSbj4rUy6yMhEA3fotn9A`
+- **Pools nuevos:** 1h 0 (antes 0) · 6h 0 (antes 0, —) · 24h 1 (antes 1, +0%)
 
 ### ⚪ en observación — ANT
 - **Quote:** `ANTBTZQ1EUuTxUs3tfeampxdqTWPHmwyJmcWj4xoAyNe`
@@ -49,7 +49,7 @@
 
 ### 🟡 FLYWHEEL ACELERANDO — Exponent Yield Exchange (Yield)
 - **Ingresos 7d:** $85.1k · 7d anteriores $4.5k · cambio 19.0×
-- **Ingresos 24h:** $334 · 24h anteriores $6.4k · -95% (¿sigue acelerando hoy?)
+- **Ingresos 24h:** $512 · 24h anteriores $6.4k · -92% (¿sigue acelerando hoy?)
 - **A holders (recompras/quemas/repartos) 7d:** —
 - **Token:** sin token listado en CoinGecko
 
